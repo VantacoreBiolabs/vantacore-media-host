@@ -1,0 +1,54 @@
+{
+  "brand": "Vantacore Biolabs",
+  "publishing": {
+    "daily_posts": "3–4",
+    "default_schedule_timezone": "America/Los_Angeles",
+    "unique_content_only": true,
+    "fixed_hashtag": "#VantacoreBiolabs",
+    "hashtag_count_per_post": 5,
+    "rotate_other_four_by_topic": true
+  },
+  "policy": {
+    "purpose": "Educational content designed to inform, build trust, and grow the community.",
+    "avoid": [
+      "duplicate topics",
+      "dosing instructions",
+      "medical or treatment claims",
+      "before-and-after claims",
+      "pricing or direct sales language",
+      "promises of results"
+    ],
+    "rotation": [
+      "Peptide of the Day",
+      "Mechanism or comparison",
+      "Myth vs Fact",
+      "Research literacy",
+      "Safety and storage",
+      "Stack education",
+      "FAQ",
+      "Community engagement"
+    ]
+  },
+  "posts": [
+    {
+      "id": "001",
+      "date": "2026-09-22",
+      "format": "Peptide of the Day",
+      "topic": "MOTS-c",
+      "focus": [
+        "cellular energy signaling",
+        "metabolic health research",
+        "exercise-response pathways"
+      ],
+      "asset": "media/001-mots-c-peptide-of-the-day.jpg",
+      "caption": "captions/001-mots-c-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideEducation",
+        "#MOTSc",
+        "#Mitochondria",
+        "#ScienceEducation"
+      ]
+    }
+  ]
+}

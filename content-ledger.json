@@ -141,6 +141,33 @@
         "#SampleIntegrity",
         "#ScienceEducation"
       ]
+    },
+    {
+      "id": "006",
+      "date": "2026-09-24",
+      "format": "Peptide of the Day",
+      "topic": "KPV",
+      "focus": [
+        "lysine proline valine tripeptide",
+        "C-terminal three-amino-acid fragment of alpha-MSH",
+        "preclinical inflammatory-signaling research",
+        "PepT1-mediated transport in immune and intestinal epithelial cells",
+        "mouse chemically induced colitis models",
+        "human safety effectiveness and dosing not established"
+      ],
+      "asset": "media/006-kpv-peptide-of-the-day.jpg",
+      "caption": "captions/006-kpv-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#KPVPeptide",
+        "#PeptideResearch",
+        "#GutResearch",
+        "#PreclinicalScience"
+      ],
+      "evidence": [
+        "Dalmasso et al., Gastroenterology (2008), PMID 18061177",
+        "Luger and Brzoska, Experimental Dermatology (2007), PMID 17934097"
+      ]
     }
   ]
 }

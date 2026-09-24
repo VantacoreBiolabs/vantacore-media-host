@@ -119,6 +119,28 @@
         "#ScienceExplained",
         "#ResearchEducation"
       ]
+    },
+    {
+      "id": "005",
+      "date": "2026-09-23",
+      "format": "Myth vs Fact / Safety and storage",
+      "topic": "Why freeze-thaw cycles can matter",
+      "focus": [
+        "repeated warming and cooling may promote condensation aggregation or degradation",
+        "storage rules vary by formulation physical state container light exposure and validated handling conditions",
+        "minimize unnecessary temperature cycling",
+        "record storage conditions and handling events",
+        "storage is part of research data quality"
+      ],
+      "asset": "media/005-freeze-thaw-storage-myth-fact.jpg",
+      "caption": "captions/005-freeze-thaw-storage-myth-fact.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ResearchStorage",
+        "#LabSafety",
+        "#SampleIntegrity",
+        "#ScienceEducation"
+      ]
     }
   ]
 }

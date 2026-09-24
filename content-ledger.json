@@ -168,6 +168,31 @@
         "Dalmasso et al., Gastroenterology (2008), PMID 18061177",
         "Luger and Brzoska, Experimental Dermatology (2007), PMID 17934097"
       ]
+    },
+    {
+      "id": "007",
+      "date": "2026-09-24",
+      "format": "Research literacy",
+      "topic": "What statistically significant does and does not mean",
+      "focus": [
+        "p-values do not measure effect size or practical importance",
+        "statistical significance does not prove a hypothesis true",
+        "check effect size",
+        "examine confidence interval width and uncertainty",
+        "look for replication and study-design context"
+      ],
+      "asset": "media/007-statistical-significance-research-literacy.jpg",
+      "caption": "captions/007-statistical-significance-research-literacy.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StatisticalSignificance",
+        "#ResearchMethods",
+        "#DataLiteracy",
+        "#EvidenceBased"
+      ],
+      "evidence": [
+        "Wasserstein and Lazar, The American Statistician (2016), DOI 10.1080/00031305.2016.1154108"
+      ]
     }
   ]
 }

@@ -193,6 +193,34 @@
       "evidence": [
         "Wasserstein and Lazar, The American Statistician (2016), DOI 10.1080/00031305.2016.1154108"
       ]
+    },
+    {
+      "id": "008",
+      "date": "2026-09-24",
+      "format": "Mechanism or comparison",
+      "topic": "GH pathway comparison: tesamorelin, sermorelin, CJC-1295, ipamorelin and HGH",
+      "focus": [
+        "tesamorelin is a modified GHRH analog that signals the pituitary",
+        "sermorelin is GHRH(1-29) and signals the pituitary",
+        "CJC-1295 is a longer-acting investigational GHRH analog",
+        "ipamorelin is a ghrelin-receptor GHSR agonist",
+        "HGH or somatropin is direct exogenous growth hormone",
+        "no universal best; diagnosis evidence regulatory status monitoring and individual risk matter"
+      ],
+      "asset": "media/008-gh-pathway-comparison.jpg",
+      "caption": "captions/008-gh-pathway-comparison.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#GrowthHormonePathway",
+        "#PeptideComparison",
+        "#EndocrineEducation",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "Teichman et al., Journal of Clinical Endocrinology & Metabolism (2006), PMID 16352683",
+        "Makimura et al., Journal of Clinical Endocrinology & Metabolism (2012), PMCID PMC3513535",
+        "Sigalos and Pastuszak, Translational Andrology and Urology (2017), PMCID PMC5632578"
+      ]
     }
   ]
 }

@@ -248,6 +248,34 @@
         "Wang et al., Therapeutic peptides: current applications and future directions (2022), PMCID PMC8844085",
         "NIH SEED Regulatory Knowledge Guide for Small Molecules (2024)"
       ]
+    },
+    {
+      "id": "010",
+      "date": "2026-09-25",
+      "format": "Peptide of the Day",
+      "topic": "ARA-290 (cibinetide)",
+      "focus": [
+        "investigational 11-amino-acid peptide engineered from the helix-B surface of erythropoietin",
+        "selective research targeting of the EPOR and CD131 innate repair receptor complex",
+        "designed to separate tissue-protective signaling from classical erythropoietic signaling",
+        "small short-duration human trials in sarcoidosis-associated small-fiber neuropathy and type 2 diabetes neuropathic symptoms",
+        "early research signals do not establish approval long-term safety or clinical effectiveness"
+      ],
+      "asset": "media/010-ara-290-peptide-of-the-day.jpg",
+      "caption": "captions/010-ara-290-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ARA290",
+        "#Cibinetide",
+        "#NeuroscienceResearch",
+        "#ClinicalResearch"
+      ],
+      "evidence": [
+        "Heij et al., Molecular Medicine (2012), PMID 23168581",
+        "Dahan et al., Molecular Medicine (2013), PMID 24136731",
+        "Brines et al., Molecular Medicine (2015), DOI 10.2119/molmed.2014.00215",
+        "Culver et al., Investigative Ophthalmology & Visual Science (2017), PMID 28475703"
+      ]
     }
   ]
 }

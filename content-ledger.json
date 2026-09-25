@@ -221,6 +221,33 @@
         "Makimura et al., Journal of Clinical Endocrinology & Metabolism (2012), PMCID PMC3513535",
         "Sigalos and Pastuszak, Translational Andrology and Urology (2017), PMCID PMC5632578"
       ]
+    },
+    {
+      "id": "009",
+      "date": "2026-09-24",
+      "format": "FAQ / Research literacy",
+      "topic": "Peptide vs protein vs small molecule",
+      "focus": [
+        "peptides are relatively short amino-acid chains linked by peptide bonds",
+        "FDA uses 40 or fewer amino acids as one regulatory peptide threshold",
+        "proteins are longer complex amino-acid chains whose folding can determine function",
+        "small molecules are compact chemical compounds rather than amino-acid chains",
+        "classification alone does not establish quality safety effectiveness approval or strength of evidence"
+      ],
+      "asset": "media/009-peptide-protein-small-molecule-faq.jpg",
+      "caption": "captions/009-peptide-protein-small-molecule-faq.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MolecularScience",
+        "#PeptideBasics",
+        "#DrugDiscovery",
+        "#ScienceFAQ"
+      ],
+      "evidence": [
+        "FDA CDER MAPP 5016.3 Rev. 1 (2023): peptide and protein drug-substance quality-assessment threshold",
+        "Wang et al., Therapeutic peptides: current applications and future directions (2022), PMCID PMC8844085",
+        "NIH SEED Regulatory Knowledge Guide for Small Molecules (2024)"
+      ]
     }
   ]
 }

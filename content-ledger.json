@@ -276,6 +276,32 @@
         "Brines et al., Molecular Medicine (2015), DOI 10.2119/molmed.2014.00215",
         "Culver et al., Investigative Ophthalmology & Visual Science (2017), PMID 28475703"
       ]
+    },
+    {
+      "id": "011",
+      "date": "2026-09-25",
+      "format": "Community engagement / Research literacy",
+      "topic": "Which study design can test human effectiveness most directly?",
+      "focus": [
+        "cell studies investigate mechanisms in controlled laboratory systems",
+        "animal studies explore whole-body biology before human trials but may not translate directly",
+        "observational human studies identify associations without random assignment",
+        "well-designed randomized controlled human trials can reduce bias and test causal effects most directly",
+        "sample size controls outcomes missing data replication and relevance still determine confidence"
+      ],
+      "asset": "media/011-study-design-evidence-challenge.jpg",
+      "caption": "captions/011-study-design-evidence-challenge.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StudyDesign",
+        "#ClinicalTrials",
+        "#EvidenceHierarchy",
+        "#ScienceChallenge"
+      ],
+      "evidence": [
+        "Hariton and Locascio, BJOG (2018), PMCID PMC6235704",
+        "FDA Draft Guidance: Integrating Randomized Controlled Trials into Routine Clinical Practice (September 2024)"
+      ]
     }
   ]
 }

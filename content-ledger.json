@@ -387,6 +387,38 @@
         "FDA Patient-Focused Drug Development Glossary (updated March 5, 2026)",
         "Fleming and Powers, Health Affairs (2012), PMCID PMC3551627"
       ]
+    },
+    {
+      "id": "015",
+      "date": "2026-09-26",
+      "format": "Mechanism or comparison",
+      "topic": "Semax versus Selank: origins, pathways and evidence limits",
+      "focus": [
+        "Semax is an ACTH(4-7)-based heptapeptide with a Pro-Gly-Pro extension",
+        "preclinical Semax research examines neurotrophin signaling gene expression neural plasticity and inflammatory pathways",
+        "Selank is a tuftsin-derived heptapeptide analog",
+        "preclinical Selank research examines GABAergic neurotransmission gene expression and immune pathways",
+        "different pathways do not establish synergy or added benefit from combining compounds",
+        "controlled human comparison interaction and long-term safety evidence is limited",
+        "FDA has identified compounding safety concerns for Selank and is evaluating Semax-related bulk substances"
+      ],
+      "asset": "media/015-semax-vs-selank-mechanism-comparison.jpg",
+      "caption": "captions/015-semax-vs-selank-mechanism-comparison.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SemaxResearch",
+        "#SelankResearch",
+        "#NeuroscienceEducation",
+        "#PeptideComparison"
+      ],
+      "evidence": [
+        "Dolotov et al., Journal of Neurochemistry (2006), PMID 16635254",
+        "Medvedeva et al., BMC Genomics (2014), PMCID PMC3987924",
+        "Volkova et al., Frontiers in Pharmacology (2016), PMID 26924987",
+        "Vyunova et al., Current Protein and Peptide Science (2018), PMID 30255741",
+        "FDA: Certain Bulk Drug Substances for Use in Compounding That May Present Significant Safety Risks",
+        "FDA Pharmacy Compounding Advisory Committee meeting materials, July 23–24, 2026"
+      ]
     }
   ]
 }

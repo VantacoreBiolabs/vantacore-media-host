@@ -302,6 +302,34 @@
         "Hariton and Locascio, BJOG (2018), PMCID PMC6235704",
         "FDA Draft Guidance: Integrating Randomized Controlled Trials into Routine Clinical Practice (September 2024)"
       ]
+    },
+    {
+      "id": "012",
+      "date": "2026-09-25",
+      "format": "Safety and storage / FAQ",
+      "topic": "Reconstitution safety checklist without dosing or administration",
+      "focus": [
+        "no universal diluent volume mixing method or storage rule",
+        "verify diluent identity and compatibility against compound-specific documentation",
+        "aseptic preparation matters because contamination may be invisible",
+        "agitation light temperature and time can affect material stability",
+        "unexpected particles cloudiness or color require investigation",
+        "record reconstitution date time storage and handling history",
+        "reconstitution does not prove identity purity sterility concentration accuracy or approval"
+      ],
+      "asset": "media/012-reconstitution-safety-checklist.jpg",
+      "caption": "captions/012-reconstitution-safety-checklist.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReconstitutionSafety",
+        "#AsepticTechnique",
+        "#SampleIntegrity",
+        "#LabEducation"
+      ],
+      "evidence": [
+        "CDC Clinical Safety: Preventing Unsafe Injection Practices",
+        "USP General Chapter <797>: Pharmaceutical Compounding—Sterile Preparations"
+      ]
     }
   ]
 }

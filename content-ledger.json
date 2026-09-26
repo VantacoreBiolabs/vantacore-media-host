@@ -359,6 +359,34 @@
         "Ramos et al., Peptides (2011), PMID 21693141",
         "FDA: Certain Bulk Drug Substances for Use in Compounding That May Present Significant Safety Risks"
       ]
+    },
+    {
+      "id": "014",
+      "date": "2026-09-26",
+      "format": "Research literacy",
+      "topic": "Surrogate endpoint versus clinical outcome",
+      "focus": [
+        "surrogate endpoints substitute for direct measures of how a person feels functions or survives",
+        "examples include laboratory measurements scans biomarkers and physical signs",
+        "clinical outcomes directly measure meaningful patient benefit",
+        "surrogate validation is specific to disease intervention and context",
+        "marker change alone does not automatically prove clinical benefit",
+        "readers should check validation effect size direct outcomes follow-up and safety"
+      ],
+      "asset": "media/014-surrogate-endpoint-vs-clinical-outcome.jpg",
+      "caption": "captions/014-surrogate-endpoint-vs-clinical-outcome.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SurrogateEndpoint",
+        "#ClinicalResearch",
+        "#EvidenceLiteracy",
+        "#ResearchMethods"
+      ],
+      "evidence": [
+        "FDA Surrogate Endpoint Resources for Drug and Biologic Development",
+        "FDA Patient-Focused Drug Development Glossary (updated March 5, 2026)",
+        "Fleming and Powers, Health Affairs (2012), PMCID PMC3551627"
+      ]
     }
   ]
 }

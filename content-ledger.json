@@ -330,6 +330,35 @@
         "CDC Clinical Safety: Preventing Unsafe Injection Practices",
         "USP General Chapter <797>: Pharmaceutical Compounding—Sterile Preparations"
       ]
+    },
+    {
+      "id": "013",
+      "date": "2026-09-26",
+      "format": "Peptide of the Day",
+      "topic": "LL-37",
+      "focus": [
+        "naturally occurring 37-amino-acid human cathelicidin host-defense peptide",
+        "released from the hCAP18 precursor at epithelial barriers and in immune cells",
+        "amphipathic cationic helix and laboratory membrane-interaction research",
+        "chemotaxis inflammatory signaling and immune-cell communication",
+        "preclinical epithelial migration angiogenesis and wound-response pathways",
+        "context-dependent biology that can be protective or pro-inflammatory",
+        "FDA cites insufficient safety information and potential compounding safety risks"
+      ],
+      "asset": "media/013-ll-37-peptide-of-the-day.jpg",
+      "caption": "captions/013-ll-37-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LL37",
+        "#HostDefensePeptides",
+        "#InnateImmunity",
+        "#PreclinicalResearch"
+      ],
+      "evidence": [
+        "Dürr et al., Biochimica et Biophysica Acta (2006), PMID 16716248",
+        "Ramos et al., Peptides (2011), PMID 21693141",
+        "FDA: Certain Bulk Drug Substances for Use in Compounding That May Present Significant Safety Risks"
+      ]
     }
   ]
 }

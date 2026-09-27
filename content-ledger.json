@@ -419,6 +419,34 @@
         "FDA: Certain Bulk Drug Substances for Use in Compounding That May Present Significant Safety Risks",
         "FDA Pharmacy Compounding Advisory Committee meeting materials, July 23–24, 2026"
       ]
+    },
+    {
+      "id": "016",
+      "date": "2026-09-26",
+      "format": "Research literacy / FAQ",
+      "topic": "Why blinding matters in research",
+      "focus": [
+        "knowledge of assignment can influence expectations behavior care decisions and outcome assessment",
+        "open-label studies disclose assignment to participants and researchers",
+        "participant blinding can reduce expectation-related reporting and behavior differences",
+        "assessor blinding can reduce bias in outcome measurement and interpretation",
+        "double-blind is ambiguous unless authors specify exactly who was blinded",
+        "blinding cannot repair weak randomization missing data selective reporting poor outcomes or small samples"
+      ],
+      "asset": "media/016-why-blinding-matters.jpg",
+      "caption": "captions/016-why-blinding-matters.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrialDesign",
+        "#Blinding",
+        "#BiasReduction",
+        "#ResearchEducation"
+      ],
+      "evidence": [
+        "Monaghan et al., Contemporary Clinical Trials Communications (2021), PMCID PMC8308085",
+        "FDA: Considerations for Open-Label Clinical Trials",
+        "ICH E10: Choice of Control Group and Related Issues in Clinical Trials"
+      ]
     }
   ]
 }

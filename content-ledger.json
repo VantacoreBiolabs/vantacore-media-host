@@ -475,6 +475,34 @@
         "Romani et al., Annals of the New York Academy of Sciences (2007), PMID 17495242",
         "FDA: Certain Bulk Drug Substances for Use in Compounding That May Present Significant Safety Risks"
       ]
+    },
+    {
+      "id": "018",
+      "date": "2026-09-27",
+      "format": "Myth vs Fact / Mechanism",
+      "topic": "Receptor selectivity means preference, not exclusivity",
+      "focus": [
+        "selective does not mean a compound interacts with only one biological target",
+        "selectivity describes relative preference rather than absolute exclusivity",
+        "affinity describes how strongly a compound binds a target",
+        "changing exposure can change which target interactions become relevant",
+        "receptor abundance tissue timing metabolism and experimental model affect observed pharmacology",
+        "selective mechanisms do not automatically establish freedom from side effects effectiveness or safety",
+        "secondary pharmacology helps investigate interactions beyond the intended target"
+      ],
+      "asset": "media/018-receptor-selectivity-myth-vs-fact.jpg",
+      "caption": "captions/018-receptor-selectivity-myth-vs-fact.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReceptorScience",
+        "#PharmacologyEducation",
+        "#MechanismMatters",
+        "#ScienceMyth"
+      ],
+      "evidence": [
+        "FDA: Translational Value of Secondary Pharmacology Assays with Nonclinical and Clinical Findings (2023)",
+        "FDA E19: A Selective Approach to Safety Data Collection in Specific Late-Stage Pre-Approval or Post-Approval Clinical Trials"
+      ]
     }
   ]
 }

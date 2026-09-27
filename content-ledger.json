@@ -503,6 +503,34 @@
         "FDA: Translational Value of Secondary Pharmacology Assays with Nonclinical and Clinical Findings (2023)",
         "FDA E19: A Selective Approach to Safety Data Collection in Specific Late-Stage Pre-Approval or Post-Approval Clinical Trials"
       ]
+    },
+    {
+      "id": "019",
+      "date": "2026-09-27",
+      "format": "Safety and storage",
+      "topic": "How light exposure can affect sample stability",
+      "focus": [
+        "light exposure can trigger chemical changes in photosensitive materials",
+        "ultraviolet and visible wavelengths can affect materials differently",
+        "intensity and duration jointly influence exposure",
+        "formulation and physical state can change photostability",
+        "clear amber and opaque packaging provide different levels of protection",
+        "amber glass is not a universal guarantee of stability",
+        "normal appearance does not prove a light-exposed sample remains stable"
+      ],
+      "asset": "media/019-light-exposure-sample-stability.jpg",
+      "caption": "captions/019-light-exposure-sample-stability.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Photostability",
+        "#ResearchStorage",
+        "#SampleQuality",
+        "#LaboratoryScience"
+      ],
+      "evidence": [
+        "ICH Q1B: Photostability Testing of New Drug Substances and Products",
+        "FDA Draft Guidance: Q1 Stability Testing of Drug Substances and Drug Products (June 2025)"
+      ]
     }
   ]
 }

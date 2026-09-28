@@ -531,6 +531,35 @@
         "ICH Q1B: Photostability Testing of New Drug Substances and Products",
         "FDA Draft Guidance: Q1 Stability Testing of Drug Substances and Drug Products (June 2025)"
       ]
+    },
+    {
+      "id": "020",
+      "date": "2026-09-27",
+      "format": "Mechanism or comparison",
+      "topic": "Agonist versus partial agonist versus antagonist",
+      "focus": [
+        "binding alone does not determine receptor activation",
+        "agonists bind and activate receptors to produce a response",
+        "partial agonists produce a lower maximum response than a full agonist in the same experimental system",
+        "antagonists bind without activating and can reduce agonist access",
+        "receptor abundance coupling tissue and measured pathway can change the observed response",
+        "a ligand may behave as a full agonist in one system and a partial agonist in another",
+        "partial does not automatically mean weak ineffective or safer"
+      ],
+      "asset": "media/020-agonist-partial-agonist-antagonist.jpg",
+      "caption": "captions/020-agonist-partial-agonist-antagonist.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReceptorPharmacology",
+        "#Agonist",
+        "#DrugMechanisms",
+        "#ScienceExplained"
+      ],
+      "evidence": [
+        "Kenakin, Overview of receptor interactions of agonists and antagonists (2008), PMID 22294222",
+        "Berg and Clarke, Making Sense of Pharmacology: Inverse Agonism and Functional Selectivity (2018), PMCID PMC6165953",
+        "NCBI Bookshelf: Pharmacodynamics (updated 2023)"
+      ]
     }
   ]
 }

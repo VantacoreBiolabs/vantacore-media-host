@@ -616,6 +616,34 @@
         "Andrade, Relative risk versus absolute risk: one cannot be interpreted without the other (2017), PMID 28339913",
         "Ranganathan et al., Foundational Statistical Principles in Medical Research (2021), PMCID PMC8198228"
       ]
+    },
+    {
+      "id": "023",
+      "date": "2026-09-28",
+      "format": "Safety and storage",
+      "topic": "How pH can influence peptide and protein sample stability",
+      "focus": [
+        "pH can influence molecular charge and solubility",
+        "pH can influence conformation aggregation and chemical degradation pathways",
+        "neutral pH is not universally optimal",
+        "appropriate pH is specific to the molecule formulation concentration excipients temperature and time",
+        "unexpected appearance changes require investigation but normal appearance does not prove stability",
+        "validated analytical testing rather than visual inspection determines whether a sample remains within specification"
+      ],
+      "asset": "media/023-ph-and-sample-stability.jpg",
+      "caption": "captions/023-ph-and-sample-stability.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SampleStability",
+        "#pHScience",
+        "#FormulationScience",
+        "#LabQuality"
+      ],
+      "evidence": [
+        "Nugrahadi et al., Designing Formulation Strategies for Enhanced Stability of Therapeutic Peptides in Aqueous Solutions (2023), PMCID PMC10056213",
+        "Zapadka et al., Factors affecting the physical stability of peptide therapeutics (2017), PMCID PMC5665799",
+        "FDA/ICH Q5C: Quality of Biotechnological Products—Stability Testing of Biotechnological/Biological Products"
+      ]
     }
   ]
 }

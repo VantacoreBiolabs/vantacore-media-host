@@ -729,6 +729,35 @@
         "National Academies of Sciences Engineering and Medicine, Reproducibility and Replicability in Science (2019), NCBI Bookshelf NBK547531",
         "NIH, Strengthening Replication and Reproducibility of NIH-funded Research (2026)"
       ]
+    },
+    {
+      "id": "027",
+      "date": "2026-09-29",
+      "format": "Safety and storage",
+      "topic": "Humidity as a stability variable",
+      "focus": [
+        "moisture exposure as a stability factor distinct from temperature and light",
+        "humidity may influence hydrolysis and other chemical degradation pathways",
+        "moisture may affect crystallinity aggregation clumping and physical form",
+        "container-closure system and moisture-barrier performance matter",
+        "dry appearance does not prove a material is moisture-free or stable",
+        "ICH stability guidance evaluates temperature and humidity under defined conditions",
+        "no universal humidity rule across all materials formulations and packaging"
+      ],
+      "asset": "media/027-humidity-stability-variable.jpg",
+      "caption": "captions/027-humidity-stability-variable.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#HumidityControl",
+        "#StabilityScience",
+        "#PackagingIntegrity",
+        "#MoistureProtection"
+      ],
+      "evidence": [
+        "FDA/ICH Q1A(R2): Stability Testing of New Drug Substances and Products",
+        "FDA Draft Guidance: Q1 Stability Testing of Drug Substances and Drug Products (June 2025)",
+        "FDA Guidance: Container and Closure System Integrity Testing"
+      ]
     }
   ]
 }

@@ -644,6 +644,34 @@
         "Zapadka et al., Factors affecting the physical stability of peptide therapeutics (2017), PMCID PMC5665799",
         "FDA/ICH Q5C: Quality of Biotechnological Products—Stability Testing of Biotechnological/Biological Products"
       ]
+    },
+    {
+      "id": "024",
+      "date": "2026-09-28",
+      "format": "Myth vs Fact / Community engagement",
+      "topic": "Association versus causation",
+      "focus": [
+        "association identifies a relationship but does not establish cause and effect by itself",
+        "confounding can create or distort an observed association",
+        "reverse causation can invert the proposed direction of effect",
+        "bias chance measurement and selection can offer alternative explanations",
+        "causal confidence grows through appropriate timing controls design consistency replication and biological plausibility",
+        "associations can generate hypotheses even when causation is not established"
+      ],
+      "asset": "media/024-association-vs-causation.jpg",
+      "caption": "captions/024-association-vs-causation.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#CausalInference",
+        "#CorrelationVsCausation",
+        "#ResearchMethods",
+        "#CriticalThinking"
+      ],
+      "evidence": [
+        "CDC Field Epidemiology Manual: Analyzing and Interpreting Data (updated 2025)",
+        "Hernán, Estimating causal effects from epidemiological data (2006), PMID 16790829",
+        "Fedak et al., Association and causation in epidemiology (2015), PMCID PMC4291331"
+      ]
     }
   ]
 }

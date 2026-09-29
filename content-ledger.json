@@ -672,6 +672,35 @@
         "Hernán, Estimating causal effects from epidemiological data (2006), PMID 16790829",
         "Fedak et al., Association and causation in epidemiology (2015), PMCID PMC4291331"
       ]
+    },
+    {
+      "id": "025",
+      "date": "2026-09-29",
+      "format": "Peptide of the Day",
+      "topic": "Elamipretide (SS-31)",
+      "focus": [
+        "synthetic mitochondria-targeting tetrapeptide",
+        "interaction with cardiolipin on the inner mitochondrial membrane",
+        "research on cristae structure electron transport and cellular energy biology",
+        "FDA accelerated approval on September 19 2025 for Barth syndrome patients weighing at least 30 kg",
+        "approval based on knee-extensor muscle-strength surrogate endpoint reasonably likely to predict patient benefit",
+        "confirmatory randomized double-blind placebo-controlled post-approval trial required",
+        "narrow approval does not validate general wellness performance anti-aging or mitochondrial optimization claims"
+      ],
+      "asset": "media/025-elamipretide-ss31-peptide-of-the-day.jpg",
+      "caption": "captions/025-elamipretide-ss31-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Elamipretide",
+        "#SS31",
+        "#MitochondrialScience",
+        "#BarthSyndrome"
+      ],
+      "evidence": [
+        "FDA, FDA Grants Accelerated Approval to First Treatment for Barth Syndrome (September 19, 2025)",
+        "Birk et al., SS-31 Re-Energizes Ischemic Mitochondria by Interacting with Cardiolipin (2013), PMID 23813215, PMCID PMC3736700",
+        "Elamipretide: First Approval (2025), PMID 41335372"
+      ]
     }
   ]
 }

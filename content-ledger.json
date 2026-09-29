@@ -701,6 +701,34 @@
         "Birk et al., SS-31 Re-Energizes Ischemic Mitochondria by Interacting with Cardiolipin (2013), PMID 23813215, PMCID PMC3736700",
         "Elamipretide: First Approval (2025), PMID 41335372"
       ]
+    },
+    {
+      "id": "026",
+      "date": "2026-09-29",
+      "format": "Research literacy",
+      "topic": "Reproducibility versus replicability",
+      "focus": [
+        "National Academies distinction between computational reproducibility and study replicability",
+        "reproducibility uses the same input data code methods and analysis conditions",
+        "replicability collects new data to answer the same scientific question",
+        "peer review is not the same as replication",
+        "one successful repeat does not make a conclusion universally true",
+        "differences can reveal boundary conditions measurement differences biological variability random error or design weaknesses",
+        "terminology can vary across scientific fields"
+      ],
+      "asset": "media/026-reproducibility-vs-replicability.jpg",
+      "caption": "captions/026-reproducibility-vs-replicability.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReproducibleScience",
+        "#ResearchIntegrity",
+        "#OpenScience",
+        "#ScientificRigor"
+      ],
+      "evidence": [
+        "National Academies of Sciences Engineering and Medicine, Reproducibility and Replicability in Science (2019), NCBI Bookshelf NBK547531",
+        "NIH, Strengthening Replication and Reproducibility of NIH-funded Research (2026)"
+      ]
     }
   ]
 }

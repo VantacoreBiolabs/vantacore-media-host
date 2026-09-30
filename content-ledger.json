@@ -758,6 +758,34 @@
         "FDA Draft Guidance: Q1 Stability Testing of Drug Substances and Drug Products (June 2025)",
         "FDA Guidance: Container and Closure System Integrity Testing"
       ]
+    },
+    {
+      "id": "028",
+      "date": "2026-09-29",
+      "format": "Myth vs Fact / Research literacy",
+      "topic": "Multiple testing and false-positive risk",
+      "focus": [
+        "testing many hypotheses outcomes subgroups or time points can increase false-positive risk",
+        "a p-value below 0.05 does not deserve equal confidence regardless of the number of tests performed",
+        "uncontrolled multiplicity can produce false or misleading conclusions",
+        "primary outcomes should be distinguished from secondary and exploratory analyses",
+        "readers should check pre-specification multiplicity control and independent replication",
+        "a significant finding is not automatically false but requires context"
+      ],
+      "asset": "media/028-multiple-testing-false-positive-myth-fact.jpg",
+      "caption": "captions/028-multiple-testing-false-positive-myth-fact.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MultipleTesting",
+        "#StatisticalLiteracy",
+        "#FalsePositives",
+        "#DataInterpretation"
+      ],
+      "evidence": [
+        "FDA, Multiple Endpoints in Clinical Trials Guidance for Industry (2022; page updated April 16 2024)",
+        "FDA Guidance Recap Podcast: Multiple Endpoints in Clinical Trials (2022)",
+        "Ranganathan et al., Common pitfalls in statistical analysis: The perils of multiple testing (2016), PMCID PMC4840791"
+      ]
     }
   ]
 }

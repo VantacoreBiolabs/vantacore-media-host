@@ -844,6 +844,35 @@
         "Guilding et al., Defining and unpacking the core concepts of pharmacology: A global initiative (2024), British Journal of Pharmacology, DOI 10.1111/bph.16222",
         "Strange, Agonist binding, agonist affinity and agonist efficacy at G protein-coupled receptors (2008), British Journal of Pharmacology, DOI 10.1038/sj.bjp.0707672"
       ]
+    },
+    {
+      "id": "031",
+      "date": "2026-09-30",
+      "format": "Compound spotlight / Beginner concept",
+      "topic": "Glutathione: a cellular tripeptide and redox system",
+      "focus": [
+        "glutathione is a tripeptide made from glutamate cysteine and glycine",
+        "cells synthesize glutathione through a two-step enzyme pathway",
+        "GSH is the reduced form and GSSG is the oxidized form",
+        "cycling between GSH and GSSG helps cells manage their redox environment",
+        "glutathione works with enzymes such as glutathione peroxidase as part of a broader antioxidant system",
+        "established cellular biology does not prove every supplement injection detox or wellness claim",
+        "human outcomes depend on formulation route population and the question studied"
+      ],
+      "asset": "media/031-glutathione-compound-spotlight.jpg",
+      "caption": "captions/031-glutathione-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Glutathione",
+        "#PeptideBasics",
+        "#RedoxBiology",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "NCI Drug Dictionary, Definition of glutathione",
+        "Lu, Glutathione synthesis (2013), PMID 22995213, PMCID PMC3549305",
+        "Forman et al., Glutathione in defense and signaling: lessons from a small thiol (2003), PMID 12485918"
+      ]
     }
   ]
 }

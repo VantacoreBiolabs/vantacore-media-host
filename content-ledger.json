@@ -815,6 +815,35 @@
         "Khavinson et al., Neuroprotective Effects of Tripeptides-Epigenetic Regulators in Mouse Model of Alzheimer's Disease (2021), PMID 34071923, PMCID PMC8227791",
         "Kozina et al., Pinealon protects the rat offspring from prenatal hyperhomocysteinemia (2012), PMID 22567179, PMCID PMC3342713"
       ]
+    },
+    {
+      "id": "030",
+      "date": "2026-09-30",
+      "format": "Mechanism or comparison",
+      "topic": "Potency versus efficacy",
+      "focus": [
+        "potency describes the concentration needed to produce a defined response in a particular experimental system",
+        "EC50 is the concentration producing 50 percent of a compound's maximum observed response",
+        "efficacy describes the maximum observed response and is often compared using Emax",
+        "compounds can share a similar Emax while differing in potency or share similar EC50 values while differing in Emax",
+        "EC50 and Emax depend on receptor abundance tissue signaling pathway assay design and other experimental conditions",
+        "potency is not the same as affinity",
+        "greater potency does not automatically mean greater clinical effectiveness better safety or higher quality"
+      ],
+      "asset": "media/030-potency-vs-efficacy.jpg",
+      "caption": "captions/030-potency-vs-efficacy.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pharmacodynamics",
+        "#Potency",
+        "#DrugResponse",
+        "#MechanismMatters"
+      ],
+      "evidence": [
+        "IUPHAR Pharmacology Education Project, Pharmacodynamics: Emax and EC50",
+        "Guilding et al., Defining and unpacking the core concepts of pharmacology: A global initiative (2024), British Journal of Pharmacology, DOI 10.1111/bph.16222",
+        "Strange, Agonist binding, agonist affinity and agonist efficacy at G protein-coupled receptors (2008), British Journal of Pharmacology, DOI 10.1038/sj.bjp.0707672"
+      ]
     }
   ]
 }

@@ -786,6 +786,35 @@
         "FDA Guidance Recap Podcast: Multiple Endpoints in Clinical Trials (2022)",
         "Ranganathan et al., Common pitfalls in statistical analysis: The perils of multiple testing (2016), PMCID PMC4840791"
       ]
+    },
+    {
+      "id": "029",
+      "date": "2026-09-30",
+      "format": "Peptide of the Day",
+      "topic": "Pinealon (EDR peptide)",
+      "focus": [
+        "synthetic tripeptide with Glu-Asp-Arg sequence",
+        "published research in neuronal cell cultures and animal models",
+        "preclinical findings involving reactive oxygen species cell viability and dendritic-spine preservation",
+        "proposed gene-expression MAPK/ERK and antioxidant-related mechanisms remain model-dependent",
+        "preclinical results do not establish improvements in human memory sleep longevity or neurological conditions",
+        "robust independently replicated human clinical evidence and long-term safety data remain limited"
+      ],
+      "asset": "media/029-pinealon-peptide-of-the-day.jpg",
+      "caption": "captions/029-pinealon-peptide-of-the-day.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pinealon",
+        "#EDRTripeptide",
+        "#NeuroplasticityResearch",
+        "#TranslationalScience"
+      ],
+      "evidence": [
+        "Khavinson et al., EDR Peptide: Possible Mechanism of Gene Expression and Protein Synthesis Regulation Involved in the Pathogenesis of Alzheimer's Disease (2020), PMID 33396470, PMCID PMC7795577",
+        "Kraskovskaya et al., Tripeptides Restore the Number of Neuronal Spines under Conditions of In Vitro Modeled Alzheimer's Disease (2017), PMID 28853087",
+        "Khavinson et al., Neuroprotective Effects of Tripeptides-Epigenetic Regulators in Mouse Model of Alzheimer's Disease (2021), PMID 34071923, PMCID PMC8227791",
+        "Kozina et al., Pinealon protects the rat offspring from prenatal hyperhomocysteinemia (2012), PMID 22567179, PMCID PMC3342713"
+      ]
     }
   ]
 }

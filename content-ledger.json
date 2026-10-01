@@ -873,6 +873,34 @@
         "Lu, Glutathione synthesis (2013), PMID 22995213, PMCID PMC3549305",
         "Forman et al., Glutathione in defense and signaling: lessons from a small thiol (2003), PMID 12485918"
       ]
+    },
+    {
+      "id": "032",
+      "date": "2026-09-30",
+      "format": "Quality literacy / Beginner concept",
+      "topic": "What the term research grade does and does not mean",
+      "focus": [
+        "research grade generally signals intended laboratory research use rather than approved human use",
+        "the phrase alone does not establish FDA approval clinical effectiveness or human safety",
+        "a purity number does not automatically establish identity sterility endotoxin control or correct fill quantity",
+        "meaningful quality evaluation requires lot-specific documentation appropriate analytical methods and traceability",
+        "usage of the term can vary between sellers and product categories",
+        "an intended-use label is not a substitute for evidence"
+      ],
+      "asset": "media/032-research-grade-quality-literacy.jpg",
+      "caption": "captions/032-research-grade-quality-literacy.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ResearchGrade",
+        "#QualityLiteracy",
+        "#LabTesting",
+        "#ResearchEducation"
+      ],
+      "evidence": [
+        "FDA, Distribution of In Vitro Diagnostic Products Labeled for Research Use Only or Investigational Use Only, guidance issued November 25 2013",
+        "FDA, Non-Clinical Research Use Only Certificate guidance",
+        "FDA, Unapproved Drugs, updated 2026"
+      ]
     }
   ]
 }

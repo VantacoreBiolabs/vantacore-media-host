@@ -901,6 +901,34 @@
         "FDA, Non-Clinical Research Use Only Certificate guidance",
         "FDA, Unapproved Drugs, updated 2026"
       ]
+    },
+    {
+      "id": "033",
+      "date": "2026-10-01",
+      "format": "Compound spotlight / Beginner education",
+      "topic": "GHK-Cu: a copper-binding tripeptide",
+      "focus": [
+        "GHK is a tripeptide made from glycine histidine and lysine",
+        "GHK binds copper(II) to form the GHK-Cu complex",
+        "research has examined GHK-Cu in skin biology wound-healing models and tissue remodeling",
+        "research interest includes extracellular-matrix and collagen-related processes",
+        "laboratory animal and topical-skin findings do not establish safety or effectiveness for injectable use",
+        "FDA reports limited human safety data for compounded injectable GHK-Cu and potential immunogenicity concerns related to aggregation and peptide impurities"
+      ],
+      "asset": "media/033-ghk-cu-peptide-spotlight.jpg",
+      "caption": "captions/033-ghk-cu-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#GHKCu",
+        "#CopperPeptide",
+        "#SkinResearch",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "Pickart, The human tri-peptide GHK and tissue remodeling (2008), PMID 18644225",
+        "Pickart et al., GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration (2015), PMID 26236730, PMCID PMC4508379",
+        "FDA, Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks, GHK-Cu injectable-route entry, current 2026"
+      ]
     }
   ]
 }

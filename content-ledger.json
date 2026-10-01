@@ -957,6 +957,34 @@
         "ICH Q5C, Stability Testing of Biotechnological/Biological Products, section 6.6",
         "FDA, Lyophilization of Parenterals, stability-data considerations"
       ]
+    },
+    {
+      "id": "035",
+      "date": "2026-10-01",
+      "format": "Peptide spotlight / Beginner education",
+      "topic": "Cagrilintide: a long-acting amylin analogue",
+      "focus": [
+        "cagrilintide is a long-acting analogue of the pancreatic peptide hormone amylin",
+        "cagrilintide acts through amylin-receptor pathways rather than the GLP-1 receptor",
+        "amylin biology includes satiety meal-related glucagon regulation and gastric emptying",
+        "cagrilintide has been studied alone and with semaglutide as CagriSema",
+        "randomized trials provide research signals but do not guarantee approval individual benefit or long-term safety",
+        "cagrilintide remains under active clinical study"
+      ],
+      "asset": "media/035-cagrilintide-peptide-spotlight.jpg",
+      "caption": "captions/035-cagrilintide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cagrilintide",
+        "#AmylinResearch",
+        "#MetabolicScience",
+        "#ClinicalTrials"
+      ],
+      "evidence": [
+        "Lau et al., Cagrilintide a long-acting amylin analogue in combination with semaglutide, randomized phase 1b trial (2021), PMID 33894838",
+        "Frias et al., Once-weekly cagrilintide for weight management, randomized phase 2 trial (2021), PMID 34798060",
+        "ClinicalTrials.gov NCT05996848, phase 3 CagriSema study"
+      ]
     }
   ]
 }

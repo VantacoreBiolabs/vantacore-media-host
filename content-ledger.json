@@ -929,6 +929,34 @@
         "Pickart et al., GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration (2015), PMID 26236730, PMCID PMC4508379",
         "FDA, Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks, GHK-Cu injectable-route entry, current 2026"
       ]
+    },
+    {
+      "id": "034",
+      "date": "2026-10-01",
+      "format": "Beginner concept / Easy comparison",
+      "topic": "Lyophilized versus liquid physical forms",
+      "focus": [
+        "lyophilization removes water from frozen material under vacuum",
+        "liquid material is already dissolved or dispersed in a solution",
+        "removing water can improve stability for some materials but freeze-dried does not mean indestructible",
+        "temperature moisture light packaging and formulation can affect either physical form",
+        "appearance or physical form alone cannot establish storage conditions or usable time",
+        "product-specific stability data should support storage and post-reconstitution conditions when applicable"
+      ],
+      "asset": "media/034-lyophilized-vs-liquid.jpg",
+      "caption": "captions/034-lyophilized-vs-liquid.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Lyophilization",
+        "#StabilityScience",
+        "#LabEducation",
+        "#ResearchQuality"
+      ],
+      "evidence": [
+        "FDA, Lyophilization of Parenteral (7/93), definition and process overview",
+        "ICH Q5C, Stability Testing of Biotechnological/Biological Products, section 6.6",
+        "FDA, Lyophilization of Parenterals, stability-data considerations"
+      ]
     }
   ]
 }

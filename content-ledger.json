@@ -1012,6 +1012,34 @@
         "FDA Small Entity Compliance Guide for CGMP manufacturing packaging labeling or holding operations",
         "FDA ORA-LAB.5.6 reference-material traceability guidance"
       ]
+    },
+    {
+      "id": "037",
+      "date": "2026-10-02",
+      "format": "Peptide spotlight / Beginner education",
+      "topic": "Kisspeptin-10: a peptide signal upstream of GnRH",
+      "focus": [
+        "Kisspeptin-10 is a 10-amino-acid member of the kisspeptin family encoded by KISS1",
+        "Kisspeptin-10 binds the receptor KISS1R also known as GPR54",
+        "kisspeptin signaling sits upstream of GnRH and downstream pituitary LH and FSH signaling",
+        "human studies have measured hormone responses to Kisspeptin-10",
+        "small or short studies do not establish long-term safety or clinical effectiveness",
+        "Kisspeptin-10 is presented as a research subject rather than an established treatment"
+      ],
+      "asset": "media/037-kisspeptin-10-spotlight.jpg",
+      "caption": "captions/037-kisspeptin-10-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Kisspeptin10",
+        "#KISS1R",
+        "#EndocrineResearch",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "Oakley et al., Kisspeptin signaling in the brain (2009), PMID 19770291",
+        "George et al., Kisspeptin-10 is a potent stimulator of LH and increases pulse frequency in men (2011), PMCID PMC3380939",
+        "Jayasena et al., Direct comparison of kisspeptin-10, kisspeptin-54 and GnRH in healthy men (2015), PMCID PMC4507333"
+      ]
     }
   ]
 }

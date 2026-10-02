@@ -985,6 +985,33 @@
         "Frias et al., Once-weekly cagrilintide for weight management, randomized phase 2 trial (2021), PMID 34798060",
         "ClinicalTrials.gov NCT05996848, phase 3 CagriSema study"
       ]
+    },
+    {
+      "id": "036",
+      "date": "2026-10-01",
+      "format": "Quality literacy / Beginner concept",
+      "topic": "Why lot numbers matter for traceability",
+      "focus": [
+        "a product name identifies the intended item while a lot number identifies a specific batch",
+        "a container lot identifier should match the lot on the Certificate of Analysis",
+        "lot-specific records connect test results manufacturing dates and quality decisions to one batch",
+        "traceability supports investigations of deviations complaints and recalls",
+        "a lot number supports traceability but does not prove testing accuracy or conformance to every specification"
+      ],
+      "asset": "media/036-lot-number-traceability.jpg",
+      "caption": "captions/036-lot-number-traceability.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LotTraceability",
+        "#QualityControl",
+        "#LabRecords",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "FDA ICH Q7A Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients",
+        "FDA Small Entity Compliance Guide for CGMP manufacturing packaging labeling or holding operations",
+        "FDA ORA-LAB.5.6 reference-material traceability guidance"
+      ]
     }
   ]
 }

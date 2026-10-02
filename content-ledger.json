@@ -1068,6 +1068,34 @@
         "NCATS Toolkit, Bioassay glossary and developing bioassays guidance",
         "ICH Q6B, Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products"
       ]
+    },
+    {
+      "id": "039",
+      "date": "2026-10-02",
+      "format": "Research compound spotlight / Beginner education",
+      "topic": "Eloralintide: selective amylin-receptor signaling and evidence stage",
+      "focus": [
+        "eloralintide is also known as LY3841136",
+        "eloralintide is an investigational long-acting selective amylin-receptor agonist",
+        "laboratory characterization found greater activity at amylin receptors than at the calcitonin receptor",
+        "a randomized double-blind phase 2 trial studied eloralintide for 48 weeks in adults without diabetes",
+        "a larger phase 3 research program is evaluating effectiveness and safety",
+        "phase 2 findings do not establish approval long-term safety or individual results"
+      ],
+      "asset": "media/039-eloralintide-compound-spotlight.jpg",
+      "caption": "captions/039-eloralintide-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Eloralintide",
+        "#AmylinResearch",
+        "#ClinicalResearch",
+        "#CompoundSpotlight"
+      ],
+      "evidence": [
+        "Billings et al., Eloralintide, a selective amylin receptor agonist for the treatment of obesity or overweight, phase 2 trial (2025), PMID 41207310",
+        "Briere et al., Eloralintide (LY3841136), a novel amylin receptor agonist with differentiated pharmacology (2025), PMID 41109426",
+        "Lilly ENLIGHTEN-1 phase 3 trial, ClinicalTrials.gov NCT07321886, enrolling in 2026"
+      ]
     }
   ]
 }

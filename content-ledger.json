@@ -1040,6 +1040,34 @@
         "George et al., Kisspeptin-10 is a potent stimulator of LH and increases pulse frequency in men (2011), PMCID PMC3380939",
         "Jayasena et al., Direct comparison of kisspeptin-10, kisspeptin-54 and GnRH in healthy men (2015), PMCID PMC4507333"
       ]
+    },
+    {
+      "id": "038",
+      "date": "2026-10-02",
+      "format": "Beginner concept / Easy comparison",
+      "topic": "Bioavailability versus bioactivity",
+      "focus": [
+        "bioavailability asks how quickly and how much active material becomes available at its site of action",
+        "bioactivity asks whether a substance produces a measurable biological response in a particular test system",
+        "high activity in a laboratory assay does not guarantee high availability in the body",
+        "formulation absorption and breakdown can affect bioavailability",
+        "the biological target cells and assay conditions can affect measured bioactivity",
+        "neither measurement alone establishes clinical benefit safety or real-world effectiveness"
+      ],
+      "asset": "media/038-bioavailability-vs-bioactivity.jpg",
+      "caption": "captions/038-bioavailability-vs-bioactivity.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Bioavailability",
+        "#Bioactivity",
+        "#PharmacologyBasics",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "FDA, Bioavailability Studies Submitted in NDAs or INDs: General Considerations (2022)",
+        "NCATS Toolkit, Bioassay glossary and developing bioassays guidance",
+        "ICH Q6B, Specifications: Test Procedures and Acceptance Criteria for Biotechnological/Biological Products"
+      ]
     }
   ]
 }

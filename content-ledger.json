@@ -1096,6 +1096,34 @@
         "Briere et al., Eloralintide (LY3841136), a novel amylin receptor agonist with differentiated pharmacology (2025), PMID 41109426",
         "Lilly ENLIGHTEN-1 phase 3 trial, ClinicalTrials.gov NCT07321886, enrolling in 2026"
       ]
+    },
+    {
+      "id": "040",
+      "date": "2026-10-02",
+      "format": "Beginner concept / Easy comparison",
+      "topic": "Placebo control versus active control in clinical trials",
+      "focus": [
+        "a placebo control uses an inactive look-alike when that design is appropriate",
+        "placebo controls help separate treatment effects from expectations natural change and other study influences",
+        "an active control compares a new intervention with an established treatment",
+        "active-control trials can test superiority equivalence or non-inferiority depending on the design",
+        "the appropriate control depends on the research question ethics available treatment and assay sensitivity",
+        "neither control design is automatically better"
+      ],
+      "asset": "media/040-placebo-vs-active-control.jpg",
+      "caption": "captions/040-placebo-vs-active-control.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#PlaceboControl",
+        "#StudyDesign",
+        "#ResearchBasics"
+      ],
+      "evidence": [
+        "FDA, ICH E10 Choice of Control Group and Related Issues in Clinical Trials, May 2001",
+        "FDA, Clinical Trials Guidance Documents, current October 2026",
+        "European Medicines Agency, ICH E10 Choice of Control Group in Clinical Trials"
+      ]
     }
   ]
 }

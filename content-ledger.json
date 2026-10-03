@@ -1124,6 +1124,34 @@
         "FDA, Clinical Trials Guidance Documents, current October 2026",
         "European Medicines Agency, ICH E10 Choice of Control Group in Clinical Trials"
       ]
+    },
+    {
+      "id": "041",
+      "date": "2026-10-03",
+      "format": "Peptide hormone spotlight / Beginner education",
+      "topic": "Oxytocin: a nine-amino-acid peptide hormone beyond the love-hormone nickname",
+      "focus": [
+        "oxytocin is a nonapeptide containing nine amino acids",
+        "oxytocin is synthesized by neurons in the hypothalamus",
+        "some oxytocin travels to the posterior pituitary for release into the bloodstream",
+        "well-established physiological roles include uterine contractions and milk ejection",
+        "the love-hormone nickname oversimplifies complex brain and behavior research",
+        "reported behavioral effects can depend on context study design population and measured outcomes"
+      ],
+      "asset": "media/041-oxytocin-peptide-spotlight.jpg",
+      "caption": "captions/041-oxytocin-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Oxytocin",
+        "#PeptideHormone",
+        "#Neuroendocrinology",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "DailyMed, Oxytocin Injection USP labeling and nine-residue chemical structure, current 2026",
+        "NCBI Bookshelf, The Neurohypophysis: Endocrinology of Vasopressin and Oxytocin, updated 2026",
+        "NCBI Bookshelf, The Pituitary Gland, oxytocin synthesis and release overview"
+      ]
     }
   ]
 }

@@ -1180,6 +1180,34 @@
         "ICH, Q2(R2) Validation of Analytical Procedures, adopted November 2023",
         "FDA, Q14 Analytical Procedure Development, final guidance March 2024"
       ]
+    },
+    {
+      "id": "043",
+      "date": "2026-10-03",
+      "format": "Research compound spotlight / Beginner education",
+      "topic": "Retatrutide: one investigational peptide targeting three receptor pathways",
+      "focus": [
+        "retatrutide is an investigational peptide also known as LY3437943",
+        "one peptide molecule was engineered to activate GLP-1 GIP and glucagon receptors",
+        "a randomized double-blind placebo-controlled phase 2 trial evaluated effects and safety in adults with obesity or overweight",
+        "the phase 3 TRIUMPH program is evaluating effectiveness and safety in larger groups",
+        "retatrutide is not FDA-approved",
+        "early and mid-stage findings do not guarantee individual results or establish the full long-term safety picture"
+      ],
+      "asset": "media/043-retatrutide-compound-spotlight.jpg",
+      "caption": "captions/043-retatrutide-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Retatrutide",
+        "#TripleAgonist",
+        "#MetabolicResearch",
+        "#ClinicalTrials"
+      ],
+      "evidence": [
+        "Coskun et al., LY3437943, a novel triple glucagon, GIP, and GLP-1 receptor agonist, Cell Metabolism 2022, DOI 10.1016/j.cmet.2022.07.013",
+        "Jastreboff et al., Triple-Hormone-Receptor Agonist Retatrutide for Obesity, phase 2 trial, New England Journal of Medicine 2023, DOI 10.1056/NEJMoa2301972",
+        "ClinicalTrials.gov NCT05929066, TRIUMPH-1 phase 3 record, updated June 3 2026"
+      ]
     }
   ]
 }

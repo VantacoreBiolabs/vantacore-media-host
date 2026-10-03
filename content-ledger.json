@@ -1152,6 +1152,34 @@
         "NCBI Bookshelf, The Neurohypophysis: Endocrinology of Vasopressin and Oxytocin, updated 2026",
         "NCBI Bookshelf, The Pituitary Gland, oxytocin synthesis and release overview"
       ]
+    },
+    {
+      "id": "042",
+      "date": "2026-10-03",
+      "format": "Quality literacy / Easy comparison",
+      "topic": "Accuracy versus precision in analytical measurements",
+      "focus": [
+        "accuracy describes closeness to an accepted reference value",
+        "precision describes agreement among repeated measurements",
+        "measurements can be precise while remaining inaccurate",
+        "analytical methods aim for both accuracy and precision across their intended range",
+        "one result cannot establish either performance characteristic",
+        "evaluation uses suitable references repeated measurements and a predefined analytical procedure"
+      ],
+      "asset": "media/042-accuracy-vs-precision.jpg",
+      "caption": "captions/042-accuracy-vs-precision.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Accuracy",
+        "#Precision",
+        "#AnalyticalScience",
+        "#LabEducation"
+      ],
+      "evidence": [
+        "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
+        "ICH, Q2(R2) Validation of Analytical Procedures, adopted November 2023",
+        "FDA, Q14 Analytical Procedure Development, final guidance March 2024"
+      ]
     }
   ]
 }

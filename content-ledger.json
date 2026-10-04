@@ -1208,6 +1208,33 @@
         "Jastreboff et al., Triple-Hormone-Receptor Agonist Retatrutide for Obesity, phase 2 trial, New England Journal of Medicine 2023, DOI 10.1056/NEJMoa2301972",
         "ClinicalTrials.gov NCT05929066, TRIUMPH-1 phase 3 record, updated June 3 2026"
       ]
+    },
+    {
+      "id": "044",
+      "date": "2026-10-03",
+      "format": "Quality literacy / Easy comparison",
+      "topic": "Identity testing versus purity testing in analytical science",
+      "focus": [
+        "identity testing asks whether the expected material is present",
+        "purity testing estimates the main component relative to detected impurities under a defined analytical procedure",
+        "identity and purity can require different procedures reference materials and validation evidence",
+        "a high purity result does not automatically confirm identity strength sterility or safety",
+        "analytical results support only the question that the method was designed and validated to answer"
+      ],
+      "asset": "media/044-identity-vs-purity.jpg",
+      "caption": "captions/044-identity-vs-purity.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#IdentityTesting",
+        "#PurityTesting",
+        "#AnalyticalScience",
+        "#QualityLiteracy"
+      ],
+      "evidence": [
+        "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
+        "FDA, ICH Q6A Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products",
+        "FDA, Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients"
+      ]
     }
   ]
 }

@@ -1290,6 +1290,34 @@
         "FDA, A New Approach to Pharmacometrics: Repeated Time-to-Event and Tumor Growth Modeling",
         "FDA, FDA Roundup: September 22 2023, pharmacokinetic and pharmacodynamic overview"
       ]
+    },
+    {
+      "id": "047",
+      "date": "2026-10-04",
+      "format": "Peptide spotlight / Evidence literacy",
+      "topic": "AOD-9604: modified growth-hormone fragment and the gap between early research and obesity-trial results",
+      "focus": [
+        "AOD-9604 is a 16-amino-acid peptide derived from the C-terminal region of human growth hormone",
+        "it was designed for research into fat metabolism without reproducing the full activity of growth hormone",
+        "early laboratory and animal studies examined lipid metabolism and body-fat effects",
+        "a larger randomized obesity trial did not show a statistically significant weight-loss benefit over placebo at its main endpoint",
+        "AOD-9604 is not FDA-approved",
+        "FDA reports limited human safety information and concerns involving immunogenicity peptide-related impurities and API characterization"
+      ],
+      "asset": "media/047-aod9604-evidence-spotlight.jpg",
+      "caption": "captions/047-aod9604-evidence-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AOD9604",
+        "#PeptideResearch",
+        "#EvidenceMatters",
+        "#CompoundSpotlight"
+      ],
+      "evidence": [
+        "FDA, Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks, AOD-9604 safety summary, current 2026",
+        "FDA Pharmacy Compounding Advisory Committee briefing document for AOD-9604-related bulk drug substances, December 2024",
+        "Heffernan et al., The effects of human GH and its lipolytic fragment AOD9604 on lipid metabolism in obese mice, 2001, PMID 11713213"
+      ]
     }
   ]
 }

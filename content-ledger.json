@@ -1263,6 +1263,33 @@
         "FDA Pharmacy Compounding Advisory Committee briefing materials for BPC-157-related bulk drug substances, July 2026",
         "Krivic et al., Promoted tendon-to-bone healing and opposed corticosteroid aggravation with BPC 157 in a rat model, 2006, PMID 16583442"
       ]
+    },
+    {
+      "id": "046",
+      "date": "2026-10-04",
+      "format": "Beginner concept / Easy comparison",
+      "topic": "Pharmacokinetics versus pharmacodynamics: movement through the body versus biological response",
+      "focus": [
+        "pharmacokinetics tracks a compound's movement through the body over time",
+        "PK commonly examines absorption distribution metabolism and excretion abbreviated ADME",
+        "pharmacodynamics examines the biological response associated with a compound and its target",
+        "PK/PD analysis links exposure over time with the observed response",
+        "neither PK nor PD alone proves safety or clinical effectiveness"
+      ],
+      "asset": "media/046-pk-vs-pd.jpg",
+      "caption": "captions/046-pk-vs-pd.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pharmacokinetics",
+        "#Pharmacodynamics",
+        "#DrugDevelopment",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "FDA, New Emphasis on Pharmacodynamics Over Pharmacokinetics",
+        "FDA, A New Approach to Pharmacometrics: Repeated Time-to-Event and Tumor Growth Modeling",
+        "FDA, FDA Roundup: September 22 2023, pharmacokinetic and pharmacodynamic overview"
+      ]
     }
   ]
 }

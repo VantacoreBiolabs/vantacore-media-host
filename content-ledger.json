@@ -1235,6 +1235,34 @@
         "FDA, ICH Q6A Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products",
         "FDA, Q7 Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients"
       ]
+    },
+    {
+      "id": "045",
+      "date": "2026-10-04",
+      "format": "Peptide spotlight / Evidence literacy",
+      "topic": "BPC-157: separating preclinical findings from established human evidence",
+      "focus": [
+        "BPC-157 is a synthetic peptide made from 15 amino acids",
+        "research has largely involved laboratory and animal models including tendon and gastrointestinal models",
+        "proposed mechanisms remain under investigation rather than clinically established",
+        "reliable human safety and effectiveness data remain limited",
+        "BPC-157 is not FDA-approved",
+        "FDA has identified limited safety information and concerns involving immunogenicity peptide-related impurities and API characterization"
+      ],
+      "asset": "media/045-bpc157-evidence-spotlight.jpg",
+      "caption": "captions/045-bpc157-evidence-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#BPC157",
+        "#PeptideResearch",
+        "#EvidenceMatters",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "FDA, Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks, BPC-157 safety summary, current April 2026",
+        "FDA Pharmacy Compounding Advisory Committee briefing materials for BPC-157-related bulk drug substances, July 2026",
+        "Krivic et al., Promoted tendon-to-bone healing and opposed corticosteroid aggravation with BPC 157 in a rat model, 2006, PMID 16583442"
+      ]
     }
   ]
 }

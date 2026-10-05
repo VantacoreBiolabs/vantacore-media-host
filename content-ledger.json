@@ -1373,6 +1373,33 @@
         "Ji et al., A phase 2 randomised controlled trial of mazdutide in Chinese adults with overweight or obesity, Nature Communications 2023, PMID 38092790",
         "Innovent Biologics, mazdutide NMPA approval status, current 2026"
       ]
+    },
+    {
+      "id": "050",
+      "date": "2026-10-05",
+      "format": "Quality literacy / Easy comparison",
+      "topic": "Limit of detection versus limit of quantitation in analytical testing",
+      "focus": [
+        "the limit of detection is the lowest amount a method can reliably distinguish from background noise",
+        "the limit of quantitation is the lowest amount measurable with suitable accuracy and precision",
+        "a signal can be detectable while remaining too low for a dependable numerical result",
+        "LOD and LOQ depend on the analyte method equipment and sample matrix",
+        "not detected usually means below the method's detection capability rather than absolute zero",
+        "LOD and LOQ are validated method-performance limits rather than universal values"
+      ],
+      "asset": "media/050-lod-vs-loq.jpg",
+      "caption": "captions/050-lod-vs-loq.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#DetectionLimit",
+        "#QuantitationLimit",
+        "#AnalyticalScience",
+        "#LabEducation"
+      ],
+      "evidence": [
+        "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
+        "ICH Q2(R2) Validation of Analytical Procedures, Step 4 November 2023"
+      ]
     }
   ]
 }

@@ -1345,6 +1345,34 @@
         "FDA, Bacterial Endotoxins/Pyrogens Inspection Technical Guide",
         "FDA, Q6A Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products"
       ]
+    },
+    {
+      "id": "049",
+      "date": "2026-10-05",
+      "format": "Research-compound spotlight / Beginner mechanism",
+      "topic": "Mazdutide: one peptide activating GLP-1 and glucagon receptors",
+      "focus": [
+        "mazdutide is a long-acting oxyntomodulin analogue",
+        "it activates both the GLP-1 receptor and the glucagon receptor",
+        "research has studied it in adults with obesity overweight and type 2 diabetes",
+        "randomized phase 2 and phase 3 trials reported changes in body weight and metabolic measures",
+        "mazdutide is approved in China for specified indications but is not FDA-approved in the United States",
+        "most pivotal published research has involved Chinese participants"
+      ],
+      "asset": "media/049-mazdutide-compound-spotlight.jpg",
+      "caption": "captions/049-mazdutide-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Mazdutide",
+        "#DualAgonist",
+        "#MetabolicResearch",
+        "#CompoundSpotlight"
+      ],
+      "evidence": [
+        "Ji et al., Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight, New England Journal of Medicine 2025, PMID 40421736",
+        "Ji et al., A phase 2 randomised controlled trial of mazdutide in Chinese adults with overweight or obesity, Nature Communications 2023, PMID 38092790",
+        "Innovent Biologics, mazdutide NMPA approval status, current 2026"
+      ]
     }
   ]
 }

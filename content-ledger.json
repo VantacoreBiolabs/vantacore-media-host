@@ -1318,6 +1318,33 @@
         "FDA Pharmacy Compounding Advisory Committee briefing document for AOD-9604-related bulk drug substances, December 2024",
         "Heffernan et al., The effects of human GH and its lipolytic fragment AOD9604 on lipid metabolism in obese mice, 2001, PMID 11713213"
       ]
+    },
+    {
+      "id": "048",
+      "date": "2026-10-04",
+      "format": "Safety and quality literacy / Easy comparison",
+      "topic": "Sterility testing versus bacterial endotoxin testing",
+      "focus": [
+        "sterility testing looks for viable microorganisms including bacteria and fungi under defined conditions",
+        "bacterial endotoxin testing looks for endotoxins associated with Gram-negative bacteria",
+        "endotoxins can remain when the bacteria that produced them are no longer alive",
+        "a sterility result does not establish endotoxin control and an endotoxin result does not establish sterility",
+        "finished-product tests do not replace validated manufacturing contamination controls and quality systems"
+      ],
+      "asset": "media/048-sterility-vs-endotoxin.jpg",
+      "caption": "captions/048-sterility-vs-endotoxin.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SterilityTesting",
+        "#EndotoxinTesting",
+        "#LabSafety",
+        "#QualityEducation"
+      ],
+      "evidence": [
+        "FDA, Guidance for Industry: Sterile Drug Products Produced by Aseptic Processing — Current Good Manufacturing Practice",
+        "FDA, Bacterial Endotoxins/Pyrogens Inspection Technical Guide",
+        "FDA, Q6A Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products"
+      ]
     }
   ]
 }

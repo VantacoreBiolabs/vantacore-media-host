@@ -1400,6 +1400,34 @@
         "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
         "ICH Q2(R2) Validation of Analytical Procedures, Step 4 November 2023"
       ]
+    },
+    {
+      "id": "051",
+      "date": "2026-10-05",
+      "format": "Research-compound spotlight / Beginner biology",
+      "topic": "NAD+: a cellular coenzyme rather than a peptide or hormone",
+      "focus": [
+        "NAD+ stands for nicotinamide adenine dinucleotide",
+        "NAD+ is a coenzyme rather than a peptide or hormone",
+        "NAD+ and NADH transfer electrons during cellular energy metabolism",
+        "NAD+ is used by enzymes involved in cell signaling gene regulation and DNA repair",
+        "essential cellular biology does not automatically prove benefits from an NAD+ product",
+        "product evidence depends on formulation route population and measured outcome"
+      ],
+      "asset": "media/051-nad-plus-compound-spotlight.jpg",
+      "caption": "captions/051-nad-plus-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#NADPlus",
+        "#CellularEnergy",
+        "#MetabolicScience",
+        "#CompoundSpotlight"
+      ],
+      "evidence": [
+        "NIH Office of Dietary Supplements, Niacin Fact Sheet for Health Professionals",
+        "Xie et al., NAD+ metabolism: pathophysiologic mechanisms and therapeutic potential, 2020, PMID 33028824",
+        "NCBI Bookshelf, Epigenetics and Metabolism: Nicotinamide Adenine Dinucleotide"
+      ]
     }
   ]
 }

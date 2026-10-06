@@ -1484,6 +1484,34 @@
         "FDA, approval for Bardet-Biedl syndrome, June 16 2022",
         "FDA, first approval for POMC PCSK1 and LEPR deficiency, November 27 2020"
       ]
+    },
+    {
+      "id": "054",
+      "date": "2026-10-06",
+      "format": "Beginner concept / Easy comparison",
+      "topic": "Primary endpoint versus secondary endpoints in clinical trials",
+      "focus": [
+        "an endpoint is a prespecified result measured in a clinical trial",
+        "the primary endpoint addresses the main research question",
+        "the study design is usually built around evaluating the primary endpoint",
+        "secondary endpoints examine additional questions and may support or expand the evidence",
+        "testing multiple endpoints can increase false-positive risk unless multiplicity is handled",
+        "a positive secondary endpoint should be interpreted with the primary result testing hierarchy and statistical plan"
+      ],
+      "asset": "media/054-primary-vs-secondary-endpoints.jpg",
+      "caption": "captions/054-primary-vs-secondary-endpoints.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalEndpoints",
+        "#ClinicalTrials",
+        "#ResearchLiteracy",
+        "#StudyDesign"
+      ],
+      "evidence": [
+        "FDA, Multiple Endpoints in Clinical Trials: Guidance for Industry, October 2022",
+        "NIH NCATS Toolkit, Study Outcome Measurement and Secondary Outcome Measure glossaries",
+        "FDA Guidance Recap Podcast, Multiple Endpoints in Clinical Trials"
+      ]
     }
   ]
 }

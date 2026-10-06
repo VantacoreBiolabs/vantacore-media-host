@@ -1456,6 +1456,34 @@
         "FDA, Expiration Dates: Questions and Answers, current 2026",
         "ICH Q1E Evaluation of Stability Data"
       ]
+    },
+    {
+      "id": "053",
+      "date": "2026-10-06",
+      "format": "Peptide spotlight / Beginner pathway education",
+      "topic": "Setmelanotide: an eight-amino-acid cyclic peptide targeting the MC4 receptor in defined rare forms of obesity",
+      "focus": [
+        "setmelanotide is an eight-amino-acid cyclic peptide analog of alpha-melanocyte-stimulating hormone",
+        "setmelanotide activates the melanocortin-4 receptor pathway involved in hunger satiety and energy regulation",
+        "current U.S. approvals apply to specific syndromic monogenic or acquired hypothalamic obesity conditions",
+        "the eligible diagnosis and applicable age criteria matter",
+        "approval should not be generalized to common polygenic obesity",
+        "current prescribing information includes limitations warnings and monitoring requirements"
+      ],
+      "asset": "media/053-setmelanotide-compound-spotlight.jpg",
+      "caption": "captions/053-setmelanotide-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Setmelanotide",
+        "#MC4R",
+        "#RareDiseaseEducation",
+        "#PeptideScience"
+      ],
+      "evidence": [
+        "DailyMed, IMCIVREE (setmelanotide) prescribing information, revised April 2026",
+        "FDA, approval for Bardet-Biedl syndrome, June 16 2022",
+        "FDA, first approval for POMC PCSK1 and LEPR deficiency, November 27 2020"
+      ]
     }
   ]
 }

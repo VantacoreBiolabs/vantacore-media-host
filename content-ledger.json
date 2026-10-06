@@ -1512,6 +1512,34 @@
         "NIH NCATS Toolkit, Study Outcome Measurement and Secondary Outcome Measure glossaries",
         "FDA Guidance Recap Podcast, Multiple Endpoints in Clinical Trials"
       ]
+    },
+    {
+      "id": "055",
+      "date": "2026-10-06",
+      "format": "Peptide spotlight / Preclinical mechanism",
+      "topic": "B7-33: synthetic single-chain relaxin-2 derivative and functionally selective RXFP1 signaling",
+      "focus": [
+        "B7-33 is an experimental synthetic single-chain peptide derived from part of the B-chain of human relaxin-2",
+        "B7-33 activates relaxin family peptide receptor 1 RXFP1",
+        "B7-33 is described as functionally selective because it favors some downstream signals over others",
+        "cell and animal studies explore fibrosis tissue remodeling and cardiovascular or lung injury models",
+        "published findings remain preclinical and do not establish human safety or effectiveness",
+        "B7-33 is not an FDA-approved medicine"
+      ],
+      "asset": "media/055-b7-33-compound-spotlight.jpg",
+      "caption": "captions/055-b7-33-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#B733",
+        "#RXFP1",
+        "#FibrosisResearch",
+        "#PreclinicalScience"
+      ],
+      "evidence": [
+        "Hossain et al., A single-chain derivative of the relaxin hormone is a functionally selective agonist of RXFP1, Chemical Science 2016, PMCID PMC6013806",
+        "Devarakonda et al., B7-33 attenuates myocardial infarction-related adverse cardiac remodeling in mice, Journal of the American Heart Association 2020, PMID 32295457",
+        "Alam et al., B7-33 in an experimental mouse model of cardiomyopathy, Biomedicine & Pharmacotherapy 2023, DOI 10.1016/j.biopha.2023.114370"
+      ]
     }
   ]
 }

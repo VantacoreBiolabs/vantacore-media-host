@@ -1428,6 +1428,34 @@
         "Xie et al., NAD+ metabolism: pathophysiologic mechanisms and therapeutic potential, 2020, PMID 33028824",
         "NCBI Bookshelf, Epigenetics and Metabolism: Nicotinamide Adenine Dinucleotide"
       ]
+    },
+    {
+      "id": "052",
+      "date": "2026-10-05",
+      "format": "Quality literacy / Easy comparison",
+      "topic": "Expiration date versus retest date",
+      "focus": [
+        "an expiration date marks the period during which a material is expected to remain within specifications under defined storage conditions",
+        "material should not be used after its assigned expiration date",
+        "a retest date marks when a material should be re-examined for continued suitability",
+        "a scientifically appropriate passing retest can support continued use when the applicable quality system allows it",
+        "both dates should be supported by stability information",
+        "packaging temperature humidity light exposure and actual storage history affect stability"
+      ],
+      "asset": "media/052-expiration-vs-retest-date.jpg",
+      "caption": "captions/052-expiration-vs-retest-date.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ExpirationDate",
+        "#RetestDate",
+        "#StabilityTesting",
+        "#QualityEducation"
+      ],
+      "evidence": [
+        "FDA, Q7A Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients, expiry and retest dating",
+        "FDA, Expiration Dates: Questions and Answers, current 2026",
+        "ICH Q1E Evaluation of Stability Data"
+      ]
     }
   ]
 }

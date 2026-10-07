@@ -1624,6 +1624,34 @@
         "Sampei et al., A guide to preprinting for early-career researchers, Biology Open 2022, PMCID PMC9346271",
         "Heesen and Bright, The present and future of peer review, PLOS Biology 2025, PMCID PMC11804526"
       ]
+    },
+    {
+      "id": "059",
+      "date": "2026-10-07",
+      "format": "Quality literacy / Beginner concept",
+      "topic": "Calibration curves: using known standards to translate instrument response into a measured amount",
+      "focus": [
+        "instruments often produce a signal rather than a ready-made concentration",
+        "calibration standards contain known analyte amounts",
+        "standards establish the relationship between concentration and response",
+        "unknown samples are compared against the validated calibration model",
+        "results should stay within the validated range rather than be extrapolated",
+        "calibration does not replace checks for accuracy precision selectivity or matrix effects"
+      ],
+      "asset": "media/059-calibration-curves.jpg",
+      "caption": "captions/059-calibration-curves.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#CalibrationCurve",
+        "#AnalyticalScience",
+        "#LabTesting",
+        "#QualityLiteracy"
+      ],
+      "evidence": [
+        "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
+        "FDA, Bioanalytical Method Validation Guidance for Industry, May 2018",
+        "FDA, ICH M10 Bioanalytical Method Validation and Study Sample Analysis, final guidance November 2022"
+      ]
     }
   ]
 }

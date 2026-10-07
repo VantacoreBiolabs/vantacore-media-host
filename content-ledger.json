@@ -1540,6 +1540,34 @@
         "Devarakonda et al., B7-33 attenuates myocardial infarction-related adverse cardiac remodeling in mice, Journal of the American Heart Association 2020, PMID 32295457",
         "Alam et al., B7-33 in an experimental mouse model of cardiomyopathy, Biomedicine & Pharmacotherapy 2023, DOI 10.1016/j.biopha.2023.114370"
       ]
+    },
+    {
+      "id": "056",
+      "date": "2026-10-06",
+      "format": "Beginner concept / Research literacy",
+      "topic": "Target engagement: physical interaction with an intended biological target does not by itself prove a useful outcome",
+      "focus": [
+        "a target can be a receptor enzyme protein or another biological structure",
+        "target engagement means a compound physically interacts with its intended target in the system being studied",
+        "engagement can be measured using laboratory assays imaging tracers or target-linked biomarkers",
+        "target engagement supports a proposed mechanism of action",
+        "binding alone does not establish adequate exposure selectivity downstream effect safety or clinical effectiveness",
+        "target engagement is one link in the evidence chain rather than the final proof"
+      ],
+      "asset": "media/056-target-engagement.jpg",
+      "caption": "captions/056-target-engagement.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#TargetEngagement",
+        "#DrugDiscovery",
+        "#MechanismOfAction",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "St John-Campbell and Bhalay, Target Engagement Assays in Early Drug Discovery, Journal of Medicinal Chemistry 2025, PMID 40465835",
+        "FDA, Pharmacodynamic Biomarkers for Biosimilar Development and Approval, target engagement versus downstream biological response",
+        "NIH NIMH, Experimental Therapeutics and Proof-of-Mechanism framework for target engagement"
+      ]
     }
   ]
 }

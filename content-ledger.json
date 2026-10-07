@@ -1568,6 +1568,34 @@
         "FDA, Pharmacodynamic Biomarkers for Biosimilar Development and Approval, target engagement versus downstream biological response",
         "NIH NIMH, Experimental Therapeutics and Proof-of-Mechanism framework for target engagement"
       ]
+    },
+    {
+      "id": "057",
+      "date": "2026-10-07",
+      "format": "Research-compound spotlight / Evidence literacy",
+      "topic": "Tesofensine: investigational synthetic small-molecule monoamine reuptake inhibitor rather than a peptide",
+      "focus": [
+        "tesofensine is a synthetic small molecule rather than an amino-acid peptide",
+        "tesofensine inhibits reuptake of serotonin dopamine and norepinephrine",
+        "its research history began in neurological conditions where body-weight changes were observed",
+        "a 24-week randomized phase 2 obesity trial reported weight changes and adverse effects including increased heart rate",
+        "the phase 2 paper later received an expression of concern and criticism concerning adverse-event reporting",
+        "tesofensine remains investigational and is not FDA-approved"
+      ],
+      "asset": "media/057-tesofensine-compound-spotlight.jpg",
+      "caption": "captions/057-tesofensine-compound-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Tesofensine",
+        "#SmallMolecule",
+        "#ObesityResearch",
+        "#EvidenceMatters"
+      ],
+      "evidence": [
+        "Astrup et al., Effect of tesofensine on bodyweight loss body composition and quality of life in obese patients, Lancet 2008, PMID 18950853",
+        "Lancet expression of concern concerning the tesofensine phase 2 paper, 2013, DOI 10.1016/S0140-6736(13)60778-3",
+        "Sjödin et al., Effect of the triple monoamine reuptake inhibitor tesofensine on energy metabolism and appetite, Clinical Pharmacology & Therapeutics 2010, PMID 20479765"
+      ]
     }
   ]
 }

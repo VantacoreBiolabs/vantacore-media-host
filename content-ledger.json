@@ -1596,6 +1596,34 @@
         "Lancet expression of concern concerning the tesofensine phase 2 paper, 2013, DOI 10.1016/S0140-6736(13)60778-3",
         "Sjödin et al., Effect of the triple monoamine reuptake inhibitor tesofensine on energy metabolism and appetite, Clinical Pharmacology & Therapeutics 2010, PMID 20479765"
       ]
+    },
+    {
+      "id": "058",
+      "date": "2026-10-07",
+      "format": "Research literacy / Easy comparison",
+      "topic": "Preprint versus peer-reviewed paper as different stages of scientific communication",
+      "focus": [
+        "a preprint is shared publicly before formal journal peer review is complete",
+        "preprints enable faster access to findings and early community feedback",
+        "journal peer review asks independent experts to examine methods analysis and conclusions",
+        "authors may revise a manuscript after review so the published version can differ from the preprint",
+        "peer review adds scrutiny but does not guarantee correctness",
+        "readers should evaluate methods samples statistics limitations and agreement with other evidence"
+      ],
+      "asset": "media/058-preprint-vs-peer-reviewed.jpg",
+      "caption": "captions/058-preprint-vs-peer-reviewed.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Preprint",
+        "#PeerReview",
+        "#ResearchLiteracy",
+        "#ScienceMadeSimple"
+      ],
+      "evidence": [
+        "Johansson et al., Preprints: An underutilized mechanism to accelerate outbreak science, PLOS Medicine 2018, PMCID PMC5882117",
+        "Sampei et al., A guide to preprinting for early-career researchers, Biology Open 2022, PMCID PMC9346271",
+        "Heesen and Bright, The present and future of peer review, PLOS Biology 2025, PMCID PMC11804526"
+      ]
     }
   ]
 }

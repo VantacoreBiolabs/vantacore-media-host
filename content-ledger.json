@@ -1652,6 +1652,35 @@
         "FDA, Bioanalytical Method Validation Guidance for Industry, May 2018",
         "FDA, ICH M10 Bioanalytical Method Validation and Study Sample Analysis, final guidance November 2022"
       ]
+    },
+    {
+      "id": "060",
+      "date": "2026-10-07",
+      "format": "Peptide spotlight / Beginner mechanism and history",
+      "topic": "Exenatide: a 39-amino-acid synthetic peptide derived from the exendin-4 discovery story and acting at the GLP-1 receptor",
+      "focus": [
+        "exenatide is a 39-amino-acid synthetic peptide",
+        "its development traces to exendin-4 identified in Gila monster saliva",
+        "exenatide activates the GLP-1 receptor",
+        "it enhances glucose-dependent insulin secretion suppresses inappropriately elevated glucagon and slows gastric emptying",
+        "exenatide received initial U.S. approval in 2005",
+        "its approved role in adults with type 2 diabetes does not validate every broader online claim about GLP-1 drugs"
+      ],
+      "asset": "media/060-exenatide-peptide-spotlight.jpg",
+      "caption": "captions/060-exenatide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Exenatide",
+        "#GLP1Science",
+        "#PeptideHistory",
+        "#DiabetesResearch"
+      ],
+      "evidence": [
+        "DailyMed, Exenatide injection prescribing information, updated May 27 2026",
+        "FDA, Byetta exenatide prescribing information, 2021",
+        "Furman, The development of Byetta exenatide from the venom of the Gila monster as an anti-diabetic agent, Toxicon 2012, PMID 21194543",
+        "Doyle et al., The importance of the nine-amino acid C-terminal sequence of exendin-4 for GLP-1 receptor binding and biological activity, Regulatory Peptides 2003, PMID 12832104"
+      ]
     }
   ]
 }

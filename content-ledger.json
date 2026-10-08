@@ -1710,6 +1710,35 @@
         "Hespanhol et al., Understanding and interpreting confidence and credible intervals around effect estimates, Brazilian Journal of Physical Therapy 2019, PMCID PMC6630113",
         "Ranganathan et al., How to read a published clinical trial: A practical guide for clinicians, Cancer Research Statistics and Treatment 2020, PMCID PMC7252615"
       ]
+    },
+    {
+      "id": "062",
+      "date": "2026-10-08",
+      "format": "Peptide spotlight / Beginner local mechanism",
+      "topic": "Linaclotide: a 14-amino-acid peptide that activates guanylate cyclase-C locally on the intestinal surface",
+      "focus": [
+        "linaclotide is a 14-amino-acid peptide",
+        "linaclotide activates guanylate cyclase-C on the intestinal lining",
+        "GC-C activation increases cyclic GMP signaling",
+        "the pathway promotes chloride bicarbonate and fluid movement into the intestine",
+        "linaclotide and its active metabolite act locally on the luminal surface with minimal systemic absorption described in labeling",
+        "approved constipation-related uses should not be generalized into broad gut-wellness claims",
+        "current labeling includes age restrictions a boxed warning concerning serious dehydration in children younger than two and diarrhea as a major adverse reaction"
+      ],
+      "asset": "media/062-linaclotide-peptide-spotlight.jpg",
+      "caption": "captions/062-linaclotide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Linaclotide",
+        "#GCCReceptor",
+        "#GutScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "FDA, Linzess linaclotide prescribing information, revised 2025",
+        "Chey et al., Linaclotide for irritable bowel syndrome with constipation: a 26-week randomized double-blind placebo-controlled trial, American Journal of Gastroenterology 2012, PMID 22986437",
+        "Castro et al., Linaclotide inhibits colonic nociceptors and relieves abdominal pain via guanylate cyclase-C and extracellular cyclic GMP, Gastroenterology 2013, PMID 23958540"
+      ]
     }
   ]
 }

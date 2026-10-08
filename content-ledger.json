@@ -1739,6 +1739,35 @@
         "Chey et al., Linaclotide for irritable bowel syndrome with constipation: a 26-week randomized double-blind placebo-controlled trial, American Journal of Gastroenterology 2012, PMID 22986437",
         "Castro et al., Linaclotide inhibits colonic nociceptors and relieves abdominal pain via guanylate cyclase-C and extracellular cyclic GMP, Gastroenterology 2013, PMID 23958540"
       ]
+    },
+    {
+      "id": "063",
+      "date": "2026-10-08",
+      "format": "Beginner concept / Easy laboratory comparison",
+      "topic": "Reference interval versus clinical decision limit: population description and action threshold are different tools",
+      "focus": [
+        "a reference interval describes the distribution of results in a chosen reference population",
+        "many reference intervals represent the central 95 percent of that population",
+        "a clinical decision limit is a threshold tied to risk diagnosis or a recommended action",
+        "decision limits are derived from outcome evidence or clinical guidelines rather than simply from a healthy population distribution",
+        "a decision limit can sit inside or outside a reference interval",
+        "a result outside the reference interval does not automatically prove disease",
+        "test method age sex health state and clinical context can affect interpretation"
+      ],
+      "asset": "media/063-reference-interval-vs-decision-limit.jpg",
+      "caption": "captions/063-reference-interval-vs-decision-limit.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LabResults",
+        "#ReferenceIntervals",
+        "#ClinicalChemistry",
+        "#HealthLiteracy"
+      ],
+      "evidence": [
+        "Ozarda et al., Distinguishing reference intervals and clinical decision limits, Clinical Chemistry and Laboratory Medicine 2018, PMID 30047297",
+        "IFCC Committee on Reference Intervals and Decision Limits, current committee scope",
+        "CDC Clinical Standardization Programs, laboratory test interpretation and reference intervals"
+      ]
     }
   ]
 }

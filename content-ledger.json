@@ -1681,6 +1681,35 @@
         "Furman, The development of Byetta exenatide from the venom of the Gila monster as an anti-diabetic agent, Toxicon 2012, PMID 21194543",
         "Doyle et al., The importance of the nine-amino acid C-terminal sequence of exendin-4 for GLP-1 receptor binding and biological activity, Regulatory Peptides 2003, PMID 12832104"
       ]
+    },
+    {
+      "id": "061",
+      "date": "2026-10-08",
+      "format": "Research literacy / Beginner statistics",
+      "topic": "Confidence intervals: using the range around a point estimate to understand precision and uncertainty",
+      "focus": [
+        "the point estimate is a study's best single estimate of an effect",
+        "a confidence interval gives lower and upper limits around that estimate",
+        "narrower intervals generally indicate greater precision while wider intervals indicate more uncertainty",
+        "sample size and variability are among the factors affecting interval width",
+        "a 95 percent confidence interval is not a range containing 95 percent of individual outcomes",
+        "under repeated sampling about 95 percent of intervals produced by the same method would contain the true value",
+        "readers should examine both limits and consider whether they imply different practical conclusions"
+      ],
+      "asset": "media/061-confidence-intervals.jpg",
+      "caption": "captions/061-confidence-intervals.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ConfidenceIntervals",
+        "#ClinicalResearch",
+        "#StatisticsMadeSimple",
+        "#EvidenceLiteracy"
+      ],
+      "evidence": [
+        "FDA, Multiple Endpoints in Clinical Trials Guidance for Industry, January 2017",
+        "Hespanhol et al., Understanding and interpreting confidence and credible intervals around effect estimates, Brazilian Journal of Physical Therapy 2019, PMCID PMC6630113",
+        "Ranganathan et al., How to read a published clinical trial: A practical guide for clinicians, Cancer Research Statistics and Treatment 2020, PMCID PMC7252615"
+      ]
     }
   ]
 }

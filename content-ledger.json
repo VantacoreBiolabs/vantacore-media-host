@@ -1797,6 +1797,35 @@
         "FDA-approved Symlin prescribing information and boxed warning for severe hypoglycemia",
         "DailyMed clinical pharmacology and description sections for amylin signaling and the three proline substitutions"
       ]
+    },
+    {
+      "id": "065",
+      "date": "2026-10-09",
+      "format": "Research literacy / Beginner laboratory comparison",
+      "topic": "Positive versus negative experimental controls: confirming detection and revealing unwanted signal",
+      "focus": [
+        "a positive control is expected to produce a known signal",
+        "a failed positive control can show that the assay did not detect something it should detect",
+        "a negative control is expected to show no target signal",
+        "an unexpected negative-control signal can reveal contamination background noise or nonspecific effects",
+        "controls must be checked before interpreting experimental sample results",
+        "controls address specific failure modes and do not guarantee that every result is correct",
+        "appropriate controls depend on the method and research question"
+      ],
+      "asset": "media/065-positive-vs-negative-controls.jpg",
+      "caption": "captions/065-positive-vs-negative-controls.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ExperimentalControls",
+        "#LabScience",
+        "#ResearchLiteracy",
+        "#QualityControl"
+      ],
+      "evidence": [
+        "The controls that got out of control: How failed positive and negative controls can undermine experimental interpretation, 2025, PMCID PMC11811022",
+        "Out of Control? Managing Baseline Variability in Experimental Studies with Control Groups, 2019, PMID 31595416",
+        "FDA Discover Labs COVID-19 Assay EUA Summary, June 30 2023, control interpretation section"
+      ]
     }
   ]
 }

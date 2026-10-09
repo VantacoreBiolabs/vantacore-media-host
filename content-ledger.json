@@ -1768,6 +1768,35 @@
         "IFCC Committee on Reference Intervals and Decision Limits, current committee scope",
         "CDC Clinical Standardization Programs, laboratory test interpretation and reference intervals"
       ]
+    },
+    {
+      "id": "064",
+      "date": "2026-10-08",
+      "format": "Peptide spotlight / Beginner molecular design",
+      "topic": "Pramlintide: a 37-amino-acid synthetic amylin analog engineered with three proline substitutions",
+      "focus": [
+        "pramlintide is a synthetic 37-amino-acid peptide analog of human amylin",
+        "amylin is normally cosecreted with insulin by pancreatic beta cells",
+        "pramlintide replaces residues at positions 25 28 and 29 with proline",
+        "the peptide slows gastric emptying and suppresses post-meal glucagon secretion",
+        "pramlintide received initial United States approval in 2005 for defined insulin-treated adults",
+        "its prescribing information contains a boxed warning for severe hypoglycemia when used with insulin",
+        "approval does not make pramlintide a general wellness or weight-loss peptide"
+      ],
+      "asset": "media/064-pramlintide-peptide-spotlight.jpg",
+      "caption": "captions/064-pramlintide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pramlintide",
+        "#AmylinScience",
+        "#PeptideEducation",
+        "#DiabetesResearch"
+      ],
+      "evidence": [
+        "DailyMed, Symlin pramlintide acetate prescribing information, initial United States approval 2005",
+        "FDA-approved Symlin prescribing information and boxed warning for severe hypoglycemia",
+        "DailyMed clinical pharmacology and description sections for amylin signaling and the three proline substitutions"
+      ]
     }
   ]
 }

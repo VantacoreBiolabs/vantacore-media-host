@@ -1855,6 +1855,35 @@
         "FDA, Firazyr icatibant prescribing information, revised 2024",
         "Cicardi et al., Icatibant a new bradykinin-receptor antagonist in hereditary angioedema, New England Journal of Medicine 2010, PMCID PMC4662377"
       ]
+    },
+    {
+      "id": "067",
+      "date": "2026-10-09",
+      "format": "Beginner concept / Easy measurement comparison",
+      "topic": "Random error versus systematic error: unpredictable scatter and consistent directional bias",
+      "focus": [
+        "random error changes unpredictably between measurements",
+        "random error makes repeated measurements spread out",
+        "additional measurements can reduce the influence of random error on an average",
+        "systematic error shifts results consistently in one direction",
+        "calibration problems and method bias can create systematic error",
+        "repetition alone does not correct a systematic bias",
+        "results can be precise without being accurate"
+      ],
+      "asset": "media/067-random-vs-systematic-error.jpg",
+      "caption": "captions/067-random-vs-systematic-error.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MeasurementScience",
+        "#LabAccuracy",
+        "#ResearchLiteracy",
+        "#QualityScience"
+      ],
+      "evidence": [
+        "NIST/SEMATECH e-Handbook of Statistical Methods, measurement process characterization and bias",
+        "NIST Technical Note 1297, Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results",
+        "NIST Uncertainty Machine, current web application for measurement uncertainty evaluation"
+      ]
     }
   ]
 }

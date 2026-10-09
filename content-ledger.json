@@ -1826,6 +1826,35 @@
         "Out of Control? Managing Baseline Variability in Experimental Studies with Control Groups, 2019, PMID 31595416",
         "FDA Discover Labs COVID-19 Assay EUA Summary, June 30 2023, control interpretation section"
       ]
+    },
+    {
+      "id": "066",
+      "date": "2026-10-09",
+      "format": "Peptide spotlight / Beginner receptor mechanism",
+      "topic": "Icatibant: a synthetic 10-amino-acid peptidomimetic that blocks the bradykinin B2 receptor",
+      "focus": [
+        "icatibant is a synthetic 10-amino-acid peptidomimetic",
+        "bradykinin normally activates the bradykinin B2 receptor",
+        "bradykinin B2 signaling can increase vascular permeability and contribute to swelling",
+        "icatibant competitively blocks bradykinin signaling at the B2 receptor",
+        "controlled clinical trials supported United States approval",
+        "the approved indication is acute hereditary-angioedema attacks in adults",
+        "approval should not be generalized to every type or cause of swelling"
+      ],
+      "asset": "media/066-icatibant-peptide-spotlight.jpg",
+      "caption": "captions/066-icatibant-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Icatibant",
+        "#Bradykinin",
+        "#RareDiseaseEducation",
+        "#PeptideScience"
+      ],
+      "evidence": [
+        "DailyMed, Icatibant injection prescribing information, current 2026",
+        "FDA, Firazyr icatibant prescribing information, revised 2024",
+        "Cicardi et al., Icatibant a new bradykinin-receptor antagonist in hereditary angioedema, New England Journal of Medicine 2010, PMCID PMC4662377"
+      ]
     }
   ]
 }

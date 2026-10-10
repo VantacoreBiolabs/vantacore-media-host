@@ -1913,7 +1913,37 @@
         "DailyMed clinical pharmacology section for N-type calcium-channel binding and non-opioid mechanism",
         "DailyMed boxed warning and contraindication for neuropsychiatric adverse reactions and preexisting psychosis"
       ]
+    },
+    {
+      "id": "069",
+      "date": "2026-10-10",
+      "format": "Beginner concept / Easy diagnostic comparison",
+      "topic": "Diagnostic sensitivity versus specificity: finding true positives and correctly clearing true negatives",
+      "focus": [
+        "diagnostic sensitivity is the true-positive rate among people who have the condition",
+        "higher sensitivity corresponds to fewer false-negative results",
+        "diagnostic specificity is the true-negative rate among people who do not have the condition",
+        "higher specificity corresponds to fewer false-positive results",
+        "sensitivity and specificity do not directly give the probability that an individual result is correct",
+        "predictive interpretation also depends on prevalence and pretest probability",
+        "test thresholds and the reference standard can affect reported performance"
+      ],
+      "asset": "media/069-sensitivity-vs-specificity.jpg",
+      "caption": "captions/069-sensitivity-vs-specificity.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#DiagnosticTesting",
+        "#Sensitivity",
+        "#Specificity",
+        "#HealthLiteracy"
+      ],
+      "evidence": [
+        "InformedHealth.org, Sensitivity and specificity, NCBI Bookshelf NBK611900, updated 2024",
+        "AHRQ Methods Guide for Medical Test Reviews, Appendix: Test Performance Metrics, NCBI Bookshelf NBK98249",
+        "Diagnostic Tests: Understanding Results Assessing Utility and Predicting Performance, PMCID PMC6359896"
+      ]
     }
   ]
 }
+
 

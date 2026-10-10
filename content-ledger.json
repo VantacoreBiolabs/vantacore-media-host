@@ -1884,6 +1884,36 @@
         "NIST Technical Note 1297, Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results",
         "NIST Uncertainty Machine, current web application for measurement uncertainty evaluation"
       ]
+    },
+    {
+      "id": "068",
+      "date": "2026-10-09",
+      "format": "Peptide spotlight / Beginner origin and mechanism",
+      "topic": "Ziconotide: a 25-amino-acid synthetic peptide inspired by a cone-snail conopeptide that blocks N-type calcium channels",
+      "focus": [
+        "ziconotide is a synthetic 25-amino-acid peptide",
+        "it is equivalent to a naturally occurring conopeptide identified in the marine cone snail Conus magus",
+        "ziconotide binds to N-type voltage-sensitive calcium channels on primary nociceptive afferent nerves in the spinal cord",
+        "blocking those channels reduces excitatory neurotransmitter release from primary afferent nerve terminals",
+        "ziconotide does not bind to opioid receptors",
+        "controlled clinical studies supported approval for a narrow severe-chronic-pain setting",
+        "the prescribing information contains a boxed warning for serious neuropsychiatric reactions and contraindicates use in people with a preexisting history of psychosis"
+      ],
+      "asset": "media/068-ziconotide-peptide-spotlight.jpg",
+      "caption": "captions/068-ziconotide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ziconotide",
+        "#CalciumChannels",
+        "#PeptideScience",
+        "#NeuroscienceEducation"
+      ],
+      "evidence": [
+        "DailyMed, PRIALT ziconotide acetate prescribing information, current October 2026",
+        "DailyMed clinical pharmacology section for N-type calcium-channel binding and non-opioid mechanism",
+        "DailyMed boxed warning and contraindication for neuropsychiatric adverse reactions and preexisting psychosis"
+      ]
     }
   ]
 }
+

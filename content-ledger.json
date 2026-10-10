@@ -1971,6 +1971,35 @@
         "DailyMed clinical pharmacology section for 13-amino-acid structure, alpha-MSH analogy, predominant MC1R binding, and eumelanin production independent of UV exposure",
         "DailyMed indication, warnings, and patient counseling sections for EPP-specific approval, skin monitoring, hypersensitivity, and continued light protection"
       ]
+    },
+    {
+      "id": "071",
+      "date": "2026-10-10",
+      "format": "Quality literacy / Beginner myth-versus-fact",
+      "topic": "Validated method does not mean flawless method: analytical validation demonstrates fitness for a defined intended purpose",
+      "focus": [
+        "analytical validation collects evidence that a procedure is fit for a defined intended purpose",
+        "accuracy describes closeness to an accepted reference value",
+        "precision describes agreement among repeated measurements",
+        "selectivity addresses measuring the intended analyte despite other sample components",
+        "the working range identifies the interval over which suitable performance has been demonstrated",
+        "validation applies within a defined context including analyte sample type range and operating conditions",
+        "a procedure validated for one use is not automatically valid for every matrix concentration range or laboratory situation"
+      ],
+      "asset": "media/071-validated-method-not-flawless.jpg",
+      "caption": "captions/071-validated-method-not-flawless.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AnalyticalValidation",
+        "#LabQuality",
+        "#MethodValidation",
+        "#QualityScience"
+      ],
+      "evidence": [
+        "FDA, ICH Q2(R2) Validation of Analytical Procedures, final guidance March 2024",
+        "FDA, ICH Q14 Analytical Procedure Development, final guidance March 2024",
+        "ICH Q2(R2), Step 4 guideline dated November 1, 2023"
+      ]
     }
   ]
 }

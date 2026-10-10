@@ -1942,8 +1942,38 @@
         "AHRQ Methods Guide for Medical Test Reviews, Appendix: Test Performance Metrics, NCBI Bookshelf NBK98249",
         "Diagnostic Tests: Understanding Results Assessing Utility and Predicting Performance, PMCID PMC6359896"
       ]
+    },
+    {
+      "id": "070",
+      "date": "2026-10-10",
+      "format": "Peptide spotlight / Beginner receptor mechanism",
+      "topic": "Afamelanotide: a synthetic 13-amino-acid alpha-MSH analog that predominantly activates MC1R and increases eumelanin",
+      "focus": [
+        "afamelanotide is a synthetic 13-amino-acid peptide and structural analog of alpha-melanocyte-stimulating hormone",
+        "it binds predominantly to the melanocortin-1 receptor MC1R",
+        "MC1R signaling increases production of eumelanin without requiring sunlight or artificial ultraviolet exposure",
+        "its approved use is narrow: increasing pain-free light exposure in adults with erythropoietic protoporphyria",
+        "it is not a general tanning product and does not replace sunscreen or other light-protection measures",
+        "the prescribing information notes possible darkening of preexisting nevi and ephelides and recommends twice-yearly full-body skin examinations",
+        "serious hypersensitivity reactions including anaphylaxis have been reported"
+      ],
+      "asset": "media/070-afamelanotide-peptide-spotlight.jpg",
+      "caption": "captions/070-afamelanotide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Afamelanotide",
+        "#MC1R",
+        "#PeptideScience",
+        "#RareDiseaseEducation"
+      ],
+      "evidence": [
+        "DailyMed, SCENESSE afamelanotide implant prescribing information, updated May 11, 2026",
+        "DailyMed clinical pharmacology section for 13-amino-acid structure, alpha-MSH analogy, predominant MC1R binding, and eumelanin production independent of UV exposure",
+        "DailyMed indication, warnings, and patient counseling sections for EPP-specific approval, skin monitoring, hypersensitivity, and continued light protection"
+      ]
     }
   ]
 }
+
 
 

@@ -2062,6 +2062,34 @@
         "FDA Step 3 Clinical Research for the relationship of phases 1 through 4",
         "FDA Phase 1 guidance noting that phases may overlap or combine"
       ]
+    },
+    {
+      "id": "074",
+      "date": "2026-10-11",
+      "format": "Peptide spotlight / Beginner intestinal receptor mechanism",
+      "topic": "Plecanatide: a 16-amino-acid uroguanylin analog that activates intestinal guanylate cyclase-C",
+      "focus": [
+        "plecanatide is a 16-amino-acid peptide structurally related to human uroguanylin",
+        "plecanatide and its active metabolite bind guanylate cyclase-C on the luminal surface of intestinal epithelium",
+        "GC-C activation increases intracellular and extracellular cyclic GMP",
+        "the signal promotes chloride and bicarbonate secretion into the intestinal lumen and increases intestinal fluid",
+        "approved adult uses are chronic idiopathic constipation and irritable bowel syndrome with constipation",
+        "labeling includes a boxed warning for serious dehydration in pediatric patients and a warning for severe diarrhea"
+      ],
+      "asset": "media/074-plecanatide-peptide-spotlight.jpg",
+      "caption": "captions/074-plecanatide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Plecanatide",
+        "#GCCReceptor",
+        "#GutScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed TRULANCE plecanatide prescribing information, current label accessed October 11 2026",
+        "DailyMed clinical pharmacology section for 16-amino-acid structure and GC-C cGMP mechanism",
+        "DailyMed indications boxed warning and diarrhea precaution"
+      ]
     }
   ]
 }

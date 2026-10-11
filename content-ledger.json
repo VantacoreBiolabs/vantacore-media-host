@@ -2029,6 +2029,39 @@
         "DailyMed clinical pharmacology section for GLP-2 receptor signaling and intestinal fluid absorption",
         "DailyMed indications warnings and precautions sections for short bowel syndrome and safety monitoring"
       ]
+    },
+    {
+      "id": "073",
+      "date": "2026-10-11",
+      "format": "Research literacy / Beginner three-slide carousel",
+      "topic": "Clinical trial phases: each phase answers a different safety effectiveness or post-approval question",
+      "focus": [
+        "a phase number identifies the main research question rather than guaranteeing quality or success",
+        "phase 1 emphasizes initial human safety exposure side effects and pharmacology",
+        "phase 2 examines preliminary effectiveness while continuing safety evaluation",
+        "phase 3 gathers larger confirmatory effectiveness and safety evidence to assess benefit versus risk",
+        "phase 4 follows approval and can study longer-term safety effectiveness and broader real-world use",
+        "clinical trial phases may overlap or be combined rather than forming a rigid staircase"
+      ],
+      "asset": "media/2026-10-11-clinical-trial-phases-01.jpg",
+      "assets": [
+        "media/2026-10-11-clinical-trial-phases-01.jpg",
+        "media/2026-10-11-clinical-trial-phases-02.jpg",
+        "media/2026-10-11-clinical-trial-phases-03.jpg"
+      ],
+      "caption": "captions/073-clinical-trial-phases.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#DrugDevelopment",
+        "#ResearchLiteracy",
+        "#EvidenceEducation"
+      ],
+      "evidence": [
+        "FDA Drug Development and Review Definitions for phases 1 through 3",
+        "FDA Step 3 Clinical Research for the relationship of phases 1 through 4",
+        "FDA Phase 1 guidance noting that phases may overlap or combine"
+      ]
     }
   ]
 }

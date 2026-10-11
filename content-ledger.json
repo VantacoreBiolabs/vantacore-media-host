@@ -2090,6 +2090,34 @@
         "DailyMed clinical pharmacology section for 16-amino-acid structure and GC-C cGMP mechanism",
         "DailyMed indications boxed warning and diarrhea precaution"
       ]
+    },
+    {
+      "id": "075",
+      "date": "2026-10-11",
+      "format": "Beginner concept / Easy research comparison",
+      "topic": "Efficacy versus effectiveness: performance under controlled study conditions compared with routine real-world practice",
+      "focus": [
+        "efficacy asks how an intervention performs under ideal or tightly controlled conditions",
+        "efficacy trials often use selected participants standardized procedures and close follow-up",
+        "effectiveness asks how an intervention performs in routine practice",
+        "real-world effectiveness may be influenced by access adherence comorbidities and differences in care",
+        "strong efficacy does not guarantee an equal effect in everyday practice",
+        "studies can fall along a continuum rather than being purely efficacy or purely effectiveness"
+      ],
+      "asset": "media/075-efficacy-vs-effectiveness.jpg",
+      "caption": "captions/075-efficacy-vs-effectiveness.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalResearch",
+        "#RealWorldEvidence",
+        "#ResearchLiteracy",
+        "#EvidenceEducation"
+      ],
+      "evidence": [
+        "Singal et al. A Primer on Effectiveness and Efficacy Trials, Clinical and Translational Gastroenterology 2014, PMCID PMC3912314",
+        "FDA draft guidance on postapproval methods for capturing safety and efficacy data, September 2025",
+        "NIH and NLM clinical research resources on controlled trials and real-world practice"
+      ]
     }
   ]
 }

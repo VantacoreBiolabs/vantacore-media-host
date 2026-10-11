@@ -2000,6 +2000,35 @@
         "FDA, ICH Q14 Analytical Procedure Development, final guidance March 2024",
         "ICH Q2(R2), Step 4 guideline dated November 1, 2023"
       ]
+    },
+    {
+      "id": "072",
+      "date": "2026-10-10",
+      "format": "Peptide spotlight / Beginner intestinal mechanism",
+      "topic": "Teduglutide: a 33-amino-acid GLP-2 analog that activates intestinal GLP-2 receptors and supports intestinal adaptation",
+      "focus": [
+        "teduglutide is a 33-amino-acid glucagon-like peptide-2 analog",
+        "naturally occurring GLP-2 is secreted by L-cells in the distal intestine",
+        "teduglutide binds GLP-2 receptors in intestinal enteroendocrine cells subepithelial myofibroblasts and enteric neurons",
+        "receptor activation releases local mediators involved in intestinal adaptation",
+        "clinical pharmacology research reported increased gastrointestinal fluid absorption villus height and crypt depth",
+        "the approved indication is adults and pediatric patients one year and older with short bowel syndrome who depend on parenteral support",
+        "labeling includes monitoring and warnings for accelerated neoplastic growth intestinal obstruction biliary and pancreatic disease and fluid overload"
+      ],
+      "asset": "media/072-teduglutide-peptide-spotlight.jpg",
+      "caption": "captions/072-teduglutide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Teduglutide",
+        "#GLP2",
+        "#ShortBowelSyndrome",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed, GATTEX teduglutide prescribing information, updated September 5, 2025",
+        "DailyMed clinical pharmacology section for GLP-2 receptor signaling and intestinal fluid absorption",
+        "DailyMed indications warnings and precautions sections for short bowel syndrome and safety monitoring"
+      ]
     }
   ]
 }

@@ -2147,6 +2147,34 @@
         "DailyMed VOXZOGO clinical pharmacology for 39-amino-acid structure and NPR-B FGFR3 MAPK mechanism",
         "FDA accelerated approval announcement and current labeling for annualized growth velocity and hypotension warning"
       ]
+    },
+    {
+      "id": "077",
+      "date": "2026-10-12",
+      "format": "Peptide spotlight / Beginner somatostatin receptor mechanism",
+      "topic": "Lanreotide: a cyclic eight-amino-acid somatostatin analog with strongest affinity for SSTR2",
+      "focus": [
+        "lanreotide is a synthetic cyclic octapeptide modeled after the inhibitory hormone somatostatin",
+        "it binds human somatostatin receptors with highest affinity for the SSTR2 subtype and lower affinity for SSTR5",
+        "somatostatin receptor signaling can reduce growth hormone release and influence several digestive hormone pathways",
+        "approved uses are limited to specific settings involving acromegaly gastroenteropancreatic neuroendocrine tumors and carcinoid syndrome",
+        "lanreotide is an approved prescription medicine rather than a general hormone balancing peptide",
+        "labeling includes monitoring considerations for gallbladder abnormalities glucose changes bradycardia and thyroid function"
+      ],
+      "asset": "media/077-lanreotide-peptide-spotlight.jpg",
+      "caption": "captions/077-lanreotide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Lanreotide",
+        "#Somatostatin",
+        "#ReceptorScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "FDA SOMATULINE DEPOT lanreotide prescribing information",
+        "Ipsen United States SOMATULINE DEPOT product information accessed October 12 2026",
+        "FDA labeling for receptor affinity indications and gallbladder glucose cardiovascular and thyroid monitoring"
+      ]
     }
   ]
 }

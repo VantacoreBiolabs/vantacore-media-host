@@ -2203,6 +2203,33 @@
         "U.S. Census Bureau survey methodology on sampling and nonsampling error",
         "CDC NHANES sample design guidance on probability sampling representativeness and weighting"
       ]
+    },
+    {
+      "id": "079",
+      "date": "2026-10-12",
+      "format": "Quality literacy / Beginner laboratory comparison",
+      "topic": "Specification versus test result: the predefined acceptance rules and the measured value evaluated against them",
+      "focus": [
+        "a specification lists required tests analytical procedures and acceptance criteria",
+        "a test result is the measured value produced by the listed procedure",
+        "in specification means a result meets the defined criteria",
+        "out of specification means a result falls outside established criteria",
+        "an OOS result requires a documented investigation rather than repeated testing until a passing value appears",
+        "passing one specification test does not establish complete quality because specifications are one part of the total control strategy"
+      ],
+      "asset": "media/079-specification-vs-test-result.jpg",
+      "caption": "captions/079-specification-vs-test-result.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#QualityControl",
+        "#LabTesting",
+        "#Specifications",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "FDA Q6A Specifications guidance finalized December 2000",
+        "FDA Investigating Out-of-Specification Test Results guidance revised May 2022"
+      ]
     }
   ]
 }

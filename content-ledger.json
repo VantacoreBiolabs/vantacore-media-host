@@ -2118,6 +2118,35 @@
         "FDA draft guidance on postapproval methods for capturing safety and efficacy data, September 2025",
         "NIH and NLM clinical research resources on controlled trials and real-world practice"
       ]
+    },
+    {
+      "id": "076",
+      "date": "2026-10-11",
+      "format": "Peptide spotlight / Beginner growth-plate signaling mechanism",
+      "topic": "Vosoritide: a 39-amino-acid CNP analog that binds NPR-B and counteracts FGFR3 downstream signaling",
+      "focus": [
+        "vosoritide is a 39-amino-acid analog of C-type natriuretic peptide",
+        "achondroplasia is driven by gain-of-function FGFR3 signaling that negatively regulates endochondral bone growth",
+        "vosoritide binds natriuretic peptide receptor-B",
+        "NPR-B signaling counteracts downstream FGFR3 signaling by inhibiting ERK1 and ERK2 in the MAPK pathway at RAF-1",
+        "the pathway supports chondrocyte proliferation differentiation and endochondral bone growth while growth plates remain open",
+        "approved use is specific to increasing linear growth in pediatric patients with achondroplasia and open epiphyses",
+        "accelerated approval was based on annualized growth velocity and labeling warns of transient decreases in blood pressure"
+      ],
+      "asset": "media/076-vosoritide-peptide-spotlight.jpg",
+      "caption": "captions/076-vosoritide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Vosoritide",
+        "#CNPScience",
+        "#Achondroplasia",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "FDA VOXZOGO vosoritide label revised November 2024, accessed October 11 2026",
+        "DailyMed VOXZOGO clinical pharmacology for 39-amino-acid structure and NPR-B FGFR3 MAPK mechanism",
+        "FDA accelerated approval announcement and current labeling for annualized growth velocity and hypotension warning"
+      ]
     }
   ]
 }

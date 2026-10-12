@@ -2175,6 +2175,34 @@
         "Ipsen United States SOMATULINE DEPOT product information accessed October 12 2026",
         "FDA labeling for receptor affinity indications and gallbladder glucose cardiovascular and thyroid monitoring"
       ]
+    },
+    {
+      "id": "078",
+      "date": "2026-10-12",
+      "format": "Beginner concept / Easy research comparison",
+      "topic": "Sample versus population: the measured subset and the full group a research question aims to describe",
+      "focus": [
+        "the population is the complete group targeted by the research question",
+        "the sample is the subset selected and measured",
+        "sample statistics are used to estimate population characteristics",
+        "larger samples can improve precision but size alone does not guarantee representativeness",
+        "selection method and coverage determine whether important parts of the population are systematically missed",
+        "sampling uncertainty differs from nonsampling problems such as nonresponse inaccurate answers coverage errors and processing mistakes"
+      ],
+      "asset": "media/078-sample-vs-population.jpg",
+      "caption": "captions/078-sample-vs-population.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SampleSize",
+        "#PopulationScience",
+        "#ResearchMethods",
+        "#EvidenceEducation"
+      ],
+      "evidence": [
+        "U.S. Census Bureau American Community Survey Sample Size Definitions",
+        "U.S. Census Bureau survey methodology on sampling and nonsampling error",
+        "CDC NHANES sample design guidance on probability sampling representativeness and weighting"
+      ]
     }
   ]
 }

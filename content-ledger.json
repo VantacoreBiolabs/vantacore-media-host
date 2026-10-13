@@ -2316,6 +2316,33 @@
         "DailyMed teriparatide description and clinical pharmacology for PTH(1-34) structure receptor signaling and bone formation",
         "FDA teriparatide prescribing information approved in 2026 for indications warnings precautions and treatment-duration limits"
       ]
+    },
+    {
+      "id": "083",
+      "date": "2026-10-13",
+      "format": "Quality literacy / Beginner analytical-method concept",
+      "topic": "Spike recovery: comparing a known addition with the amount found after the complete analytical workflow",
+      "focus": [
+        "a known amount of target analyte is added to a sample before analysis",
+        "the spiked sample is carried through the complete preparation and measurement workflow",
+        "recovery compares the measured increase with the amount added",
+        "consistent recovery can demonstrate reliable handling of the analyte through the workflow",
+        "recovery does not always need to equal exactly 100 percent",
+        "recovery alone does not establish selectivity precision accuracy across the full range or freedom from matrix effects"
+      ],
+      "asset": "media/083-spike-recovery-explained.jpg",
+      "caption": "captions/083-spike-recovery-explained.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SpikeRecovery",
+        "#AnalyticalTesting",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "FDA Q2(R2) Validation of Analytical Procedures final guidance issued March 2024",
+        "FDA Bioanalytical Method Validation Guidance for Industry final guidance issued May 2018"
+      ]
     }
   ]
 }

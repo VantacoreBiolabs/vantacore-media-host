@@ -2230,6 +2230,35 @@
         "FDA Q6A Specifications guidance finalized December 2000",
         "FDA Investigating Out-of-Specification Test Results guidance revised May 2022"
       ]
+    },
+    {
+      "id": "080",
+      "date": "2026-10-12",
+      "format": "Peptide spotlight / Beginner kidney water-balance mechanism",
+      "topic": "Desmopressin: a synthetic vasopressin peptide analog that activates V2 receptors and increases kidney water reabsorption",
+      "focus": [
+        "desmopressin is a synthetic peptide analog of arginine vasopressin or antidiuretic hormone",
+        "its primary pharmacodynamic action is activation of vasopressin V2 receptors",
+        "kidney V2 receptor signaling increases water reabsorption and concentrates urine",
+        "the antidiuretic effect reduces urine production",
+        "approved uses differ by formulation and include specific settings involving central diabetes insipidus nocturnal polyuria and certain bleeding disorders",
+        "desmopressin is not a general hydration aid and can cause dangerous hyponatremia through water retention",
+        "some formulations carry a boxed warning and require formulation-specific screening and sodium monitoring"
+      ],
+      "asset": "media/080-desmopressin-peptide-spotlight.jpg",
+      "caption": "captions/080-desmopressin-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Desmopressin",
+        "#Vasopressin",
+        "#KidneyScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed DDAVP desmopressin acetate labeling for synthetic vasopressin analog and antidiuretic effects",
+        "DailyMed desmopressin labeling for V2 receptor mechanism kidney water reabsorption and reduced urine production",
+        "DailyMed NOCDURNA desmopressin labeling for boxed hyponatremia warning and formulation-specific sodium monitoring"
+      ]
     }
   ]
 }

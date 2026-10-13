@@ -2259,6 +2259,34 @@
         "DailyMed desmopressin labeling for V2 receptor mechanism kidney water reabsorption and reduced urine production",
         "DailyMed NOCDURNA desmopressin labeling for boxed hyponatremia warning and formulation-specific sodium monitoring"
       ]
+    },
+    {
+      "id": "081",
+      "date": "2026-10-13",
+      "format": "Beginner concept / Easy evidence-synthesis comparison",
+      "topic": "Systematic review versus meta-analysis: structured evidence review compared with optional statistical combination of study results",
+      "focus": [
+        "a systematic review uses a focused question and preplanned methods to find select and evaluate studies",
+        "a meta-analysis statistically combines numerical results from two or more separate studies",
+        "a systematic review can be completed without a meta-analysis",
+        "studies may be too different or unsuitable for meaningful statistical combination",
+        "meta-analysis can improve precision but does not erase limitations in included studies",
+        "more studies do not automatically produce better evidence because heterogeneity bias and analytical choices still matter"
+      ],
+      "asset": "media/081-systematic-review-vs-meta-analysis.jpg",
+      "caption": "captions/081-systematic-review-vs-meta-analysis.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SystematicReview",
+        "#MetaAnalysis",
+        "#EvidenceSynthesis",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "Cochrane Handbook Chapter 1 on systematic review questions preplanned methods and bias reduction, version 6.5 2024",
+        "Cochrane Handbook Chapter 9 on synthesis and circumstances where meta-analysis is not possible, version 6.5 2024",
+        "Cochrane Handbook Chapter 10 on meta-analysis as statistical combination and limitations from heterogeneity and bias, updated November 2024"
+      ]
     }
   ]
 }

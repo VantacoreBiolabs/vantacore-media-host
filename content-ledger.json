@@ -2369,6 +2369,34 @@
       "evidence": [
         "DailyMed HEPCLUDEX bulevirtide-gmod prescribing information for structure mechanism indication accelerated-approval basis and boxed warning, accessed October 13 2026"
       ]
+    },
+    {
+      "id": "085",
+      "date": "2026-10-14",
+      "format": "Research literacy / Beginner safety-term comparison",
+      "topic": "Adverse event versus adverse reaction: an occurrence without required causation compared with a harmful response having a reasonably possible causal link",
+      "focus": [
+        "an adverse event is an unwanted medical occurrence after exposure to a product",
+        "an adverse event may be a sign symptom disease or abnormal laboratory finding",
+        "classification as an adverse event does not require a causal relationship with the product",
+        "an adverse reaction is a harmful and unintended response for which a causal relationship is at least reasonably possible",
+        "a single safety report does not establish that the product caused the event",
+        "spontaneous reports alone cannot establish event frequency or incidence"
+      ],
+      "asset": "media/085-adverse-event-vs-adverse-reaction.jpg",
+      "caption": "captions/085-adverse-event-vs-adverse-reaction.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AdverseEvents",
+        "#DrugSafety",
+        "#ResearchLiteracy",
+        "#EvidenceEducation"
+      ],
+      "evidence": [
+        "FDA ICH E2D(R1) Postapproval Safety Data final guidance issued March 2026",
+        "FDA CDER postmarket safety surveillance explanation published April 2026",
+        "FDA Adverse Event Monitoring System guidance on reports causation and incidence updated 2026"
+      ]
     }
   ]
 }

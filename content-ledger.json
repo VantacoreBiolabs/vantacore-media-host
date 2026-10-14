@@ -2397,9 +2397,32 @@
         "FDA CDER postmarket safety surveillance explanation published April 2026",
         "FDA Adverse Event Monitoring System guidance on reports causation and incidence updated 2026"
       ]
+    },
+    {
+      "id": "086",
+      "date": "2026-10-14",
+      "format": "Peptide spotlight / Beginner diagnostic adrenal-signal mechanism",
+      "topic": "Cosyntropin: a synthetic ACTH(1–24) peptide used to test the adrenal cortex's cortisol response",
+      "focus": [
+        "cosyntropin is a synthetic open-chain peptide containing the first 24 amino acids of natural 39-amino-acid ACTH",
+        "the N-terminal sequence retains the full corticosteroid-stimulating activity of natural ACTH",
+        "cosyntropin signals the adrenal cortex and the subsequent cortisol response is measured",
+        "its labeled role is diagnostic screening of adrenocortical insufficiency in combination with other tests",
+        "cosyntropin is a diagnostic tool rather than a wellness or performance peptide",
+        "medications cortisol-binding proteins assay methods timing and clinical context can affect interpretation"
+      ],
+      "asset": "media/086-cosyntropin-peptide-spotlight.jpg",
+      "caption": "captions/086-cosyntropin-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cosyntropin",
+        "#ACTH",
+        "#AdrenalScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed CORTROSYN cosyntropin prescribing information for ACTH(1–24) structure full corticosteroidogenic activity indication and diagnostic limitations, accessed October 14 2026"
+      ]
     }
   ]
 }
-
-
-

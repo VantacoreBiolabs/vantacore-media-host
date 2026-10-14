@@ -2423,6 +2423,34 @@
       "evidence": [
         "DailyMed CORTROSYN cosyntropin prescribing information for ACTH(1–24) structure full corticosteroidogenic activity indication and diagnostic limitations, accessed October 14 2026"
       ]
+    },
+    {
+      "id": "087",
+      "date": "2026-10-14",
+      "format": "Beginner concept / Easy clinical-trial analysis comparison",
+      "topic": "Intention-to-treat versus per-protocol: original randomized assignment compared with a predefined protocol-compliant analysis set",
+      "focus": [
+        "intention-to-treat analysis keeps participants in the groups to which they were originally randomized",
+        "the ITT principle helps preserve the comparison created by randomization",
+        "per-protocol analysis uses a predefined subset meeting important protocol criteria",
+        "post-randomization exclusions can alter group balance and affect estimated results",
+        "neither analysis label is automatically correct for every research question",
+        "readers should examine inclusion exclusions missing-data handling and agreement between analysis sets"
+      ],
+      "asset": "media/087-intention-to-treat-vs-per-protocol.jpg",
+      "caption": "captions/087-intention-to-treat-vs-per-protocol.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#IntentionToTreat",
+        "#PerProtocol",
+        "#ClinicalTrials",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "FDA ICH E9 Statistical Principles for Clinical Trials guidance for the intention-to-treat principle and full analysis set",
+        "ICH E9(R1) addendum for treatment-policy estimands preservation of randomization and intercurrent-event handling",
+        "Ranganathan et al. Intention-to-treat versus per-protocol approaches to analysis, Perspect Clin Res 2023, PMCID PMC10718629"
+      ]
     }
   ]
 }

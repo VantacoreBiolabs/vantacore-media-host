@@ -2343,6 +2343,32 @@
         "FDA Q2(R2) Validation of Analytical Procedures final guidance issued March 2024",
         "FDA Bioanalytical Method Validation Guidance for Industry final guidance issued May 2018"
       ]
+    },
+    {
+      "id": "084",
+      "date": "2026-10-13",
+      "format": "Peptide spotlight / Beginner antiviral-entry mechanism",
+      "topic": "Bulevirtide: a 47-amino-acid lipopeptide that binds liver-cell NTCP and blocks hepatitis D virus attachment",
+      "focus": [
+        "bulevirtide is a synthetic 47-amino-acid lipopeptide with a myristoylated N-terminus",
+        "hepatitis D virus uses sodium taurocholate co-transporting polypeptide or NTCP on hepatocytes as an attachment receptor",
+        "bulevirtide binds NTCP and blocks the viral attachment step",
+        "the U.S. indication is adults with chronic hepatitis D infection without cirrhosis or with compensated cirrhosis",
+        "accelerated approval was based on decreased HDV RNA and ALT normalization while improvement in disease-related clinical outcomes has not been established",
+        "labeling carries a boxed warning for severe acute exacerbations of hepatitis D and B after discontinuation"
+      ],
+      "asset": "media/084-bulevirtide-peptide-spotlight.jpg",
+      "caption": "captions/084-bulevirtide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Bulevirtide",
+        "#HepatitisD",
+        "#AntiviralScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed HEPCLUDEX bulevirtide-gmod prescribing information for structure mechanism indication accelerated-approval basis and boxed warning, accessed October 13 2026"
+      ]
     }
   ]
 }

@@ -2477,6 +2477,32 @@
       "evidence": [
         "DailyMed CHIRHOSTIM human secretin prescribing information updated October 8 2025, accessed October 14 2026, for 27-amino-acid sequence mechanism indications and diagnostic limitations"
       ]
+    },
+    {
+      "id": "089",
+      "date": "2026-10-15",
+      "format": "Quality literacy / Beginner analytical-run readiness concept",
+      "topic": "System suitability: predefined checks confirming an analytical system is performing acceptably before sample results are trusted",
+      "focus": [
+        "system suitability is checked before or during an analytical run",
+        "predefined materials and conditions are used",
+        "measured performance is compared with predetermined acceptance criteria",
+        "criteria may examine repeatability resolution peak shape or other method-specific behavior",
+        "testing proceeds only when suitability requirements are met",
+        "a passing check does not establish sample identity purity potency or overall quality"
+      ],
+      "asset": "media/089-system-suitability-explained.jpg",
+      "caption": "captions/089-system-suitability-explained.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SystemSuitability",
+        "#AnalyticalTesting",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "ICH Q2(R2) Validation of Analytical Procedures, effective June 14 2024, for analytical performance characteristics and predefined criteria"
+      ]
     }
   ]
 }

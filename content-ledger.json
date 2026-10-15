@@ -2503,6 +2503,34 @@
       "evidence": [
         "ICH Q2(R2) Validation of Analytical Procedures, effective June 14 2024, for analytical performance characteristics and predefined criteria"
       ]
+    },
+    {
+      "id": "090",
+      "date": "2026-10-15",
+      "format": "Peptide spotlight / Beginner viral-fusion mechanism",
+      "topic": "Enfuvirtide: a synthetic 36-amino-acid peptide that binds HIV-1 gp41 and blocks virus-cell membrane fusion",
+      "focus": [
+        "enfuvirtide is a linear 36-amino-acid synthetic peptide",
+        "it targets the HIV-1 envelope protein gp41",
+        "gp41 normally undergoes shape changes that draw the viral and CD4-cell membranes together",
+        "enfuvirtide disrupts the conformational changes required for membrane fusion",
+        "blocking fusion prevents HIV-1 from entering the target cell at that step",
+        "approved use is with other antiretroviral medicines in specific treatment-experienced patients",
+        "it is not a cure vaccine or stand-alone prevention method and resistance can reduce activity"
+      ],
+      "asset": "media/090-enfuvirtide-peptide-spotlight.jpg",
+      "caption": "captions/090-enfuvirtide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Enfuvirtide",
+        "#HIVScience",
+        "#FusionInhibitor",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "FDA FUZEON prescribing information revised December 2018, accessed October 15 2026, for peptide length mechanism indication and resistance limitations",
+        "European Medicines Agency Fuzeon overview, accessed October 15 2026, for fusion-inhibitor mechanism and combination-use context"
+      ]
     }
   ]
 }

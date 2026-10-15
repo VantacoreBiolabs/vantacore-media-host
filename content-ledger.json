@@ -2451,6 +2451,32 @@
         "ICH E9(R1) addendum for treatment-policy estimands preservation of randomization and intercurrent-event handling",
         "Ranganathan et al. Intention-to-treat versus per-protocol approaches to analysis, Perspect Clin Res 2023, PMCID PMC10718629"
       ]
+    },
+    {
+      "id": "088",
+      "date": "2026-10-14",
+      "format": "Peptide spotlight / Beginner pancreatic diagnostic mechanism",
+      "topic": "Human secretin: a 27-amino-acid hormone peptide that stimulates pancreatic duct cells to secrete bicarbonate-rich fluid",
+      "focus": [
+        "human secretin has the same 27-amino-acid sequence as naturally occurring secretin",
+        "its primary action is stimulation of pancreatic duct cells",
+        "the response produces pancreatic fluid containing bicarbonate",
+        "approved diagnostic uses include aiding evaluation of pancreatic exocrine dysfunction gastrinoma and pancreatic duct anatomy during ERCP",
+        "human secretin is a diagnostic agent rather than a digestion or wellness peptide",
+        "medications test conditions collection technique and normative ranges can affect interpretation"
+      ],
+      "asset": "media/088-secretin-peptide-spotlight.jpg",
+      "caption": "captions/088-secretin-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Secretin",
+        "#PancreasScience",
+        "#DigestiveHormones",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed CHIRHOSTIM human secretin prescribing information updated October 8 2025, accessed October 14 2026, for 27-amino-acid sequence mechanism indications and diagnostic limitations"
+      ]
     }
   ]
 }

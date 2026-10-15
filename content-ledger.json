@@ -2531,6 +2531,33 @@
         "FDA FUZEON prescribing information revised December 2018, accessed October 15 2026, for peptide length mechanism indication and resistance limitations",
         "European Medicines Agency Fuzeon overview, accessed October 15 2026, for fusion-inhibitor mechanism and combination-use context"
       ]
+    },
+    {
+      "id": "091",
+      "date": "2026-10-15",
+      "format": "Research literacy / Beginner missing-outcome bias concept",
+      "topic": "Attrition bias: how participant loss and missing outcomes can distort a study comparison",
+      "focus": [
+        "attrition occurs when participants leave a study or planned outcome data cannot be obtained",
+        "risk of bias can increase when dropout differs between study groups",
+        "reasons for missing outcomes matter because they may be related to side effects worsening symptoms or lack of response",
+        "strong reports show the amount pattern and reasons for missing data",
+        "sensitivity analyses test whether conclusions change under different missing-data assumptions",
+        "dropout rate alone does not prove or rule out bias because pattern reasons and analysis all matter"
+      ],
+      "asset": "media/091-attrition-bias-explained.jpg",
+      "caption": "captions/091-attrition-bias-explained.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AttritionBias",
+        "#ClinicalTrials",
+        "#MissingData",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "ICH E9(R1) Addendum on Estimands and Sensitivity Analysis in Clinical Trials, effective July 30 2020, for missing-data assumptions and sensitivity analysis",
+        "EMA Missing Data in Confirmatory Clinical Trials guidance, accessed October 15 2026, for evaluating and reporting missing outcomes"
+      ]
     }
   ]
 }

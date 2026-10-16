@@ -2639,6 +2639,32 @@
         "DailyMed LUPRON DEPOT prescribing information, mechanism of action and formulation-specific indications",
         "DailyMed LUPRON DEPOT-PED prescribing information, GnRH receptor downregulation and gonadotropin suppression"
       ]
+    },
+    {
+      "id": "095",
+      "date": "2026-10-16",
+      "format": "Beginner concept / Easy research-model comparison",
+      "topic": "In vitro versus ex vivo versus in vivo: laboratory systems, removed living tissue and whole-organism research",
+      "focus": [
+        "in vitro research occurs outside the body using simplified laboratory systems",
+        "ex vivo research examines tissue or organs removed from a living organism",
+        "in vivo research occurs inside a living organism",
+        "model systems trade experimental control against biological complexity",
+        "no model is automatically best and model findings do not by themselves prove human outcomes"
+      ],
+      "asset": "media/095-in-vitro-ex-vivo-in-vivo.jpg",
+      "caption": "captions/095-in-vitro-ex-vivo-in-vivo.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#InVitro",
+        "#ExVivo",
+        "#InVivo",
+        "#ResearchLiteracy"
+      ],
+      "evidence": [
+        "NCI Dictionary of Cancer Terms: in vitro and in vivo",
+        "NIH NIBIB Glossary: ex vivo experiments on tissue or organs removed from a living organism"
+      ]
     }
   ]
 }

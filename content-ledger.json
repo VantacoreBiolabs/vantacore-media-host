@@ -2585,6 +2585,33 @@
       "evidence": [
         "DailyMed NPLATE romiplostim prescribing information updated July 2026, accessed October 15 2026, for molecular format mechanism indications limitations and thrombotic risk"
       ]
+    },
+    {
+      "id": "093",
+      "date": "2026-10-16",
+      "format": "Beginner concept / Research literacy",
+      "topic": "Technical replicates versus biological replicates",
+      "focus": [
+        "technical replicates are repeated measurements of the same sample",
+        "biological replicates are independent samples addressing the same study question",
+        "technical replication helps characterize measurement noise",
+        "biological replication captures variation across experimental units",
+        "repeated measurements from one sample do not create independent biological sample size",
+        "reports should define what n represents"
+      ],
+      "asset": "media/093-technical-vs-biological-replicates.jpg",
+      "caption": "captions/093-technical-vs-biological-replicates.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ExperimentalDesign",
+        "#ResearchLiteracy",
+        "#LabScience",
+        "#Reproducibility"
+      ],
+      "evidence": [
+        "NIH Rigor and Reproducibility Training Module 3: Biological and Technical Replicates",
+        "Basic Guidelines for Reporting Non-Clinical Data, Assay Guidance Manual (NCBI Bookshelf)"
+      ]
     }
   ]
 }

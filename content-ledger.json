@@ -2612,6 +2612,33 @@
         "NIH Rigor and Reproducibility Training Module 3: Biological and Technical Replicates",
         "Basic Guidelines for Reporting Non-Clinical Data, Assay Guidance Manual (NCBI Bookshelf)"
       ]
+    },
+    {
+      "id": "094",
+      "date": "2026-10-16",
+      "format": "Peptide spotlight / Beginner endocrine receptor mechanism",
+      "topic": "Leuprolide: a synthetic GnRH agonist peptide whose continuous signaling downregulates GnRH receptors and suppresses LH and FSH",
+      "focus": [
+        "synthetic peptide agonist of the GnRH receptor",
+        "initial stimulation can temporarily increase LH and FSH",
+        "continuous signaling downregulates or desensitizes GnRH receptors",
+        "LH and FSH then decline and downstream gonadal steroid production is reduced",
+        "agonist signaling can produce long-term suppression",
+        "approved uses and risks are formulation-specific and it is not a general hormone reset"
+      ],
+      "asset": "media/094-leuprolide-peptide-spotlight.jpg",
+      "caption": "captions/094-leuprolide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Leuprolide",
+        "#GnRH",
+        "#EndocrineScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed LUPRON DEPOT prescribing information, mechanism of action and formulation-specific indications",
+        "DailyMed LUPRON DEPOT-PED prescribing information, GnRH receptor downregulation and gonadotropin suppression"
+      ]
     }
   ]
 }

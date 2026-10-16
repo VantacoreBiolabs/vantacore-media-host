@@ -2558,6 +2558,33 @@
         "ICH E9(R1) Addendum on Estimands and Sensitivity Analysis in Clinical Trials, effective July 30 2020, for missing-data assumptions and sensitivity analysis",
         "EMA Missing Data in Confirmatory Clinical Trials guidance, accessed October 15 2026, for evaluating and reporting missing outcomes"
       ]
+    },
+    {
+      "id": "092",
+      "date": "2026-10-15",
+      "format": "Peptide spotlight / Beginner engineered peptibody mechanism",
+      "topic": "Romiplostim: an Fc-peptide fusion protein that activates the thrombopoietin receptor and increases platelet production",
+      "focus": [
+        "romiplostim is an engineered Fc-peptide fusion protein called a peptibody",
+        "the molecule contains antibody Fc regions linked to peptide domains that bind the thrombopoietin receptor",
+        "TPO receptor activation supports platelet production in bone marrow",
+        "romiplostim has no amino-acid sequence homology with endogenous thrombopoietin",
+        "approved uses are limited to specific immune thrombocytopenia and hematopoietic radiation injury settings",
+        "romiplostim is not a general platelet booster or indicated for every cause of thrombocytopenia",
+        "excessive platelet increases can raise thrombotic and thromboembolic risk"
+      ],
+      "asset": "media/092-romiplostim-peptibody-spotlight.jpg",
+      "caption": "captions/092-romiplostim-peptibody-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Romiplostim",
+        "#Peptibody",
+        "#PlateletScience",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed NPLATE romiplostim prescribing information updated July 2026, accessed October 15 2026, for molecular format mechanism indications limitations and thrombotic risk"
+      ]
     }
   ]
 }

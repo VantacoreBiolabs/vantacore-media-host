@@ -2729,6 +2729,35 @@
         "NIST/SEMATECH e-Handbook: standard deviation as a measure of scale",
         "NCBI Bookshelf (StatPearls): distinction between SD and SEM"
       ]
+    },
+    {
+      "id": "098",
+      "date": "2026-10-17",
+      "subject": "Nesiritide: a recombinant 32-amino-acid human B-type natriuretic peptide that activates particulate guanylate cyclase and raises cGMP",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Nesiritide: A Heart Signal Recreated",
+      "angle": "A beginner-friendly explanation of how recombinant human BNP reproduces a heart-derived signal through guanylate cyclase and cGMP.",
+      "teaching_points": [
+        "Nesiritide has the same 32-amino-acid sequence as endogenous human BNP.",
+        "Human BNP is secreted by ventricular myocardium in response to stretch.",
+        "BNP binds particulate guanylate-cyclase receptors on vascular smooth-muscle and endothelial cells.",
+        "Receptor activation raises intracellular cGMP, promoting smooth-muscle relaxation and dilation of veins and arteries.",
+        "Its approved use is limited to a specific acute decompensated heart-failure setting."
+      ],
+      "limitation": "Nesiritide is a prescription hospital medicine, not a general heart-health peptide; clinically important hypotension is a major safety limitation.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Nesiritide",
+        "#NatriureticPeptide",
+        "#HeartScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "media/098-nesiritide-peptide-spotlight.jpg"
+      ],
+      "caption_file": "captions/098-nesiritide-peptide-spotlight.md",
+      "status": "prepared"
     }
   ],
   "last_updated": "2026-10-17"

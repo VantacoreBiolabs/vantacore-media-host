@@ -2757,7 +2757,15 @@
         "media/098-nesiritide-peptide-spotlight.jpg"
       ],
       "caption_file": "captions/098-nesiritide-peptide-spotlight.md",
-      "status": "prepared"
+      "status": "published",
+      "published_at": "2026-10-17T19:03:00Z",
+      "instagram_media_id": "18139030252723425",
+      "instagram_permalink": "https://www.instagram.com/p/Dem0Bsvkcxp/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/62f086f0271ccf9d1a5640a9e79d014913553ec3/media/098-nesiritide-peptide-spotlight.jpg",
+      "evidence": [
+        "FDA NATRECOR prescribing information: recombinant human BNP description, 32-amino-acid sequence and mechanism",
+        "FDA NATRECOR prescribing information: approved acute decompensated heart-failure setting and hypotension warning"
+      ]
     }
   ],
   "last_updated": "2026-10-17"

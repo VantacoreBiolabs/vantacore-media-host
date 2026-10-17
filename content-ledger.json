@@ -2665,6 +2665,32 @@
         "NCI Dictionary of Cancer Terms: in vitro and in vivo",
         "NIH NIBIB Glossary: ex vivo experiments on tissue or organs removed from a living organism"
       ]
+    },
+    {
+      "id": "096",
+      "date": "2026-10-16",
+      "format": "Peptide spotlight / Beginner calcium-sensing receptor mechanism",
+      "topic": "Etelcalcetide: a synthetic peptide calcimimetic that enhances calcium-sensing receptor activation and lowers PTH secretion",
+      "focus": [
+        "synthetic peptide calcium-sensing receptor agonist and calcimimetic",
+        "enhances activation of CaSR by extracellular calcium",
+        "activation of CaSR on parathyroid chief cells decreases PTH secretion",
+        "approved use is limited to secondary hyperparathyroidism in adults with chronic kidney disease on hemodialysis",
+        "not a general PTH or calcium supplement",
+        "clinically important hypocalcemia risk requires labeled monitoring and precautions"
+      ],
+      "asset": "media/096-etelcalcetide-peptide-spotlight.jpg",
+      "caption": "captions/096-etelcalcetide-peptide-spotlight.md",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Etelcalcetide",
+        "#KidneyScience",
+        "#CalciumSensing",
+        "#PeptideEducation"
+      ],
+      "evidence": [
+        "DailyMed PARSABIV (etelcalcetide) label: description, mechanism of action, indication and hypocalcemia warning"
+      ]
     }
   ]
 }

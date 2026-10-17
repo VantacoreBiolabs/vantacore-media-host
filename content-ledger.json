@@ -2719,7 +2719,16 @@
         "media/097-standard-deviation-vs-standard-error.jpg"
       ],
       "caption_file": "captions/097-standard-deviation-vs-standard-error.md",
-      "status": "prepared"
+      "status": "published",
+      "published_at": "2026-10-17T15:02:50Z",
+      "instagram_media_id": "18430993798148911",
+      "instagram_permalink": "https://www.instagram.com/p/DemYtwnDI8H/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a2937ba690a5e3347515193dc2ed4bc94ec8b80a/media/097-standard-deviation-vs-standard-error.jpg",
+      "evidence": [
+        "NIST/SEMATECH e-Handbook glossary: definitions of standard deviation and standard error",
+        "NIST/SEMATECH e-Handbook: standard deviation as a measure of scale",
+        "NCBI Bookshelf (StatPearls): distinction between SD and SEM"
+      ]
     }
   ],
   "last_updated": "2026-10-17"

@@ -2794,7 +2794,15 @@
         "media/099-mean-vs-median.jpg"
       ],
       "caption_file": "captions/099-mean-vs-median.md",
-      "status": "prepared"
+      "status": "published",
+      "published_at": "2026-10-17T23:03:30Z",
+      "instagram_media_id": "18052114652812737",
+      "instagram_permalink": "https://www.instagram.com/p/DenP_y-jTp1/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ad3bd984a4cbbccff38b85505f94e1bc043fd5ed/media/099-mean-vs-median.jpg",
+      "evidence": [
+        "NIST/SEMATECH e-Handbook: definitions of mean and median and their behavior under skewness and extreme values",
+        "NIST/SEMATECH e-Handbook: guidance to investigate rather than automatically delete outliers"
+      ]
     }
   ],
   "last_updated": "2026-10-17"

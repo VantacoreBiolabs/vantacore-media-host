@@ -2691,6 +2691,36 @@
       "evidence": [
         "DailyMed PARSABIV (etelcalcetide) label: description, mechanism of action, indication and hypocalcemia warning"
       ]
+    },
+    {
+      "id": "097",
+      "date": "2026-10-17",
+      "subject": "Standard deviation vs standard error",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image infographic",
+      "headline": "Spread ≠ Precision",
+      "angle": "A plain-English comparison showing that SD describes spread among individual observations while SE describes precision of an estimated mean.",
+      "teaching_points": [
+        "Standard deviation describes how dispersed individual observations are around the sample mean.",
+        "Standard error describes the sampling variability and precision of an estimated mean.",
+        "For a simple sample mean, SE equals SD divided by the square root of the sample size.",
+        "Increasing sample size usually reduces SE but does not make the underlying observations less variable.",
+        "Error bars should be labeled because SD, SE, and confidence intervals communicate different information."
+      ],
+      "limitation": "Neither SD nor SE alone establishes causation, clinical importance, freedom from bias, or data quality.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StandardDeviation",
+        "#StandardError",
+        "#StatisticsExplained",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "media/097-standard-deviation-vs-standard-error.jpg"
+      ],
+      "caption_file": "captions/097-standard-deviation-vs-standard-error.md",
+      "status": "prepared"
     }
-  ]
+  ],
+  "last_updated": "2026-10-17"
 }

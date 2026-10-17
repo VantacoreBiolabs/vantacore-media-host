@@ -2766,6 +2766,35 @@
         "FDA NATRECOR prescribing information: recombinant human BNP description, 32-amino-acid sequence and mechanism",
         "FDA NATRECOR prescribing information: approved acute decompensated heart-failure setting and hypotension warning"
       ]
+    },
+    {
+      "id": "099",
+      "date": "2026-10-17",
+      "subject": "Mean versus median: two measures of center with different sensitivity to extreme observations",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Mean vs Median: One Extreme Value, Two Different Stories",
+      "angle": "A plain-English comparison showing how an extreme value can pull the mean while leaving the ordered middle value unchanged.",
+      "teaching_points": [
+        "The mean is the sum of all observations divided by the number of observations.",
+        "The median is the middle value after observations are sorted, or the average of the two middle values for an even-sized dataset.",
+        "Because the mean uses every value, extreme observations can move it substantially.",
+        "Because the median is based on order, it is usually less affected by extreme observations.",
+        "The distribution's shape and research question determine which measure of center is more useful."
+      ],
+      "limitation": "Neither measure is automatically superior, and extreme observations should be investigated rather than automatically removed.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MeanVsMedian",
+        "#StatisticsExplained",
+        "#DataLiteracy",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "media/099-mean-vs-median.jpg"
+      ],
+      "caption_file": "captions/099-mean-vs-median.md",
+      "status": "prepared"
     }
   ],
   "last_updated": "2026-10-17"

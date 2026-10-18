@@ -2913,6 +2913,39 @@
       "instagram_media_id": "18105632585258266",
       "instagram_permalink": "https://www.instagram.com/p/DepY6fuiPWU/",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b52186a8b23a4f0aa14d8445afe8f73f99ff5948/media/102-selection-bias-explained.jpg"
+    },
+    {
+      "id": "103",
+      "date": "2026-10-18",
+      "subject": "Liraglutide: an acylated GLP-1 analog engineered for prolonged receptor signaling",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Liraglutide: One Peptide. A Longer Signal.",
+      "angle": "A beginner-friendly explanation of how a fatty-acid side chain, self-association, albumin binding and enzyme resistance prolong liraglutide's GLP-1 signal.",
+      "teaching_points": [
+        "Liraglutide is an acylated GLP-1 receptor agonist with 97% amino-acid sequence homology to endogenous human GLP-1.",
+        "A C-16 fatty-acid side chain supports self-association and plasma-protein binding.",
+        "Self-association delays absorption, while protein binding and resistance to DPP-4 and NEP slow metabolic breakdown.",
+        "GLP-1 receptor activation increases insulin release and decreases glucagon secretion in a glucose-dependent manner.",
+        "The mechanism also delays gastric emptying."
+      ],
+      "limitation": "Liraglutide is a prescription compound with product-specific indications, contraindications and risks, including serious gastrointestinal reactions and a boxed thyroid C-cell tumor warning based on rodent findings whose human relevance is unknown.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Liraglutide",
+        "#GLP1Science",
+        "#MetabolicSignals",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-18-1600-liraglutide.jpg"
+      ],
+      "caption_file": "posts/2026-10-18-1600-liraglutide-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/399460bd8e085d0fbaa2a48fecbda3fefd56fca7/posts/2026-10-18-1600-liraglutide.jpg",
+      "evidence": [
+        "DailyMed VICTOZA prescribing information accessed October 18 2026: peptide structure, 97% GLP-1 homology, fatty-acid side chain, prolonged pharmacokinetics, receptor mechanism and safety limitations"
+      ]
     }
   ],
   "last_updated": "2026-10-18"

@@ -2831,7 +2831,15 @@
         "media/100-bremelanotide-peptide-spotlight.jpg"
       ],
       "caption_file": "captions/100-bremelanotide-peptide-spotlight.md",
-      "status": "prepared"
+      "status": "published",
+      "published_at": "2026-10-18T03:02:34.692Z",
+      "instagram_media_id": "17911972809517051",
+      "instagram_permalink": "https://www.instagram.com/p/Denq5AEiMNs/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4a3042832686039581a8223be641f5c2fab98abb/media/100-bremelanotide-peptide-spotlight.jpg",
+      "evidence": [
+        "DailyMed VYLEESI prescribing information: synthetic cyclic heptapeptide structure, melanocortin-receptor pharmacology, approved population, mechanism uncertainty and safety limitations",
+        "FDA VYLEESI label: approved-use boundaries and clinically important warnings"
+      ]
     }
   ],
   "last_updated": "2026-10-17"

@@ -2803,6 +2803,35 @@
         "NIST/SEMATECH e-Handbook: definitions of mean and median and their behavior under skewness and extreme values",
         "NIST/SEMATECH e-Handbook: guidance to investigate rather than automatically delete outliers"
       ]
+    },
+    {
+      "id": "100",
+      "date": "2026-10-17",
+      "subject": "Bremelanotide: a synthetic cyclic heptapeptide that nonselectively activates melanocortin receptor subtypes",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Bremelanotide: A Cyclic Peptide With a CNS Target",
+      "angle": "A beginner-friendly receptor map explaining bremelanotide's cyclic structure, melanocortin-receptor activity and the uncertainty around its exact clinical mechanism.",
+      "teaching_points": [
+        "Bremelanotide is a synthetic cyclic heptapeptide composed of seven amino acids.",
+        "It is a nonselective melanocortin-receptor agonist that activates several MCR subtypes.",
+        "At clinically relevant exposure, MC1R and MC4R binding are most relevant.",
+        "MC4R-expressing neurons occur in many areas of the central nervous system.",
+        "The exact mechanism responsible for its approved clinical effect remains unknown."
+      ],
+      "limitation": "Its approval is limited to a specific premenopausal HSDD population and excludes performance enhancement; label warnings include temporary blood-pressure increases, nausea and focal hyperpigmentation.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Bremelanotide",
+        "#Melanocortin",
+        "#Neuropeptides",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "media/100-bremelanotide-peptide-spotlight.jpg"
+      ],
+      "caption_file": "captions/100-bremelanotide-peptide-spotlight.md",
+      "status": "prepared"
     }
   ],
   "last_updated": "2026-10-17"

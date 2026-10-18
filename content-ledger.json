@@ -2876,6 +2876,39 @@
       "instagram_media_id": "18128006995857165",
       "instagram_permalink": "https://www.instagram.com/p/Deo98H5DI79/",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/87048c426b146af0c134019848716c7a97a26315/media/101-linaclotide-peptide-spotlight.jpg"
+    },
+    {
+      "id": "102",
+      "date": "2026-10-18",
+      "subject": "Selection bias: how who enters a study can distort a comparison or association",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image infographic",
+      "headline": "Who Got Into the Study? Selection Bias",
+      "angle": "A plain-English selection-gate visual distinguishing enrollment bias from later participant dropout.",
+      "teaching_points": [
+        "Selection bias is systematic error arising from how study groups are designated or participants are enrolled.",
+        "Eligibility, invitation, participation and analysis rules determine who enters the study sample.",
+        "Volunteers can differ systematically from eligible people who do not participate.",
+        "Cases and controls must be selected from populations that support a fair comparison.",
+        "When selection is related to both exposure and outcome, the measured association can be distorted."
+      ],
+      "limitation": "A large sample does not automatically remove selection bias; it can make a biased estimate more precise without making it accurate.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SelectionBias",
+        "#StudyDesign",
+        "#Epidemiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "media/102-selection-bias-explained.jpg"
+      ],
+      "caption_file": "captions/102-selection-bias-explained.md",
+      "status": "prepared",
+      "evidence": [
+        "CDC Field Epidemiology Manual: selection bias as systematic error caused by study-group designation or participant enrollment",
+        "NIH-hosted NCBI methods chapter: selection bias arising from differences between study and source populations"
+      ]
     }
   ],
   "last_updated": "2026-10-18"

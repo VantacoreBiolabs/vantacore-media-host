@@ -2868,10 +2868,14 @@
         "media/101-linaclotide-peptide-spotlight.jpg"
       ],
       "caption_file": "captions/101-linaclotide-peptide-spotlight.md",
-      "status": "prepared",
+      "status": "published",
       "evidence": [
         "FDA LINZESS prescribing information revised 2025: 14-amino-acid peptide structure, local GC-C mechanism, cGMP signaling, indications and boxed pediatric dehydration warning"
-      ]
+      ],
+      "published_at": "2026-10-18T15:07:47.278Z",
+      "instagram_media_id": "18128006995857165",
+      "instagram_permalink": "https://www.instagram.com/p/Deo98H5DI79/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/87048c426b146af0c134019848716c7a97a26315/media/101-linaclotide-peptide-spotlight.jpg"
     }
   ],
   "last_updated": "2026-10-18"

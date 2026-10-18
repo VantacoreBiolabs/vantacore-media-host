@@ -2904,11 +2904,15 @@
         "media/102-selection-bias-explained.jpg"
       ],
       "caption_file": "captions/102-selection-bias-explained.md",
-      "status": "prepared",
+      "status": "published",
       "evidence": [
         "CDC Field Epidemiology Manual: selection bias as systematic error caused by study-group designation or participant enrollment",
         "NIH-hosted NCBI methods chapter: selection bias arising from differences between study and source populations"
-      ]
+      ],
+      "published_at": "2026-10-18T19:04:13.364Z",
+      "instagram_media_id": "18105632585258266",
+      "instagram_permalink": "https://www.instagram.com/p/DepY6fuiPWU/",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b52186a8b23a4f0aa14d8445afe8f73f99ff5948/media/102-selection-bias-explained.jpg"
     }
   ],
   "last_updated": "2026-10-18"

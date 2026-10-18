@@ -2840,7 +2840,39 @@
         "DailyMed VYLEESI prescribing information: synthetic cyclic heptapeptide structure, melanocortin-receptor pharmacology, approved population, mechanism uncertainty and safety limitations",
         "FDA VYLEESI label: approved-use boundaries and clinically important warnings"
       ]
+    },
+    {
+      "id": "101",
+      "date": "2026-10-18",
+      "subject": "Linaclotide: a 14-amino-acid peptide GC-C agonist that acts locally on the intestinal epithelium",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Linaclotide: Local Signal. Intestinal Target.",
+      "angle": "A beginner-friendly pathway map showing how local GC-C activation raises cGMP and promotes intestinal ion and fluid secretion.",
+      "teaching_points": [
+        "Linaclotide is a 14-amino-acid peptide structurally related to human guanylin and uroguanylin.",
+        "Linaclotide and its active metabolite act locally on the luminal surface of the intestinal epithelium.",
+        "They bind and activate guanylate cyclase-C, or GC-C.",
+        "GC-C activation increases intracellular and extracellular cyclic GMP.",
+        "Intracellular cGMP promotes chloride and bicarbonate secretion, increasing intestinal fluid."
+      ],
+      "limitation": "Linaclotide is an approved prescription medicine for specific constipation-related conditions, not a general digestive-health peptide; severe diarrhea and dehydration are important risks, and it is contraindicated in children younger than 2 years.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Linaclotide",
+        "#GutScience",
+        "#GuanylateCyclase",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "media/101-linaclotide-peptide-spotlight.jpg"
+      ],
+      "caption_file": "captions/101-linaclotide-peptide-spotlight.md",
+      "status": "prepared",
+      "evidence": [
+        "FDA LINZESS prescribing information revised 2025: 14-amino-acid peptide structure, local GC-C mechanism, cGMP signaling, indications and boxed pediatric dehydration warning"
+      ]
     }
   ],
-  "last_updated": "2026-10-17"
+  "last_updated": "2026-10-18"
 }

@@ -3023,6 +3023,39 @@
       "published_at": "2026-10-19T15:04:52Z",
       "instagram_media_id": "18132099397742583",
       "instagram_permalink": "https://www.instagram.com/p/DeriXA9Ar72/"
+    },
+    {
+      "id": "106",
+      "date": "2026-10-19",
+      "subject": "Publication bias: how missing or selectively reported studies can make the visible evidence look more favorable than the full research record",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image infographic",
+      "headline": "Publication Bias: What If the Missing Studies Tell a Different Story?",
+      "angle": "A plain-English funnel visual showing how positive or striking findings may be more visible while null or negative findings remain unseen.",
+      "teaching_points": [
+        "Positive or striking results may be easier to publish.",
+        "Null or negative findings can stay unseen.",
+        "The published evidence can look more favorable than the full research record.",
+        "Trial registration and results reporting improve transparency."
+      ],
+      "limitation": "A funnel plot can raise concern about missing evidence, but asymmetry has multiple possible causes and does not prove publication bias.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PublicationBias",
+        "#DataLiteracy",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-19-1200-publication-bias.jpg"
+      ],
+      "caption_file": "posts/2026-10-19-1200-publication-bias-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/8b6fc999241727888c0084852ee0dfbbdaa5f466/posts/2026-10-19-1200-publication-bias.jpg",
+      "evidence": [
+        "FDA, March 30 2026: missing clinical-trial results can create publication bias that overrepresents successes and underrepresents failures",
+        "Cochrane Handbook chapter 13: missing results can bias a synthesis; funnel-plot asymmetry reflects small-study effects and should not be equated with publication bias"
+      ]
     }
   ],
   "last_updated": "2026-10-19"

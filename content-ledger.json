@@ -2949,6 +2949,41 @@
       "published_at": "2026-10-18T23:00:00Z",
       "instagram_media_id": "18118501775050497",
       "instagram_permalink": "https://www.instagram.com/p/Dep0S6rDHkX/"
+    },
+    {
+      "id": "104",
+      "date": "2026-10-18",
+      "subject": "Statistical power: the probability that a statistical test detects a specified effect when that effect is present",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image infographic",
+      "headline": "Can a Study See a Real Effect?",
+      "angle": "A signal-detection visual explaining power as the ability to detect a specified real effect, along with the roles of sample size, effect size, variability, test choice and alpha.",
+      "teaching_points": [
+        "Statistical power is the probability of rejecting the null hypothesis when a specified alternative is true.",
+        "Low power raises the chance of missing a real effect, a Type II error.",
+        "Larger samples generally increase power.",
+        "Larger effects and lower variability are easier to detect.",
+        "The test, significance threshold and study design also influence power."
+      ],
+      "limitation": "High power does not establish practical importance, eliminate bias or guarantee study quality; a large study may detect an effect too small to matter.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StatisticalPower",
+        "#StudyDesign",
+        "#Biostatistics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-18-2000-statistical-power.jpg"
+      ],
+      "caption_file": "posts/2026-10-18-2000-statistical-power-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/30cbde5eecb234f58fd5cfffcc1582d13f91fc49/posts/2026-10-18-2000-statistical-power.jpg",
+      "evidence": [
+        "NIST/SEMATECH e-Handbook: power is the probability of rejecting a false null hypothesis and depends on sample size",
+        "NIH NCATS Toolkit: statistical power is the probability of detecting an effect when it exists",
+        "NIMH high-dimensional data report: power depends on sample size, effect size, outcome variability and significance level"
+      ]
     }
   ],
   "last_updated": "2026-10-18"

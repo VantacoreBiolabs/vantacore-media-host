@@ -1,0 +1,14 @@
+CAN A STUDY SEE A REAL EFFECT? 🔎
+
+Statistical power is the chance that a study’s test will detect a specified effect when that effect is actually present.
+
+• Low power can miss a real signal—a false negative, also called a Type II error.
+• Larger samples generally improve power.
+• Larger effects and lower measurement variability are easier to detect.
+• The statistical test, significance threshold and study design also matter.
+
+Evidence check: high power does not prove an effect is important, remove bias or guarantee a good study. A large study can detect a tiny effect that has little practical meaning, so effect size, uncertainty and study quality still matter.
+
+What research term should we simplify next?
+
+#VantacoreBiolabs #StatisticalPower #StudyDesign #Biostatistics #ResearchLiteracy

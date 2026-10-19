@@ -3059,6 +3059,39 @@
       "published_at": "2026-10-19T19:06:00Z",
       "instagram_media_id": "17871907515642132",
       "instagram_permalink": "https://www.instagram.com/p/Der-QrXFnAP/"
+    },
+    {
+      "id": "107",
+      "date": "2026-10-19",
+      "subject": "Abaloparatide: a synthetic 34-amino-acid PTHrP(1-34) analog that activates PTH1 receptor signaling",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Abaloparatide: A Peptide Signal for Bone Building",
+      "angle": "A beginner-friendly receptor pathway showing PTH1R activation, cAMP signaling and osteoblast-driven new bone formation.",
+      "teaching_points": [
+        "Abaloparatide is a synthetic 34-amino-acid analog of human PTHrP(1-34).",
+        "It acts as an agonist at the PTH1 receptor.",
+        "PTH1 receptor activation turns on the cAMP signaling pathway.",
+        "The signal stimulates osteoblast activity and new bone formation on trabecular and cortical bone surfaces."
+      ],
+      "limitation": "Abaloparatide is a prescription medicine with specific high-risk-osteoporosis indications; label warnings include orthostatic hypotension, hypercalcemia and hypercalciuria, plus osteosarcoma observed in rats whose relevance to humans is unknown.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Abaloparatide",
+        "#BoneBiology",
+        "#PTH1Receptor",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-19-1600-abaloparatide.jpg"
+      ],
+      "caption_file": "posts/2026-10-19-1600-abaloparatide-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/655ec3c9394db5bd55b21f2c473baf01c78e39fc/posts/2026-10-19-1600-abaloparatide.jpg",
+      "evidence": [
+        "DailyMed TYMLOS prescribing information accessed October 19 2026: synthetic 34-amino-acid PTHrP(1-34) analog, PTH1 receptor agonism, cAMP signaling, osteoblast activity, approved-use boundaries and safety limitations",
+        "FDA TYMLOS label revised 2025: PTH1R mechanism and new bone formation on trabecular and cortical bone surfaces"
+      ]
     }
   ],
   "last_updated": "2026-10-19"

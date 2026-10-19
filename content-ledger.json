@@ -2987,7 +2987,40 @@
       "published_at": "2026-10-19T03:04:25Z",
       "instagram_media_id": "18093810038691851",
       "instagram_permalink": "https://www.instagram.com/p/DeqP2LWiMcY/"
+    },
+    {
+      "id": "105",
+      "date": "2026-10-19",
+      "subject": "Eptifibatide: a synthetic cyclic heptapeptide that reversibly blocks platelet GP IIb/IIIa receptors",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Eptifibatide: Blocking the Platelet Bridge",
+      "angle": "A beginner-friendly platelet-bridge diagram explaining how reversible GP IIb/IIIa receptor blockade prevents fibrinogen and related ligands from linking platelets.",
+      "teaching_points": [
+        "Eptifibatide is a synthetic cyclic heptapeptide containing six amino acids and one mercaptopropionyl residue.",
+        "Its target is the platelet-surface receptor GP IIb/IIIa.",
+        "Fibrinogen, von Willebrand factor and other adhesive ligands normally bind GP IIb/IIIa to help connect platelets.",
+        "Eptifibatide prevents those ligands from binding and reversibly inhibits platelet aggregation.",
+        "Platelet inhibition decreases after eptifibatide dissociates from the receptor."
+      ],
+      "limitation": "Eptifibatide is a prescription hospital medicine used in specific acute-coronary-syndrome and PCI settings; serious bleeding and thrombocytopenia are important risks.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Eptifibatide",
+        "#PlateletScience",
+        "#CardiovascularResearch",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-19-0800-eptifibatide.jpg"
+      ],
+      "caption_file": "posts/2026-10-19-0800-eptifibatide-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5c61ccee94b926cd3ee1a1a8bbdadad264c8421c/posts/2026-10-19-0800-eptifibatide.jpg",
+      "evidence": [
+        "DailyMed eptifibatide injection prescribing information revised May 2024: cyclic-heptapeptide structure, GP IIb/IIIa mechanism, ACS and PCI indications, reversibility, bleeding and thrombocytopenia risks"
+      ]
     }
   ],
-  "last_updated": "2026-10-18"
+  "last_updated": "2026-10-19"
 }

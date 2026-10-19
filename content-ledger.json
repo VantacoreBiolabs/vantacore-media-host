@@ -2977,13 +2977,16 @@
         "posts/2026-10-18-2000-statistical-power.jpg"
       ],
       "caption_file": "posts/2026-10-18-2000-statistical-power-caption.txt",
-      "status": "prepared",
+      "status": "published",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/30cbde5eecb234f58fd5cfffcc1582d13f91fc49/posts/2026-10-18-2000-statistical-power.jpg",
       "evidence": [
         "NIST/SEMATECH e-Handbook: power is the probability of rejecting a false null hypothesis and depends on sample size",
         "NIH NCATS Toolkit: statistical power is the probability of detecting an effect when it exists",
         "NIMH high-dimensional data report: power depends on sample size, effect size, outcome variability and significance level"
-      ]
+      ],
+      "published_at": "2026-10-19T03:04:25Z",
+      "instagram_media_id": "18093810038691851",
+      "instagram_permalink": "https://www.instagram.com/p/DeqP2LWiMcY/"
     }
   ],
   "last_updated": "2026-10-18"

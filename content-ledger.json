@@ -3086,12 +3086,15 @@
         "posts/2026-10-19-1600-abaloparatide.jpg"
       ],
       "caption_file": "posts/2026-10-19-1600-abaloparatide-caption.txt",
-      "status": "prepared",
+      "status": "published",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/655ec3c9394db5bd55b21f2c473baf01c78e39fc/posts/2026-10-19-1600-abaloparatide.jpg",
       "evidence": [
         "DailyMed TYMLOS prescribing information accessed October 19 2026: synthetic 34-amino-acid PTHrP(1-34) analog, PTH1 receptor agonism, cAMP signaling, osteoblast activity, approved-use boundaries and safety limitations",
         "FDA TYMLOS label revised 2025: PTH1R mechanism and new bone formation on trabecular and cortical bone surfaces"
-      ]
+      ],
+      "published_at": "2026-10-19T22:59:00Z",
+      "instagram_media_id": "17963360343206989",
+      "instagram_permalink": "https://www.instagram.com/p/DesY6BjiiqC/"
     }
   ],
   "last_updated": "2026-10-19"

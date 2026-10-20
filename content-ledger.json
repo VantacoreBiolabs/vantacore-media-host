@@ -3132,7 +3132,40 @@
       "published_at": "2026-10-20T03:02:00Z",
       "instagram_media_id": "17951259123057534",
       "instagram_permalink": "https://www.instagram.com/p/Des0nolCBo3/"
+    },
+    {
+      "id": "109",
+      "date": "2026-10-20",
+      "subject": "Degarelix: a synthetic linear decapeptide GnRH receptor antagonist that reduces pituitary gonadotropin signaling",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Degarelix: Blocking the Signal at Its Source",
+      "angle": "A beginner-friendly pituitary pathway showing reversible GnRH-receptor blockade, reduced LH and FSH release, and lower downstream testosterone signaling.",
+      "teaching_points": [
+        "Degarelix is a synthetic linear decapeptide containing 10 amino-acid building blocks.",
+        "It binds reversibly to GnRH receptors in the pituitary.",
+        "Receptor blockade reduces release of LH and FSH.",
+        "Lower gonadotropin signaling reduces downstream testosterone production."
+      ],
+      "limitation": "Degarelix is a prescription medicine for advanced prostate cancer, not a general hormone-management peptide; serious hypersensitivity reactions have been reported and androgen-deprivation therapy may prolong the QT interval.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Degarelix",
+        "#GnRH",
+        "#HormoneSignaling",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-20-0800-degarelix.jpg"
+      ],
+      "caption_file": "posts/2026-10-20-0800-degarelix-caption.txt",
+      "status": "prepared",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/25f53520215c30471dddef17b4aac778a9a12fe8/posts/2026-10-20-0800-degarelix.jpg",
+      "evidence": [
+        "DailyMed FIRMAGON prescribing information accessed October 20 2026: synthetic linear decapeptide structure, reversible pituitary GnRH-receptor binding, reduced gonadotropin and testosterone release, indication and safety warnings",
+        "FDA FIRMAGON prescribing information: advanced-prostate-cancer indication, GnRH antagonist mechanism, hypersensitivity and QT/QTc precautions"
+      ]
     }
   ],
-  "last_updated": "2026-10-19"
+  "last_updated": "2026-10-20"
 }

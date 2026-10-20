@@ -1,0 +1,14 @@
+PREREGISTRATION: DECIDE BEFORE YOU SEE THE RESULTS.
+
+Preregistration creates a time-stamped record of a study plan before data collection or analysis.
+
+• Write the research question first.
+• Specify methods, variables, and the analysis plan.
+• Separate planned tests from later exploration.
+• If the plan changes, document what changed and why.
+
+Important limit: preregistration improves transparency, but it cannot fix weak methods, poor measurements, bias, or missing data.
+
+Would seeing a preregistered plan make a study easier for you to trust?
+
+#VantacoreBiolabs #Preregistration #OpenScience #StudyDesign #ResearchLiteracy

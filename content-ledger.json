@@ -3122,13 +3122,16 @@
         "posts/2026-10-19-2000-relative-risk-vs-odds-ratio.jpg"
       ],
       "caption_file": "posts/2026-10-19-2000-relative-risk-vs-odds-ratio-caption.txt",
-      "status": "prepared",
+      "status": "published",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a7e589ddbb917e26b2cda5aec0e79eecfe59e333/posts/2026-10-19-2000-relative-risk-vs-odds-ratio.jpg",
       "evidence": [
         "CDC Field Epidemiology Manual: risk ratio compares risks and is commonly used in cohort studies; odds ratio is the usual measure in case-control studies",
         "CDC Designing and Conducting Analytic Studies: odds ratio can approximate risk ratio when an outcome is rare",
         "NCBI Reference Guide on Epidemiology: odds ratio and relative risk are distinct measures; statistical significance does not establish magnitude or importance"
-      ]
+      ],
+      "published_at": "2026-10-20T03:02:00Z",
+      "instagram_media_id": "17951259123057534",
+      "instagram_permalink": "https://www.instagram.com/p/Des0nolCBo3/"
     }
   ],
   "last_updated": "2026-10-19"

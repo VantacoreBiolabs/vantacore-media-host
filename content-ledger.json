@@ -3168,6 +3168,43 @@
       "published_at": "2026-10-20T15:05:00Z",
       "instagram_media_id": "18420934216157462",
       "instagram_permalink": "https://www.instagram.com/p/DeuHTcJgtkp/"
+    },
+    {
+      "id": "110",
+      "date": "2026-10-20",
+      "subject": "Preregistration: documenting key study questions, methods and analysis decisions before seeing results",
+      "category": "Beginner concept / research quality literacy",
+      "format": "Single-image infographic",
+      "headline": "Preregistration: Decide Before You See the Results",
+      "angle": "A beginner-friendly before-data versus after-data visual explaining how a time-stamped plan separates planned analyses from later exploration.",
+      "teaching_points": [
+        "Write the research question before examining the results.",
+        "Specify methods, variables and the analysis plan in advance.",
+        "Create a time-stamped record of the study plan.",
+        "Clearly label later changes and exploratory analyses."
+      ],
+      "limitation": "Preregistration improves transparency but cannot fix a weak design, poor measurements, bias or missing data.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Preregistration",
+        "#OpenScience",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-20-1200-preregistration.png"
+      ],
+      "caption_file": "posts/2026-10-20-1200-preregistration-caption.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f2e3db303a506b53a2eab2b09e63d4c9e6edc3c8/posts/2026-10-20-1200-preregistration.png&output=jpg&q=95",
+      "evidence": [
+        "Center for Open Science preregistration guidance accessed October 20 2026: preregistration specifies a research plan in advance and helps distinguish planned from unplanned work",
+        "Bakker et al. 2020, Ensuring the quality and specificity of preregistrations, PMCID PMC7725296: preregistration specifies design and analysis plans before observing outcomes",
+        "Nosek et al. 2018, The preregistration revolution, PMCID PMC5856500: research questions and analysis plans should be defined before observing outcomes"
+      ],
+      "published_at": "2026-10-20T19:04:01Z",
+      "instagram_media_id": "18008868716781658",
+      "instagram_permalink": "https://www.instagram.com/p/DeuimF6jBnH/"
     }
   ],
   "last_updated": "2026-10-20"

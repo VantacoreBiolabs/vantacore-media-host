@@ -1,0 +1,14 @@
+RELATIVE RISK vs ODDS RATIO: SAME NUMBER? NOT THE SAME MEANING.
+
+These measures both compare groups, but they answer different mathematical questions.
+
+• Relative risk compares the probability of an outcome between two groups.
+• Odds ratio compares odds—the chance an outcome occurs relative to the chance it does not.
+• Relative risk is commonly used in cohort studies, where risks can be calculated directly.
+• Odds ratio is commonly used in case-control studies, where risks usually cannot be calculated directly.
+
+Evidence check: when an outcome is rare, an odds ratio can approximate relative risk. When the outcome is common, the two can differ substantially. Neither measure alone proves causation, and both should be read with the study design, baseline risk and confidence interval.
+
+Which research comparison should we simplify next?
+
+#VantacoreBiolabs #RelativeRisk #OddsRatio #Epidemiology #ResearchLiteracy

@@ -3205,6 +3205,42 @@
       "published_at": "2026-10-20T19:04:01Z",
       "instagram_media_id": "18008868716781658",
       "instagram_permalink": "https://www.instagram.com/p/DeuimF6jBnH/"
+    },
+    {
+      "id": "111",
+      "date": "2026-10-20",
+      "subject": "Octreotide: a synthetic cyclic octapeptide somatostatin analog that suppresses multiple endocrine and gastrointestinal signals",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Octreotide: A Peptide Signal Brake",
+      "angle": "A beginner-friendly signal-dimmer visual explaining how octreotide models somatostatin and reduces release of growth hormone, glucagon, insulin and other signaling molecules.",
+      "teaching_points": [
+        "Octreotide is a synthetic cyclic peptide built from eight amino-acid residues.",
+        "Its pharmacologic actions resemble the natural hormone somatostatin.",
+        "It suppresses release of growth hormone, glucagon and insulin.",
+        "Its effects extend across endocrine and gastrointestinal signaling pathways."
+      ],
+      "limitation": "Octreotide is a prescription medicine with condition-specific approved uses and clinically important risks, including gallstones or biliary complications, glucose changes, bradycardia and conduction abnormalities.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Octreotide",
+        "#Somatostatin",
+        "#HormoneSignaling",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-20-1600-octreotide.jpg"
+      ],
+      "caption_file": "posts/2026-10-20-1600-octreotide-caption.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2de19f207a96d0418dfd5894f5196dcfe9a22ce7/posts/2026-10-20-1600-octreotide.jpg",
+      "evidence": [
+        "FDA Sandostatin Injection prescribing information revised 2023: octreotide structure, somatostatin-like actions, suppression of GH, glucagon and insulin, and glucose-monitoring limitation",
+        "FDA Sandostatin LAR Depot prescribing information revised 2024: mechanism, biliary complications, glucose effects and cardiac conduction precautions"
+      ],
+      "published_at": "2026-10-20T23:03:22Z",
+      "instagram_media_id": "18181370998425897",
+      "instagram_permalink": "https://www.instagram.com/p/Deu9_PYiMak/"
     }
   ],
   "last_updated": "2026-10-20"

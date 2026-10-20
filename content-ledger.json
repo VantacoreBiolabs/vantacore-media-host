@@ -3159,12 +3159,15 @@
         "posts/2026-10-20-0800-degarelix.jpg"
       ],
       "caption_file": "posts/2026-10-20-0800-degarelix-caption.txt",
-      "status": "prepared",
+      "status": "published",
       "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/25f53520215c30471dddef17b4aac778a9a12fe8/posts/2026-10-20-0800-degarelix.jpg",
       "evidence": [
         "DailyMed FIRMAGON prescribing information accessed October 20 2026: synthetic linear decapeptide structure, reversible pituitary GnRH-receptor binding, reduced gonadotropin and testosterone release, indication and safety warnings",
         "FDA FIRMAGON prescribing information: advanced-prostate-cancer indication, GnRH antagonist mechanism, hypersensitivity and QT/QTc precautions"
-      ]
+      ],
+      "published_at": "2026-10-20T15:05:00Z",
+      "instagram_media_id": "18420934216157462",
+      "instagram_permalink": "https://www.instagram.com/p/DeuHTcJgtkp/"
     }
   ],
   "last_updated": "2026-10-20"

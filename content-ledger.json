@@ -3315,6 +3315,42 @@
       "published_at": "2026-10-21T15:00:58Z",
       "instagram_media_id": "18028655363880695",
       "instagram_permalink": "https://www.instagram.com/p/DewrkkhDnJE/"
+    },
+    {
+      "id": "114",
+      "date": "2026-10-21",
+      "subject": "Signal versus noise: distinguishing a pattern of interest from background variation in research measurements",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image infographic",
+      "headline": "Signal vs Noise: Can You See the Real Pattern?",
+      "angle": "A beginner-friendly waveform comparison showing a desired pattern, background variation, and how both appear together in real measurements.",
+      "teaching_points": [
+        "Signal is the pattern or quantity a researcher wants to measure.",
+        "Noise is background variation that can hide or imitate the pattern.",
+        "A higher signal-to-noise ratio generally makes a pattern easier to distinguish.",
+        "Repeated measurements, controls and calibration help characterize consistency and background variation."
+      ],
+      "limitation": "A clear signal does not prove identity, causation or freedom from bias; signal-to-noise definitions and formulas also vary across fields, so methods must be compared carefully.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SignalToNoise",
+        "#ResearchBasics",
+        "#DataLiteracy",
+        "#LabScience"
+      ],
+      "media": [
+        "posts/2026-10-21-1200-signal-vs-noise.png"
+      ],
+      "caption_file": "posts/2026-10-21-1200-signal-vs-noise-caption.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/036f4317b3e540afe3ccd8193cf803bef57d9ad1/posts/2026-10-21-1200-signal-vs-noise.png&output=jpg&q=95",
+      "evidence": [
+        "NIST/SEMATECH e-Handbook glossary, accessed October 21 2026: noise-to-signal ratio is measurement-system precision relative to the average measurement value, reciprocal to signal-to-noise ratio; noise factors include difficult-to-control test and environmental conditions",
+        "Welvaert and Rosseel 2013, PLOS ONE, PMCID PMC3819355: signal-to-noise ratio compares a desired signal with background noise and multiple definitions are used across scientific fields"
+      ],
+      "published_at": "2026-10-21T19:03:35Z",
+      "instagram_media_id": "17930252946413388",
+      "instagram_permalink": "https://www.instagram.com/p/DexHVszEUZ3/"
     }
   ],
   "last_updated": "2026-10-21"

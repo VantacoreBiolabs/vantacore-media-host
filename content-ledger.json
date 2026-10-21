@@ -3351,6 +3351,43 @@
       "published_at": "2026-10-21T19:03:35Z",
       "instagram_media_id": "17930252946413388",
       "instagram_permalink": "https://www.instagram.com/p/DexHVszEUZ3/"
+    },
+    {
+      "id": "115",
+      "date": "2026-10-21",
+      "subject": "Corticorelin ovine: a 41-amino-acid synthetic CRH analog used to test the pituitary–ACTH–adrenal cortisol relay",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Corticorelin: A Peptide That Tests a Hormone Relay",
+      "angle": "A beginner-friendly three-step endocrine relay showing corticorelin signaling the pituitary, ACTH signaling the adrenal cortex, and cortisol as the downstream readout.",
+      "teaching_points": [
+        "Corticorelin ovine is a synthetic 41-amino-acid peptide.",
+        "Its sequence matches ovine corticotropin-releasing hormone and is similar to human CRH.",
+        "It stimulates the anterior pituitary to release ACTH.",
+        "ACTH then stimulates cortisol production from the adrenal cortex.",
+        "The response can help distinguish pituitary from ectopic ACTH production."
+      ],
+      "limitation": "Corticorelin is a prescription diagnostic peptide rather than a wellness or performance compound; patient responses vary and hypersensitivity reactions can occur.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Corticorelin",
+        "#HormonePathways",
+        "#EndocrineScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-21-1600-corticorelin.png"
+      ],
+      "caption_file": "posts/2026-10-21-1600-corticorelin-caption.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5fb8d071a61eb867b7ec6ccd547d78add6782d20/posts/2026-10-21-1600-corticorelin.png&output=jpg&q=95",
+      "evidence": [
+        "DailyMed ACTHREL label, accessed October 21 2026: synthetic corticorelin ovine has an amino-acid sequence identical to ovine CRH, is analogous to human CRH, stimulates anterior-pituitary ACTH release, and ACTH stimulates adrenal-cortex cortisol production; label also notes diagnostic-only use and hypersensitivity contraindication",
+        "FDA Orphan Drug Designations and Approvals, accessed October 21 2026: corticorelin ovine triflutate was approved to differentiate pituitary and ectopic ACTH production in ACTH-dependent Cushing's syndrome"
+      ],
+      "published_at": "2026-10-21T23:07:38Z",
+      "instagram_media_id": "18112023995176409",
+      "instagram_permalink": "https://www.instagram.com/p/DexjRQ_DX-S/"
     }
   ],
   "last_updated": "2026-10-21"

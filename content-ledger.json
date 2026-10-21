@@ -3278,7 +3278,44 @@
       "published_at": "2026-10-21T02:59:46Z",
       "instagram_media_id": "18129303097854484",
       "instagram_permalink": "https://www.instagram.com/p/DevZB_wCHiD/"
+    },
+    {
+      "id": "113",
+      "date": "2026-10-21",
+      "subject": "Terlipressin: a synthetic 12-amino-acid vasopressin analog that acts directly and as a prodrug for lysine vasopressin",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Terlipressin: A Vasopressin Signal with a Prodrug Twist",
+      "angle": "A beginner-friendly pathway visual showing terlipressin's V1 preference, direct activity, and conversion by tissue peptidases into lysine vasopressin.",
+      "teaching_points": [
+        "Terlipressin is a synthetic 12-amino-acid vasopressin analog.",
+        "It has about twice the selectivity for vasopressin V1 receptors over V2 receptors.",
+        "It has pharmacologic activity of its own.",
+        "Tissue peptidases remove its first three glycine residues to release active lysine vasopressin.",
+        "V1 signaling constricts blood vessels and changes circulatory pressure."
+      ],
+      "limitation": "Terlipressin is a prescription medicine approved for adults with hepatorenal syndrome involving rapidly worsening kidney function; its label carries a boxed warning for serious or fatal respiratory failure and warns about ischemic events.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Terlipressin",
+        "#Vasopressin",
+        "#PeptideMechanisms",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-21-0800-terlipressin.jpg"
+      ],
+      "caption_file": "posts/2026-10-21-0800-terlipressin-caption.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/1eea0ca01d05c80f358674cd44e11814bb228b07/posts/2026-10-21-0800-terlipressin.jpg",
+      "evidence": [
+        "DailyMed TERLIVAZ prescribing information current as of October 21 2026: 12-amino-acid synthetic vasopressin analog; V1 selectivity; direct activity and conversion to lysine vasopressin; mechanism and labeled safety limitations",
+        "FDA TERLIVAZ prescribing information approved September 2022: adult HRS indication, boxed respiratory-failure warning and ischemic-event precautions"
+      ],
+      "published_at": "2026-10-21T15:00:58Z",
+      "instagram_media_id": "18028655363880695",
+      "instagram_permalink": "https://www.instagram.com/p/DewrkkhDnJE/"
     }
   ],
-  "last_updated": "2026-10-20"
+  "last_updated": "2026-10-21"
 }

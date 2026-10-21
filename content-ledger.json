@@ -3241,6 +3241,43 @@
       "published_at": "2026-10-20T23:03:22Z",
       "instagram_media_id": "18181370998425897",
       "instagram_permalink": "https://www.instagram.com/p/Deu9_PYiMak/"
+    },
+    {
+      "id": "112",
+      "date": "2026-10-20",
+      "subject": "Purity versus sterility: chemical composition and microbiological contamination answer different quality questions",
+      "category": "Easy A-vs-B comparison / research quality literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Purity ≠ Sterility: Same Sample, Different Questions",
+      "angle": "A beginner-friendly split-vial comparison separating chemical purity from sterility testing and showing endotoxin as another independent quality check.",
+      "teaching_points": [
+        "Purity testing examines the target material and detected chemical impurities.",
+        "Sterility testing asks whether viable microorganisms are detected under defined test conditions.",
+        "Bacterial endotoxin requires a separate test.",
+        "Identity, strength, particulate matter and fill accuracy are separate quality attributes."
+      ],
+      "limitation": "No single result proves complete product quality; a high purity percentage does not establish sterility, confirm identity, verify strength or rule out endotoxin.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#QualityControl",
+        "#SterilityTesting",
+        "#EndotoxinTesting",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-20-2000-purity-vs-sterility.jpg"
+      ],
+      "caption_file": "posts/2026-10-20-2000-purity-vs-sterility-caption.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b1b51450824f28f56d84fe6541ccb4e0a80fee3d/posts/2026-10-20-2000-purity-vs-sterility.jpg",
+      "evidence": [
+        "FDA Drug Quality Sampling and Testing Programs updated March 25 2026: identification, assay, impurities, sterility, bacterial endotoxins, particulate matter and related attributes are listed as separate tests",
+        "FDA Product Quality Microbiology guidance: sterility, endotoxin and microbial limits require dedicated analytical procedures",
+        "USP Microbiological Quality Control Testing resources: contamination control and sterility assurance are distinct microbiological quality activities"
+      ],
+      "published_at": "2026-10-21T02:59:46Z",
+      "instagram_media_id": "18129303097854484",
+      "instagram_permalink": "https://www.instagram.com/p/DevZB_wCHiD/"
     }
   ],
   "last_updated": "2026-10-20"

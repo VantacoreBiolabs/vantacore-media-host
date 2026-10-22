@@ -1,0 +1,15 @@
+PPV vs NPV: WHAT DOES YOUR TEST RESULT MEAN?
+
+Predictive values start with the result you received.
+
+• PPV asks: given a positive result, how often is the condition really present?
+• NPV asks: given a negative result, how often is the condition really absent?
+• PPV and NPV are different from sensitivity and specificity.
+• Predictive values change when prevalence changes.
+• The same test can therefore perform differently across populations.
+
+Reality check: a test result is not certainty. Interpretation depends on the test, the population being tested, and the real-world chance that the condition is present.
+
+What research term should we simplify next?
+
+#VantacoreBiolabs #PredictiveValue #DiagnosticTesting #ResearchBasics #DataLiteracy

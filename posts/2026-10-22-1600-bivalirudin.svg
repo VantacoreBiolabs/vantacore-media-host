@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#9da3aa"/><stop offset=".7" stop-color="#f4f4f4"/><stop offset="1" stop-color="#73777c"/></linearGradient>
+    <radialGradient id="bg"><stop offset="0" stop-color="#241010"/><stop offset=".55" stop-color="#090909"/><stop offset="1" stop-color="#000"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1036" height="1036" rx="32" fill="none" stroke="url(#chrome)" stroke-width="5"/>
+  <rect x="34" y="34" width="1012" height="1012" rx="26" fill="none" stroke="#d71920" stroke-width="2"/>
+  <text x="540" y="135" text-anchor="middle" font-family="Arial Black,Arial" font-size="92" fill="url(#chrome)">BIVALIRUDIN</text>
+  <line x1="110" y1="165" x2="970" y2="165" stroke="#e02028" stroke-width="4" filter="url(#glow)"/>
+  <text x="540" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="27" fill="#fff">A 20-AMINO-ACID PEPTIDE THAT DIRECTLY BLOCKS THROMBIN</text>
+  <g font-family="Arial, sans-serif" font-weight="700" font-size="27" text-anchor="middle">
+    <g><rect x="65" y="265" width="220" height="120" rx="18" fill="#0b0b0b" stroke="#8b8f94" stroke-width="2"/><circle cx="175" cy="306" r="17" fill="#df1f26"/><text x="175" y="355" fill="#fff">SYNTHETIC PEPTIDE</text></g>
+    <g><rect x="315" y="265" width="220" height="120" rx="18" fill="#0b0b0b" stroke="#8b8f94" stroke-width="2"/><circle cx="425" cy="306" r="17" fill="#df1f26"/><text x="425" y="345" fill="#fff">BINDS TWO SITES</text><text x="425" y="375" fill="#fff">ON THROMBIN</text></g>
+    <g><rect x="565" y="265" width="220" height="120" rx="18" fill="#0b0b0b" stroke="#8b8f94" stroke-width="2"/><circle cx="675" cy="306" r="17" fill="#df1f26"/><text x="675" y="345" fill="#fff">FREE + CLOT-BOUND</text><text x="675" y="375" fill="#fff">THROMBIN</text></g>
+    <g><rect x="815" y="265" width="200" height="120" rx="18" fill="#0b0b0b" stroke="#8b8f94" stroke-width="2"/><circle cx="915" cy="306" r="17" fill="#df1f26"/><text x="915" y="355" fill="#fff">REVERSIBLE BINDING</text></g>
+  </g>
+  <g transform="translate(0,15)">
+    <circle cx="540" cy="540" r="122" fill="#111" stroke="url(#chrome)" stroke-width="6"/>
+    <path d="M470 520 C485 445 585 432 614 498 C642 561 584 628 511 603 C459 585 438 549 470 520Z" fill="#37090b" stroke="#e02028" stroke-width="7" filter="url(#glow)"/>
+    <circle cx="500" cy="505" r="18" fill="#fff" stroke="#e02028" stroke-width="6"/><circle cx="583" cy="552" r="18" fill="#fff" stroke="#e02028" stroke-width="6"/>
+    <text x="540" y="685" text-anchor="middle" font-family="Arial Black,Arial" font-size="31" fill="#fff">THROMBIN</text>
+    <path d="M255 540 H390" stroke="#e02028" stroke-width="10" marker-end="url(#none)"/><path d="M690 540 H825" stroke="#e02028" stroke-width="10"/>
+    <path d="M370 520 l30 20 -30 20" fill="none" stroke="#fff" stroke-width="8"/><path d="M805 520 l30 20 -30 20" fill="none" stroke="#fff" stroke-width="8"/>
+    <text x="220" y="525" text-anchor="middle" font-family="Arial Black,Arial" font-size="28" fill="#fff">BIVALIRUDIN</text>
+    <text x="860" y="515" text-anchor="middle" font-family="Arial Black,Arial" font-size="27" fill="#fff">LESS FIBRIN</text><text x="860" y="550" text-anchor="middle" font-family="Arial Black,Arial" font-size="27" fill="#fff">FORMATION</text>
+    <line x1="475" y1="475" x2="595" y2="585" stroke="#fff" stroke-width="9"/>
+  </g>
+  <rect x="80" y="750" width="920" height="90" rx="20" fill="#100708" stroke="#df1f26" stroke-width="3"/>
+  <text x="540" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#fff">PRESCRIPTION ANTICOAGULANT FOR SPECIFIC CLINICAL USES.</text>
+  <text x="540" y="822" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="24" fill="#ff343b">BLEEDING IS THE MAJOR SAFETY RISK.</text>
+  <text x="540" y="915" text-anchor="middle" font-family="Arial Black,Arial" font-size="31" fill="#fff">WHICH PEPTIDE MECHANISM SHOULD WE DECODE NEXT?</text>
+  <line x1="250" y1="965" x2="400" y2="965" stroke="#d71920" stroke-width="3"/><line x1="680" y1="965" x2="830" y2="965" stroke="#d71920" stroke-width="3"/>
+  <text x="540" y="980" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" letter-spacing="8" fill="url(#chrome)">VANTACORE BIOLABS</text>
+</svg>

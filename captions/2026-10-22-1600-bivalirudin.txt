@@ -1,0 +1,14 @@
+BIVALIRUDIN: A 20-AMINO-ACID PEPTIDE THAT DIRECTLY BLOCKS THROMBIN
+
+• Bivalirudin is a synthetic 20-amino-acid peptide analog of hirudin.
+• It binds two sites on thrombin: the catalytic site and an anion-binding exosite.
+• It inhibits both circulating and clot-bound thrombin.
+• Its binding is reversible because thrombin slowly cleaves the peptide.
+
+Pathway: bivalirudin → thrombin blocked → less fibrin formation.
+
+Evidence boundary: Bivalirudin is a prescription anticoagulant for specific clinical uses. Bleeding is its major safety risk.
+
+Which peptide mechanism should we decode next?
+
+#VantacoreBiolabs #Bivalirudin #Thrombin #AnticoagulantScience #PeptideEducation

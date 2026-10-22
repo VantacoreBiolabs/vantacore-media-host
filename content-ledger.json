@@ -3425,6 +3425,43 @@
       "published_at": "2026-10-22T03:07:19Z",
       "instagram_media_id": "18114600637864161",
       "instagram_permalink": "https://www.instagram.com/p/Dex-tY5jEOD/"
+    },
+    {
+      "id": "117",
+      "date": "2026-10-22",
+      "subject": "Carbetocin: a long-acting synthetic oxytocin analog that signals uterine oxytocin receptors",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Carbetocin: An Oxytocin Analog Built to Last Longer",
+      "angle": "A beginner-friendly pathway from carbetocin to the oxytocin receptor to uterine smooth-muscle contraction, with prescription-use boundaries.",
+      "teaching_points": [
+        "Carbetocin is a synthetic peptide analog of oxytocin.",
+        "It is a long-acting oxytocin-receptor agonist.",
+        "It binds oxytocin receptors in uterine smooth muscle.",
+        "The receptor signal promotes rhythmic uterine contraction.",
+        "Its action lasts longer than oxytocin's."
+      ],
+      "limitation": "Carbetocin is a prescription obstetric medicine; evidence, approval and clinical use are context-specific rather than general wellness claims.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Carbetocin",
+        "#OxytocinReceptor",
+        "#ObstetricScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-22-0800-carbetocin.png"
+      ],
+      "caption_file": "captions/2026-10-22-0800-carbetocin.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e1e901d895f7888a0ef96f203ec571bbb5b6edce/posts/2026-10-22-0800-carbetocin.png&output=jpg&q=95",
+      "evidence": [
+        "WHO Uterotonics for the prevention of postpartum haemorrhage, accessed October 22 2026: carbetocin is a long-acting synthetic oxytocin analog that binds uterine smooth-muscle oxytocin receptors and produces rhythmic contractions",
+        "Pabal Summary of Product Characteristics, accessed October 22 2026: carbetocin is a long-acting oxytocin agonist that selectively binds oxytocin receptors in uterine smooth muscle"
+      ],
+      "published_at": "2026-10-22T15:04:24.229Z",
+      "instagram_media_id": "18413902663095871",
+      "instagram_permalink": "https://www.instagram.com/p/DezQtBRjXCP/"
     }
   ],
   "last_updated": "2026-10-21"

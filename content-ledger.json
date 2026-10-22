@@ -3388,6 +3388,43 @@
       "published_at": "2026-10-21T23:07:38Z",
       "instagram_media_id": "18112023995176409",
       "instagram_permalink": "https://www.instagram.com/p/DexjRQ_DX-S/"
+    },
+    {
+      "id": "116",
+      "date": "2026-10-21",
+      "subject": "Positive predictive value versus negative predictive value: what a positive or negative test result means in the tested population",
+      "category": "Easy A-vs-B comparison / research literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "PPV vs NPV: What Does Your Test Result Mean?",
+      "angle": "A beginner-friendly two-card comparison that starts with the observed test result and explains how prevalence changes predictive value.",
+      "teaching_points": [
+        "Positive predictive value asks how often a condition is truly present among positive results.",
+        "Negative predictive value asks how often a condition is truly absent among negative results.",
+        "Predictive values are different from sensitivity and specificity.",
+        "PPV and NPV change when prevalence changes.",
+        "The same test can therefore have different predictive values across populations."
+      ],
+      "limitation": "A test result is not certainty; interpretation depends on the test, the population being tested and the underlying chance that the condition is present.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PredictiveValue",
+        "#DiagnosticTesting",
+        "#ResearchBasics",
+        "#DataLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-21-2000-ppv-vs-npv.png"
+      ],
+      "caption_file": "posts/2026-10-21-2000-ppv-vs-npv-caption.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/88b137d0b1479e2abd2c6be4b0f9355c9bfd23f0/posts/2026-10-21-2000-ppv-vs-npv.png&output=jpg&q=95",
+      "evidence": [
+        "CDC Rapid Diagnostic Testing for Influenza, accessed October 21 2026: positive and negative predictive values vary with prevalence; low prevalence lowers PPV and increases false-positive likelihood",
+        "Monaghan et al. 2021, PMCID PMC8156826: PPV is the proportion of positive results that truly have the outcome, while NPV is the proportion of negative results that truly do not; both depend on prevalence"
+      ],
+      "published_at": "2026-10-22T03:07:19Z",
+      "instagram_media_id": "18114600637864161",
+      "instagram_permalink": "https://www.instagram.com/p/Dex-tY5jEOD/"
     }
   ],
   "last_updated": "2026-10-21"

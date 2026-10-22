@@ -3498,6 +3498,42 @@
       "published_at": "2026-10-22T18:59:22.133Z",
       "instagram_media_id": "18021476954948623",
       "instagram_permalink": "https://www.instagram.com/p/DezrnBAFh7W/"
+    },
+    {
+      "id": "119",
+      "date": "2026-10-22",
+      "subject": "Bivalirudin: a synthetic 20-amino-acid hirudin analog that directly and reversibly inhibits circulating and clot-bound thrombin",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Bivalirudin: A 20-Amino-Acid Peptide That Directly Blocks Thrombin",
+      "angle": "A beginner-friendly pathway showing bivalirudin binding two thrombin sites and reducing fibrin formation.",
+      "teaching_points": [
+        "Bivalirudin is a synthetic 20-amino-acid peptide analog of hirudin.",
+        "It binds both the catalytic site and an anion-binding exosite on thrombin.",
+        "It inhibits circulating and clot-bound thrombin.",
+        "Its binding is reversible because thrombin slowly cleaves the peptide."
+      ],
+      "limitation": "Bivalirudin is a prescription anticoagulant for specific clinical uses; bleeding is the major safety risk and mechanism education is not administration guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Bivalirudin",
+        "#Thrombin",
+        "#AnticoagulantScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-22-1600-bivalirudin.svg"
+      ],
+      "caption_file": "captions/2026-10-22-1600-bivalirudin.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/849d91cda65cd19ad0188f6112b6bc75ca8fd953/posts/2026-10-22-1600-bivalirudin.svg&output=jpg&q=95&w=1080&h=1080",
+      "evidence": [
+        "DailyMed Bivalirudin label, accessed October 22 2026: direct thrombin inhibitor used as an anticoagulant in specific PCI settings; bleeding warning",
+        "FDA bivalirudin prescribing information and pharmacology review, accessed October 22 2026: 20-amino-acid peptide analog of hirudin that reversibly binds the catalytic site and anion-binding exosite of free and clot-bound thrombin"
+      ],
+      "published_at": "2026-10-22T22:59:29.162Z",
+      "instagram_media_id": "18114513332600042",
+      "instagram_permalink": "https://www.instagram.com/p/De0HErQjFnY/"
     }
   ],
   "last_updated": "2026-10-21"

@@ -3462,6 +3462,42 @@
       "published_at": "2026-10-22T15:04:24.229Z",
       "instagram_media_id": "18413902663095871",
       "instagram_permalink": "https://www.instagram.com/p/DezQtBRjXCP/"
+    },
+    {
+      "id": "118",
+      "date": "2026-10-22",
+      "subject": "Serious versus severe adverse events: regulatory outcome criteria compared with symptom intensity",
+      "category": "Easy A-vs-B comparison / safety literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Serious ≠ Severe: They Answer Different Safety Questions",
+      "angle": "A beginner-friendly two-card comparison separating intensity grading from regulatory seriousness criteria.",
+      "teaching_points": [
+        "Severe describes intensity, commonly graded as mild, moderate or severe.",
+        "Serious describes an outcome rather than simply symptom intensity.",
+        "Serious criteria include death, life-threatening events, hospitalization, significant disability, congenital anomaly or another important medical event.",
+        "An event can be severe without being serious, or serious without being rated severe."
+      ],
+      "limitation": "Neither seriousness nor severity alone establishes that a product caused the event; causality is assessed separately.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SafetyLiteracy",
+        "#AdverseEvents",
+        "#ClinicalResearch",
+        "#ResearchBasics"
+      ],
+      "media": [
+        "posts/2026-10-22-1200-serious-vs-severe.png"
+      ],
+      "caption_file": "captions/2026-10-22-1200-serious-vs-severe.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/8853aa3a621a50b3d5ba954a5592deaf8e5cb966/posts/2026-10-22-1200-serious-vs-severe.png&output=jpg&q=95",
+      "evidence": [
+        "FDA What is a Serious Adverse Event?, accessed October 22 2026: seriousness is defined by outcomes including death, life-threatening events, hospitalization, disability, congenital anomaly and other important medical events",
+        "ICH E2A Clinical Safety Data Management, accessed October 22 2026: serious and severe are not synonymous; severe describes intensity while serious is based on outcome criteria"
+      ],
+      "published_at": "2026-10-22T18:59:22.133Z",
+      "instagram_media_id": "18021476954948623",
+      "instagram_permalink": "https://www.instagram.com/p/DezrnBAFh7W/"
     }
   ],
   "last_updated": "2026-10-21"

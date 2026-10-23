@@ -3571,6 +3571,42 @@
       "published_at": "2026-10-23T03:01:40.641Z",
       "instagram_media_id": "18430855345148791",
       "instagram_permalink": "https://www.instagram.com/p/De0iydpCPeU/"
+    },
+    {
+      "id": "121",
+      "date": "2026-10-23",
+      "subject": "Pegvisomant: an altered human growth-hormone analog engineered to antagonize the growth-hormone receptor and reduce IGF-1 production",
+      "category": "Individual research-compound spotlight",
+      "format": "Single-image infographic",
+      "headline": "Pegvisomant: A Growth-Hormone Look-Alike Built to Block the Signal",
+      "angle": "A beginner-friendly receptor-blocking pathway showing how a growth-hormone analog can act as an antagonist rather than an activator.",
+      "teaching_points": [
+        "Pegvisomant is an altered analog of human growth hormone.",
+        "It binds the growth-hormone receptor on cell surfaces.",
+        "It blocks endogenous growth hormone from activating that receptor.",
+        "The blocked signal reduces downstream IGF-1 production."
+      ],
+      "limitation": "Pegvisomant is a prescription medicine approved for specific adults with acromegaly; labeling calls for IGF-1 and liver-test monitoring, and the approved use should not be generalized to other goals.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pegvisomant",
+        "#GrowthHormoneReceptor",
+        "#EndocrineScience",
+        "#ResearchEducation"
+      ],
+      "media": [
+        "posts/2026-10-23-0800-pegvisomant.png"
+      ],
+      "caption_file": "captions/2026-10-23-0800-pegvisomant.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0c181eebf3d864f35568d33823cd34a7475e5fdb/posts/2026-10-23-0800-pegvisomant.png&output=jpg&q=95",
+      "evidence": [
+        "DailyMed SOMAVERT label, accessed October 23 2026: pegvisomant selectively binds growth-hormone receptors, blocks endogenous growth-hormone binding and interferes with GH signal transduction, reducing IGF-1",
+        "FDA SOMAVERT prescribing information, accessed October 23 2026: pegvisomant is a structurally altered human growth-hormone analog acting as a receptor antagonist for specified adults with acromegaly; IGF-1 and liver-test monitoring are described"
+      ],
+      "published_at": "2026-10-23T14:58:00Z",
+      "instagram_media_id": "18126861619910512",
+      "instagram_permalink": "https://www.instagram.com/p/De11HWxDpjf/"
     }
   ],
   "last_updated": "2026-10-21"

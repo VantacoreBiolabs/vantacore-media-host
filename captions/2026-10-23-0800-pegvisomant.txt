@@ -1,0 +1,9 @@
+PEGVISOMANT: A growth-hormone look-alike built to block the signal.
+
+Pegvisomant is an altered analog of human growth hormone. Instead of switching the growth-hormone receptor on, it binds the receptor and blocks natural growth hormone from activating it. That reduces production of IGF-1, a key downstream signal.
+
+Evidence check: Pegvisomant is an approved prescription medicine for specific adults with acromegaly. Its labeling calls for IGF-1 and liver-test monitoring, and the approved use should not be generalized to other goals.
+
+Which signaling pathway should we decode next?
+
+#VantacoreBiolabs #Pegvisomant #GrowthHormoneReceptor #EndocrineScience #ResearchEducation

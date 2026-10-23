@@ -1,0 +1,14 @@
+RANDOM SAMPLING ≠ RANDOM ASSIGNMENT
+
+They sound similar, but they solve different study problems:
+
+• Random sampling selects who enters a study from a target population.
+• It can improve how representative the sample is.
+• Random assignment places enrolled participants into study groups.
+• It helps make group comparisons fairer by balancing baseline differences.
+
+Key limitation: A trial can randomly assign participants even when the people who enrolled were not randomly sampled. Assignment strengthens causal comparisons; sampling affects how broadly results may generalize.
+
+Which research term should we decode next?
+
+#VantacoreBiolabs #RandomSampling #RandomAssignment #StudyDesign #ResearchLiteracy

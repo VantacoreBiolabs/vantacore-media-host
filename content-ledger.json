@@ -3643,6 +3643,42 @@
       "published_at": "2026-10-23T19:06:00Z",
       "instagram_media_id": "17993248113104402",
       "instagram_permalink": "https://www.instagram.com/p/De2Rgq1ke7H/"
+    },
+    {
+      "id": "123",
+      "date": "2026-10-23",
+      "subject": "Pasireotide: a cyclic hexapeptide somatostatin analog with high affinity for four somatostatin-receptor subtypes",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Pasireotide: One Cyclic Peptide, Four Receptor Targets",
+      "angle": "A beginner-friendly receptor map showing pasireotide's broad somatostatin-receptor binding and the ACTH-to-cortisol pathway relevant to Cushing's disease.",
+      "teaching_points": [
+        "Pasireotide is a six-amino-acid cyclic peptide and somatostatin analog.",
+        "It binds somatostatin receptors and has high affinity for SSTR1, SSTR2, SSTR3 and SSTR5.",
+        "In Cushing's disease, receptor activation can inhibit ACTH secretion.",
+        "Reduced ACTH signaling can decrease downstream cortisol secretion."
+      ],
+      "limitation": "Pasireotide is a prescription medicine for specific endocrine uses; hyperglycemia is an important risk and official labeling calls for glucose monitoring.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pasireotide",
+        "#Somatostatin",
+        "#EndocrineScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-23-1600-pasireotide.png"
+      ],
+      "caption_file": "captions/2026-10-23-1600-pasireotide.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e8a0e8c5bf99127da4b018eb4d1ac23c7196d60b/posts/2026-10-23-1600-pasireotide.png&output=jpg&q=95",
+      "evidence": [
+        "DailyMed SIGNIFOR label, accessed October 23 2026: pasireotide is an injectable cyclohexapeptide somatostatin analog; SSTR activation inhibits ACTH secretion and decreases cortisol secretion in Cushing's disease",
+        "FDA SIGNIFOR LAR prescribing information, accessed October 23 2026: pasireotide binds with high affinity to four of five SSTR subtypes; hyperglycemia is an important warning and glucose monitoring is required"
+      ],
+      "published_at": "2026-10-23T23:02:00Z",
+      "instagram_media_id": "18052475426604706",
+      "instagram_permalink": "https://www.instagram.com/p/De2sZFJDQ6Q/"
     }
   ],
   "last_updated": "2026-10-21"

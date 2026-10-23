@@ -3534,6 +3534,43 @@
       "published_at": "2026-10-22T22:59:29.162Z",
       "instagram_media_id": "18114513332600042",
       "instagram_permalink": "https://www.instagram.com/p/De0HErQjFnY/"
+    },
+    {
+      "id": "120",
+      "date": "2026-10-22",
+      "subject": "Random sampling versus random assignment: selecting who enters a study compared with allocating enrolled participants to study groups",
+      "category": "Easy A-vs-B comparison / research literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Random Sampling ≠ Random Assignment",
+      "angle": "A two-panel beginner comparison connecting random sampling to representativeness and random assignment to fairer causal group comparisons.",
+      "teaching_points": [
+        "Random sampling selects who enters a study from a target population.",
+        "Random sampling can improve representativeness and external validity.",
+        "Random assignment places enrolled participants into study groups.",
+        "Random assignment helps balance baseline differences and supports causal comparisons.",
+        "A randomized trial can still use a non-random sample."
+      ],
+      "limitation": "Random assignment does not automatically make the enrolled sample representative; sampling affects how broadly results may generalize.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#RandomSampling",
+        "#RandomAssignment",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-22-2000-random-sampling-vs-assignment.png"
+      ],
+      "caption_file": "captions/2026-10-22-2000-random-sampling-vs-assignment.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/1fb6560c601aab6f57a338dcfabd7f755f29fea1/posts/2026-10-22-2000-random-sampling-vs-assignment.png&output=jpg&q=95",
+      "evidence": [
+        "Vaidyanathan et al., Randomization in clinical research, PMCID PMC10896307, accessed October 22 2026: sampling selects participants from a population while randomization assigns enrolled participants to groups",
+        "Suresh et al., Design data analysis and sampling techniques for clinical research, PMCID PMC3271469, accessed October 22 2026: random sampling relates to external validity and random assignment to internal validity"
+      ],
+      "published_at": "2026-10-23T03:01:40.641Z",
+      "instagram_media_id": "18430855345148791",
+      "instagram_permalink": "https://www.instagram.com/p/De0iydpCPeU/"
     }
   ],
   "last_updated": "2026-10-21"

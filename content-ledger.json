@@ -3607,6 +3607,42 @@
       "published_at": "2026-10-23T14:58:00Z",
       "instagram_media_id": "18126861619910512",
       "instagram_permalink": "https://www.instagram.com/p/De11HWxDpjf/"
+    },
+    {
+      "id": "122",
+      "date": "2026-10-23",
+      "subject": "Hazard versus risk: potential to cause harm compared with likelihood and severity under real exposure conditions",
+      "category": "Easy A-vs-B comparison / safety literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Hazard ≠ Risk",
+      "angle": "A beginner-friendly two-card comparison separating a source's potential for harm from the likelihood and severity of harm under actual exposure conditions.",
+      "teaching_points": [
+        "A hazard is a substance, process or situation with the potential to cause harm.",
+        "Risk considers how likely harm is and how serious it could be under defined conditions.",
+        "Exposure is a key part of translating hazard into risk.",
+        "Reducing or controlling exposure can lower risk even when the hazard remains."
+      ],
+      "limitation": "Risk estimates are context-specific and depend on the setting, exposure pathway and available evidence; identifying a hazard alone does not quantify real-world risk.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#HazardVsRisk",
+        "#SafetyLiteracy",
+        "#RiskAssessment",
+        "#ResearchEducation"
+      ],
+      "media": [
+        "posts/2026-10-23-1200-hazard-vs-risk.png"
+      ],
+      "caption_file": "captions/2026-10-23-1200-hazard-vs-risk.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ed3f4089043d83e1db07d9dad9bcefb96d6afef1/posts/2026-10-23-1200-hazard-vs-risk.png&output=jpg&q=95",
+      "evidence": [
+        "OSHA Safety Management: Hazard Identification and Assessment, accessed October 23 2026: risk reflects hazard and exposure and can be reduced by eliminating or controlling either",
+        "CDC/NIOSH Work-Related Risks and Hazards and Hierarchy of Controls, accessed October 23 2026: hazard evaluation considers exposure likelihood, route and outcome severity; controls reduce exposures and risk"
+      ],
+      "published_at": "2026-10-23T19:06:00Z",
+      "instagram_media_id": "17993248113104402",
+      "instagram_permalink": "https://www.instagram.com/p/De2Rgq1ke7H/"
     }
   ],
   "last_updated": "2026-10-21"

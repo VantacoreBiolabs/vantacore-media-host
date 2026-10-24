@@ -3753,7 +3753,45 @@
       "published_at": "2026-10-24T14:58:00Z",
       "instagram_media_id": "18124542977513825",
       "instagram_permalink": "https://www.instagram.com/p/De4ZwODjn_M/"
+    },
+    {
+      "id": "126",
+      "date": "2026-10-24",
+      "subject": "Primary data versus secondary data: collecting new information for the current study compared with reusing existing information for a new research question",
+      "category": "Research literacy / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Primary Data ≠ Secondary Data",
+      "angle": "A beginner-friendly comparison of first-hand data collection with analysis of existing records, emphasizing that neither approach is automatically superior.",
+      "teaching_points": [
+        "Primary data are collected first-hand for the current study.",
+        "Surveys, interviews and observations are common primary-data examples.",
+        "Secondary data already exist and are reused for a new question.",
+        "Registries, records and published datasets are common secondary-data examples.",
+        "Primary data can offer more control, while secondary data can save time and widen scale."
+      ],
+      "limitation": "Neither data type is automatically better; fitness for the question, data quality, bias and variable definitions still determine what conclusions are justified.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PrimaryData",
+        "#SecondaryData",
+        "#ResearchMethods",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-24-1200-primary-vs-secondary-data.png"
+      ],
+      "caption_file": "captions/2026-10-24-1200-primary-vs-secondary-data.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a55b9bbb2cb85f4cc7ba932b8b852478a1388b4a/posts/2026-10-24-1200-primary-vs-secondary-data.png&output=jpg&q=95",
+      "evidence": [
+        "CDC Public Health Infrastructure Center, Data & Benchmarks, accessed October 24 2026: primary data are collected first-hand, while secondary data are collected by another entity or for another purpose.",
+        "National Institute on Aging, Understanding the value of secondary research data, June 28 2023, accessed October 24 2026: secondary research uses existing data or specimens collected for other purposes.",
+        "Wickham, Secondary Analysis Research, Journal of the Advanced Practitioner in Oncology (2019), PMCID PMC7520737: secondary analysis uses existing data for questions different from those of the original study and requires assessment of data fit and quality."
+      ],
+      "published_at": "2026-10-24T19:05:00Z",
+      "instagram_media_id": "17973981660155672",
+      "instagram_permalink": "https://www.instagram.com/p/De412QBjE55/"
     }
   ],
-  "last_updated": "2026-10-21"
+  "last_updated": "2026-10-24"
 }

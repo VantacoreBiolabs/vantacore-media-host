@@ -3791,6 +3791,44 @@
       "published_at": "2026-10-24T19:05:00Z",
       "instagram_media_id": "17973981660155672",
       "instagram_permalink": "https://www.instagram.com/p/De412QBjE55/"
+    },
+    {
+      "id": "127",
+      "date": "2026-10-24",
+      "subject": "Ecallantide: a recombinant 60-amino-acid protein that selectively and reversibly inhibits plasma kallikrein to reduce bradykinin generation",
+      "category": "Individual research-compound spotlight",
+      "format": "Single-image infographic",
+      "headline": "Ecallantide: The 60-Amino-Acid Kallikrein Blocker",
+      "angle": "A beginner-friendly kallikrein–bradykinin pathway showing how ecallantide blocks the enzyme upstream of the swelling signal in hereditary angioedema.",
+      "teaching_points": [
+        "Ecallantide is a recombinant 60-amino-acid protein produced using recombinant DNA technology.",
+        "It is a selective, reversible inhibitor of plasma kallikrein.",
+        "Blocking plasma kallikrein reduces conversion of high-molecular-weight kininogen to bradykinin.",
+        "Excess bradykinin contributes to localized swelling, inflammation and pain during hereditary angioedema attacks.",
+        "It is FDA-approved for acute hereditary angioedema attacks in patients 12 years of age and older."
+      ],
+      "limitation": "The prescribing information carries a boxed warning because anaphylaxis can occur; administration and monitoring by a healthcare professional with appropriate medical support are required.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ecallantide",
+        "#Kallikrein",
+        "#ProteinScience",
+        "#ResearchEducation"
+      ],
+      "media": [
+        "posts/2026-10-24-1600-ecallantide.png"
+      ],
+      "caption_file": "captions/2026-10-24-1600-ecallantide.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5010bf3184e54fa9f05ccd7b9d494ec386d3256d/posts/2026-10-24-1600-ecallantide.png&output=jpg&q=95",
+      "evidence": [
+        "DailyMed KALBITOR prescribing information revised June 2025, accessed October 24 2026: ecallantide is a recombinant 60-amino-acid protein and a selective reversible plasma-kallikrein inhibitor.",
+        "DailyMed KALBITOR labeling, accessed October 24 2026: inhibition of plasma kallikrein reduces conversion of high-molecular-weight kininogen to bradykinin.",
+        "FDA KALBITOR prescribing information: boxed warning for anaphylaxis and requirement for healthcare-professional administration with appropriate medical support."
+      ],
+      "published_at": "2026-10-24T22:56:00Z",
+      "instagram_media_id": "17911734222487933",
+      "instagram_permalink": "https://www.instagram.com/p/De5QeSxiCDJ/"
     }
   ],
   "last_updated": "2026-10-24"

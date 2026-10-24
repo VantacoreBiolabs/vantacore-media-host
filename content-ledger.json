@@ -3679,6 +3679,43 @@
       "published_at": "2026-10-23T23:02:00Z",
       "instagram_media_id": "18052475426604706",
       "instagram_permalink": "https://www.instagram.com/p/De2sZFJDQ6Q/"
+    },
+    {
+      "id": "124",
+      "date": "2026-10-23",
+      "subject": "Prospective versus retrospective studies: following defined participants forward compared with analyzing events and records that already exist",
+      "category": "Easy A-vs-B comparison / research literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Prospective vs. Retrospective: Which Way Does the Study Look?",
+      "angle": "A beginner-friendly timeline contrasting forward follow-up from a defined starting point with backward analysis of already-recorded events.",
+      "teaching_points": [
+        "Prospective studies define participants first and observe outcomes moving forward.",
+        "Retrospective studies analyze records or events that already exist.",
+        "Both approaches can answer useful research questions.",
+        "Both designs can be affected by bias, missing data and measurement quality."
+      ],
+      "limitation": "Prospective and retrospective describe timing and data collection; neither label alone establishes study quality, causal certainty or freedom from bias.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StudyDesign",
+        "#ProspectiveStudy",
+        "#RetrospectiveStudy",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-23-2000-prospective-vs-retrospective.png"
+      ],
+      "caption_file": "captions/2026-10-23-2000-prospective-vs-retrospective.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/344a8668ec5d96bb404d4604e7282df5745fe59b/posts/2026-10-23-2000-prospective-vs-retrospective.png&output=jpg&q=95",
+      "evidence": [
+        "Kim, Overview of clinical study designs, PMCID PMC11009715, accessed October 23 2026: retrospective studies investigate events that have already occurred while prospective cohort studies recruit and follow participants",
+        "Song and Chung, Observational Studies: Cohort and Case-Control Studies, PMCID PMC2998589, accessed October 23 2026: prospective studies proceed from the present into the future and retrospective approaches use prior records; each has distinct strengths and limitations",
+        "Korsgaard et al., Retrospective and prospective study designs, PMID 38708701, accessed October 23 2026: the terms have multiple definitions and prospective should not be treated as an automatic quality ranking"
+      ],
+      "published_at": "2026-10-24T03:58:00Z",
+      "instagram_media_id": "17995483977023740",
+      "instagram_permalink": "https://www.instagram.com/p/De3HXpGggAw/"
     }
   ],
   "last_updated": "2026-10-21"

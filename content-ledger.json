@@ -3716,6 +3716,43 @@
       "published_at": "2026-10-24T03:58:00Z",
       "instagram_media_id": "17995483977023740",
       "instagram_permalink": "https://www.instagram.com/p/De3HXpGggAw/"
+    },
+    {
+      "id": "125",
+      "date": "2026-10-24",
+      "subject": "Sincalide: a synthetic cholecystokinin C-terminal octapeptide that stimulates gallbladder contraction, pancreatic secretion and intestinal motility",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Sincalide: The 8-Amino-Acid Signal That Makes the Gallbladder Move",
+      "angle": "A beginner-friendly digestive pathway showing how the CCK-8 peptide signal contracts the gallbladder and moves bile while also affecting pancreatic secretion and intestinal motility.",
+      "teaching_points": [
+        "Sincalide is a synthetic version of the active eight-amino-acid end of cholecystokinin.",
+        "It stimulates gallbladder contraction and bile evacuation similar to endogenous CCK.",
+        "It stimulates pancreatic secretion.",
+        "It increases intestinal motility and can slow gastric emptying."
+      ],
+      "limitation": "Sincalide is a prescription diagnostic agent rather than a general wellness compound; serious hypersensitivity reactions including anaphylaxis and anaphylactic shock can occur.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Sincalide",
+        "#CCK8",
+        "#DigestiveScience",
+        "#PeptideEducation"
+      ],
+      "media": [
+        "posts/2026-10-24-0800-sincalide.png"
+      ],
+      "caption_file": "captions/2026-10-24-0800-sincalide.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/1b16a20b6e268b8b4025815d6bf117ef384a9c3f/posts/2026-10-24-0800-sincalide.png&output=jpg&q=95",
+      "evidence": [
+        "DailyMed KINEVAC labeling, accessed October 24 2026: sincalide stimulates gallbladder contraction, pancreatic secretion and intestinal motility and slows gastric emptying",
+        "FDA KINEVAC prescribing information revised October 2023, accessed October 24 2026: sincalide is a diagnostic agent for specific uses; serious hypersensitivity reactions including anaphylaxis and anaphylactic shock are warnings",
+        "FDA KINEVAC review, accessed October 24 2026: sincalide is the cholecystokinin C-terminal octapeptide"
+      ],
+      "published_at": "2026-10-24T14:58:00Z",
+      "instagram_media_id": "18124542977513825",
+      "instagram_permalink": "https://www.instagram.com/p/De4ZwODjn_M/"
     }
   ],
   "last_updated": "2026-10-21"

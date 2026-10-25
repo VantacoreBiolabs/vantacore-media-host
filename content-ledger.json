@@ -3866,7 +3866,45 @@
       "published_at": "2026-10-25T03:02:00Z",
       "instagram_media_id": "18117864874794102",
       "instagram_permalink": "https://www.instagram.com/p/De5srYXAkNR/"
+    },
+    {
+      "id": "129",
+      "date": "2026-10-25",
+      "subject": "Lixisenatide: a synthetic 44-amino-acid GLP-1 analog that increases glucose-dependent insulin release, decreases glucagon secretion and slows gastric emptying",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Lixisenatide: The 44-Amino-Acid GLP-1 Signal",
+      "angle": "A beginner-friendly GLP-1-receptor pathway showing the compound’s three labeled physiological effects without dosing or weight-loss claims.",
+      "teaching_points": [
+        "Lixisenatide is a synthetic 44-amino-acid analog of human GLP-1.",
+        "It acts as a GLP-1 receptor agonist.",
+        "It increases glucose-dependent insulin release.",
+        "It decreases glucagon secretion.",
+        "It slows gastric emptying."
+      ],
+      "limitation": "Lixisenatide is a prescription therapy for adults with type 2 diabetes, not type 1 diabetes; pancreatitis and serious hypersensitivity are important warnings, and it is not recommended in gastroparesis.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Lixisenatide",
+        "#GLP1Science",
+        "#PeptideEducation",
+        "#DiabetesResearch"
+      ],
+      "media": [
+        "posts/2026-10-25-0800-lixisenatide.png"
+      ],
+      "caption_file": "captions/2026-10-25-0800-lixisenatide.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4fc1129c663aa09955d5802ea4d6ab39dfeeda0f/posts/2026-10-25-0800-lixisenatide.png&output=jpg&q=95",
+      "evidence": [
+        "FDA ADLYXIN prescribing information revised 2025, accessed October 25 2026: lixisenatide is a synthetic 44-amino-acid GLP-1 analog.",
+        "FDA ADLYXIN clinical pharmacology: lixisenatide increases glucose-dependent insulin release, decreases glucagon secretion and slows gastric emptying.",
+        "DailyMed ADLYXIN labeling: indication for adults with type 2 diabetes and limitations involving type 1 diabetes, pancreatitis history, gastroparesis and serious hypersensitivity."
+      ],
+      "published_at": "2026-10-25T15:05:00Z",
+      "instagram_media_id": "18384253666234760",
+      "instagram_permalink": "https://www.instagram.com/p/De6_OrwjbeF/"
     }
   ],
-  "last_updated": "2026-10-24"
+  "last_updated": "2026-10-25"
 }

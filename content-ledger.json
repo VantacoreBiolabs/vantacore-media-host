@@ -3829,6 +3829,43 @@
       "published_at": "2026-10-24T22:56:00Z",
       "instagram_media_id": "17911734222487933",
       "instagram_permalink": "https://www.instagram.com/p/De5QeSxiCDJ/"
+    },
+    {
+      "id": "128",
+      "date": "2026-10-24",
+      "subject": "Inter-rater reliability versus test–retest reliability: agreement across different raters compared with stability of repeated measurements over time",
+      "category": "Research literacy / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Reliability: Same Result? Who Repeats It—or When?",
+      "angle": "A beginner-friendly comparison distinguishing agreement between different raters from stability when the same measure is repeated over time.",
+      "teaching_points": [
+        "Inter-rater reliability asks whether different raters score the same thing similarly.",
+        "Test–retest reliability asks whether repeated measurements remain stable over time when the underlying target is expected to be stable.",
+        "Two reviewers rating one image is an inter-rater example.",
+        "One person repeating the same test later is a test–retest example."
+      ],
+      "limitation": "Reliability does not automatically establish validity; a measure can produce consistent results while still failing to measure the intended construct.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ResearchReliability",
+        "#ResearchMethods",
+        "#DataLiteracy",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-24-2000-inter-rater-vs-test-retest.png"
+      ],
+      "caption_file": "captions/2026-10-24-2000-inter-rater-vs-test-retest.txt",
+      "status": "published",
+      "public_media_url": "https://images.weserv.nl/?url=raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2a381b24afab82adbf3ec56e5d456851c102c708/posts/2026-10-24-2000-inter-rater-vs-test-retest.png&output=jpg&q=95",
+      "evidence": [
+        "NCBI Bookshelf, Assessment Tools for Palliative Care glossary, accessed October 24 2026: test–retest reliability reflects stability over time; inter-rater reliability is agreement among raters.",
+        "McHugh, Interrater reliability: the kappa statistic, Biochemia Medica (2012), PMCID PMC3900052: inter-rater reliability measures the extent to which raters assign the same score.",
+        "NCBI Bookshelf, Principles for Evaluating Psychometric Tests, accessed October 24 2026: reliability concerns consistency across time, items and raters and is distinct from validity."
+      ],
+      "published_at": "2026-10-25T03:02:00Z",
+      "instagram_media_id": "18117864874794102",
+      "instagram_permalink": "https://www.instagram.com/p/De5srYXAkNR/"
     }
   ],
   "last_updated": "2026-10-24"

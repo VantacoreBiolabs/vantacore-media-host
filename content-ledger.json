@@ -3904,6 +3904,44 @@
       "published_at": "2026-10-25T15:05:00Z",
       "instagram_media_id": "18384253666234760",
       "instagram_permalink": "https://www.instagram.com/p/De6_OrwjbeF/"
+    },
+    {
+      "id": "130",
+      "date": "2026-10-25",
+      "subject": "Qualitative vs quantitative data: words and meaning compared with numbers and measurement",
+      "category": "Easy A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Qualitative ≠ Quantitative",
+      "angle": "A beginner-friendly comparison showing how qualitative data explores meaning and context while quantitative data measures counts, values and relationships.",
+      "teaching_points": [
+        "Qualitative data includes words, stories, images and observations.",
+        "Qualitative approaches are especially useful for asking how and why.",
+        "Quantitative data includes numbers, counts and measured values.",
+        "Quantitative approaches are especially useful for asking how many and how much.",
+        "The two approaches answer different questions and can be combined in mixed-methods research."
+      ],
+      "limitation": "Neither approach is automatically stronger; quality depends on the research question, sampling, data collection and analysis.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#QualitativeResearch",
+        "#QuantitativeResearch",
+        "#ResearchMethods",
+        "#DataLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-25-1200-qualitative-vs-quantitative.jpg"
+      ],
+      "caption_file": "posts/2026-10-25-1200-qualitative-vs-quantitative.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2992d477b21b0d816d5b739dac9723144db2ba57/posts/2026-10-25-1200-qualitative-vs-quantitative.jpg",
+      "evidence": [
+        "CDC Field Epidemiology Manual, Qualitative Data, accessed October 25 2026: qualitative data can be text or visual images and provide insight into how, why and subjective meaning.",
+        "CDC, Step 4 Gather Credible Evidence, accessed October 25 2026: quantitative evidence relies on numerical data, qualitative evidence relies on words, and mixed methods can integrate both.",
+        "NCBI Bookshelf, Human Subjects Research Design, accessed October 25 2026: qualitative methods study nonnumeric concepts and experiences, while quantitative methods generate numeric evidence."
+      ],
+      "published_at": "2026-10-25T19:06:24Z",
+      "instagram_media_id": "18125979895687486",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-25"

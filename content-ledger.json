@@ -3942,6 +3942,44 @@
       "published_at": "2026-10-25T19:06:24Z",
       "instagram_media_id": "18125979895687486",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "131",
+      "date": "2026-10-25",
+      "subject": "Metreleptin: a 147-amino-acid recombinant human leptin analog that binds and activates the leptin receptor",
+      "category": "Individual research-compound spotlight",
+      "format": "Single-image infographic",
+      "headline": "Metreleptin: A Leptin Signal Replacement",
+      "angle": "A beginner-friendly receptor-pathway spotlight explaining metreleptin’s structure, leptin-receptor activation and narrow U.S. approved-use boundary.",
+      "teaching_points": [
+        "Metreleptin is a 147-amino-acid recombinant human leptin analog.",
+        "It differs from native human leptin by one added methionine at the amino terminus.",
+        "It binds and activates the human leptin receptor.",
+        "The leptin receptor signals through the JAK/STAT pathway.",
+        "Its U.S. indication is limited to complications of leptin deficiency in congenital or acquired generalized lipodystrophy, as an adjunct to diet."
+      ],
+      "limitation": "Current labeling carries a boxed warning for anti-metreleptin antibodies with neutralizing activity and lymphoma risk; access is restricted through the MYALEPT REMS, and metreleptin is not a general weight-loss compound.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Metreleptin",
+        "#LeptinResearch",
+        "#CompoundSpotlight",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-25-1600-metreleptin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-25-1600-metreleptin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/19a50a3811e1d140f9a956f4803eacaaaaca4b0b/posts/2026-10-25-1600-metreleptin-spotlight.jpg",
+      "evidence": [
+        "DailyMed MYALEPT prescribing information revised March 2024, accessed October 25 2026: metreleptin is a 147-amino-acid recombinant human leptin analog with one added N-terminal methionine.",
+        "DailyMed MYALEPT clinical pharmacology, accessed October 25 2026: metreleptin binds and activates the human leptin receptor, which signals through JAK/STAT.",
+        "FDA and DailyMed labeling, accessed October 25 2026: indication is limited to complications of leptin deficiency in congenital or acquired generalized lipodystrophy; boxed warning covers neutralizing antibodies and lymphoma risk and the product is subject to a REMS."
+      ],
+      "published_at": "2026-10-25T22:58:24Z",
+      "instagram_media_id": "18106746791188127",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-25"

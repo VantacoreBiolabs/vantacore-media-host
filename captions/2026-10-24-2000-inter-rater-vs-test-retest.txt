@@ -1,0 +1,17 @@
+RELIABILITY: SAME RESULT?
+
+There is more than one way to ask whether a measurement is consistent.
+
+Inter-rater reliability asks whether different raters score the same thing similarly.
+
+Test–retest reliability asks whether the same measure produces stable results when repeated over time—assuming what is measured has not truly changed.
+
+Quick example:
+• Two reviewers rate the same image = inter-rater
+• One person repeats the same test later = test–retest
+
+Evidence check: reliable does not automatically mean valid. A measure can be consistent and still measure the wrong thing.
+
+Which research term should we simplify next?
+
+#VantacoreBiolabs #ResearchReliability #ResearchMethods #DataLiteracy #ScienceEducation

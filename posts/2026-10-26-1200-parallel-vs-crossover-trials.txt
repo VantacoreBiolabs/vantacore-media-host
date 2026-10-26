@@ -1,0 +1,13 @@
+PARALLEL ≠ CROSSOVER
+
+Parallel-group trials compare different groups receiving different study conditions. Each participant usually remains in one assigned group.
+
+Crossover trials use the same participants across multiple conditions in sequence, allowing each person to serve as their own comparison.
+
+A washout period may be used between conditions—but it cannot always remove lingering effects.
+
+Evidence check: crossover designs can be misleading when carryover is likely, the condition changes over time, or the intervention has lasting effects.
+
+Which study design should we decode next?
+
+#VantacoreBiolabs #ClinicalTrials #StudyDesign #ResearchLiteracy #DataLiteracy

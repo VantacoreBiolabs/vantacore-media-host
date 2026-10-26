@@ -4056,6 +4056,44 @@
       "published_at": "2026-10-26T15:05:15Z",
       "instagram_media_id": "18247980724312080",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "134",
+      "date": "2026-10-26",
+      "subject": "Parallel-group versus crossover trials: different participants in separate conditions compared with the same participants receiving conditions in sequence",
+      "category": "Research literacy / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Parallel ≠ Crossover",
+      "angle": "A beginner-friendly comparison showing how parallel and crossover trials assign study conditions and why lingering effects matter.",
+      "teaching_points": [
+        "Parallel-group trials compare different groups receiving different study conditions.",
+        "Each participant in a parallel design usually remains in one assigned group.",
+        "Crossover trials give the same participants multiple conditions in sequence.",
+        "Each crossover participant can serve as their own comparison.",
+        "A washout period may separate conditions, but it cannot always remove lingering effects."
+      ],
+      "limitation": "Crossover designs can be misleading when carryover is likely, the condition changes over time, or the intervention has lasting or irreversible effects.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#StudyDesign",
+        "#ResearchLiteracy",
+        "#DataLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-26-1200-parallel-vs-crossover-trials.jpg"
+      ],
+      "caption_file": "posts/2026-10-26-1200-parallel-vs-crossover-trials.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/80d4bac241d055ddb9e7c87316e2cafe1e879174/posts/2026-10-26-1200-parallel-vs-crossover-trials.jpg",
+      "evidence": [
+        "Lim and In, Considerations for crossover design in clinical study (2021), PMCID PMC8342834: parallel designs use between-subject comparisons while crossover designs use within-subject comparisons and can be affected by lingering treatment effects.",
+        "Sibbald and Roberts, Understanding controlled trials: Crossover trials (1998), PMCID PMC1113275: crossover participants receive sequences of treatments and responses can be compared within the same participant.",
+        "FDA Exposure-Response Relationships guidance, accessed October 26 2026: crossover studies should account for sequence, duration and possible carryover effects."
+      ],
+      "published_at": "2026-10-26T19:06:22Z",
+      "instagram_media_id": "17964424488209300",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-26"

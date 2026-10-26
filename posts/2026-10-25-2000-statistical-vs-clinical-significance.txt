@@ -1,0 +1,13 @@
+SIGNIFICANT ≠ IMPORTANT
+
+Statistical significance asks whether the observed data conflict with a no-effect model at a chosen threshold.
+
+Clinical significance asks a different question: is the effect large enough to matter in real practice?
+
+A p-value does not tell you the size of an effect. To interpret a result well, also look at the effect size, confidence interval, potential benefits, potential harms and context.
+
+Evidence check: with a very large sample, even a tiny and practically unimportant effect can become statistically significant.
+
+Which research term should we decode next?
+
+#VantacoreBiolabs #StatisticalSignificance #ClinicalSignificance #ResearchLiteracy #DataLiteracy

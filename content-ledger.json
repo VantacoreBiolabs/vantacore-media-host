@@ -4094,6 +4094,44 @@
       "published_at": "2026-10-26T19:06:22Z",
       "instagram_media_id": "17964424488209300",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "135",
+      "date": "2026-10-26",
+      "subject": "Ganirelix: a synthetic 10-amino-acid GnRH-antagonist peptide that suppresses pituitary LH and FSH release",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Ganirelix: The GnRH Brake",
+      "angle": "A beginner-friendly receptor spotlight explaining how a short GnRH-antagonist peptide blocks rather than activates the pituitary signal and prevents premature LH surges during controlled ovarian stimulation.",
+      "teaching_points": [
+        "Ganirelix is a synthetic decapeptide with GnRH-antagonist activity.",
+        "It blocks GnRH receptors in the anterior pituitary.",
+        "Blocking those receptors suppresses LH and FSH release.",
+        "Its labeled role is inhibiting premature LH surges during controlled ovarian stimulation."
+      ],
+      "limitation": "Ganirelix is a prescription fertility medicine, not a general hormone-support compound; serious hypersensitivity reactions including anaphylaxis have been reported, and it is contraindicated during pregnancy.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ganirelix",
+        "#PeptideEducation",
+        "#ReproductiveScience",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-26-1600-ganirelix-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-26-1600-ganirelix-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e3d761b6b71ac3bcd3a975e87ac2a0ed4886e2ff/posts/2026-10-26-1600-ganirelix-spotlight.jpg",
+      "evidence": [
+        "FDA Ganirelix Acetate Injection labeling revised 2024, accessed October 26 2026: ganirelix is a synthetic decapeptide with high antagonistic activity against naturally occurring GnRH.",
+        "FDA Ganirelix Acetate Injection clinical pharmacology and indication, accessed October 26 2026: the compound suppresses pituitary gonadotropins and is indicated to inhibit premature LH surges during controlled ovarian hyperstimulation.",
+        "FDA Ganirelix Acetate Injection precautions, accessed October 26 2026: hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema and urticaria have been reported; pregnancy is a contraindication.",
+        "Gillies et al., Ganirelix review (2000), PMID 10718102: ganirelix competitively blocks anterior-pituitary GnRH receptors, preventing GnRH-induced LH and FSH release."
+      ],
+      "published_at": "2026-10-26T23:06:22Z",
+      "instagram_media_id": "17963543442232081",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-26"

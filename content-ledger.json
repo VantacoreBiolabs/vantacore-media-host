@@ -3980,6 +3980,44 @@
       "published_at": "2026-10-25T22:58:24Z",
       "instagram_media_id": "18106746791188127",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "132",
+      "date": "2026-10-25",
+      "subject": "Statistical significance versus clinical significance: evidence against a no-effect model compared with whether an effect is meaningful in practice",
+      "category": "Research literacy / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Significant ≠ Important",
+      "angle": "A beginner-friendly comparison explaining why a statistically significant result is not automatically large, useful or clinically meaningful.",
+      "teaching_points": [
+        "Statistical significance asks whether observed data conflict with a no-effect model at a chosen threshold.",
+        "A p-value does not show the size of an effect.",
+        "Clinical significance asks whether an effect is large enough to matter in real practice.",
+        "Clinical importance depends on benefits, harms and context.",
+        "Effect sizes and confidence intervals add magnitude and precision to interpretation."
+      ],
+      "limitation": "A large sample can make a tiny, practically unimportant effect statistically significant; a p-value alone does not establish importance, truth or meaningful benefit.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StatisticalSignificance",
+        "#ClinicalSignificance",
+        "#ResearchLiteracy",
+        "#DataLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-25-2000-statistical-vs-clinical-significance-v2.jpg"
+      ],
+      "caption_file": "posts/2026-10-25-2000-statistical-vs-clinical-significance.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/90d778f29f55635f416068eb2d839cc6b59e6015/posts/2026-10-25-2000-statistical-vs-clinical-significance-v2.jpg",
+      "evidence": [
+        "NIH-hosted review, Using Effect Size—or Why the P Value Is Not Enough, accessed October 25 2026: p-values do not reveal effect magnitude and statistical significance depends on sample size and effect size.",
+        "NIH-hosted review, Statistical significance or clinical significance?, accessed October 25 2026: statistically significant results are not necessarily clinically relevant.",
+        "NIH-hosted review, Shifting to Effect Sizes and Confidence Intervals, accessed October 25 2026: effect sizes describe magnitude and confidence intervals describe precision."
+      ],
+      "published_at": "2026-10-26T03:03:06Z",
+      "instagram_media_id": "17952331344331472",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-25"

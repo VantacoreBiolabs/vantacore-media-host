@@ -4018,7 +4018,45 @@
       "published_at": "2026-10-26T03:03:06Z",
       "instagram_media_id": "17952331344331472",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "133",
+      "date": "2026-10-26",
+      "subject": "Macimorelin: a synthetic peptidomimetic ghrelin-receptor agonist used as a growth-hormone stimulation test for diagnosing adult growth-hormone deficiency",
+      "category": "Individual research-compound spotlight",
+      "format": "Single-image infographic",
+      "headline": "Macimorelin: A Diagnostic Signal—Not GH Therapy",
+      "angle": "A beginner-friendly signal-pathway spotlight explaining that macimorelin briefly stimulates growth-hormone release for diagnostic measurement rather than acting as growth-hormone replacement.",
+      "teaching_points": [
+        "Macimorelin is a synthetic growth-hormone secretagogue receptor agonist.",
+        "It acts as a peptidomimetic ghrelin-receptor agonist.",
+        "It briefly stimulates pituitary growth-hormone release so the response can be measured.",
+        "Its FDA-approved role is helping diagnose growth-hormone deficiency in adults.",
+        "It is a diagnostic compound, not growth-hormone replacement therapy."
+      ],
+      "limitation": "Diagnostic performance has not been established for people with BMI above 40; medicines that affect growth-hormone release can alter test accuracy, and pediatric diagnostic performance has not been established.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Macimorelin",
+        "#GrowthHormoneResearch",
+        "#CompoundSpotlight",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-26-0800-macimorelin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-26-0800-macimorelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c626654c37efcbe18bc96e465c03cd214408b15d/posts/2026-10-26-0800-macimorelin-spotlight.jpg",
+      "evidence": [
+        "DailyMed MACRILEN labeling, accessed October 26 2026: macimorelin is a growth-hormone secretagogue receptor agonist indicated for diagnosis of adult growth-hormone deficiency.",
+        "FDA clinical pharmacology review, accessed October 26 2026: macimorelin is a peptidomimetic ghrelin-receptor agonist that stimulates growth-hormone release.",
+        "DailyMed MACRILEN labeling, accessed October 26 2026: diagnostic performance is not established for BMI above 40 and medicines affecting GH release may alter test accuracy."
+      ],
+      "published_at": "2026-10-26T15:05:15Z",
+      "instagram_media_id": "18247980724312080",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-25"
+  "last_updated": "2026-10-26"
 }

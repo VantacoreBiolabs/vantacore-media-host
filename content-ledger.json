@@ -4170,7 +4170,45 @@
       "published_at": "2026-10-27T03:04:45Z",
       "instagram_media_id": "17864660319694354",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "137",
+      "date": "2026-10-27",
+      "subject": "Cenderitide: an engineered 37-amino-acid natriuretic peptide designed to co-activate GC-A and GC-B receptors",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Cenderitide: One Peptide, Two Receptors",
+      "angle": "A beginner-friendly designer-peptide spotlight explaining cenderitide’s chimeric structure, dual-receptor design and early-stage evidence boundary.",
+      "teaching_points": [
+        "Cenderitide is an engineered 37-amino-acid natriuretic peptide.",
+        "It combines the 22-amino-acid human C-type natriuretic peptide with a 15-amino-acid tail from Dendroaspis natriuretic peptide.",
+        "It was designed to activate both GC-A and GC-B receptors.",
+        "Both receptor pathways generate the second messenger cGMP."
+      ],
+      "limitation": "Cenderitide remains investigational rather than an established therapy; published human findings come from small early-phase studies and need confirmation in larger trials.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cenderitide",
+        "#PeptideResearch",
+        "#CardiorenalResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-27-0800-cenderitide-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-27-0800-cenderitide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/1f4bc990dba21eb565203c11ec666006c915ab48/posts/2026-10-27-0800-cenderitide-spotlight.jpg",
+      "evidence": [
+        "Ichiki et al., Cenderitide: A Novel First-In-Class Designer Natriuretic Peptide (2018), PMCID PMC6277229: cenderitide is a 37-amino-acid designer natriuretic peptide engineered to co-target pGC-A and pGC-B.",
+        "Sangaralingham et al., Natriuretic peptide pathways in heart failure (2022): cenderitide was created by fusing the 22 amino acids of human CNP to the 15-amino-acid carboxyl terminus of DNP.",
+        "Kawakami et al., Clinical Pharmacology & Therapeutics (2018), PMID 29226471: a small randomized early human study found increased plasma and urinary cGMP and explicitly called for further investigation.",
+        "ClinicalTrials.gov NCT00699712: early-phase human research assessed cenderitide’s hemodynamic effects and safety."
+      ],
+      "published_at": "2026-10-27T15:01:46Z",
+      "instagram_media_id": "18194190979401990",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-26"
+  "last_updated": "2026-10-27"
 }

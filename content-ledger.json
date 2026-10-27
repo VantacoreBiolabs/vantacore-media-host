@@ -4208,6 +4208,44 @@
       "published_at": "2026-10-27T15:01:46Z",
       "instagram_media_id": "18194190979401990",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "138",
+      "date": "2026-10-27",
+      "subject": "Hazard ratio basics: comparing event rates over time without mistaking the ratio for a probability",
+      "category": "Research literacy / beginner concept",
+      "format": "Single-image infographic",
+      "headline": "Hazard Ratio ≠ Probability",
+      "angle": "A fast survival-analysis explainer showing how HR values compare event rates over time and why the number is not an absolute probability.",
+      "teaching_points": [
+        "A hazard ratio compares the event rate over time between two groups.",
+        "HR = 1 means the event rates are similar over the observed period.",
+        "HR below 1 means the first group has a lower event rate.",
+        "HR above 1 means the first group has a higher event rate."
+      ],
+      "limitation": "A hazard ratio does not directly report absolute probability or absolute difference; interpretation should include the 95% confidence interval and whether the proportional-hazards assumption is reasonable.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#HazardRatio",
+        "#ClinicalTrials",
+        "#SurvivalAnalysis",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-27-1200-hazard-ratio-basics.jpg"
+      ],
+      "caption_file": "posts/2026-10-27-1200-hazard-ratio-basics.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f1a08ce5da9c4a579d08be7cf03055169b126e5e/posts/2026-10-27-1200-hazard-ratio-basics.jpg",
+      "evidence": [
+        "Spruance et al., Hazard Ratio in Clinical Trials (2004), PMCID PMC478551: the hazard ratio estimates the ratio of hazard rates in treated versus control groups.",
+        "Sashegyi and Ferry, On the Interpretation of the Hazard Ratio and Communication of Survival Benefit (2017), PMCID PMC5388384: hazard ratios should not be interpreted as relative risks or direct probabilities.",
+        "FDA draft guidance on overall survival in oncology trials, accessed October 27 2026: FDA recommends reporting the hazard ratio from a Cox proportional hazards model with its 95% confidence interval.",
+        "Hernán, The Hazards of Hazard Ratios (2010), PMCID PMC3653612: hazard-ratio interpretation depends on assumptions and can be misleading when treated as a simple risk ratio."
+      ],
+      "published_at": "2026-10-27T18:59:37Z",
+      "instagram_media_id": "18121585424091747",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-27"

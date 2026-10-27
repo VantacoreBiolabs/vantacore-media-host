@@ -1,0 +1,15 @@
+HAZARD RATIO ≠ PROBABILITY
+
+A hazard ratio compares the event rate over time between two groups.
+
+HR = 1 means the event rates are similar over the observed period.
+
+HR below 1 means the first group has a lower event rate; HR above 1 means it has a higher event rate.
+
+It does not directly tell you the chance that an event will happen, or the absolute difference between groups.
+
+Evidence check: read the 95% confidence interval and check whether the proportional-hazards assumption is reasonable. One number can hide changes over time.
+
+What research term should we decode next?
+
+#VantacoreBiolabs #HazardRatio #ClinicalTrials #SurvivalAnalysis #ResearchLiteracy

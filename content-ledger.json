@@ -4132,6 +4132,44 @@
       "published_at": "2026-10-26T23:06:22Z",
       "instagram_media_id": "17963543442232081",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "136",
+      "date": "2026-10-26",
+      "subject": "Potency versus efficacy: the amount needed for a specified effect compared with the greatest effect a compound can produce",
+      "category": "Beginner concept / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Potency ≠ Efficacy",
+      "angle": "A fast pharmacology comparison showing why needing less compound for a specified effect does not automatically mean producing a larger maximum effect.",
+      "teaching_points": [
+        "Potency describes how much compound is needed to produce a specified effect.",
+        "A more potent compound can reach the same specified effect at a lower concentration.",
+        "Efficacy describes the greatest effect a compound can produce.",
+        "Higher potency does not guarantee a higher maximum effect."
+      ],
+      "limitation": "Potency comparisons require the same outcome and test system; laboratory potency alone does not establish real-world benefit, safety or clinical usefulness.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PharmacologyBasics",
+        "#Potency",
+        "#Efficacy",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-26-2000-potency-vs-efficacy.jpg"
+      ],
+      "caption_file": "posts/2026-10-26-2000-potency-vs-efficacy.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a834aa91f70421e49aeaa2119f86815aeb02bd37/posts/2026-10-26-2000-potency-vs-efficacy.jpg",
+      "evidence": [
+        "NCBI Bookshelf, Pharmacodynamics (StatPearls), accessed October 26 2026: Emax is the maximal measured effect and EC50 is the concentration producing half of that maximum.",
+        "Meyer et al., Quantifying drug combination synergy along potency and efficacy axes (2019), PMCID PMC6675406: potency is the amount required to produce a specified effect, with highly potent compounds active at low concentrations.",
+        "McDonald et al., Drug–receptor interactions in anaesthesia (2021), PMCID PMC8703152: potency is derived from the concentration or dose range producing a response, while efficacy reflects the response magnitude.",
+        "FDA dose-response guidance, accessed October 26 2026: dose-response studies help characterize efficacy and safety, and studying only one dose provides limited information about other doses."
+      ],
+      "published_at": "2026-10-27T03:04:45Z",
+      "instagram_media_id": "17864660319694354",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-26"

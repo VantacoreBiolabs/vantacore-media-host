@@ -4246,6 +4246,44 @@
       "published_at": "2026-10-27T18:59:37Z",
       "instagram_media_id": "18121585424091747",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "139",
+      "date": "2026-10-27",
+      "subject": "Nafarelin: a synthetic 10-amino-acid GnRH agonist whose continued signaling desensitizes pituitary receptors",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Nafarelin: Signal On—Then Down",
+      "angle": "A beginner-friendly mechanism spotlight explaining why a GnRH agonist can initially activate LH and FSH release yet suppress gonadotropin output after continued receptor signaling.",
+      "teaching_points": [
+        "Nafarelin is a synthetic 10-amino-acid analog of gonadotropin-releasing hormone.",
+        "It initially stimulates pituitary release of LH and FSH.",
+        "Continued signaling desensitizes pituitary GnRH receptors.",
+        "The later result is reduced gonadotropin output and lower downstream gonadal-steroid production."
+      ],
+      "limitation": "Nafarelin is a prescription medicine with important warnings, including an initial hormonal flare; it is not a general hormone-support compound, and this educational spotlight does not provide administration guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Nafarelin",
+        "#PeptideEducation",
+        "#EndocrineScience",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-27-1600-nafarelin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-27-1600-nafarelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4e35980902b8dfbc27d3379cca317b9c2a49068e/posts/2026-10-27-1600-nafarelin-spotlight.jpg",
+      "evidence": [
+        "DailyMed Synarel labeling updated March 5 2026: nafarelin acetate is a synthetic decapeptide analog of naturally occurring GnRH.",
+        "DailyMed Synarel clinical pharmacology: initial exposure stimulates pituitary LH and FSH release; repeated signaling abolishes the stimulatory effect and decreases gonadal-steroid secretion.",
+        "McArdle et al., GnRH and GnRH agonists: mechanisms of action (2002), PMID 12537774: prolonged GnRH-receptor activation leads to desensitization and suppressed gonadotropin secretion.",
+        "FDA orphan-drug approval listing: nafarelin acetate is approved for gonadotropin-dependent central precocious puberty; current labeling also covers endometriosis."
+      ],
+      "published_at": "2026-10-27T23:06:43Z",
+      "instagram_media_id": "18499726927101875",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-27"

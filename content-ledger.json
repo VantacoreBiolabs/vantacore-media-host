@@ -4398,6 +4398,44 @@
       "published_at": "2026-10-28T18:59:04Z",
       "instagram_media_id": "18341894686274769",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "143",
+      "date": "2026-10-28",
+      "subject": "Cilengitide: a cyclic RGD pentapeptide that selectively inhibits αvβ3 and αvβ5 integrins",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Cilengitide: The 5-Amino-Acid Integrin Lock",
+      "angle": "A beginner-friendly compound spotlight pairing cilengitide's compact cyclic-peptide design and integrin targets with the evidence lesson that a compelling mechanism and encouraging early studies did not translate into Phase 3 survival benefit.",
+      "teaching_points": [
+        "Cilengitide is a cyclic pentapeptide made from five amino acids.",
+        "Its RGD motif is designed to engage integrins, cell-surface proteins involved in cell interactions with the surrounding environment.",
+        "It selectively inhibits the αvβ3 and αvβ5 integrins.",
+        "Researchers studied cilengitide in several cancers, including glioblastoma."
+      ],
+      "limitation": "The randomized Phase 3 CENTRIC trial found no overall-survival improvement when cilengitide was added to standard glioblastoma treatment; its anticancer development was subsequently discontinued.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cilengitide",
+        "#PeptideResearch",
+        "#IntegrinResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-28-1600-cilengitide-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-28-1600-cilengitide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/8ebbed0becc59011461551439a744aacb1f657ff/posts/2026-10-28-1600-cilengitide-spotlight.jpg",
+      "evidence": [
+        "PubMed PMID 21417900: cilengitide is an RGD pentapeptide inhibitor of αvβ3 and αvβ5 integrins.",
+        "PubMed PMID 21269250: cilengitide is the cyclic N-methylated RGD pentapeptide c(RGDf(NMe)V).",
+        "CENTRIC Phase 3 trial, PubMed PMID 25163906: median overall survival was 26.3 months in both groups (HR 1.02; p=0.86), and adding cilengitide did not improve outcomes.",
+        "EORTC trial record 26071-22072: the randomized, open-label Phase 3 study has ended."
+      ],
+      "published_at": "2026-10-28T23:00:25Z",
+      "instagram_media_id": "17984275901899059",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-28"

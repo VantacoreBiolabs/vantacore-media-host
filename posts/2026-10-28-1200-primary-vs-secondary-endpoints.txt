@@ -1,0 +1,15 @@
+PRIMARY ≠ SECONDARY
+
+An endpoint is a planned measurement used to evaluate what happened in a clinical trial.
+
+The primary endpoint answers the trial’s main question and usually drives the sample-size plan.
+
+Secondary endpoints test additional questions that were specified before the results were known.
+
+They can support the primary result or show other meaningful effects—but they do not carry the same decision-making weight.
+
+Evidence check: a positive secondary finding cannot automatically rescue a failed primary endpoint. Multiple endpoints also require careful statistical planning to limit false-positive conclusions.
+
+Which trial term should we decode next?
+
+#VantacoreBiolabs #ClinicalTrials #StudyEndpoints #ResearchMethods #ResearchLiteracy

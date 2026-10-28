@@ -4360,6 +4360,44 @@
       "published_at": "2026-10-28T15:02:38Z",
       "instagram_media_id": "18662690707060848",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "142",
+      "date": "2026-10-28",
+      "subject": "Primary versus secondary endpoints: the main trial question compared with additional pre-specified questions",
+      "category": "Beginner concept / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Primary ≠ Secondary",
+      "angle": "A fast clinical-trial reading guide showing why primary and secondary endpoints are both planned outcomes but have different roles and decision-making weight.",
+      "teaching_points": [
+        "An endpoint is a planned measurement used to evaluate what happened in a clinical trial.",
+        "The primary endpoint answers the trial's main question.",
+        "The primary endpoint usually drives the sample-size plan.",
+        "Secondary endpoints test additional pre-specified questions and can support or extend the main result."
+      ],
+      "limitation": "A positive secondary finding cannot automatically rescue a failed primary endpoint; multiple endpoints also require statistical planning to control the risk of false-positive conclusions.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#StudyEndpoints",
+        "#ResearchMethods",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-28-1200-primary-vs-secondary-endpoints.jpg"
+      ],
+      "caption_file": "posts/2026-10-28-1200-primary-vs-secondary-endpoints.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/27e3cb5562a9b96757c1963a133020b137c9c5bf/posts/2026-10-28-1200-primary-vs-secondary-endpoints.jpg",
+      "evidence": [
+        "FDA Multiple Endpoints in Clinical Trials guidance (October 2022): primary endpoints establish effectiveness or safety features for regulatory action; secondary endpoints may demonstrate additional effects after success on the primary endpoint.",
+        "FDA Guidance Recap on Multiple Endpoints: failure on a secondary endpoint does not doom a candidate, while failure to show an effect on required primary endpoints prevents approval based on that trial.",
+        "ClinicalTrials.gov protocol definitions: the primary outcome is the outcome of greatest importance and is usually used in the power calculation; secondary outcomes are lesser in importance but part of a pre-specified analysis plan.",
+        "FDA Multiple Endpoints guidance: analyzing more endpoints increases false-positive risk unless multiplicity is appropriately controlled."
+      ],
+      "published_at": "2026-10-28T18:59:04Z",
+      "instagram_media_id": "18341894686274769",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-28"

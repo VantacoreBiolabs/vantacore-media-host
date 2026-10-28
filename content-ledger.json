@@ -4322,7 +4322,45 @@
       "published_at": "2026-10-28T03:01:19Z",
       "instagram_media_id": "18014505380765428",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "141",
+      "date": "2026-10-28",
+      "subject": "Desirudin: a recombinant 65-amino-acid hirudin analog that directly binds free and clot-bound thrombin",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image infographic",
+      "headline": "Desirudin: The 1-to-1 Thrombin Lock",
+      "angle": "A beginner-friendly mechanism spotlight explaining how one desirudin molecule directly binds one thrombin molecule and blocks thrombin-driven clotting activity.",
+      "teaching_points": [
+        "Desirudin is a recombinant 65-amino-acid peptide modeled after hirudin.",
+        "It directly binds free-circulating and clot-bound thrombin.",
+        "One desirudin molecule binds one thrombin molecule.",
+        "Direct thrombin inhibition does not require antithrombin as a helper protein."
+      ],
+      "limitation": "Direct thrombin inhibition creates serious bleeding risk. Desirudin was FDA-approved for prevention of deep-vein thrombosis after hip replacement, but FDA currently lists the product as discontinued.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Desirudin",
+        "#PeptideEducation",
+        "#ThrombinResearch",
+        "#ScienceEducation"
+      ],
+      "media": [
+        "posts/2026-10-28-0800-desirudin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-28-0800-desirudin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/323797d5176f823d7768d042f30532becbdcfded/posts/2026-10-28-0800-desirudin-spotlight.jpg",
+      "evidence": [
+        "FDA Iprivask labeling: desirudin is a direct inhibitor of human thrombin with a 65-amino-acid recombinant protein structure similar to natural hirudin.",
+        "FDA Iprivask clinical pharmacology: desirudin binds free-circulating and clot-bound thrombin; one molecule binds one thrombin molecule and blocks thrombin-driven coagulation activity.",
+        "NCBI LiverTox Desirudin overview: desirudin is a recombinant 65-amino-acid peptide analog of hirudin used to reduce DVT and pulmonary-embolism risk after hip replacement.",
+        "FDA Purple Book product details, accessed October 28 2026: Iprivask was originally approved April 4 2003 and is listed with discontinued marketing status."
+      ],
+      "published_at": "2026-10-28T15:02:38Z",
+      "instagram_media_id": "18662690707060848",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-27"
+  "last_updated": "2026-10-28"
 }

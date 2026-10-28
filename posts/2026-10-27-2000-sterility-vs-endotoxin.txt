@@ -1,0 +1,15 @@
+STERILE ≠ ENDOTOXIN-FREE
+
+Sterility testing looks for viable microorganisms that can grow under the test conditions.
+
+Bacterial endotoxin testing looks for toxic cell-wall components from Gram-negative bacteria.
+
+A process can kill bacteria without reliably removing the endotoxin they left behind.
+
+That means a sterility result and an endotoxin result answer different safety questions.
+
+Evidence check: one passing test cannot substitute for the other. Neither result alone establishes identity, purity, potency, or overall product quality.
+
+Which quality term should we decode next?
+
+#VantacoreBiolabs #EndotoxinTesting #SterilityTesting #QualityControl #ResearchLiteracy

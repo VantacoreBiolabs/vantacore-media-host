@@ -4474,7 +4474,45 @@
       "published_at": "2026-10-29T03:03:05Z",
       "instagram_media_id": "18135808345673548",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "145",
+      "date": "2026-10-29",
+      "subject": "Larazotide acetate: a synthetic eight-amino-acid peptide investigated as a regulator of intestinal tight junctions",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Larazotide: The 8-Amino-Acid Tight-Junction Modulator",
+      "angle": "A beginner-friendly look at larazotide's compact octapeptide design and proposed intestinal-barrier mechanism, paired with the evidence lesson that mixed early signals did not translate into continuation of its Phase 3 celiac program.",
+      "teaching_points": [
+        "Larazotide acetate is a synthetic, single-chain peptide made from eight amino acids.",
+        "It was designed to influence tight junctions, the connections between neighboring intestinal cells.",
+        "Its proposed mechanism centers on limiting abnormal increases in intestinal-barrier permeability.",
+        "It was studied as an investigational compound in celiac disease."
+      ],
+      "limitation": "Earlier studies produced mixed findings. The Phase 3 CeDLara study stopped after a planned interim analysis showed that an impractically large enrollment would be needed to demonstrate a significant outcome, and development for celiac disease was discontinued.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Larazotide",
+        "#PeptideResearch",
+        "#GutBarrierResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-29-0800-larazotide-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-29-0800-larazotide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/d0d5d46321948dce714f0822c83a94849b8d900d/posts/2026-10-29-0800-larazotide-spotlight.jpg",
+      "evidence": [
+        "PubMed PMID 33881350: larazotide acetate is a single-chain eight-amino-acid peptide studied as a tight-junction regulator.",
+        "PubMed PMID 25683116: a randomized celiac study produced mixed dose findings; only the lowest evaluated dose met the primary symptom endpoint.",
+        "ClinicalTrials.gov NCT03569007 registry-derived records: the randomized Phase 3 CeDLara study is terminated.",
+        "9 Meters Biopharma SEC filing and June 21, 2022 release: the interim analysis did not support trial continuation, and the company discontinued further larazotide development in celiac disease."
+      ],
+      "published_at": "2026-10-29T15:04:14Z",
+      "instagram_media_id": "18111762371183434",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-28"
+  "last_updated": "2026-10-29"
 }

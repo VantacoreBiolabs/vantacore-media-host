@@ -4550,6 +4550,44 @@
       "published_at": "2026-10-29T18:59:39Z",
       "instagram_media_id": "18123703348929066",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "147",
+      "date": "2026-10-29",
+      "subject": "Aviptadil: a synthetic version of the 28-amino-acid vasoactive intestinal peptide (VIP)",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Aviptadil: The 28-Amino-Acid VIP",
+      "angle": "A beginner-friendly look at aviptadil as a synthetic VIP peptide studied in pulmonary and vascular signaling, with a clear distinction between investigational evidence, orphan designation and FDA approval.",
+      "teaching_points": [
+        "Aviptadil is a synthetic version of vasoactive intestinal peptide, commonly shortened to VIP.",
+        "VIP is a peptide chain made from 28 amino acids.",
+        "Researchers have studied VIP signaling in the lungs and blood vessels.",
+        "Aviptadil has been investigated in multiple human trials, including studies of respiratory illness."
+      ],
+      "limitation": "Human trial findings have been mixed. A recent evidence synthesis did not find a significant survival benefit in ARDS, and FDA orphan-drug designation for pulmonary arterial hypertension does not mean the compound is FDA approved for that indication.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Aviptadil",
+        "#PeptideResearch",
+        "#RespiratoryResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-29-1600-aviptadil-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-29-1600-aviptadil-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/9f8aa52a6d646b5d618e6b3853aed3653f63993e/posts/2026-10-29-1600-aviptadil-spotlight.jpg",
+      "evidence": [
+        "FDA GSRS UNII A67JUW790C lists aviptadil and its 28-residue amino-acid sequence as vasoactive intestinal peptide.",
+        "PubMed PMID 36044317 reports a randomized controlled trial of intravenous aviptadil in critical COVID-19 respiratory failure.",
+        "PubMed PMID 37348524 reports the randomized, placebo-controlled TESICO trial of aviptadil in COVID-19-associated hypoxaemic respiratory failure.",
+        "FDA Orphan Drug Designations and Approvals lists aviptadil as designated for pulmonary arterial hypertension but not FDA approved for the orphan indication."
+      ],
+      "published_at": "2026-10-29T23:02:14Z",
+      "instagram_media_id": "18129208870850360",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-29"

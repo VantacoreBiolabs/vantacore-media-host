@@ -4512,6 +4512,44 @@
       "published_at": "2026-10-29T15:04:14Z",
       "instagram_media_id": "18111762371183434",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "146",
+      "date": "2026-10-29",
+      "subject": "Randomization versus blinding: chance-based group assignment compared with hiding assigned groups after allocation",
+      "category": "Beginner concept / A-vs-B comparison",
+      "format": "Single-image comparison infographic",
+      "headline": "Randomized ≠ Blinded",
+      "angle": "A quick clinical-trial guide showing that randomization and blinding are independent design tools aimed at reducing different sources of bias.",
+      "teaching_points": [
+        "Randomization assigns participants to study groups by chance rather than choice.",
+        "Randomization aims to create comparable groups and reduce bias during assignment.",
+        "Blinding hides the assigned group from participants, researchers or outcome assessors.",
+        "Blinding aims to reduce the ways that knowledge of assignment can influence behavior, care or measurement."
+      ],
+      "limitation": "A trial can use randomization without blinding, blinding without true random assignment, both, or neither. Allocation concealment is a separate safeguard that prevents recruiters from knowing the next assignment before enrollment.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#Randomization",
+        "#Blinding",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-29-1200-randomization-vs-blinding.jpg"
+      ],
+      "caption_file": "posts/2026-10-29-1200-randomization-vs-blinding.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0d4e33fda90444e6e45f6f08aefb0fcef8066506/posts/2026-10-29-1200-randomization-vs-blinding.jpg",
+      "evidence": [
+        "NIH clinical-trial basics: randomization assigns treatments by chance rather than choice to reduce assignment bias.",
+        "NIH clinical-trial basics and glossary: blinding prevents participants and research-team members from influencing results through knowledge of assignments.",
+        "NHLBI study-quality tools: adequate randomization depends on chance; blinding means not knowing the assigned group.",
+        "CONSORT 2025: allocation concealment protects assignment before and until allocation, while blinding protects against bias after allocation and should not be confused with concealment."
+      ],
+      "published_at": "2026-10-29T18:59:39Z",
+      "instagram_media_id": "18123703348929066",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-29"

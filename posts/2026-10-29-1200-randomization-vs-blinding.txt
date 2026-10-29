@@ -1,0 +1,12 @@
+RANDOMIZED ≠ BLINDED
+
+• Randomization assigns participants to study groups by chance rather than choice.
+• Its goal is to create comparable groups and reduce bias during assignment.
+• Blinding hides the assigned group from participants, researchers or outcome assessors.
+• Its goal is to reduce the ways that knowing an assignment could influence behavior, care or measurement.
+
+Evidence check: A trial can be randomized without being blinded—or blinded without true random assignment. Allocation concealment is another distinct safeguard: it prevents recruiters from knowing the next assignment before enrollment.
+
+Which clinical-trial term should we simplify next? Follow for clear, evidence-aware research education.
+
+#VantacoreBiolabs #ClinicalTrials #Randomization #Blinding #ResearchLiteracy

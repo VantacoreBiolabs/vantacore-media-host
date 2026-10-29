@@ -4436,6 +4436,44 @@
       "published_at": "2026-10-28T23:00:25Z",
       "instagram_media_id": "17984275901899059",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "144",
+      "date": "2026-10-28",
+      "subject": "Identity versus purity: confirming what a substance is compared with evaluating unwanted material and impurity levels",
+      "category": "Research safety and quality literacy",
+      "format": "Single-image comparison infographic",
+      "headline": "Identity ≠ Purity",
+      "angle": "A quick analytical-quality guide showing that a high purity result does not by itself establish that a sample is the claimed substance.",
+      "teaching_points": [
+        "Identity testing asks whether the sample contains the substance it claims to contain.",
+        "Purity testing evaluates unwanted material or impurities in the sample.",
+        "Assay is a separate quantitative question about how much target analyte is present.",
+        "A high purity percentage does not automatically prove compound identity."
+      ],
+      "limitation": "FDA guidance treats identification, assay and impurity testing as separate analytical categories; strong identity evidence may require comparison with a reference standard and complementary methods rather than a single chromatographic retention time.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#QualityControl",
+        "#AnalyticalTesting",
+        "#ResearchMethods",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-28-2000-identity-vs-purity.jpg"
+      ],
+      "caption_file": "posts/2026-10-28-2000-identity-vs-purity.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/36d9a220cfa2a847bbfacd86dd8940c7f912f5af/posts/2026-10-28-2000-identity-vs-purity.jpg",
+      "evidence": [
+        "FDA Drug Quality Sampling and Testing Programs: identity asks whether it is the right drug, assay asks how much is present, and impurities are evaluated against specifications.",
+        "FDA ICH Q2 guidance: identification tests ensure analyte identity, impurity tests reflect purity characteristics, and assay measures the analyte present.",
+        "FDA ICH Q6A guidance: identification, assay and impurities are distinct universal tests; a single chromatographic retention time alone is not regarded as specific identification.",
+        "FDA Analytical Procedures and Methods Validation guidance: analytical methods support identity, strength, quality, purity and potency as separate quality attributes."
+      ],
+      "published_at": "2026-10-29T03:03:05Z",
+      "instagram_media_id": "18135808345673548",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-28"

@@ -1,0 +1,12 @@
+IDENTITY ≠ PURITY
+
+• Identity asks whether the sample contains the substance it claims to contain.
+• Purity looks at unwanted material or impurities in the sample.
+• Assay is another question: how much of the target analyte is present?
+• A high purity percentage does not automatically prove the compound's identity.
+
+Evidence check: FDA guidance treats identification, assay and impurity testing as separate analytical categories. Strong identity testing compares a sample with a reference standard and may require complementary methods—not just one retention time.
+
+Which research-quality term should we simplify next? Follow for clear, evidence-aware peptide and compound education.
+
+#VantacoreBiolabs #QualityControl #AnalyticalTesting #ResearchMethods #ResearchLiteracy

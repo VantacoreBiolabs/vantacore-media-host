@@ -4626,7 +4626,45 @@
       "published_at": "2026-10-30T03:03:55Z",
       "instagram_media_id": "18039979316653072",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "149",
+      "date": "2026-10-30",
+      "subject": "Pexiganan: a synthetic 22-amino-acid antimicrobial peptide inspired by magainin 2",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Pexiganan: The 22-Amino-Acid Membrane Disruptor",
+      "angle": "A beginner-friendly look at pexiganan's 22-residue design, magainin-2 inspiration and membrane-focused antimicrobial research, paired with the evidence lesson that later placebo-controlled Phase 3 trials did not establish superiority.",
+      "teaching_points": [
+        "Pexiganan is a synthetic cationic antimicrobial peptide.",
+        "It is built from 22 amino acids.",
+        "Its design was inspired by magainin 2, a host-defense peptide originally identified in frog skin.",
+        "It was investigated as a topical compound intended to disrupt microbial membranes."
+      ],
+      "limitation": "Earlier active-comparator trials produced encouraging clinical signals, but later placebo-controlled Phase 3 studies did not establish superiority. Investigational or registered-trial status does not establish regulatory approval.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pexiganan",
+        "#AntimicrobialPeptides",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-30-0800-pexiganan-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-30-0800-pexiganan-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f769663db6471a692e6955d7f5e7cd5bb7c718c0/posts/2026-10-30-0800-pexiganan-spotlight.jpg",
+      "evidence": [
+        "PubMed PMID 9878992 describes pexiganan acetate as a synthetic cationic 22-amino-acid peptide and an analogue of magainin 2.",
+        "PubMed PMID 18990064 reports two randomized double-blind trials comparing topical pexiganan with oral ofloxacin; one trial failed to demonstrate equivalence while the other and pooled analysis supported similar improvement rates.",
+        "ClinicalTrials.gov NCT01590758 reports a completed randomized, triple-masked, placebo-controlled study of topical pexiganan with results posted.",
+        "FDA GSRS UNII TVF29Q70Q1 identifies pexiganan as an ingredient substance and explicitly notes that UNII availability does not imply regulatory review or approval."
+      ],
+      "published_at": "2026-10-30T15:06:44Z",
+      "instagram_media_id": "18097989233440187",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-29"
+  "last_updated": "2026-10-30"
 }

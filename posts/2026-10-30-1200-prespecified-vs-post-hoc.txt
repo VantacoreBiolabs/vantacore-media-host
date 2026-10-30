@@ -1,0 +1,12 @@
+Prespecified vs. post hoc: when was the analysis chosen?
+
+• Prespecified analyses are planned before study results are examined.
+• Outcomes, groups and statistical methods are defined in advance.
+• Post-hoc analyses are selected after results become available.
+• Post-hoc work can reveal patterns worth testing in future research.
+
+Evidence check: post-hoc findings can generate useful hypotheses, but they face a higher false-positive risk and usually need confirmation in new data.
+
+Which trial concept should we simplify next?
+
+#VantacoreBiolabs #ClinicalTrials #PostHocAnalysis #StudyDesign #ResearchLiteracy

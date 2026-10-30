@@ -4702,6 +4702,44 @@
       "published_at": "2026-10-30T19:06:45Z",
       "instagram_media_id": "17971247061175505",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "151",
+      "date": "2026-10-30",
+      "subject": "Peginesatide: a synthetic PEG-linked peptide dimer engineered to activate the erythropoietin receptor",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image historical compound spotlight",
+      "headline": "Peginesatide: The PEG-Linked EPO-Receptor Signal",
+      "angle": "A beginner-friendly historical look at peginesatide's synthetic peptide-dimer design, PEG linkage and erythropoietin-receptor signaling, paired with the safety lesson that postmarketing evidence can materially change a product's status.",
+      "teaching_points": [
+        "Peginesatide is a synthetic peptide dimer.",
+        "The dimer is covalently linked to a polyethylene glycol chain.",
+        "It was engineered to activate the erythropoietin receptor.",
+        "Its peptide sequence is unrelated to natural erythropoietin."
+      ],
+      "limitation": "The FDA approved peginesatide in 2012, but it was voluntarily withdrawn from the market less than a year after launch following serious hypersensitivity reports, including fatal anaphylaxis cases. Historical approval does not mean current availability or endorsement.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Peginesatide",
+        "#PeptideResearch",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-30-1600-peginesatide-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-30-1600-peginesatide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5e2643c1077acdf3eb2abbdb56a36b6191f67fff/posts/2026-10-30-1600-peginesatide-spotlight.jpg",
+      "evidence": [
+        "PubMed PMID 22406924 describes peginesatide as a synthetic PEGylated peptide dimer with no sequence similarity to erythropoietin that activates the erythropoietin receptor.",
+        "FDA's 2012 Omontys label documents the original approved product and its erythropoiesis-stimulating mechanism and safety warnings.",
+        "FDA staff publication indexed as PMID 26886324 reports voluntary market withdrawal less than a year after launch after 49 anaphylaxis cases, including 7 fatalities.",
+        "PubMed PMID 23343061 reports the randomized EMERALD trials that supported efficacy in maintaining hemoglobin before the later postmarketing safety signal emerged."
+      ],
+      "published_at": "2026-10-30T23:02:49Z",
+      "instagram_media_id": "18138388927748028",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-30"

@@ -4664,6 +4664,44 @@
       "published_at": "2026-10-30T15:06:44Z",
       "instagram_media_id": "18097989233440187",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "150",
+      "date": "2026-10-30",
+      "subject": "Prespecified versus post-hoc analyses: planned before results are examined compared with analyses selected after results are available",
+      "category": "Beginner concept / A-vs-B comparison",
+      "format": "Single-image clinical-trial comparison",
+      "headline": "Prespecified vs. Post Hoc",
+      "angle": "A quick guide to why analyses defined before study results are viewed usually carry stronger confirmatory weight, while post-hoc analyses remain useful for generating hypotheses that need independent confirmation.",
+      "teaching_points": [
+        "Prespecified analyses are planned before study results are examined.",
+        "Their outcomes, groups and statistical methods are defined in advance.",
+        "Post-hoc analyses are selected after results become available.",
+        "Post-hoc work can reveal patterns worth testing in future research."
+      ],
+      "limitation": "Post-hoc findings can generate useful hypotheses, but selecting analyses after seeing the data increases false-positive and selective-reporting risks. They usually require confirmation in new data or a prospectively planned study.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ClinicalTrials",
+        "#PostHocAnalysis",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-30-1200-prespecified-vs-post-hoc.jpg"
+      ],
+      "caption_file": "posts/2026-10-30-1200-prespecified-vs-post-hoc.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/748ef6b0e349332cada6e6a0745335b1e2003c6f/posts/2026-10-30-1200-prespecified-vs-post-hoc.jpg",
+      "evidence": [
+        "FDA Multiple Endpoints in Clinical Trials guidance: prospective specification of endpoints and analysis methods is central to controlling multiplicity and interpreting confirmatory evidence.",
+        "ICH E9 Statistical Principles for Clinical Trials: the principal features of a confirmatory analysis should be prespecified in the protocol and statistical analysis plan.",
+        "ClinicalTrials.gov outcome-measure definitions require prespecified outcomes and time frames in registered study records.",
+        "CONSORT guidance recommends distinguishing prespecified analyses from exploratory or post-hoc analyses."
+      ],
+      "published_at": "2026-10-30T19:06:45Z",
+      "instagram_media_id": "17971247061175505",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-30"

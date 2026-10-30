@@ -4588,6 +4588,44 @@
       "published_at": "2026-10-29T23:02:14Z",
       "instagram_media_id": "18129208870850360",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "148",
+      "date": "2026-10-29",
+      "subject": "Analytical method robustness: whether a method continues meeting expected performance criteria under deliberate small parameter changes",
+      "category": "Research and quality literacy",
+      "format": "Single-image quality infographic",
+      "headline": "Robustness: Can the Method Handle Small Changes?",
+      "angle": "A beginner-friendly explanation of robustness testing as deliberate variation of likely-to-matter analytical conditions while checking that expected performance remains acceptable.",
+      "teaching_points": [
+        "Robustness testing deliberately changes one or more analytical procedure conditions.",
+        "Examples may include temperature, timing, pH or other method-specific parameters.",
+        "The method is checked against predefined performance expectations after those changes.",
+        "Development should focus on parameters likely to influence performance during normal use."
+      ],
+      "limitation": "Robustness supports confidence that a method can perform reliably during normal use, but it does not prove every individual result is correct or replace specificity, accuracy, precision and other validation characteristics.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MethodRobustness",
+        "#AnalyticalTesting",
+        "#QualityControl",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-29-2000-method-robustness.jpg"
+      ],
+      "caption_file": "posts/2026-10-29-2000-method-robustness.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c78ddd4feb3c483344c84d6a4f24f41d610deb46/posts/2026-10-29-2000-method-robustness.jpg",
+      "evidence": [
+        "FDA final guidance Q2(R2), issued March 2024: robustness measures an analytical procedure's capacity to meet expected performance criteria during normal use and is tested through deliberate parameter variations.",
+        "ICH Q2(R2) section 3.4: robustness should demonstrate reliability in response to deliberate variations and may also consider sample and reagent stability over the procedure duration.",
+        "ICH Q14 training materials: robustness evaluations should be documented and reflected in the analytical procedure control strategy.",
+        "FDA Q14 final guidance, issued March 2024: analytical procedure development uses science- and risk-based approaches to identify and control parameters affecting performance."
+      ],
+      "published_at": "2026-10-30T03:03:55Z",
+      "instagram_media_id": "18039979316653072",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-29"

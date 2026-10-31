@@ -1,0 +1,12 @@
+Measurement bias: when the ruler changes the result.
+
+• Measurement bias is a systematic problem—not ordinary random noise.
+• Groups can look different when outcomes are measured differently.
+• Subjective outcomes are especially vulnerable when assessors know the assigned group.
+• Using the same validated tool, timing and rules across groups helps reduce the risk.
+
+Evidence check: standardized methods and blinded outcome assessors can lower measurement bias, but no design choice makes a study completely bias-proof.
+
+What research term should we simplify next?
+
+#VantacoreBiolabs #MeasurementBias #StudyDesign #DataQuality #ResearchLiteracy

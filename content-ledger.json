@@ -4778,7 +4778,44 @@
       "published_at": "2026-10-31T03:02:08Z",
       "instagram_media_id": "18193010299404261",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "153",
+      "date": "2026-10-31",
+      "subject": "Reltecimod: a synthetic CD28-mimetic immune-modulating peptide studied in severe-infection research",
+      "category": "Individual research-peptide spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Reltecimod: The CD28 Signal Modulator",
+      "angle": "A beginner-friendly look at reltecimod’s CD28-mimetic design, its intended modulation of excessive T-cell stimulation, and the key Phase 3 mITT limitation.",
+      "teaching_points": [
+        "Reltecimod is a synthetic immune-modulating peptide.",
+        "Its design mimics part of the CD28 receptor interface.",
+        "It was developed to dampen excessive T-cell stimulation triggered by bacterial superantigens.",
+        "Researchers studied it in severe-infection settings."
+      ],
+      "limitation": "In the Phase 3 trial, the primary composite endpoint was not statistically significant in the modified intent-to-treat analysis (P=.135). Per-protocol findings do not replace the prespecified primary mITT result, and FDA orphan designation is not approval.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Reltecimod",
+        "#PeptideResearch",
+        "#ImmunologyResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-31-0800-reltecimod-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-31-0800-reltecimod-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/527bcb743b6f0d795f4ca9c09c4b00250d3e8ef4/posts/2026-10-31-0800-reltecimod-spotlight.jpg",
+      "evidence": [
+        "PubMed PMID 32657946 reports the Phase 3 ACCUTE trial and identifies reltecimod as a CD28 T-lymphocyte receptor mimetic; the primary composite endpoint was not statistically significant in the modified intent-to-treat analysis.",
+        "ClinicalTrials.gov NCT02469857 provides the registered Phase 3 study record and results for necrotizing soft tissue infection.",
+        "FDA’s orphan-drug designation database records reltecimod’s designation for necrotizing soft tissue infections; designation does not constitute marketing approval."
+      ],
+      "published_at": "2026-10-31T15:07:23Z",
+      "instagram_media_id": "18111553238628721",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-30"
+  "last_updated": "2026-10-31"
 }

@@ -1,0 +1,12 @@
+Batch effects: when the run looks like the result.
+
+• Batch effects are technical differences—not the biology being studied.
+• They can come from the processing day, reagent lot, operator or instrument.
+• They may hide a real signal or create a false-looking pattern.
+• Good design spreads comparison groups across every batch.
+
+Evidence check: statistical correction can help when batches overlap, but it cannot reliably rescue a study where group and batch are perfectly confounded.
+
+Which data-quality concept should we simplify next?
+
+#VantacoreBiolabs #BatchEffects #DataQuality #ExperimentalDesign #ResearchLiteracy

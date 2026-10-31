@@ -4852,6 +4852,43 @@
       "published_at": "2026-10-31T19:04:46Z",
       "instagram_media_id": "18120027662002197",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "155",
+      "date": "2026-10-31",
+      "subject": "Daptomycin: a calcium-dependent cyclic lipopeptide antibacterial that depolarizes Gram-positive bacterial membranes",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Daptomycin: The Membrane Depolarizer",
+      "angle": "A beginner-friendly look at daptomycin's cyclic lipopeptide structure, calcium-assisted bacterial-membrane binding and rapid loss of membrane potential, paired with the organ-specific pulmonary-surfactant limitation.",
+      "teaching_points": [
+        "Daptomycin is a cyclic lipopeptide antibacterial.",
+        "Calcium helps it bind to Gram-positive bacterial membranes.",
+        "That interaction rapidly collapses the membrane's electrical potential.",
+        "Loss of membrane potential disrupts essential cellular processes."
+      ],
+      "limitation": "Pulmonary surfactant inhibits daptomycin's antibacterial activity. FDA labeling states that daptomycin is not indicated for pneumonia; a mechanism that works in one biological setting may be neutralized in another.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Daptomycin",
+        "#Lipopeptides",
+        "#Microbiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-31-1600-daptomycin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-10-31-1600-daptomycin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/41515527000ba78e4ce71fdb822046c7c950325b/posts/2026-10-31-1600-daptomycin-spotlight.jpg",
+      "evidence": [
+        "DailyMed prescribing information identifies daptomycin as a cyclic lipopeptide antibacterial and describes rapid membrane depolarization with inhibition of DNA, RNA and protein synthesis.",
+        "FDA's review states that daptomycin disrupts bacterial plasma membranes and is not effective for pneumonia, noting in-vitro interaction with pulmonary surfactant.",
+        "PubMed PMID 15898002 reports that pulmonary surfactant inhibits daptomycin antibacterial activity and explains its organ-specific limitation."
+      ],
+      "published_at": "2026-10-31T23:03:27Z",
+      "instagram_media_id": "18146382637583768",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-31"

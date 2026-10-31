@@ -4815,6 +4815,43 @@
       "published_at": "2026-10-31T15:07:23Z",
       "instagram_media_id": "18111553238628721",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "154",
+      "date": "2026-10-31",
+      "subject": "Measurement bias: systematic differences in how exposures or outcomes are measured that can distort study comparisons",
+      "category": "Research and study-design literacy",
+      "format": "Single-image research-literacy infographic",
+      "headline": "Measurement Bias: When the Ruler Changes the Result",
+      "angle": "A beginner-friendly explanation of how different tools, timing, definitions or assessor expectations can make comparison groups appear different, and why consistent standardized measurement matters.",
+      "teaching_points": [
+        "Measurement bias is a systematic problem rather than ordinary random noise.",
+        "Groups can appear different when outcomes are measured differently.",
+        "Subjective outcomes are especially vulnerable when assessors know group assignment.",
+        "Using the same validated tool, timing and rules across groups helps reduce risk."
+      ],
+      "limitation": "Standardized methods and blinded outcome assessors can reduce differential measurement error, but they do not eliminate every source of bias or guarantee that a study result is correct.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MeasurementBias",
+        "#StudyDesign",
+        "#DataQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-31-1200-measurement-bias.jpg"
+      ],
+      "caption_file": "posts/2026-10-31-1200-measurement-bias.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2ec1fc6d1864650df4b5b084b51bce95a4f25197/posts/2026-10-31-1200-measurement-bias.jpg",
+      "evidence": [
+        "Cochrane Handbook chapter 8 explains that outcome-measurement errors can bias intervention-effect estimates and that differential errors are systematically related to intervention assignment.",
+        "NIH NHLBI study-quality guidance emphasizes accurate, reliable outcome tools and measuring outcomes in the same manner within and between groups.",
+        "FDA patient-focused outcome-assessment guidance emphasizes fit-for-purpose, high-quality measurement for evaluating effectiveness, tolerability and safety."
+      ],
+      "published_at": "2026-10-31T19:04:46Z",
+      "instagram_media_id": "18120027662002197",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-31"

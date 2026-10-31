@@ -4740,6 +4740,44 @@
       "published_at": "2026-10-30T23:02:49Z",
       "instagram_media_id": "18138388927748028",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "152",
+      "date": "2026-10-30",
+      "subject": "Batch effects: non-biological technical differences between processing groups that can imitate, obscure or distort research signals",
+      "category": "Research and data-quality literacy",
+      "format": "Single-image research-quality infographic",
+      "headline": "Batch Effects: When the Run Looks Like the Result",
+      "angle": "A beginner-friendly explanation of how day, reagent-lot, operator or instrument differences can resemble biological findings, and why balanced sample allocation across batches is a design priority.",
+      "teaching_points": [
+        "Batch effects are technical differences rather than the biology under study.",
+        "They can arise from processing day, reagent lot, operator, instrument or laboratory conditions.",
+        "They may hide real signals or create false-looking patterns.",
+        "Comparison groups should be balanced across batches whenever possible."
+      ],
+      "limitation": "Statistical correction can help when biological groups overlap across batches, but it cannot reliably separate biology from processing when group and batch are perfectly confounded. Prevention through experimental design is therefore critical.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#BatchEffects",
+        "#DataQuality",
+        "#ExperimentalDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-30-2000-batch-effects.jpg"
+      ],
+      "caption_file": "posts/2026-10-30-2000-batch-effects.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/32f896bef1af4ccf574af7aa2d02f921137570c8/posts/2026-10-30-2000-batch-effects.jpg",
+      "evidence": [
+        "PubMed PMID 39363244 describes batch effects as common technical variations unrelated to study objectives that can mislead interpretation if uncorrected or hinder discovery if over-corrected.",
+        "PubMed PMID 19009020 demonstrates that laboratory-processing batch effects can be impossible to separate from biological factors when confounded and emphasizes randomization.",
+        "PubMed PMID 23228338 describes balanced sample-to-batch allocation as a way to minimize batch effects in genomics experiments.",
+        "NIH NIEHS Principal Variance Component Analysis documentation describes batch as a technical source of variability that should be assessed before and after normalization."
+      ],
+      "published_at": "2026-10-31T03:02:08Z",
+      "instagram_media_id": "18193010299404261",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-30"

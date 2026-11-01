@@ -4889,6 +4889,43 @@
       "published_at": "2026-10-31T23:03:27Z",
       "instagram_media_id": "18146382637583768",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "156",
+      "date": "2026-10-31",
+      "subject": "Recall bias: systematic error when participants' memory of past events or exposures differs from what occurred or differs between comparison groups",
+      "category": "Research and epidemiology literacy",
+      "format": "Single-image research-literacy infographic",
+      "headline": "Recall Bias: When Memory Bends the Data",
+      "angle": "A beginner-friendly explanation of why memory-dependent historical reporting can distort associations, how differential recall can affect comparison groups, and why objective records and shorter recall windows help.",
+      "teaching_points": [
+        "Recall bias can appear when research relies on participants remembering past events.",
+        "Events may be forgotten, misdated or reported without important details.",
+        "Comparison groups may remember or report the same past exposure differently.",
+        "Objective records and shorter recall windows can reduce reliance on memory."
+      ],
+      "limitation": "Recall bias can inflate or hide an association. It is not an automatic feature of every retrospective or case-control study; objective historical records can reduce or avoid reliance on participants' memory.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#RecallBias",
+        "#Epidemiology",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-10-31-2000-recall-bias.jpg"
+      ],
+      "caption_file": "posts/2026-10-31-2000-recall-bias.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/d6bf5534e47a0e6ccc828fe7968924c9af428a36/posts/2026-10-31-2000-recall-bias.jpg",
+      "evidence": [
+        "NCI defines recall bias as inaccurate or incomplete memory of past events or experiences and notes that it can lead to incorrect study conclusions.",
+        "CDC's Field Epidemiology Manual describes poor recall as a source of systematic information bias in data collection.",
+        "IARC's bias-assessment methods explain that recall bias is not inherent to case-control studies when exposure is established through objective historical records."
+      ],
+      "published_at": "2026-11-01T03:06:26Z",
+      "instagram_media_id": "17963066487237078",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-10-31"

@@ -4963,6 +4963,43 @@
       "published_at": "2026-11-01T16:00:00Z",
       "instagram_media_id": "18118777216796534",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "158",
+      "date": "2026-11-01",
+      "subject": "Cross-sectional versus longitudinal studies: measuring exposure and outcome at one time compared with repeated observation across time",
+      "category": "Beginner concept / A-vs-B comparison",
+      "format": "Single-image study-design comparison",
+      "headline": "Cross-Sectional vs. Longitudinal: Snapshot vs. Movie",
+      "angle": "A quick visual comparison of point-in-time measurement for prevalence with repeated observation for change, temporal sequence and incidence.",
+      "teaching_points": [
+        "Cross-sectional studies measure exposures and outcomes at one point in time.",
+        "They are useful for estimating prevalence—how common something is at that time.",
+        "Longitudinal studies observe participants repeatedly across time.",
+        "Longitudinal follow-up can track change, sequence and new events or incidence."
+      ],
+      "limitation": "Observing timing can help establish which event came first, but longitudinal observation alone does not prove causation. Cross-sectional studies generally cannot establish whether the exposure preceded the outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#StudyDesign",
+        "#LongitudinalStudy",
+        "#Epidemiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-01-1200-cross-sectional-vs-longitudinal.jpg"
+      ],
+      "caption_file": "posts/2026-11-01-1200-cross-sectional-vs-longitudinal.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0420acb118538f227d21ef6abc6c8e20555d5aaf/posts/2026-11-01-1200-cross-sectional-vs-longitudinal.jpg",
+      "evidence": [
+        "NCBI MeSH defines cross-sectional studies as measurements at one particular time, contrasted with longitudinal studies followed over time.",
+        "CDC Principles of Epidemiology describes cross-sectional studies as simultaneous exposure and outcome measurement and cohort designs as follow-up over time.",
+        "CDC Field Epidemiology Manual explains that longitudinal cohort studies can quantify incident outcomes but remain observational unless exposure is assigned."
+      ],
+      "published_at": "2026-11-01T20:00:33Z",
+      "instagram_media_id": "17987060541087113",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-01"

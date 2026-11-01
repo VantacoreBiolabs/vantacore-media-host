@@ -4926,7 +4926,44 @@
       "published_at": "2026-11-01T03:06:26Z",
       "instagram_media_id": "17963066487237078",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "157",
+      "date": "2026-11-01",
+      "subject": "Cyclosporine: an 11-amino-acid fungal cyclic polypeptide that binds cyclophilin and inhibits calcineurin signaling",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Cyclosporine: The 11-Amino-Acid Signal Brake",
+      "angle": "A beginner-friendly look at cyclosporine's 11-residue cyclic structure, fungal origin and two-step cyclophilin–calcineurin mechanism, paired with a formulation-interchangeability evidence check.",
+      "teaching_points": [
+        "Cyclosporine is an 11-amino-acid cyclic polypeptide.",
+        "It was originally produced as a metabolite by a fungus.",
+        "Inside cells, cyclosporine first binds a protein called cyclophilin.",
+        "The cyclosporine–cyclophilin complex then inhibits calcineurin signaling."
+      ],
+      "limitation": "Modified and non-modified cyclosporine formulations are not bioequivalent and are not automatically interchangeable. Product formulation and labeling therefore matter when interpreting evidence or comparing exposure.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cyclosporine",
+        "#CyclicPeptides",
+        "#CellSignaling",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-01-0800-cyclosporine-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-01-0800-cyclosporine-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/8eb9d247b2aad2e55814d0125c05674b2926aba9/posts/2026-11-01-0800-cyclosporine-spotlight.jpg",
+      "evidence": [
+        "DailyMed identifies cyclosporine as an 11-amino-acid cyclic polypeptide produced as a fungal metabolite.",
+        "PubMed PMID 10878286 describes formation of the cyclosporine–cyclophilin complex and subsequent inhibition of calcineurin/NFAT signaling.",
+        "FDA labeling states that modified and non-modified cyclosporine formulations are not bioequivalent and cannot be used interchangeably without clinical supervision."
+      ],
+      "published_at": "2026-11-01T16:00:00Z",
+      "instagram_media_id": "18118777216796534",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-10-31"
+  "last_updated": "2026-11-01"
 }

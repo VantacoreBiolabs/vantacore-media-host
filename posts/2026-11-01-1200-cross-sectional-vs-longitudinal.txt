@@ -1,0 +1,12 @@
+Cross-sectional vs. longitudinal: snapshot vs. movie.
+
+• Cross-sectional studies measure exposures and outcomes at one point in time.
+• They are useful for estimating how common something is right now—its prevalence.
+• Longitudinal studies observe participants repeatedly across time.
+• They can track change, sequence and new events—incidence.
+
+Evidence check: observing timing helps establish which event came first, but observational follow-up alone does not prove causation.
+
+Which study design should we simplify next?
+
+#VantacoreBiolabs #StudyDesign #LongitudinalStudy #Epidemiology #ResearchLiteracy

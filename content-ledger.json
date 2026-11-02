@@ -5000,6 +5000,44 @@
       "published_at": "2026-11-01T20:00:33Z",
       "instagram_media_id": "17987060541087113",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "159",
+      "date": "2026-11-01",
+      "subject": "Eptifibatide: a small synthetic cyclic heptapeptide that reversibly blocks platelet GP IIb/IIIa receptors and interrupts fibrinogen-mediated platelet bridging",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Eptifibatide: The Platelet-Bridge Blocker",
+      "angle": "A beginner-friendly look at eptifibatide's cyclic heptapeptide structure, barbourin inspiration and reversible GP IIb/IIIa receptor blockade, paired with the central bleeding-risk limitation.",
+      "teaching_points": [
+        "Eptifibatide is a small cyclic heptapeptide.",
+        "Its design was inspired by barbourin, a platelet-receptor-blocking peptide found in rattlesnake venom.",
+        "It targets GP IIb/IIIa receptors on platelets.",
+        "By reversibly blocking fibrinogen and other adhesive ligands from binding, it interrupts the bridges that help platelets aggregate."
+      ],
+      "limitation": "Blocking platelet aggregation also raises bleeding risk. Current labeling identifies bleeding as the most common complication and warns that thrombocytopenia can occur.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Eptifibatide",
+        "#CyclicPeptides",
+        "#PlateletResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-01-1600-eptifibatide-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-01-1600-eptifibatide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c23bf2f29a2e8f58fe6fea0b24119f8888204cdb/posts/2026-11-01-1600-eptifibatide-spotlight.jpg",
+      "evidence": [
+        "DailyMed describes eptifibatide as a cyclic heptapeptide containing six amino acids and one mercaptopropionyl residue, produced by peptide synthesis.",
+        "DailyMed states that eptifibatide reversibly inhibits platelet aggregation by preventing fibrinogen, von Willebrand factor and other adhesive ligands from binding GP IIb/IIIa.",
+        "PubMed PMID 9291241 explains that eptifibatide was derived from the structure of barbourin, a GP IIb/IIIa inhibitor found in southeastern pygmy rattlesnake venom.",
+        "Current DailyMed labeling identifies bleeding as the most common complication and warns about thrombocytopenia."
+      ],
+      "published_at": "2026-11-02T00:04:58Z",
+      "instagram_media_id": "18119986444980943",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-01"

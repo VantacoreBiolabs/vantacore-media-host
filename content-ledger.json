@@ -5112,6 +5112,43 @@
       "published_at": "2026-11-02T16:07:33Z",
       "instagram_media_id": "18149135230569529",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "162",
+      "date": "2026-11-02",
+      "subject": "Regression to the mean: why unusually high or low repeated measurements often move closer to average without necessarily reflecting a real intervention effect",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image research-literacy infographic",
+      "headline": "Regression to the Mean: Extreme Today, Closer Tomorrow?",
+      "angle": "A beginner-friendly explanation of how random variation and selection on extreme baseline values can create apparent improvement, and why repeated measurements and concurrent controls matter.",
+      "teaching_points": [
+        "An unusually high or low result often looks less extreme when measured again.",
+        "Random biological or measurement variation can help create that first outlier.",
+        "If people enter a study because of an extreme baseline value, natural movement toward average can look like improvement.",
+        "Repeated measurements and a concurrent control group help separate this pattern from a real intervention effect."
+      ],
+      "limitation": "Regression to the mean is a statistical pattern, not proof that no real effect exists. It is an alternative explanation researchers must consider—especially in uncontrolled before-and-after studies.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#RegressionToTheMean",
+        "#StudyDesign",
+        "#DataLiteracy",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-02-1200-regression-to-the-mean.jpg"
+      ],
+      "caption_file": "posts/2026-11-02-1200-regression-to-the-mean.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/48c727ab852046e31747caa1a5c06ebff2499c66/posts/2026-11-02-1200-regression-to-the-mean.jpg",
+      "evidence": [
+        "BMJ explains that regression to the mean occurs when a group is selected for extreme values and later measurements tend to be closer to the population mean.",
+        "PubMed PMID 15333621 describes regression to the mean as natural variation in repeated data that can look like real change and recommends considering it at design and analysis stages.",
+        "A statistical tutorial in PMC notes that concurrent control groups help distinguish regression to the mean from an intervention effect."
+      ],
+      "published_at": "2026-11-02T20:01:28Z",
+      "instagram_media_id": "18100037003661751",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-02"

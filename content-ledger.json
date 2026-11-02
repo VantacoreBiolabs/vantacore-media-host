@@ -5038,6 +5038,43 @@
       "published_at": "2026-11-02T00:04:58Z",
       "instagram_media_id": "18119986444980943",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "160",
+      "date": "2026-11-01",
+      "subject": "Pilot studies: small-scale tests of study methods and procedures that primarily assess whether a larger definitive study can be done",
+      "category": "Beginner concept / research literacy",
+      "format": "Single-image research-literacy infographic",
+      "headline": "Pilot Study ≠ Proof It Works",
+      "angle": "A beginner-friendly explanation that pilot studies test feasibility, recruitment, retention and data-collection processes rather than providing definitive proof of effectiveness.",
+      "teaching_points": [
+        "A pilot study is a small-scale test of methods and procedures planned for a larger study.",
+        "Its main question is practical: can the full study be done as intended?",
+        "Researchers may check recruitment, retention, randomization, data collection and follow-up.",
+        "Feasibility goals and success criteria should be defined in advance."
+      ],
+      "limitation": "Pilot studies are generally designed to assess feasibility—not to confirm effectiveness. Small samples can produce highly uncertain effect estimates, so an encouraging pilot result still needs an appropriately designed definitive study.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PilotStudy",
+        "#ClinicalResearch",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-01-2000-pilot-study-not-proof.jpg"
+      ],
+      "caption_file": "posts/2026-11-01-2000-pilot-study-not-proof.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ec4b88f20d69bf5b63f38c07555c5c6bcd20e5c1/posts/2026-11-01-2000-pilot-study-not-proof.jpg",
+      "evidence": [
+        "NIH NCCIH defines a pilot study as a small-scale test of methods and procedures and states that its goal is feasibility or acceptability rather than testing intervention effects.",
+        "The CONSORT extension for randomized pilot and feasibility trials states that pilot objectives should focus on whether and how a future definitive RCT can be conducted.",
+        "Peer-reviewed pilot-study guidance notes that small samples yield imprecise effect estimates and should not usually be used to establish efficacy."
+      ],
+      "published_at": "2026-11-02T04:04:51Z",
+      "instagram_media_id": "18133470136776732",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-01"

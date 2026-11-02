@@ -5075,7 +5075,44 @@
       "published_at": "2026-11-02T04:04:51Z",
       "instagram_media_id": "18133470136776732",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "161",
+      "date": "2026-11-02",
+      "subject": "Glatiramer acetate: a heterogeneous mixture of synthetic polypeptides built from four amino acids rather than one identical peptide sequence",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Glatiramer Acetate: Not One Peptide—A Peptide Mixture",
+      "angle": "A beginner-friendly look at glatiramer acetate as a complex four-amino-acid polypeptide mixture, including chain-length heterogeneity, an incompletely understood human mechanism and the importance of manufacturing consistency.",
+      "teaching_points": [
+        "Glatiramer acetate is a complex mixture of synthetic polypeptides.",
+        "Its chains are built from four naturally occurring amino acids: glutamic acid, alanine, tyrosine and lysine.",
+        "FDA chemistry reviews describe polypeptides roughly 40–100 amino acids long with non-uniform sequences.",
+        "Its exact mechanism in humans is not fully understood; labeling describes immune-process modification as the leading explanation."
+      ],
+      "limitation": "Glatiramer acetate is not one identical molecular sequence. Because it is a heterogeneous peptide mixture, tightly controlled composition and manufacturing are central to product consistency.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#GlatiramerAcetate",
+        "#Polypeptides",
+        "#ImmunologyResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-02-0800-glatiramer-acetate-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-02-0800-glatiramer-acetate-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5921d596bc3c2a2a4e8be84232f53c26ba2938fd/posts/2026-11-02-0800-glatiramer-acetate-spotlight.jpg",
+      "evidence": [
+        "DailyMed describes glatiramer acetate as acetate salts of synthetic polypeptides containing glutamic acid, alanine, tyrosine and lysine and states that its exact mechanism in patients is not fully understood.",
+        "FDA's chemistry review describes a mixture of synthetic peptide copolymers roughly 40–100 amino acids long whose sequences are not uniform.",
+        "FDA product-specific guidance treats active-ingredient sameness as a multi-criterion analytical and biological comparison because glatiramer acetate is a complex peptide-copolymer mixture."
+      ],
+      "published_at": "2026-11-02T16:07:33Z",
+      "instagram_media_id": "18149135230569529",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-01"
+  "last_updated": "2026-11-02"
 }

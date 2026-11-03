@@ -1,0 +1,12 @@
+STERILE ≠ ENDOTOXIN-FREE
+
+• A sterility test looks for viable microorganisms capable of growing under the test conditions.
+• An endotoxin test measures toxic material from the outer membrane of Gram-negative bacteria.
+• Killing or removing living bacteria does not automatically remove the endotoxin fragments they may leave behind.
+• The two tests answer different quality questions and neither substitutes for the other.
+
+Evidence check: passing a sterility test does not guarantee an endotoxin result within limits—and passing either test alone does not establish identity, purity, strength or overall batch quality. FDA also notes that sterility testing is only one part of a broader contamination-control strategy.
+
+Follow @vantacorebiolabs for simple research-quality education.
+
+#VantacoreBiolabs #SterilityTesting #EndotoxinTesting #LabQuality #ResearchLiteracy

@@ -1,0 +1,14 @@
+PLACEBO RESPONSE ≠ PLACEBO EFFECT
+
+These two terms sound interchangeable, but they answer different questions.
+
+• Placebo response means all observed change in a placebo group.
+• That change can include natural symptom shifts, regression to the mean, measurement noise, and study-context effects.
+• Placebo effect is the change attributed specifically to placebo-related context—such as expectation, learning, and treatment cues.
+• To isolate that effect, researchers may compare a placebo group with a no-treatment or natural-history group.
+
+Evidence limit: improvement after receiving a placebo does not prove the placebo caused the improvement.
+
+Which research term should we untangle next?
+
+#VantacoreBiolabs #PlaceboResponse #ClinicalTrials #StudyDesign #ResearchLiteracy

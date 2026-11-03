@@ -5149,6 +5149,43 @@
       "published_at": "2026-11-02T20:01:28Z",
       "instagram_media_id": "18100037003661751",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "163",
+      "date": "2026-11-02",
+      "subject": "Pentagastrin: a synthetic pentapeptide that mimics gastrin signaling and was historically used to stimulate and measure gastric-acid output",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image compound spotlight",
+      "headline": "Pentagastrin: The Five-Residue Gastrin Mimic",
+      "angle": "A beginner-friendly look at pentagastrin as a synthetic five-residue gastrin mimic, its gastric-secretory signal and its historical diagnostic role, paired with current regulatory context.",
+      "teaching_points": [
+        "Pentagastrin is a synthetic pentapeptide—a chain built around five amino-acid residues.",
+        "It mimics key actions of the natural signaling hormone gastrin.",
+        "Its signal stimulates gastric-acid secretion, along with pepsin and intrinsic factor.",
+        "Historically, it was used as a diagnostic aid to test stomach-acid output."
+      ],
+      "limitation": "The former U.S. product was discontinued from marketing, but FDA determined that withdrawal was not for safety or effectiveness reasons. Historical testing use does not establish every modern claimed use, and orphan designation does not equal approval.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pentagastrin",
+        "#PeptideResearch",
+        "#GastrinScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-02-1600-pentagastrin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-02-1600-pentagastrin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/d848784a46d7549df3210014459910bb3a707ce3/posts/2026-11-02-1600-pentagastrin-spotlight.jpg",
+      "evidence": [
+        "NLM MeSH and PubChem describe pentagastrin as a synthetic pentapeptide that mimics gastrin and stimulates gastric acid, pepsin and intrinsic factor, with historical diagnostic use.",
+        "FDA's 2006 Federal Register notice states that Peptavlon was a gastric-acid testing agent and that its marketing withdrawal was not for safety or effectiveness reasons.",
+        "FDA's orphan-drug database lists a later diagnostic orphan designation but identifies the orphan approval status as not FDA approved."
+      ],
+      "published_at": "2026-11-03T00:06:08Z",
+      "instagram_media_id": "18119467135966682",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-02"

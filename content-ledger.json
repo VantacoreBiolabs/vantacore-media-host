@@ -5223,7 +5223,44 @@
       "published_at": "2026-11-03T04:01:43Z",
       "instagram_media_id": "18139680691724281",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "165",
+      "date": "2026-11-03",
+      "subject": "Protirelin (thyrotropin-releasing hormone): a three-residue peptide relay from hypothalamus to pituitary TSH release",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image peptide spotlight",
+      "headline": "Protirelin—The 3-Amino-Acid Hormone Relay",
+      "angle": "A beginner-friendly explanation of how the tiny TRH tripeptide acts as a hypothalamus-to-pituitary signal and why its historical diagnostic response is not a standalone diagnosis.",
+      "teaching_points": [
+        "Protirelin is the synthetic form of naturally occurring thyrotropin-releasing hormone (TRH).",
+        "It is a tripeptide composed of pyroglutamyl, histidyl and prolinamide residues.",
+        "TRH signals the anterior pituitary to release thyroid-stimulating hormone (TSH) and prolactin.",
+        "Synthetic TRH was historically used as an adjunctive diagnostic probe of pituitary response."
+      ],
+      "limitation": "TRH-test responses vary with physiology, medications and clinical context; a response is not a standalone diagnosis, and sensitive basal TSH testing has reduced the test's routine role.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Protirelin",
+        "#PeptideResearch",
+        "#EndocrineScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-03-0800-protirelin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-03-0800-protirelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/d53b4fbef12b29884037169533bb4e961143d94a/posts/2026-11-03-0800-protirelin-spotlight.jpg",
+      "evidence": [
+        "NLM MeSH defines protirelin/TRH as a tripeptide that stimulates thyrotropin and prolactin release from the anterior pituitary.",
+        "DailyMed identifies protirelin as synthetic TRH and describes its historical adjunctive diagnostic role.",
+        "NCBI Endotext and peer-reviewed pituitary-testing guidance note that TRH responses vary with context and the test is not recommended for routine use."
+      ],
+      "published_at": "2026-11-03T16:01:22Z",
+      "instagram_media_id": "18135165331779660",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-02"
+  "last_updated": "2026-11-03"
 }

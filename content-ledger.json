@@ -5186,6 +5186,43 @@
       "published_at": "2026-11-03T00:06:08Z",
       "instagram_media_id": "18119467135966682",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "164",
+      "date": "2026-11-02",
+      "subject": "Sterility testing versus bacterial endotoxin testing: viable microorganisms compared with toxic Gram-negative bacterial membrane fragments",
+      "category": "Research safety and quality literacy",
+      "format": "Single-image A-vs-B quality comparison",
+      "headline": "Sterile ≠ Endotoxin-Free",
+      "angle": "A beginner-friendly side-by-side explanation of why sterility and endotoxin testing answer different quality questions and why passing one does not guarantee passing the other.",
+      "teaching_points": [
+        "A sterility test looks for viable microorganisms capable of growing under the test conditions.",
+        "An endotoxin test measures toxic material from the outer membrane of Gram-negative bacteria.",
+        "Killing or removing living bacteria does not automatically remove the endotoxin fragments they may leave behind.",
+        "The two tests answer different quality questions and neither substitutes for the other."
+      ],
+      "limitation": "Passing a sterility test does not guarantee an endotoxin result within limits—and passing either test alone does not establish identity, purity, strength or overall batch quality. Sterility testing is only one part of a broader contamination-control strategy.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SterilityTesting",
+        "#EndotoxinTesting",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-02-2000-sterility-vs-endotoxin.jpg"
+      ],
+      "caption_file": "posts/2026-11-02-2000-sterility-vs-endotoxin.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/db071554e1faf8b79ed0a75ba30cac32b71fa14c/posts/2026-11-02-2000-sterility-vs-endotoxin.jpg",
+      "evidence": [
+        "FDA CGMP guidance identifies sterility testing as a critical but limited component of a broader aseptic-process control strategy.",
+        "FDA's March 2026 pyrogen and endotoxin guidance treats bacterial endotoxin testing under separate USP chapters and methods.",
+        "USP materials distinguish Chapter <71> Sterility Tests from Chapter <85> Bacterial Endotoxins Test and describe endotoxins as Gram-negative bacterial structural components released when cells break down."
+      ],
+      "published_at": "2026-11-03T04:01:43Z",
+      "instagram_media_id": "18139680691724281",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-02"

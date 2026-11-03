@@ -5260,6 +5260,43 @@
       "published_at": "2026-11-03T16:01:22Z",
       "instagram_media_id": "18135165331779660",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "166",
+      "date": "2026-11-03",
+      "subject": "Placebo response versus placebo effect: all observed change in a placebo group compared with change caused specifically by placebo-related context",
+      "category": "Beginner research concept",
+      "format": "Single-image A-vs-B research-literacy comparison",
+      "headline": "Placebo Response ≠ Placebo Effect",
+      "angle": "A plain-English distinction between the total observed response in a placebo group and the narrower causal effect attributable to expectation, learning and treatment context.",
+      "teaching_points": [
+        "Placebo response means all observed change from baseline in a placebo group.",
+        "That response can include natural history, regression to the mean, measurement noise, bias and contextual effects.",
+        "Placebo effect refers specifically to change caused by placebo-related mechanisms such as expectation, learning and treatment cues.",
+        "A no-treatment or natural-history comparison can help separate the placebo effect from other components of the placebo response."
+      ],
+      "limitation": "Improvement after placebo does not by itself prove that placebo-related context caused the improvement.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PlaceboResponse",
+        "#ClinicalTrials",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-03-1200-placebo-response-vs-effect.jpg"
+      ],
+      "caption_file": "posts/2026-11-03-1200-placebo-response-vs-effect.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/72382e3d036029dc5b92abb83c8abf47852a32f0/posts/2026-11-03-1200-placebo-response-vs-effect.jpg",
+      "evidence": [
+        "NIH NCCIH describes placebo effects as beneficial outcomes related to anticipation and treatment context.",
+        "A 2024 NIMH placebo workshop distinguishes total placebo response from the narrower causal placebo effect and lists regression to the mean and natural history among response components.",
+        "Peer-reviewed terminology recommendations define placebo response as all favorable change after placebo and placebo effect as change attributable specifically to placebo mechanisms."
+      ],
+      "published_at": "2026-11-03T20:02:40Z",
+      "instagram_media_id": "17915714319508359",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-03"

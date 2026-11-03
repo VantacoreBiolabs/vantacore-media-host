@@ -5297,6 +5297,43 @@
       "published_at": "2026-11-03T20:02:40Z",
       "instagram_media_id": "17915714319508359",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "167",
+      "date": "2026-11-03",
+      "subject": "Caspofungin: a semisynthetic cyclic lipopeptide echinocandin that blocks fungal beta-(1,3)-D-glucan synthesis",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image cyclic-lipopeptide spotlight",
+      "headline": "Caspofungin—The Fungal Cell-Wall Blocker",
+      "angle": "A beginner-friendly look at how an echinocandin lipopeptide interrupts a fungal cell-wall building process and why species and resistance patterns limit simple predictions.",
+      "teaching_points": [
+        "Caspofungin is a semisynthetic cyclic lipopeptide in the echinocandin family.",
+        "It was developed from a fermentation product of the fungus Glarea lozoyensis.",
+        "It inhibits synthesis of beta-(1,3)-D-glucan, an important component of susceptible fungal cell walls.",
+        "Beta-(1,3)-D-glucan is not present in mammalian cells."
+      ],
+      "limitation": "Activity varies by fungal species, and mutations in FKS glucan-synthase subunits can reduce susceptibility; identifying a molecular target alone does not predict every organism's response.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Caspofungin",
+        "#Echinocandins",
+        "#FungalBiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-03-1600-caspofungin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-03-1600-caspofungin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c3df4117fc9e67c479101f30b656bd2ec5441d30/posts/2026-11-03-1600-caspofungin-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling identifies caspofungin as a semisynthetic lipopeptide echinocandin synthesized from a Glarea lozoyensis fermentation product.",
+        "DailyMed and FDA labeling state that caspofungin inhibits beta-(1,3)-D-glucan synthesis in susceptible fungal cell walls and that this glucan is absent from mammalian cells.",
+        "Labeling and peer-reviewed evidence identify FKS glucan-synthase changes and cell-wall adaptation as mechanisms associated with reduced susceptibility."
+      ],
+      "published_at": "2026-11-03T23:59:03Z",
+      "instagram_media_id": "18100047698389676",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-03"

@@ -1,0 +1,14 @@
+PRIMARY STANDARD ≠ WORKING STANDARD
+
+Lab results need a trustworthy point of comparison—but not every standard plays the same role.
+
+• A primary standard is extensively characterized authentic material.
+• It acts as the high-confidence anchor for comparison.
+• A working—or secondary—standard is qualified by comparison with the primary.
+• Working standards make routine laboratory testing more practical.
+
+Quality limit: “in-house” or “high purity” does not automatically make material a valid working standard. Its identity, quality, assigned value, stability, documentation, and traceability must fit the intended test.
+
+Which lab-quality term should we simplify next?
+
+#VantacoreBiolabs #ReferenceStandards #LabQuality #AnalyticalScience #ResearchLiteracy

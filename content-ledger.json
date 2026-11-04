@@ -5371,7 +5371,44 @@
       "published_at": "2026-11-04T04:07:33Z",
       "instagram_media_id": "17917791948524579",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "169",
+      "date": "2026-11-04",
+      "subject": "Bacitracin: a fermentation-derived mixture of cyclic polypeptides that traps a bacterial cell-wall lipid carrier and interrupts its recycling",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image cyclic-polypeptide spotlight",
+      "headline": "Bacitracin—The Lipid-Carrier Trap",
+      "angle": "A beginner-friendly conveyor-belt analogy for how bacitracin binds undecaprenyl pyrophosphate and interrupts recycling of the lipid carrier used during bacterial peptidoglycan assembly.",
+      "teaching_points": [
+        "Bacitracin is a mixture of related cyclic polypeptides, with bacitracin A as the major component.",
+        "The mixture is produced through fermentation by bacteria in the Bacillus licheniformis group.",
+        "Bacterial cell-wall building blocks use a membrane lipid carrier during peptidoglycan assembly.",
+        "Bacitracin binds the carrier's pyrophosphate form and interferes with its regeneration and recycling."
+      ],
+      "limitation": "Bacitracin mixture composition and bacterial susceptibility can vary; knowing the biochemical mechanism does not predict every strain's response.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Bacitracin",
+        "#CyclicPeptides",
+        "#Microbiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-04-0800-bacitracin-spotlight.jpg"
+      ],
+      "caption_file": "posts/2026-11-04-0800-bacitracin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b5302b59416b4aa1f7238209dbed198e2bdf54b3/posts/2026-11-04-0800-bacitracin-spotlight.jpg",
+      "evidence": [
+        "DailyMed describes bacitracin zinc as a mixture of related cyclic polypeptides, mainly bacitracin A, produced by Bacillus-group fermentation.",
+        "DailyMed states that bacitracin interferes with bacterial cell-wall synthesis by inhibiting regeneration of phospholipid receptors involved in peptidoglycan synthesis.",
+        "Peer-reviewed structural evidence shows bacitracin A binding and enveloping the pyrophosphate group of undecaprenyl-pyrophosphate-like lipid carriers."
+      ],
+      "published_at": "2026-11-04T16:08:21Z",
+      "instagram_media_id": "18129405668300035",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-03"
+  "last_updated": "2026-11-04"
 }

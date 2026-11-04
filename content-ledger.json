@@ -5408,7 +5408,43 @@
       "published_at": "2026-11-04T16:08:21Z",
       "instagram_media_id": "18129405668300035",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "170",
+      "date": "2026-11-04",
+      "subject": "Generalizability: whether study findings extend from a sample to a target population",
+      "category": "Beginner research concept",
+      "format": "Single-image sample-to-population explainer",
+      "headline": "Can These Results Travel?",
+      "angle": "A plain-English explanation of generalizability using a study-sample-to-target-population visual and four quick relevance checks.",
+      "teaching_points": [
+        "Generalizability asks whether findings extend beyond the people and setting studied.",
+        "Eligibility rules shape who gets represented.",
+        "Age, health, location, timing, and how an intervention is delivered can change relevance.",
+        "A diverse sample helps, but matching the intended target population remains essential."
+      ],
+      "limitation": "No study automatically applies to everyone; relevance depends on who was studied, where, when, and under what conditions.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Generalizability",
+        "#ClinicalResearch",
+        "#StudyDesign",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-04-generalizability.jpg"
+      ],
+      "caption_file": "captions/2026-11-04-generalizability.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/924f71e3638b22859d1d2aa226bf8c183878d6e0/posts/2026-11-04-generalizability.jpg",
+      "evidence": [
+        "NIH guidance describes external validity or generalizability as whether trial findings are relevant beyond the selected patient sample.",
+        "FDA guidance emphasizes representative enrollment so a study population more accurately reflects the patients likely to use a medical product."
+      ],
+      "published_at": "2026-11-04T20:08:05Z",
+      "instagram_media_id": "18187324945422686",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-04"
+  "last_updated": "2026-11-04T20:08:05Z"
 }

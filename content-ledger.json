@@ -5334,6 +5334,43 @@
       "published_at": "2026-11-03T23:59:03Z",
       "instagram_media_id": "18100047698389676",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "168",
+      "date": "2026-11-03",
+      "subject": "Primary reference standard versus working or secondary standard: the high-confidence comparison anchor and the qualified material used for routine laboratory analysis",
+      "category": "Research safety and quality literacy",
+      "format": "Single-image A-vs-B quality comparison",
+      "headline": "Primary Standard ≠ Working Standard",
+      "angle": "A beginner-friendly traceability chain showing why a routinely used working standard must be qualified against a more extensively characterized primary reference.",
+      "teaching_points": [
+        "A primary reference standard is authentic material supported by extensive analytical characterization.",
+        "It serves as the high-confidence anchor for comparison in identity, assay or purity testing.",
+        "A working or secondary standard is established by comparison with the primary reference standard.",
+        "Qualified working standards make routine laboratory analysis practical while preserving traceability."
+      ],
+      "limitation": "Calling material in-house or high purity does not make it a valid working standard; its identity, quality, assigned value, stability, documentation and traceability must be suitable for the intended test.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReferenceStandards",
+        "#LabQuality",
+        "#AnalyticalScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-03-2000-primary-vs-working-standard.jpg"
+      ],
+      "caption_file": "posts/2026-11-03-2000-primary-vs-working-standard.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/282bf4ada1f2575f8d526ef85894b287424ac188/posts/2026-11-03-2000-primary-vs-working-standard.jpg",
+      "evidence": [
+        "ICH Q7 defines a primary reference standard as extensively tested authentic high-purity material and a secondary standard as established by comparison with the primary for routine laboratory analysis.",
+        "USP describes its reference standards as highly characterized materials with appropriate qualities for their intended comparative use.",
+        "FDA laboratory-control guidance expects newly prepared highly pure reference material to be qualified against a primary reference standard."
+      ],
+      "published_at": "2026-11-04T04:07:33Z",
+      "instagram_media_id": "17917791948524579",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-03"

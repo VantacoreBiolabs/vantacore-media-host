@@ -5444,7 +5444,43 @@
       "published_at": "2026-11-04T20:08:05Z",
       "instagram_media_id": "18187324945422686",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "171",
+      "date": "2026-11-04",
+      "subject": "Tirzepatide: a 39-amino-acid GIP-based peptide that activates GIP and GLP-1 receptors and carries a C20 fatty diacid",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image dual-receptor peptide spotlight",
+      "headline": "Tirzepatide—One Peptide. Two Receptor Signals.",
+      "angle": "A beginner-friendly molecular-design breakdown of tirzepatide's 39-amino-acid sequence, dual GIP/GLP-1 receptor activity, and albumin-binding fatty-diacid feature.",
+      "teaching_points": [
+        "Tirzepatide is a synthetic peptide built from 39 amino acids.",
+        "Its sequence is based on the natural GIP hormone signal.",
+        "It activates both GIP and GLP-1 receptors.",
+        "A C20 fatty diacid supports albumin binding and prolongs the molecule's half-life."
+      ],
+      "limitation": "Molecular structure explains receptor activity and duration, but it does not predict an individual person's outcomes or experience.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Tirzepatide",
+        "#PeptideResearch",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-04-1600-tirzepatide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-04-1600-tirzepatide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/de99df266b50bedc18a41c94aa61eb73ca14a85e/posts/2026-11-04-1600-tirzepatide-spotlight.jpg",
+      "evidence": [
+        "FDA's 2026 review package describes tirzepatide as a 39-amino-acid peptide based on the GIP sequence with a C20 fatty diacid attached through a linker.",
+        "Current DailyMed labeling identifies tirzepatide as a GIP receptor and GLP-1 receptor agonist and states that the C20 fatty diacid enables albumin binding and prolongs half-life."
+      ],
+      "published_at": "2026-11-05T00:08:26Z",
+      "instagram_media_id": "18024831080716015",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-04T20:08:05Z"
+  "last_updated": "2026-11-05T00:08:26Z"
 }

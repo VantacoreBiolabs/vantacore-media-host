@@ -1,0 +1,14 @@
+CHANGE CONTROL: SMALL CHANGE. BIG QUESTION.
+
+In quality systems, even a “small” change deserves a structured review.
+
+• Describe exactly what will change and why.
+• Assess possible effects on the process, data, and product quality.
+• Use science and risk to decide whether the change should be approved.
+• After implementation, verify that the goal was met without unintended consequences.
+
+Evidence limit: documentation and review help manage uncertainty; they do not automatically prove that a change is harmless.
+
+Which quality term should we simplify next?
+
+#VantacoreBiolabs #ChangeControl #QualitySystems #LabQuality #ResearchLiteracy

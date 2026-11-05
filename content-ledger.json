@@ -5516,7 +5516,44 @@
       "published_at": "2026-11-05T03:59:25Z",
       "instagram_media_id": "17919894585463608",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "173",
+      "date": "2026-11-05",
+      "subject": "Carperitide: a recombinant 28-amino-acid human atrial natriuretic peptide that activates ANP receptor-A and cGMP signaling",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image natriuretic-peptide spotlight",
+      "headline": "Carperitide—The Heart-Signal Copy",
+      "angle": "A beginner-friendly molecular spotlight on carperitide as recombinant human ANP, emphasizing its 28-amino-acid disulfide-ring structure and ANP receptor-A/cGMP pathway.",
+      "teaching_points": [
+        "Carperitide is a recombinant form of human atrial natriuretic peptide, or ANP.",
+        "It contains 28 amino acids.",
+        "A disulfide bond forms the ring structure shared by mature ANP.",
+        "It activates ANP receptor-A, a membrane guanylyl cyclase that raises the second messenger cGMP."
+      ],
+      "limitation": "Approved use varies by country—carperitide is available in Japan but is not FDA-approved in the United States. Knowing the pathway does not predict every outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Carperitide",
+        "#NatriureticPeptides",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-05-0800-carperitide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-05-0800-carperitide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/7f72b7c9bbc2fe4926c555d382866690d403ceea/posts/2026-11-05-0800-carperitide-spotlight.jpg",
+      "evidence": [
+        "FDA's substance record identifies carperitide as human atrial natriuretic peptide 1–28 and lists its disulfide-linked sequence.",
+        "Japanese regulatory-based product information identifies carperitide as a recombinant active ingredient that activates the alpha-type human ANP receptor and membrane guanylyl cyclase to increase cGMP.",
+        "NCBI LactMed notes that carperitide is available in Japan but is not approved for marketing in the United States."
+      ],
+      "published_at": "2026-11-05T16:05:29Z",
+      "instagram_media_id": "18214474444363681",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-05T03:59:25Z"
+  "last_updated": "2026-11-05T16:05:29Z"
 }

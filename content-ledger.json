@@ -5553,7 +5553,44 @@
       "published_at": "2026-11-05T16:05:29Z",
       "instagram_media_id": "18214474444363681",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "174",
+      "date": "2026-11-05",
+      "subject": "Multiple comparisons: why testing more outcomes, subgroups, or time points increases the chance of at least one false-positive result",
+      "category": "Beginner research concept",
+      "format": "Single-image multiple-testing explainer",
+      "headline": "More Tests. More False Alarms?",
+      "angle": "A beginner-friendly visual comparison showing how the chance of at least one false positive rises across multiple independent tests and why multiplicity adjustments matter.",
+      "teaching_points": [
+        "Every statistical test has some chance of producing a false positive.",
+        "More outcomes, subgroups, or time points mean more tests.",
+        "With ten independent null tests at a 5% threshold, the chance of at least one false positive is about 40%.",
+        "Multiple-testing adjustments help control the overall error rate."
+      ],
+      "limitation": "Adjustment can reduce statistical power, and the right approach depends on which tests belong to the same research question.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MultipleComparisons",
+        "#Biostatistics",
+        "#DataLiteracy",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-05-1200-multiple-comparisons.jpg"
+      ],
+      "caption_file": "captions/2026-11-05-1200-multiple-comparisons.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0d3b412f53b35582b258b6033a45af5ec25a2cce/posts/2026-11-05-1200-multiple-comparisons.jpg",
+      "evidence": [
+        "NIH research-methods guidance recommends accounting for multiplicity when studies include multiple treatment arms, outcomes, or interim analyses.",
+        "Peer-reviewed clinical-trial guidance shows that ten independent tests at alpha 0.05 produce an approximately 40% probability of at least one false positive when all null hypotheses are true.",
+        "Recent peer-reviewed guidance notes the tradeoff: never adjusting raises false-positive risk, while always adjusting can reduce statistical power."
+      ],
+      "published_at": "2026-11-05T20:03:44Z",
+      "instagram_media_id": "18004818509808714",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-05T16:05:29Z"
+  "last_updated": "2026-11-05T20:03:44Z"
 }

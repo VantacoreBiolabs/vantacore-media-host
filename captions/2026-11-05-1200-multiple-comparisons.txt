@@ -1,0 +1,14 @@
+MORE TESTS. MORE FALSE ALARMS?
+
+Running many statistical tests changes how a “significant” result should be read.
+
+• Every test has some chance of producing a false positive.
+• More outcomes, subgroups, or time points mean more tests.
+• With ten independent null tests at a 5% threshold, the chance of at least one false positive is about 40%.
+• Multiple-testing adjustments help control the overall error rate.
+
+Evidence limit: adjustment can reduce statistical power, and the right approach depends on which tests belong to the same research question.
+
+What statistics concept should we simplify next?
+
+#VantacoreBiolabs #MultipleComparisons #Biostatistics #DataLiteracy #ResearchLiteracy

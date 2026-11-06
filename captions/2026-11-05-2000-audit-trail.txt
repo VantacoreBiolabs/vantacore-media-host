@@ -1,0 +1,15 @@
+AUDIT TRAIL: WHO CHANGED WHAT?
+
+An audit trail is a secure, computer-generated, time-stamped record.
+
+It can show who created, changed, or deleted an electronic record.
+
+It preserves when an action happened and, when required, why it happened.
+
+That history helps reviewers reconstruct the sequence of events around the data.
+
+Evidence limit: An audit trail supports traceability, but its existence alone does not prove that data are complete, accurate, or trustworthy.
+
+Which quality term should we explain next? Follow @vantacorebiolabs for more plain-English research literacy.
+
+#VantacoreBiolabs #AuditTrail #DataIntegrity #LabQuality #ResearchLiteracy

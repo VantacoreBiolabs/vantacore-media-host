@@ -5590,7 +5590,44 @@
       "published_at": "2026-11-05T20:03:44Z",
       "instagram_media_id": "18004818509808714",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "175",
+      "date": "2026-11-05",
+      "subject": "Atosiban: a modified cyclic nine-residue peptide that competitively antagonizes oxytocin receptors and also binds vasopressin receptors",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image receptor-antagonist peptide spotlight",
+      "headline": "Atosiban—The Oxytocin-Signal Blocker",
+      "angle": "A beginner-friendly molecular spotlight on atosiban's modified nine-residue cyclic structure, disulfide bridge, competitive oxytocin-receptor antagonism, and secondary vasopressin-receptor binding.",
+      "teaching_points": [
+        "Atosiban is a synthetic nine-residue peptide related to oxytocin.",
+        "A disulfide bridge creates its cyclic structure.",
+        "It acts as a competitive antagonist at human oxytocin receptors.",
+        "It also binds vasopressin receptors, so it is not completely receptor-selective."
+      ],
+      "limitation": "Regulatory approval varies by region, and receptor binding alone does not predict every biological or clinical outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Atosiban",
+        "#CyclicPeptides",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-05-1600-atosiban-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-05-1600-atosiban-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/46864a7a52f2805df9ab26298d9adf382f19a875/posts/2026-11-05-1600-atosiban-spotlight.jpg",
+      "evidence": [
+        "EMA product information describes atosiban as a synthetic modified oxytocin peptide and a competitive antagonist at human oxytocin receptors.",
+        "EMA notes that atosiban also binds vasopressin receptors, establishing that its receptor activity is not completely selective.",
+        "PubChem identifies atosiban as an oligopeptide with a nine-unit sequence and a disulfide-linked cyclic structure."
+      ],
+      "published_at": "2026-11-06T00:00:09Z",
+      "instagram_media_id": "18101527781087717",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-05T20:03:44Z"
+  "last_updated": "2026-11-06T00:00:09Z"
 }

@@ -5627,6 +5627,43 @@
       "published_at": "2026-11-06T00:00:09Z",
       "instagram_media_id": "18101527781087717",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "176",
+      "date": "2026-11-05",
+      "subject": "Audit trails: a plain-English guide to who changed what, when, and why in electronic records",
+      "category": "Research and quality literacy",
+      "format": "Single-image audit-trail explainer",
+      "headline": "Audit Trail—Who Changed What?",
+      "angle": "A beginner-friendly quality-literacy explainer showing how an electronic audit trail records the user, action, time, and reason behind changes while clarifying that the trail alone does not prove data integrity.",
+      "teaching_points": [
+        "An audit trail is a secure, computer-generated, time-stamped electronic record.",
+        "It can record creation, modification, or deletion of an electronic record.",
+        "It links actions to who performed them and when they occurred.",
+        "When required, it also preserves the reason for a change so reviewers can reconstruct the sequence of events."
+      ],
+      "limitation": "An audit trail supports traceability, but its existence alone does not prove that data are complete, accurate, or trustworthy.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AuditTrail",
+        "#DataIntegrity",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-05-2000-audit-trail.jpg"
+      ],
+      "caption_file": "captions/2026-11-05-2000-audit-trail.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e512c5de32fcee1ce4fe3ccce7c6bc000fa5a9ac/posts/2026-11-05-2000-audit-trail.jpg",
+      "evidence": [
+        "FDA's December 2018 final guidance defines an audit trail as a secure, computer-generated, time-stamped electronic record that allows reconstruction of events related to creation, modification, or deletion of an electronic record.",
+        "FDA describes an audit trail as the chronology of the who, what, when, and why of a record.",
+        "MHRA data-integrity guidance explains that audit trails and retained records should allow reconstruction of data-processing activities; a trail remains one control within a broader data-governance system."
+      ],
+      "published_at": "2026-11-06T04:04:22Z",
+      "instagram_media_id": "18115773461587564",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

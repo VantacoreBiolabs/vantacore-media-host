@@ -1,0 +1,15 @@
+AFFINITY ≠ SELECTIVITY
+
+Affinity asks: How tightly does a molecule bind to one target?
+
+Selectivity asks: How strongly does it prefer that target over other targets?
+
+A compound can bind one target tightly and still bind several other targets too.
+
+Selectivity is relative—not absolute—and it can decrease as concentration rises.
+
+Evidence limit: Binding measurements describe target interactions, but they do not by themselves prove a whole-cell effect or predict what happens in a person.
+
+Which research term should we compare next? Follow @vantacorebiolabs for more science in plain English.
+
+#VantacoreBiolabs #ReceptorScience #DrugDiscovery #PharmacologyBasics #ResearchLiteracy

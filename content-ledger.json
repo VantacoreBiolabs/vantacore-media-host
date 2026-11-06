@@ -5739,6 +5739,44 @@
       "published_at": "2026-11-06T19:58:22Z",
       "instagram_media_id": "18099346913111287",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "179",
+      "date": "2026-11-06",
+      "subject": "Romidepsin: a bicyclic depsipeptide whose disulfide bond is reduced intracellularly to expose an HDAC-inhibiting thiol",
+      "category": "Individual peptide-derived compound spotlight",
+      "format": "Single-image disulfide-switch compound spotlight",
+      "headline": "Romidepsin—The Disulfide Switch",
+      "angle": "A beginner-friendly structural spotlight on romidepsin's bicyclic depsipeptide scaffold, closed disulfide bond, intracellular reduction, exposed thiol, and HDAC inhibition.",
+      "teaching_points": [
+        "Romidepsin is a bicyclic depsipeptide originally isolated from Chromobacterium violaceum.",
+        "Its closed structure contains a disulfide bond between two sulfur atoms.",
+        "Cellular reduction of the disulfide exposes an active thiol group.",
+        "The reduced form inhibits histone deacetylase enzymes involved in removing acetyl groups from proteins."
+      ],
+      "limitation": "This molecular switch explains part of the mechanism, but it does not predict clinical benefit, safety, or every downstream effect.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Romidepsin",
+        "#Depsipeptides",
+        "#Epigenetics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-06-1600-romidepsin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-06-1600-romidepsin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4b98747993a2c0ad6cd5888e6694e629b19071e4/posts/2026-11-06-1600-romidepsin-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling identifies romidepsin as a bicyclic depsipeptide and an HDAC inhibitor.",
+        "The NCI Drug Dictionary describes romidepsin as a bicyclic depsipeptide isolated from Chromobacterium violaceum and activated intracellularly before HDAC inhibition.",
+        "Peer-reviewed mechanistic literature describes reduction of the disulfide bond to a thiol-containing active form that interacts with the zinc-containing HDAC active site.",
+        "DailyMed notes that the full mechanism behind observed antineoplastic effects has not been fully characterized."
+      ],
+      "published_at": "2026-11-06T23:59:19Z",
+      "instagram_media_id": "18100168196559221",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

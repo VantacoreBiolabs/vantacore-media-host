@@ -5701,6 +5701,44 @@
       "published_at": "2026-11-06T16:00:52Z",
       "instagram_media_id": "18112939424059922",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "178",
+      "date": "2026-11-06",
+      "subject": "Affinity versus selectivity: binding strength at one target compared with preference for that target over alternatives",
+      "category": "Easy A-vs-B comparison",
+      "format": "Single-image two-panel pharmacology comparison",
+      "headline": "Affinity ≠ Selectivity",
+      "angle": "A beginner-friendly comparison separating how tightly a molecule binds one target from how strongly it prefers that target over other possible targets.",
+      "teaching_points": [
+        "Affinity describes how tightly a molecule binds to one target.",
+        "Selectivity describes preference for one target compared with other targets.",
+        "A compound can have high affinity at one target without being highly selective.",
+        "Selectivity is relative and may decrease as concentration rises."
+      ],
+      "limitation": "Binding measurements describe target interactions, but they do not by themselves prove a whole-cell effect or predict what happens in a person.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReceptorScience",
+        "#DrugDiscovery",
+        "#PharmacologyBasics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-06-1200-affinity-vs-selectivity.jpg"
+      ],
+      "caption_file": "captions/2026-11-06-1200-affinity-vs-selectivity.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/93f7166bac93644f354e014dd617dadeb3cb502a/posts/2026-11-06-1200-affinity-vs-selectivity.jpg",
+      "evidence": [
+        "IUPAC defines drug affinity as the ability to bind a biological target.",
+        "The British Pharmacological Society core-concepts framework defines selectivity as a drug's ability to discriminate between targets and notes that it depends on preferential affinity.",
+        "The same framework notes that apparent selectivity may be reduced at higher concentrations.",
+        "IUPHAR teaching material describes selectivity as relative rather than equivalent to absolute specificity."
+      ],
+      "published_at": "2026-11-06T19:58:22Z",
+      "instagram_media_id": "18099346913111287",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

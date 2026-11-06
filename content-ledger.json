@@ -5664,6 +5664,43 @@
       "published_at": "2026-11-06T04:04:22Z",
       "instagram_media_id": "18115773461587564",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "177",
+      "date": "2026-11-06",
+      "subject": "Goserelin: a synthetic 10-amino-acid GnRH analog whose sustained receptor stimulation suppresses pituitary gonadotropin secretion",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image GnRH-receptor peptide spotlight",
+      "headline": "Goserelin—The Signal That Turns Down Its Own Pathway",
+      "angle": "A beginner-friendly molecular spotlight on goserelin's decapeptide structure, pituitary GnRH-receptor agonism, early signaling rise, and desensitization during sustained exposure.",
+      "teaching_points": [
+        "Goserelin is a synthetic 10-amino-acid analog of gonadotropin-releasing hormone.",
+        "It binds and activates pituitary GnRH receptors.",
+        "Early exposure stimulates the pathway and can raise pituitary gonadotropin output.",
+        "With sustained exposure, receptor signaling becomes desensitized and pituitary gonadotropin secretion is suppressed."
+      ],
+      "limitation": "This simplified pathway explains the core mechanism, but it does not predict every individual response or establish safety for any particular person.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Goserelin",
+        "#PeptideResearch",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-06-0800-goserelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-06-0800-goserelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/562f7ed1b8ca050bbbc53dda780acda7b7e45729/posts/2026-11-06-0800-goserelin-spotlight.jpg",
+      "evidence": [
+        "The current FDA label identifies goserelin as a synthetic decapeptide analog of GnRH and describes inhibition of pituitary gonadotropin secretion with sustained exposure in its biodegradable formulation.",
+        "Current DailyMed labeling describes goserelin acetate as [D-Ser(Bu t)6, Azgly10] and lists its ten-residue sequence.",
+        "PubChem describes goserelin as a synthetic decapeptide GnRH/LHRH analog that binds and activates pituitary GnRH receptors; prolonged exposure inhibits pituitary gonadotropin secretion."
+      ],
+      "published_at": "2026-11-06T16:00:52Z",
+      "instagram_media_id": "18112939424059922",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

@@ -5853,6 +5853,44 @@
       "published_at": "2026-11-07T16:05:57Z",
       "instagram_media_id": "17979036755935008",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "182",
+      "date": "2026-11-07",
+      "subject": "Aliquots: measured portions divided from a larger sample for separate storage, testing, and traceable handling",
+      "category": "Beginner research and quality concept",
+      "format": "Single-image sample-handling explainer",
+      "headline": "Aliquots—One Sample. Many Portions.",
+      "angle": "A beginner-friendly explanation of aliquots as measured portions of a larger sample, why they are stored separately, how they can reduce repeated freeze–thaw, and why source linkage and starting-material uniformity matter.",
+      "teaching_points": [
+        "An aliquot is a measured part taken from a larger sample.",
+        "Each portion is stored in its own labeled container.",
+        "Separate portions can reduce repeated freeze–thaw of the original sample.",
+        "Every aliquot should remain linked to its source sample and handling history."
+      ],
+      "limitation": "Aliquoting assumes the starting material is uniform. If it is not mixed or representative, the smaller portions may differ.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Aliquot",
+        "#SampleIntegrity",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-07-1200-aliquots-research-basics.jpg"
+      ],
+      "caption_file": "captions/2026-11-07-1200-aliquots-research-basics.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/81ace2d71a90cb0fa618a99d712842e806d630ea/posts/2026-11-07-1200-aliquots-research-basics.jpg",
+      "evidence": [
+        "The NCI Biorepositories and Biospecimen Research Branch defines an aliquot as a portion of a specimen divided into smaller parts, typically stored in separate containers.",
+        "NCI Proteomic Data Commons documentation links each aliquot to the sample or analyte from which it was derived.",
+        "Field laboratory guidance hosted by NCBI notes that aliquoting before freezing can reduce repeated freeze–thaw and emphasizes documenting each aliquot's history.",
+        "The IUPAC Gold Book defines an aliquot as a known amount of homogeneous material assumed to be taken with negligible sampling error."
+      ],
+      "published_at": "2026-11-07T20:00:47Z",
+      "instagram_media_id": "18079442546751832",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

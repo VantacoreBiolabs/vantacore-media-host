@@ -5815,6 +5815,44 @@
       "published_at": "2026-11-07T04:01:56Z",
       "instagram_media_id": "18128532901846804",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "181",
+      "date": "2026-11-07",
+      "subject": "Difelikefalin: a synthetic D-amino-acid tetrapeptide KOR agonist whose hydrophilic chemistry limits passive brain penetration",
+      "category": "Individual peptide spotlight",
+      "format": "Single-image peptide mechanism spotlight",
+      "headline": "Difelikefalin—The Peripheral Kappa Signal",
+      "angle": "A beginner-friendly structural and receptor spotlight on difelikefalin as a water-soluble D-amino-acid tetrapeptide that activates kappa opioid receptors while limiting passive penetration into the brain.",
+      "teaching_points": [
+        "Difelikefalin is a synthetic tetrapeptide built from D-amino acids.",
+        "It activates kappa opioid receptors (KORs).",
+        "It is soluble in water.",
+        "Its hydrophilic, charged chemistry limits passive penetration into the brain."
+      ],
+      "limitation": "The relevance of KOR activation to its observed effects is not fully established, and peripherally restricted does not mean zero central exposure.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Difelikefalin",
+        "#PeptideResearch",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-07-0800-difelikefalin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-07-0800-difelikefalin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/111f042a102aba09736da45fa1da2e6266253a3f/posts/2026-11-07-0800-difelikefalin-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes difelikefalin as a synthetic peptide, identifies it as a kappa opioid receptor agonist, and states that it is soluble in water.",
+        "The labeled chemical name contains four D-amino-acid residues: D-phenylalanine, D-phenylalanine, D-leucine, and D-lysine.",
+        "The FDA multidisciplinary review describes difelikefalin as hydrophilic, highly polar, and charged at physiological pH, properties that minimize passive diffusion or active transport across membranes and restrict brain penetration.",
+        "Current DailyMed labeling states that the relevance of KOR activation to therapeutic effectiveness is not known."
+      ],
+      "published_at": "2026-11-07T16:05:57Z",
+      "instagram_media_id": "17979036755935008",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

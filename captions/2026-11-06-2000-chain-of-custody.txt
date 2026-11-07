@@ -1,0 +1,15 @@
+CHAIN OF CUSTODY: CAN YOU TRACE THE SAMPLE?
+
+A chain-of-custody record follows a sample from collection through transfer, storage, analysis, and final disposition.
+
+It records who handled the sample and when each handoff occurred.
+
+It can document storage conditions and whether custody seals remained intact.
+
+That history helps reviewers spot missing handoffs, mix-ups, or possible tampering concerns.
+
+Evidence limit: A complete custody log supports traceability, but it does not by itself prove sample identity or result accuracy.
+
+Which laboratory-quality term should we explain next? Follow @vantacorebiolabs for more plain-English research literacy.
+
+#VantacoreBiolabs #ChainOfCustody #SampleIntegrity #LabQuality #ResearchLiteracy

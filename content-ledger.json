@@ -5777,6 +5777,44 @@
       "published_at": "2026-11-06T23:59:19Z",
       "instagram_media_id": "18100168196559221",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "180",
+      "date": "2026-11-06",
+      "subject": "Chain of custody: the chronological record of who handled a sample, when it moved, and how its storage and seal condition were documented",
+      "category": "Research safety and quality literacy",
+      "format": "Single-image sample-traceability explainer",
+      "headline": "Chain of Custody—Can You Trace the Sample?",
+      "angle": "A beginner-friendly explanation of the chronological sample-handling record, including handlers, transfer times, storage conditions, custody seals, and the limits of paperwork alone.",
+      "teaching_points": [
+        "A chain-of-custody record follows a sample from collection through transfer, storage, analysis, and final disposition.",
+        "It records who handled the sample and when each handoff occurred.",
+        "It can document storage conditions and whether custody seals remained intact.",
+        "The history helps reviewers identify missing handoffs, mix-ups, or possible tampering concerns."
+      ],
+      "limitation": "A complete custody log supports traceability, but it does not by itself prove sample identity or result accuracy.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ChainOfCustody",
+        "#SampleIntegrity",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-06-2000-chain-of-custody.jpg"
+      ],
+      "caption_file": "captions/2026-11-06-2000-chain-of-custody.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/523395cb6b07534fb586189c32a7a794f9251dd2/posts/2026-11-06-2000-chain-of-custody.jpg",
+      "evidence": [
+        "EPA guidance describes chain of custody as an accurate written record tracing possession and handling from collection through analysis and evidence use.",
+        "EPA field-sampling guidance calls for handler names and signatures, collection information, and date and time for each transfer.",
+        "NIST defines chain of custody as a chronological record of transfer, handling, and storage from collection through final return or disposal.",
+        "EPA validation guidance recommends checking custody-seal condition and documenting shipping or receiving problems."
+      ],
+      "published_at": "2026-11-07T04:01:56Z",
+      "instagram_media_id": "18128532901846804",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

@@ -1,0 +1,15 @@
+A LAB RESULT HAS 3 RISK WINDOWS.
+
+Before the test (pre-analytical): collection, labeling, transport, and storage.
+
+During the test (analytical): sample preparation, measurement, and data review.
+
+After the test (post-analytical): verification, reporting, interpretation, and follow-up.
+
+Quality means checking the full process—not only the instrument.
+
+Evidence/limitation: These phase labels help organize risk, but they do not identify a root cause by themselves. Exact workflows and responsibilities vary by test and laboratory.
+
+Which phase would you like unpacked next? Follow @vantacorebiolabs for quick research-literacy explainers.
+
+#VantacoreBiolabs #LabQuality #ResearchLiteracy #DiagnosticScience #QualitySystems

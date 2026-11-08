@@ -6005,7 +6005,45 @@
       "published_at": "2026-11-08T16:07:08Z",
       "instagram_media_id": "18083867876364773",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "186",
+      "date": "2026-11-08",
+      "subject": "Pre-analytical, analytical, and post-analytical phases: three windows where laboratory testing errors can enter the process",
+      "category": "Beginner research and quality concept",
+      "format": "Single-image three-stage laboratory quality explainer",
+      "headline": "A Lab Result Has 3 Risk Windows",
+      "angle": "A beginner-friendly map of the testing process showing how risks can arise before measurement, during analysis, or after testing—and why quality review must cover the full workflow.",
+      "teaching_points": [
+        "The pre-analytical phase includes collection, labeling, transport, storage, and specimen receipt.",
+        "The analytical phase includes sample preparation, testing, data analysis, and laboratory review.",
+        "The post-analytical phase includes verification, reporting, interpretation, communication, and follow-up.",
+        "Quality management should evaluate the whole testing process, not only the instrument."
+      ],
+      "limitation": "Phase labels help organize risk, but they do not identify a root cause by themselves. Exact workflows and responsibilities vary by test and laboratory.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LabQuality",
+        "#ResearchLiteracy",
+        "#DiagnosticScience",
+        "#QualitySystems"
+      ],
+      "media": [
+        "posts/2026-11-08-1200-lab-errors-three-phases.jpg"
+      ],
+      "caption_file": "captions/2026-11-08-1200-lab-errors-three-phases.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/78442e8e14d8b8baecb16101026f1e494f7116a6/posts/2026-11-08-1200-lab-errors-three-phases.jpg",
+      "evidence": [
+        "CDC's Total Testing Process defines pre-analytic steps before testing, analytic steps during sample testing and data analysis, and post-analytic steps after testing including interpretation and follow-up.",
+        "CDC laboratory guidance identifies collection, labeling, storage, and transport as pre-analytic practices that can affect specimen quality and result accuracy.",
+        "CDC post-analytic guidance emphasizes result verification, accurate reporting, communication, and monitoring whether reports are received and interpreted correctly.",
+        "WHO laboratory quality guidance describes the same three-stage core process while noting that potential errors must be considered across every phase."
+      ],
+      "published_at": "2026-11-08T20:07:21Z",
+      "instagram_media_id": "18000583907827699",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-06T00:00:09Z"
+  "last_updated": "2026-11-08T20:07:21Z"
 }

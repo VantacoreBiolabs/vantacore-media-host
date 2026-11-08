@@ -5929,6 +5929,44 @@
       "published_at": "2026-11-08T00:07:16Z",
       "instagram_media_id": "18034788635913657",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "184",
+      "date": "2026-11-07",
+      "subject": "Protocol amendment versus protocol deviation: a planned documented change to the study plan compared with a departure from the approved protocol",
+      "category": "Easy A-vs-B research literacy comparison",
+      "format": "Single-image two-panel protocol comparison",
+      "headline": "Amendment vs Deviation",
+      "angle": "A beginner-friendly comparison separating a planned, documented protocol change from a departure from the approved study plan, with documentation, impact assessment, and urgent-hazard exceptions explained.",
+      "teaching_points": [
+        "A protocol amendment formally changes or clarifies the study protocol.",
+        "Significant amendments are usually reviewed before implementation.",
+        "A protocol deviation is a departure from the approved protocol.",
+        "Both should be documented and assessed for their effect on study conduct or interpretation."
+      ],
+      "limitation": "Exact definitions and reporting rules vary by study and regulator. Changes needed to reduce an immediate hazard may be handled differently under defined requirements.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ProtocolAmendment",
+        "#ProtocolDeviation",
+        "#ClinicalResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-07-2000-amendment-vs-deviation.jpg"
+      ],
+      "caption_file": "captions/2026-11-07-2000-amendment-vs-deviation.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/18dd95b1efc662625ba2608d9133c974d22d9818/posts/2026-11-07-2000-amendment-vs-deviation.jpg",
+      "evidence": [
+        "The NIH National Institute on Aging defines protocol amendments as written descriptions of changes or formal clarifications and protocol deviations as failures to conduct a study as described in the protocol.",
+        "FDA IND guidance says protocol changes are generally submitted as amendments before implementation and reviewed by the responsible IRB.",
+        "FDA draft guidance states that modifications implemented without prior approval are protocol deviations, while defined urgent hazard-reduction changes may be implemented before approval with subsequent notification.",
+        "FDA notes that its regulations do not contain a single protocol-deviation definition or classification system, supporting the limitation that exact reporting rules vary."
+      ],
+      "published_at": "2026-11-08T04:01:40Z",
+      "instagram_media_id": "17967860838210747",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

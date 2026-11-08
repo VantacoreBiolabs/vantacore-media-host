@@ -5891,6 +5891,44 @@
       "published_at": "2026-11-07T20:00:47Z",
       "instagram_media_id": "18079442546751832",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "183",
+      "date": "2026-11-07",
+      "subject": "Taltirelin: a synthetic TRH oligopeptide analog that activates the human TRH receptor and shows greater preclinical stability than natural TRH",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image peptide-receptor spotlight",
+      "headline": "Taltirelin—The Stable TRH Analog",
+      "angle": "A beginner-friendly spotlight on taltirelin's peptide-linked structure, relationship to thyrotropin-releasing hormone, TRH-receptor signaling, and greater stability reported in preclinical studies.",
+      "teaching_points": [
+        "Taltirelin is a synthetic oligopeptide joined by peptide linkages.",
+        "Its structure is modeled after thyrotropin-releasing hormone, or TRH.",
+        "It activates the human TRH receptor.",
+        "Preclinical studies reported greater stability than natural TRH."
+      ],
+      "limitation": "Much of the mechanistic and stability evidence comes from animal or model-cell studies, so findings depend on the experimental system.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Taltirelin",
+        "#PeptideResearch",
+        "#ReceptorScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-07-1600-taltirelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-07-1600-taltirelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/d073adee4019d9b230fb48d666043106392a2d5c/posts/2026-11-07-1600-taltirelin-spotlight.jpg",
+      "evidence": [
+        "PubChem describes taltirelin as an oligopeptide with peptide-linked components and identifies it as a thyrotropin-releasing hormone analog.",
+        "A primary pharmacology report describes taltirelin hydrate as a TRH peptide analog synthesized from aspartic acid and reports greater stability than TRH in blood and brain in mouse and rat studies.",
+        "A human TRH-receptor model-cell study found that taltirelin binds and signals through the human TRH receptor.",
+        "The receptor study and much of the stability evidence rely on model-cell or animal systems rather than direct whole-human mechanistic measurement."
+      ],
+      "published_at": "2026-11-08T00:07:16Z",
+      "instagram_media_id": "18034788635913657",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

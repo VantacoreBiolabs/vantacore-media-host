@@ -5967,6 +5967,44 @@
       "published_at": "2026-11-08T04:01:40Z",
       "instagram_media_id": "17967860838210747",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "185",
+      "date": "2026-11-08",
+      "subject": "ACTH 1–39: a pituitary-derived 39-amino-acid POMC peptide that activates the melanocortin 2 receptor and cAMP signaling",
+      "category": "Individual endogenous peptide spotlight",
+      "format": "Single-image peptide-receptor spotlight",
+      "headline": "ACTH 1–39—The 39-Amino-Acid Adrenal Signal",
+      "angle": "A beginner-friendly spotlight on full-length ACTH as a 39-amino-acid POMC-derived peptide, its MC2-receptor target, cAMP signaling, and its distinction from the shorter ACTH 1–24 fragment.",
+      "teaching_points": [
+        "ACTH 1–39 is a 39-amino-acid peptide produced by pituitary corticotroph cells.",
+        "It is processed from the larger proopiomelanocortin, or POMC, precursor.",
+        "It binds the melanocortin 2 receptor, or MC2R.",
+        "MC2R activation starts a cAMP-based signaling cascade."
+      ],
+      "limitation": "ACTH 1–39 and ACTH 1–24 share the core active region, but they are related molecules rather than identical forms.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ACTH",
+        "#PeptideResearch",
+        "#MC2Receptor",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-08-0800-acth-1-39-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-08-0800-acth-1-39-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a8afbe164a948cdad8733bfd146bc14ce33aea5f/posts/2026-11-08-0800-acth-1-39-spotlight.jpg",
+      "evidence": [
+        "NCBI Endotext describes ACTH as a 39-amino-acid peptide produced by anterior-pituitary corticotroph cells and processed from the POMC precursor.",
+        "Endotext and IUPHAR identify the melanocortin 2 receptor as ACTH's highly selective receptor.",
+        "Peer-reviewed MC2R literature describes ACTH-triggered intracellular cAMP signaling.",
+        "PubChem notes that the N-terminal 24-amino-acid segment contains adrenocorticotrophic activity, supporting the distinction between full-length ACTH 1–39 and the shorter ACTH 1–24 fragment."
+      ],
+      "published_at": "2026-11-08T16:07:08Z",
+      "instagram_media_id": "18083867876364773",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
   "last_updated": "2026-11-06T00:00:09Z"

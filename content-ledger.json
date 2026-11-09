@@ -6157,7 +6157,47 @@
       "published_at": "2026-11-09T16:03:46Z",
       "instagram_media_id": "17980928796135195",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "190",
+      "date": "2026-11-09",
+      "subject": "Peptide sequence versus three-dimensional shape: amino-acid order compared with folding, rings, disulfide bridges, and molecular fit",
+      "category": "Beginner peptide concept / research literacy",
+      "format": "Three-slide educational carousel",
+      "headline": "Sequence ≠ Shape",
+      "angle": "A beginner-friendly carousel separating a peptide's amino-acid order from its three-dimensional arrangement and explaining why folds, rings, and disulfide bridges influence molecular interactions.",
+      "teaching_points": [
+        "Sequence is the specific linear order of amino acids in a peptide chain.",
+        "Changing amino-acid order changes the molecular sequence even if the same residue types are used.",
+        "Folding, cyclic bonds, and disulfide bridges help create three-dimensional structure.",
+        "Three-dimensional shape influences how a peptide interacts with receptors and other molecules."
+      ],
+      "limitation": "Sequence strongly guides structure, but environment, chemical modifications, and experimental conditions also matter. Sequence alone does not fully predict behavior.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideBasics",
+        "#MolecularStructure",
+        "#ResearchLiteracy",
+        "#Biochemistry"
+      ],
+      "media": [
+        "posts/2026-11-09-1200-sequence-vs-shape-01.jpg",
+        "posts/2026-11-09-1200-sequence-vs-shape-02.jpg",
+        "posts/2026-11-09-1200-sequence-vs-shape-03.jpg"
+      ],
+      "caption_file": "captions/2026-11-09-1200-sequence-vs-shape-carousel.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/6648be2d523407fa575f1cc34fcb3e14edc70410/posts/2026-11-09-1200-sequence-vs-shape-01.jpg",
+      "evidence": [
+        "NCBI Bookshelf defines primary structure as the linear amino-acid sequence of a polypeptide chain.",
+        "NCBI explains that amino-acid sequence guides three-dimensional conformation and that shape influences molecular function.",
+        "NCBI describes disulfide bridges as covalent links formed between two cysteine side chains.",
+        "FDA quality guidance treats sequence, peptide mapping, and disulfide-bridge characterization as distinct but complementary structural checks."
+      ],
+      "published_at": "2026-11-09T20:07:51Z",
+      "instagram_media_id": "18029512310916222",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-09T16:03:46Z"
+  "last_updated": "2026-11-09T20:07:51Z"
 }

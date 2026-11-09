@@ -6043,7 +6043,45 @@
       "published_at": "2026-11-08T20:07:21Z",
       "instagram_media_id": "18000583907827699",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "187",
+      "date": "2026-11-08",
+      "subject": "Cetrorelix: a synthetic GnRH decapeptide analog that competitively antagonizes pituitary GnRH receptors",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image peptide-receptor mechanism spotlight",
+      "headline": "Cetrorelix—The GnRH Receptor Blocker",
+      "angle": "A beginner-friendly spotlight on cetrorelix as a ten-position synthetic peptide analog that competes with natural GnRH at pituitary receptors and reduces downstream LH and FSH release without an initial stimulatory signal.",
+      "teaching_points": [
+        "Cetrorelix is a synthetic decapeptide with ten amino-acid positions.",
+        "It is an analog of natural GnRH with substitutions at five positions.",
+        "It competes with natural GnRH for receptors on pituitary cells.",
+        "As a receptor antagonist, it reduces downstream LH and FSH release without first switching the receptor on."
+      ],
+      "limitation": "The receptor mechanism is well characterized, but mechanism alone does not predict every individual response or settle all safety questions.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Cetrorelix",
+        "#PeptideResearch",
+        "#GnRH",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-08-1600-cetrorelix-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-08-1600-cetrorelix-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/8c9462a2481f6c2915f51a0a789f697b17802f89/posts/2026-11-08-1600-cetrorelix-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes cetrorelix acetate as a synthetic decapeptide with GnRH-antagonist activity.",
+        "DailyMed identifies cetrorelix as a native-GnRH analog with amino-acid substitutions at positions 1, 2, 3, 6, and 10.",
+        "DailyMed states that cetrorelix competes with natural GnRH for pituitary-cell membrane receptors and controls LH and FSH release.",
+        "DailyMed reports no initial endogenous-gonadotropin release, consistent with antagonist action; IUPHAR classifies cetrorelix as a peptide GnRH-receptor antagonist."
+      ],
+      "published_at": "2026-11-09T00:04:41Z",
+      "instagram_media_id": "17908817256664517",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-08T20:07:21Z"
+  "last_updated": "2026-11-09T00:04:41Z"
 }

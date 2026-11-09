@@ -1,0 +1,15 @@
+BLANK vs KNOWN CONTROL: NOT THE SAME CHECK.
+
+BLANK
+• Designed without the target being measured.
+• Looks for unwanted background signal or contamination.
+
+KNOWN CONTROL
+• Contains a verified amount or expected result.
+• Checks whether the measurement process performs as expected.
+
+Evidence/limitation: A blank is itself one type of control. Exact blank types, control materials, and acceptance rules depend on the method.
+
+Which quality check should we explain next? Follow @vantacorebiolabs for fast research-literacy basics.
+
+#VantacoreBiolabs #LabQuality #QualityControl #ResearchLiteracy #AnalyticalScience

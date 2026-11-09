@@ -1,0 +1,15 @@
+SEQUENCE ≠ SHAPE.
+
+• Sequence is the specific order of amino acids in a peptide chain.
+
+• Even the same amino-acid types can form a different molecule when their order changes.
+
+• Folding, cyclic bonds, and disulfide bridges help create three-dimensional structure.
+
+• Shape influences how a peptide interacts with receptors and other molecules.
+
+Evidence/limitation: Sequence strongly guides structure, but environment, chemical modifications, and experimental conditions also matter. Sequence alone does not fully predict behavior.
+
+Which beginner peptide concept should we unpack next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #PeptideBasics #MolecularStructure #ResearchLiteracy #Biochemistry

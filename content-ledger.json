@@ -6081,7 +6081,45 @@
       "published_at": "2026-11-09T00:04:41Z",
       "instagram_media_id": "17908817256664517",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "188",
+      "date": "2026-11-08",
+      "subject": "Blank versus laboratory control sample: detecting unwanted background compared with checking a known expected signal",
+      "category": "Easy A-vs-B research and quality literacy comparison",
+      "format": "Single-image two-panel laboratory quality comparison",
+      "headline": "Blank vs Known Control—Not the Same Check",
+      "angle": "A beginner-friendly comparison showing that a blank is designed without the target to reveal contamination or background, while a known laboratory control contains a verified target amount or expected result to assess measurement-system performance.",
+      "teaching_points": [
+        "A blank is designed without the target being measured.",
+        "Blank results help reveal unwanted background signal or contamination.",
+        "A laboratory control sample contains a verified amount or known expected result.",
+        "Known controls help assess whether the measurement process performs as expected."
+      ],
+      "limitation": "A blank is itself one type of control. Exact blank types, control materials, and acceptance rules depend on the analytical method.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LabQuality",
+        "#QualityControl",
+        "#ResearchLiteracy",
+        "#AnalyticalScience"
+      ],
+      "media": [
+        "posts/2026-11-08-2000-blank-vs-control.jpg"
+      ],
+      "caption_file": "captions/2026-11-08-2000-blank-vs-control.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/3b1ec50c6c14f512411fe52540b98a7df86e18ba/posts/2026-11-08-2000-blank-vs-control.jpg",
+      "evidence": [
+        "NIST defines a blank as a control in which a specified component is not present and notes that some blanks may also serve as negative controls.",
+        "EPA defines a method blank as analyte-free material processed through the analytical procedure to detect contamination or background interference.",
+        "EPA defines a laboratory control sample as material containing verified known analyte amounts and used to assess precision, bias, or measurement-system performance.",
+        "CDC describes no-template blank controls as target-free materials used to detect reagent contamination or background signal."
+      ],
+      "published_at": "2026-11-09T04:06:24Z",
+      "instagram_media_id": "18090526385275939",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-09T00:04:41Z"
+  "last_updated": "2026-11-09T04:06:24Z"
 }

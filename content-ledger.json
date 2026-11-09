@@ -6119,7 +6119,45 @@
       "published_at": "2026-11-09T04:06:24Z",
       "instagram_media_id": "18090526385275939",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "189",
+      "date": "2026-11-09",
+      "subject": "Vapreotide: a synthetic cyclic octapeptide somatostatin analog with a disulfide-closed ring and predominant SSTR2/SSTR5 agonist activity",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image cyclic-peptide and receptor spotlight",
+      "headline": "Vapreotide—The 8-Part Signal Ring",
+      "angle": "A beginner-friendly structural and receptor spotlight on vapreotide as an eight-position cyclic somatostatin analog, its disulfide bridge, and its predominant agonist activity at SSTR2 and SSTR5.",
+      "teaching_points": [
+        "Vapreotide is a synthetic cyclic octapeptide with eight linked amino-acid positions.",
+        "It is an analog of the natural signaling peptide somatostatin.",
+        "A disulfide bond between two cysteine residues helps close its peptide ring.",
+        "IUPHAR reports agonist activity mainly at human SSTR2 and SSTR5, with activity also reported at SSTR3."
+      ],
+      "limitation": "Receptor activity can vary by subtype, species, and assay. A receptor profile alone does not establish benefit or safety in every context.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Vapreotide",
+        "#PeptideResearch",
+        "#Somatostatin",
+        "#ReceptorScience"
+      ],
+      "media": [
+        "posts/2026-11-09-0800-vapreotide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-09-0800-vapreotide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b72ec682947f2043fe60c0ffb7d80786eea50c6f/posts/2026-11-09-0800-vapreotide-spotlight.jpg",
+      "evidence": [
+        "IUPHAR identifies vapreotide as a peptide and a synthetic cyclic octapeptide analog of somatostatin.",
+        "PubChem provides the eight-residue sequence and describes the peptide as cyclic through a disulfide linkage between its two cysteine residues.",
+        "IUPHAR reports vapreotide as predominantly an agonist at human somatostatin receptors SSTR2 and SSTR5.",
+        "IUPHAR also reports SSTR3 agonist activity and activity ranges that vary by receptor subtype and species, supporting the stated limitation."
+      ],
+      "published_at": "2026-11-09T16:03:46Z",
+      "instagram_media_id": "17980928796135195",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-09T04:06:24Z"
+  "last_updated": "2026-11-09T16:03:46Z"
 }

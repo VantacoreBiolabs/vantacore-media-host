@@ -1,0 +1,15 @@
+CETRORELIX: A GnRH RECEPTOR ANTAGONIST.
+
+• It is a synthetic decapeptide—ten amino-acid positions linked in one chain.
+
+• It is an analog of natural gonadotropin-releasing hormone (GnRH), with substitutions at five positions.
+
+• It competes with natural GnRH for receptors on pituitary cells.
+
+• As an antagonist, it reduces downstream LH and FSH release without first switching the receptor on.
+
+Evidence/limitation: DailyMed and IUPHAR describe this peptide-receptor mechanism. A known mechanism does not, by itself, predict every response or settle all safety questions.
+
+Want a quick agonist-vs-antagonist explainer next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #Cetrorelix #PeptideResearch #GnRH #ResearchLiteracy

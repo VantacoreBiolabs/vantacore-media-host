@@ -1,0 +1,15 @@
+C-TERMINAL AMIDATION: A SMALL END CHANGE WITH A BIG POSSIBLE EFFECT.
+
+• Amidation converts a peptide’s C-terminal carboxyl group into an amide.
+
+• This often removes the negative charge normally carried at that end.
+
+• In cells, many amidated peptides are made from glycine-extended precursors by the PAM enzyme.
+
+• The modification can influence peptide stability and receptor interaction.
+
+Evidence/limitation: Amidation matters for many natural peptides, but its effect is peptide-specific. It does not automatically improve every peptide or establish benefit or safety.
+
+Which peptide modification should we simplify next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #PeptideBasics #PeptideChemistry #MolecularScience #ResearchLiteracy

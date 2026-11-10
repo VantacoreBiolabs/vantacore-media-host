@@ -1,0 +1,15 @@
+CALIBRATOR VS CONTROL: THEY DO DIFFERENT JOBS.
+
+• A calibrator has a known or assigned value used to set the relationship between instrument signal and measurement.
+
+• A control has an expected result or range and is tested like a sample.
+
+• Controls help reveal test-system errors, shifts, or performance problems.
+
+• Calibration sets the scale; control results check whether the testing run stays within its rules.
+
+Evidence/limitation: Exact materials, frequencies, and acceptance limits depend on the method. A material generally should not serve as both calibrator and control in the same measurement procedure.
+
+Which laboratory-quality term should we simplify next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #LabQuality #ResearchLiteracy #QualityControl #AnalyticalScience

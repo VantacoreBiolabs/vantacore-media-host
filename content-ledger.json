@@ -6273,7 +6273,45 @@
       "published_at": "2026-11-10T04:07:38Z",
       "instagram_media_id": "18132260971773155",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "193",
+      "date": "2026-11-10",
+      "subject": "Dulaglutide: a dimeric GLP-1 receptor agonist fusion protein with two identical disulfide-linked chains, each joining a modified GLP-1 analog to a modified human IgG4 Fc region",
+      "category": "Individual engineered peptide compound spotlight",
+      "format": "Single-image peptide-fusion structure spotlight",
+      "headline": "Dulaglutide—A Two-Chain GLP-1 Fusion",
+      "angle": "A beginner-friendly structural spotlight explaining that dulaglutide is built from two identical disulfide-linked chains and that each chain connects a modified GLP-1 analog to a modified IgG4 Fc region through a peptide linker.",
+      "teaching_points": [
+        "Dulaglutide is a GLP-1 receptor agonist built as a fusion protein.",
+        "It contains two identical chains joined by disulfide bonds.",
+        "Each chain carries a modified GLP-1 analog sequence.",
+        "A small peptide linker connects the GLP-1 analog to a modified human IgG4 Fc region."
+      ],
+      "limitation": "Current regulatory labeling clearly describes this molecular design and GLP-1-receptor activity, but structure alone does not predict every individual outcome or safety consideration.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Dulaglutide",
+        "#GLP1Science",
+        "#PeptideEducation",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-10-0800-dulaglutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-10-0800-dulaglutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/6f537ceea5f924e6aa5f7cc40a88acf7ca68461a/posts/2026-11-10-0800-dulaglutide-spotlight.jpg",
+      "evidence": [
+        "Current FDA labeling identifies dulaglutide as a human GLP-1 receptor agonist and a fusion protein.",
+        "FDA labeling describes two identical chains linked by disulfide bonds.",
+        "Each chain contains an N-terminal GLP-1 analog sequence connected by a small peptide linker to a modified human IgG4 Fc heavy-chain region.",
+        "IUPHAR independently describes the GLP-1 analog segment, peptide linker, modified IgG4 Fc segment, and inter-chain disulfide bonds."
+      ],
+      "published_at": "2026-11-10T16:07:10Z",
+      "instagram_media_id": "18110121143243215",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-10T04:07:38Z"
+  "last_updated": "2026-11-10T16:07:10Z"
 }

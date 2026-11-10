@@ -6197,7 +6197,45 @@
       "published_at": "2026-11-09T20:07:51Z",
       "instagram_media_id": "18029512310916222",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "191",
+      "date": "2026-11-09",
+      "subject": "Zilucoplan: a synthetic 15-amino-acid macrocyclic peptide that binds complement C5 and blocks terminal-complement-pathway activation",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image peptide and complement-pathway spotlight",
+      "headline": "Zilucoplan—15 Amino Acids, One C5 Target",
+      "angle": "A beginner-friendly structural and mechanism spotlight showing zilucoplan as a 15-amino-acid macrocyclic peptide that binds complement protein C5, blocks its cleavage into C5a and C5b, and limits downstream C5b-9 complex formation.",
+      "teaching_points": [
+        "Zilucoplan is a synthetic macrocyclic peptide made from 15 amino acids.",
+        "It binds to complement protein C5.",
+        "That binding blocks C5 from being split into C5a and C5b.",
+        "This limits formation of the downstream C5b-9 terminal complement complex."
+      ],
+      "limitation": "The molecular mechanism is supported by current regulatory labeling and laboratory studies, but knowing a target does not predict every clinical outcome or safety consideration.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Zilucoplan",
+        "#PeptideScience",
+        "#ComplementSystem",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-09-1600-zilucoplan-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-09-1600-zilucoplan-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c260b16f6a13571f621ed185d11840a4f622140d/posts/2026-11-09-1600-zilucoplan-spotlight.jpg",
+      "evidence": [
+        "Current FDA labeling describes zilucoplan as a synthetic, 15-amino-acid macrocyclic peptide.",
+        "FDA labeling states that zilucoplan binds complement C5 and inhibits its cleavage to C5a and C5b.",
+        "FDA labeling states that blocking C5 cleavage prevents generation of the terminal complement complex C5b-9.",
+        "Peer-reviewed in-vitro and ex-vivo studies report direct C5 binding and inhibition of both C5 cleavage and membrane-attack-complex assembly."
+      ],
+      "published_at": "2026-11-10T00:06:12Z",
+      "instagram_media_id": "18080130113733814",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-09T20:07:51Z"
+  "last_updated": "2026-11-10T00:06:12Z"
 }

@@ -6311,7 +6311,45 @@
       "published_at": "2026-11-10T16:07:10Z",
       "instagram_media_id": "18110121143243215",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "194",
+      "date": "2026-11-10",
+      "subject": "C-terminal amidation: conversion of a peptide's terminal carboxyl group to an amide and its peptide-specific effects on charge, stability, and receptor interaction",
+      "category": "Beginner peptide chemistry concept",
+      "format": "Single-image terminal-modification explainer",
+      "headline": "C-Terminal Amidation—Same Chain, Different End",
+      "angle": "A beginner-friendly explanation of C-terminal amidation as an end-group change that can neutralize terminal charge and influence peptide stability and receptor interaction, while emphasizing that effects depend on the individual peptide.",
+      "teaching_points": [
+        "Amidation converts a peptide's C-terminal carboxyl group into an amide.",
+        "This modification often neutralizes the negative charge normally carried at that end.",
+        "In cells, many amidated peptides are made from glycine-extended precursors by peptidylglycine alpha-amidating monooxygenase (PAM).",
+        "C-terminal amidation can influence peptide stability and receptor interaction."
+      ],
+      "limitation": "Amidation matters for many natural peptides, but its effect is peptide-specific. It does not automatically improve every peptide or establish benefit or safety.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideBasics",
+        "#PeptideChemistry",
+        "#MolecularScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-10-1200-c-terminal-amidation.jpg"
+      ],
+      "caption_file": "captions/2026-11-10-1200-c-terminal-amidation.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/7f368b138c9f913799e251923b2a1d83018fa3df/posts/2026-11-10-1200-c-terminal-amidation.jpg",
+      "evidence": [
+        "NCBI Bookshelf describes C-terminal amidation as a common peptide modification and explains that glycine supplies the amide nitrogen through PAM-dependent processing.",
+        "Peer-reviewed reviews describe amidation as conversion of the terminal carboxyl group to an amide and report that it can change charge, stability, and receptor interaction.",
+        "Many amidated peptides are produced from glycine-extended precursors through the two-step PAM pathway.",
+        "The effect is peptide-specific, so amidation alone does not establish improved performance, benefit, or safety."
+      ],
+      "published_at": "2026-11-10T20:01:45Z",
+      "instagram_media_id": "18066689132537226",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-10T16:07:10Z"
+  "last_updated": "2026-11-10T20:01:45Z"
 }

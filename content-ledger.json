@@ -6235,7 +6235,45 @@
       "published_at": "2026-11-10T00:06:12Z",
       "instagram_media_id": "18080130113733814",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "192",
+      "date": "2026-11-09",
+      "subject": "Calibrator versus control material: setting a measurement system's response compared with checking whether the analytical run performs within expected limits",
+      "category": "Easy A-vs-B research and quality literacy comparison",
+      "format": "Single-image two-panel laboratory quality comparison",
+      "headline": "Calibrator vs Control—One Sets the Scale, One Checks the Run",
+      "angle": "A beginner-friendly comparison showing that a calibrator with a known or assigned value establishes the signal-to-measurement relationship, while a separate control with an expected result or range monitors ongoing run performance.",
+      "teaching_points": [
+        "A calibrator has a known or assigned value used to set the relationship between instrument signal and measurement.",
+        "A control has an expected result or range and is tested like a sample.",
+        "Controls help reveal test-system errors, shifts, or performance problems.",
+        "Calibration sets the scale; control results check whether the testing run stays within its acceptance rules."
+      ],
+      "limitation": "Exact materials, testing frequencies, and acceptance limits depend on the method. A material generally should not serve as both calibrator and control in the same measurement procedure.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LabQuality",
+        "#ResearchLiteracy",
+        "#QualityControl",
+        "#AnalyticalScience"
+      ],
+      "media": [
+        "posts/2026-11-09-2000-calibrator-vs-control.jpg"
+      ],
+      "caption_file": "captions/2026-11-09-2000-calibrator-vs-control.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/01a54efa851e746c899f6beaac8d2b00fc9d0e76/posts/2026-11-09-2000-calibrator-vs-control.jpg",
+      "evidence": [
+        "CDC laboratory-quality guidance defines calibrators as solutions with specified concentrations used to set an instrument, kit, or test system.",
+        "CDC defines control materials as substances with established analyte amounts tested in the same manner as samples to evaluate test-system reliability.",
+        "CDC guidance states that controls can reveal test-system, operator, and environmental problems and warns against confusing calibrators with controls.",
+        "NIST states that one reference material cannot be used for both calibration and validation of results in the same measurement procedure."
+      ],
+      "published_at": "2026-11-10T04:07:38Z",
+      "instagram_media_id": "18132260971773155",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-10T00:06:12Z"
+  "last_updated": "2026-11-10T04:07:38Z"
 }

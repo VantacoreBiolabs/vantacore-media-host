@@ -6349,7 +6349,45 @@
       "published_at": "2026-11-10T20:01:45Z",
       "instagram_media_id": "18066689132537226",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "195",
+      "date": "2026-11-10",
+      "subject": "Thymopentin: a synthetic five-amino-acid peptide matching residues 32–36 of thymopoietin, with foundational studies of T-cell differentiation and intracellular cGMP signaling",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image short-peptide structure spotlight",
+      "headline": "Thymopentin—Five Amino Acids, One Active Fragment",
+      "angle": "A beginner-friendly structural spotlight showing thymopentin as the five-residue RKDVY fragment of thymopoietin and separating its well-documented sequence from the limits of older biological evidence.",
+      "teaching_points": [
+        "Thymopentin is a synthetic pentapeptide containing five amino acids.",
+        "Its sequence is Arg-Lys-Asp-Val-Tyr, abbreviated RKDVY.",
+        "The sequence matches amino-acid positions 32–36 of thymopoietin.",
+        "Foundational laboratory studies examined T-cell differentiation and intracellular cGMP signaling."
+      ],
+      "limitation": "Thymopentin's sequence and origin are well documented, but much of the foundational biological evidence is older and preclinical. Structure and laboratory activity do not establish broad clinical benefit or safety.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Thymopentin",
+        "#PeptideResearch",
+        "#ImmuneScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-10-1600-thymopentin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-10-1600-thymopentin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/14435ba51a3ba3daba38f238f0b4783a6809834a/posts/2026-11-10-1600-thymopentin-spotlight.jpg",
+      "evidence": [
+        "PubChem lists thymopentin as the oligopeptide H-Arg-Lys-Asp-Val-Tyr-OH with sequence RKDVY.",
+        "The original Science report describes the synthetic pentapeptide Arg-Lys-Asp-Val-Tyr as corresponding to residues 32–36 of thymopoietin.",
+        "A peer-reviewed structural study likewise identifies thymopentin as the synthetic RKDVY pentapeptide and reports laboratory cGMP-signaling assays.",
+        "The foundational biological literature is largely older and includes preclinical systems, supporting the stated evidence limitation."
+      ],
+      "published_at": "2026-11-11T00:07:00Z",
+      "instagram_media_id": "18029431349704063",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-10T20:01:45Z"
+  "last_updated": "2026-11-11T00:07:00Z"
 }

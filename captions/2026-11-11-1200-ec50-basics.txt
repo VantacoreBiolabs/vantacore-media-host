@@ -1,0 +1,15 @@
+EC₅₀: THE MIDPOINT OF A RESPONSE CURVE.
+
+• EC₅₀ means the concentration that produces a response halfway between an assay’s baseline and that compound’s maximum response.
+
+• It is a concentration—not an administered dose.
+
+• A lower EC₅₀ usually indicates greater apparent potency, but only when results come from comparable assay conditions.
+
+• EC₅₀ describes potency, not efficacy. The maximum response is described separately by Emax.
+
+Evidence/limitation: EC₅₀ depends on the biological system, receptor expression, concentration range, controls, and curve-fitting method. It is not a universal constant or a prediction of human outcomes.
+
+Which research term should we decode next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #EC50 #PeptideResearch #DoseResponse #ResearchLiteracy

@@ -6425,7 +6425,45 @@
       "published_at": "2026-11-11T04:06:16Z",
       "instagram_media_id": "18077823476470537",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "197",
+      "date": "2026-11-11",
+      "subject": "Spexin: a 14-amino-acid endogenous signaling peptide processed from the SPX precursor and identified as an agonist at galanin receptors GALR2 and GALR3",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence and receptor spotlight",
+      "headline": "Spexin—14 Amino Acids, Two Galanin Receptors",
+      "angle": "A beginner-friendly introduction to spexin through its compact sequence, precursor origin, and experimentally established GALR2/GALR3 receptor profile without extending receptor findings into human benefit claims.",
+      "teaching_points": [
+        "Spexin is an endogenous signaling peptide made from 14 amino acids.",
+        "Its sequence is Asn-Trp-Thr-Pro-Gln-Ala-Met-Leu-Tyr-Leu-Lys-Gly-Ala-Gln, abbreviated NWTPQAMLYLKGAQ-NH2.",
+        "Cells produce spexin by processing a larger precursor encoded by the SPX gene.",
+        "Laboratory studies identify spexin as an agonist at galanin receptors GALR2 and GALR3."
+      ],
+      "limitation": "Spexin's sequence and receptor activity are well documented, but most functional evidence is preclinical. Receptor signaling does not establish broad human benefit or safety.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Spexin",
+        "#PeptideResearch",
+        "#GalaninReceptors",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-11-0800-spexin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-11-0800-spexin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/9777de478775821d34055d43b11c760f8d91eb7b/posts/2026-11-11-0800-spexin-spotlight.jpg",
+      "evidence": [
+        "IUPHAR/BPS Guide to Pharmacology identifies human spexin-1 as an endogenous peptide cleaved from a 116-amino-acid precursor and lists GALR2 and GALR3 as its natural targets.",
+        "PubChem records the amidated 14-residue sequence H-Asn-Trp-Thr-Pro-Gln-Ala-Met-Leu-Tyr-Leu-Lys-Gly-Ala-Gln-NH2, abbreviated NWTPQAMLYLKGAQ.",
+        "Kim et al. (Endocrinology, 2014; PMID 24517231) reported that spexin activates human GALR2 and GALR3 but not GALR1 in receptor assays.",
+        "Most reported functional effects remain based on cell or animal research, supporting the stated preclinical limitation."
+      ],
+      "published_at": "2026-11-11T16:09:59Z",
+      "instagram_media_id": "18100517672453959",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-11T04:06:16Z"
+  "last_updated": "2026-11-11T16:09:59Z"
 }

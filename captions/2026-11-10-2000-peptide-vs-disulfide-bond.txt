@@ -1,0 +1,15 @@
+PEPTIDE BOND vs DISULFIDE BOND: ONE BUILDS THE CHAIN. ONE HELPS LOCK THE SHAPE.
+
+• A peptide bond connects the carboxyl group of one amino acid to the amino group of the next.
+
+• Repeating peptide bonds create the chain’s continuous backbone.
+
+• A disulfide bond forms between the sulfur atoms of two cysteine side chains.
+
+• That covalent bridge can link two regions of one chain or connect two separate chains.
+
+Evidence/limitation: Not every peptide contains a disulfide bond. These bonds can strongly influence structure, but sequence, environment, and other molecular interactions also help determine the final three-dimensional shape.
+
+Which peptide-chemistry comparison should we simplify next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #PeptideBasics #PeptideChemistry #DisulfideBond #MolecularStructure

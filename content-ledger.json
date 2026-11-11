@@ -6463,7 +6463,45 @@
       "published_at": "2026-11-11T16:09:59Z",
       "instagram_media_id": "18100517672453959",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "198",
+      "date": "2026-11-11",
+      "subject": "EC50 basics: the concentration producing a response halfway between an assay's baseline and a compound's maximum response, interpreted as an assay-dependent measure of apparent potency rather than efficacy or dose",
+      "category": "Beginner peptide pharmacology and research-literacy concept",
+      "format": "Single-image concentration-response curve explainer",
+      "headline": "EC50—Half-Max Response, Not Half the Dose",
+      "angle": "A beginner-friendly explanation of EC50 as the midpoint of a fitted concentration-response curve, distinguishing concentration from administered dose and potency from maximum effect.",
+      "teaching_points": [
+        "EC50 is the concentration that produces a response halfway between an assay's baseline and that compound's maximum response.",
+        "EC50 is a concentration, not an administered dose.",
+        "A lower EC50 usually indicates greater apparent potency only when results come from comparable assay conditions.",
+        "EC50 describes potency rather than efficacy; the maximum response is represented separately by Emax."
+      ],
+      "limitation": "EC50 depends on the biological system, receptor expression, concentration range, controls, and curve-fitting method. It is not a universal constant or a prediction of human outcomes.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#EC50",
+        "#PeptideResearch",
+        "#DoseResponse",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-11-1200-ec50-basics.jpg"
+      ],
+      "caption_file": "captions/2026-11-11-1200-ec50-basics.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/81756e3a4a5af3a294c4da178ad9ca5aca490e6a/posts/2026-11-11-1200-ec50-basics.jpg",
+      "evidence": [
+        "NCBI Assay Guidance defines EC50 for agonist or stimulator assays as the concentration giving 50% of that compound's maximal response.",
+        "The NCBI quantitative-biology glossary defines relative EC50 as the molar concentration stimulating 50% of the fitted curve between top and bottom.",
+        "GraphPad's curve-fitting guidance distinguishes EC50 from a raw response value of 50 and cautions that it is not a direct measure of receptor affinity.",
+        "NCBI assay guidance documents that receptor density and other assay-system factors can affect observed potency and efficacy measurements."
+      ],
+      "published_at": "2026-11-11T20:06:32Z",
+      "instagram_media_id": "17979352529929462",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-11T16:09:59Z"
+  "last_updated": "2026-11-11T20:06:32Z"
 }

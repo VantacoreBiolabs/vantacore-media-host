@@ -6501,7 +6501,45 @@
       "published_at": "2026-11-11T20:06:32Z",
       "instagram_media_id": "17979352529929462",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "199",
+      "date": "2026-11-11",
+      "subject": "Plecanatide: a synthetic 16-amino-acid uroguanylin analog constrained by two disulfide bridges and acting as an agonist at the guanylate cyclase-C receptor",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, disulfide, and receptor spotlight",
+      "headline": "Plecanatide—16 Amino Acids, Two Disulfide Bridges",
+      "angle": "A beginner-friendly structure-first introduction to plecanatide through its 16-residue sequence, defined Cys4-Cys12 and Cys7-Cys15 disulfide pattern, uroguanylin relationship, and GC-C receptor target.",
+      "teaching_points": [
+        "Plecanatide is a synthetic 16-amino-acid peptide.",
+        "Its sequence is Asn-Asp-Glu-Cys-Glu-Leu-Cys-Val-Asn-Val-Ala-Cys-Thr-Gly-Cys-Leu, abbreviated NDECELCVNVACTGCL.",
+        "Two disulfide bridges connect Cys4 to Cys12 and Cys7 to Cys15, helping constrain the peptide's shape.",
+        "Plecanatide is a structural analog of human uroguanylin and acts as an agonist at guanylate cyclase-C, also called GC-C."
+      ],
+      "limitation": "Plecanatide's sequence, disulfide pattern, and receptor target are well documented. A receptor mechanism alone does not describe every biological outcome or safety consideration.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Plecanatide",
+        "#PeptideResearch",
+        "#DisulfideBridges",
+        "#GCCReceptor"
+      ],
+      "media": [
+        "posts/2026-11-11-1600-plecanatide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-11-1600-plecanatide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c43395befdd6b882436cbfb2e0c58d8f9c831ef5/posts/2026-11-11-1600-plecanatide-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes plecanatide as a 16-amino-acid peptide and a guanylate cyclase-C agonist structurally analogous to human uroguanylin.",
+        "PubChem records the sequence NDECELCVNVACTGCL and the Cys4-Cys12 and Cys7-Cys15 disulfide connectivity.",
+        "IUPHAR/BPS Guide to Pharmacology independently identifies the same 16-residue sequence, two disulfide bonds, uroguanylin-analog relationship, and GC-C target.",
+        "The FDA pharmacology review lists the full 16-residue sequence, supporting the structure-first educational summary."
+      ],
+      "published_at": "2026-11-12T00:05:44Z",
+      "instagram_media_id": "17997205047107126",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-11T20:06:32Z"
+  "last_updated": "2026-11-12T00:05:44Z"
 }

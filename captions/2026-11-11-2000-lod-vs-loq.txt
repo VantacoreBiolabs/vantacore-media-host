@@ -1,0 +1,15 @@
+LOD vs LOQ: DETECT IT vs MEASURE IT.
+
+• LOD—the limit of detection—is the lowest level where an analytical signal can be reliably distinguished from background noise.
+
+• LOQ—the limit of quantitation—is the lowest level that can be measured with suitable accuracy and precision.
+
+• LOD is usually lower than LOQ. A method may detect that something is present before it can report the amount reliably.
+
+• Both limits belong to a specific analytical procedure, not to the analyte alone.
+
+Evidence/limitation: LOD and LOQ can change with the method, instrument, calibration model, sample matrix, and validation approach. “Not detected” does not necessarily mean “not present.”
+
+Which laboratory term should we simplify next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #LODvsLOQ #AnalyticalScience #LabQuality #ResearchLiteracy

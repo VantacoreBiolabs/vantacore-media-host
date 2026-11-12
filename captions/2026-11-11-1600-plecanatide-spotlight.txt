@@ -1,0 +1,15 @@
+PLECANATIDE: 16 AMINO ACIDS, TWO DISULFIDE BRIDGES.
+
+• Plecanatide is a synthetic 16-amino-acid peptide.
+
+• Its sequence is Asn-Asp-Glu-Cys-Glu-Leu-Cys-Val-Asn-Val-Ala-Cys-Thr-Gly-Cys-Leu, abbreviated NDECELCVNVACTGCL.
+
+• Two disulfide bridges connect Cys4 to Cys12 and Cys7 to Cys15, helping constrain the peptide’s shape.
+
+• It is a structural analog of human uroguanylin and acts as an agonist at the guanylate cyclase-C receptor, also called GC-C.
+
+Evidence/limitation: Plecanatide’s sequence, disulfide pattern, and receptor target are well documented. A receptor mechanism alone does not describe every biological outcome or safety consideration.
+
+Which compact peptide structure should we map next? Follow @vantacorebiolabs.
+
+#VantacoreBiolabs #Plecanatide #PeptideResearch #DisulfideBridges #GCCReceptor

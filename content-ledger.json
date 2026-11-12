@@ -6577,7 +6577,45 @@
       "published_at": "2026-11-12T04:03:06Z",
       "instagram_media_id": "17916048867490947",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "201",
+      "date": "2026-11-12",
+      "subject": "Ziconotide peptide structure: 25-amino-acid sequence, three disulfide bridges, omega-conotoxin MVIIA origin, and CaV2.2 N-type calcium-channel blockade",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, disulfide-bridge, and channel-target spotlight",
+      "headline": "Ziconotide—25 Amino Acids, Three Disulfide Bridges",
+      "angle": "A structure-first beginner spotlight explaining ziconotide's 25-residue sequence, its three defined disulfide connections, its omega-conotoxin MVIIA model, and its CaV2.2 channel target without dosing or treatment claims.",
+      "teaching_points": [
+        "Ziconotide is a synthetic equivalent of omega-conotoxin MVIIA, a naturally occurring conopeptide identified from the cone snail Conus magus.",
+        "Its 25-residue sequence is CKGKGAKCSRLMYDCCTGSCRSGKC.",
+        "Three disulfide bridges connect residues 1-16, 8-20, and 15-25.",
+        "Ziconotide blocks the N-type voltage-sensitive calcium channel CaV2.2."
+      ],
+      "limitation": "Ziconotide's sequence, disulfide pattern, and channel target are well established. A known mechanism does not, by itself, predict every experimental or human outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ziconotide",
+        "#PeptideResearch",
+        "#CalciumChannels",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-12-0800-ziconotide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-12-0800-ziconotide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/78a2ddad28dd3f53329a468faef7af87e67c22ff/posts/2026-11-12-0800-ziconotide-spotlight.jpg",
+      "evidence": [
+        "FDA's chemistry review records the 25-residue sequence and disulfide connectivity 1-16, 8-20, and 15-25 for ziconotide (omega-conotoxin MVIIA).",
+        "Current DailyMed labeling describes ziconotide as a synthetic equivalent of a naturally occurring Conus magus conopeptide and as a 25-amino-acid peptide containing three disulfide bridges.",
+        "PubChem independently lists the sequence CKGKGAKCSRLMYDCCTGSCRSGKC and the same three disulfide connections.",
+        "IUPHAR/BPS Guide to Pharmacology identifies ziconotide as a peptide ligand with activity at the human CaV2.2 N-type voltage-dependent calcium channel."
+      ],
+      "published_at": "2026-11-12T16:09:05Z",
+      "instagram_media_id": "18155702218551089",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-12T04:03:06Z"
+  "last_updated": "2026-11-12T16:09:05Z"
 }

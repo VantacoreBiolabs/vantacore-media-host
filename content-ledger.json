@@ -6615,7 +6615,45 @@
       "published_at": "2026-11-12T16:09:05Z",
       "instagram_media_id": "18155702218551089",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "202",
+      "date": "2026-11-12",
+      "subject": "Proteolysis basics: proteases hydrolyze peptide bonds, endopeptidases cleave internally, exopeptidases trim termini, and cleavage can process or degrade peptides",
+      "category": "Beginner peptide chemistry and research-literacy concept",
+      "format": "Single-image peptide-cleavage explainer",
+      "headline": "Proteolysis—When Enzymes Cut the Peptide Chain",
+      "angle": "A beginner-friendly explanation of how proteases cleave peptide bonds, how internal and terminal cleavage differ, and why proteolysis can either process a precursor or break a peptide into smaller fragments.",
+      "teaching_points": [
+        "Proteases catalyze the hydrolysis of peptide bonds.",
+        "Endopeptidases cleave bonds inside a peptide or protein chain.",
+        "Exopeptidases remove residues from the chain's termini.",
+        "Proteolytic cleavage can help convert a larger precursor into a mature peptide or break a peptide into smaller fragments."
+      ],
+      "limitation": "Cleavage sites depend on sequence, three-dimensional structure, the enzyme involved, and experimental conditions. A cut observed in one system may not occur the same way in another.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Proteolysis",
+        "#PeptideScience",
+        "#Protease",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-12-1200-proteolysis-basics.jpg"
+      ],
+      "caption_file": "captions/2026-11-12-1200-proteolysis-basics.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b64aa3c846211aa4cac8286ca8dbe35d58b237de/posts/2026-11-12-1200-proteolysis-basics.jpg",
+      "evidence": [
+        "The IUPAC Gold Book defines proteases as enzymes that catalyze protein hydrolysis and describes proteolytic enzymes as cleaving polypeptides into shorter peptides and amino acids.",
+        "The EMBL-EBI MEROPS glossary defines peptidases as enzymes that hydrolyze peptide bonds, distinguishes internal endopeptidase cleavage from terminal exopeptidase activity, and documents enzyme selectivity.",
+        "NCBI Bookshelf describes proteolytic processing as removal of terminal segments or cleavage of larger precursors into active products.",
+        "The limitation reflects that proteolytic specificity depends on both enzyme-substrate recognition and experimental context."
+      ],
+      "published_at": "2026-11-12T20:10:20Z",
+      "instagram_media_id": "18064690484649127",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-12T16:09:05Z"
+  "last_updated": "2026-11-12T20:10:20Z"
 }

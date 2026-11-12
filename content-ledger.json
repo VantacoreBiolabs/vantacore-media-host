@@ -6539,7 +6539,45 @@
       "published_at": "2026-11-12T00:05:44Z",
       "instagram_media_id": "17997205047107126",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "200",
+      "date": "2026-11-11",
+      "subject": "Limit of detection versus limit of quantitation: reliably distinguishing an analyte signal from background compared with measuring the amount with suitable accuracy and precision",
+      "category": "Easy A-vs-B research and analytical-quality literacy comparison",
+      "format": "Single-image two-threshold analytical-signal comparison",
+      "headline": "LOD vs LOQ—Detect It vs Measure It",
+      "angle": "A beginner-friendly distinction between detecting an analytical signal and quantifying it reliably, emphasizing that detection can occur below the level suitable for numerical reporting.",
+      "teaching_points": [
+        "LOD is the lowest level where an analytical signal can be reliably distinguished from background noise.",
+        "LOQ is the lowest level that can be measured with suitable accuracy and precision.",
+        "LOD is usually lower than LOQ, so an analyte may be detected before its amount can be reported reliably.",
+        "Both limits belong to a specific analytical procedure rather than to the analyte alone."
+      ],
+      "limitation": "LOD and LOQ can change with the method, instrument, calibration model, sample matrix, and validation approach. Not detected does not necessarily mean not present.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#LODvsLOQ",
+        "#AnalyticalScience",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-11-2000-lod-vs-loq.jpg"
+      ],
+      "caption_file": "captions/2026-11-11-2000-lod-vs-loq.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/6cbd54f568073d4f1c1fec38d1dc3d894198e08e/posts/2026-11-11-2000-lod-vs-loq.jpg",
+      "evidence": [
+        "FDA's final ICH Q2(R2) guidance defines the quantitation limit as the lowest amount that can be quantitatively determined with suitable precision and accuracy.",
+        "ICH Q2(R2) describes the detection limit as the minimum level at which analyte can be reliably resolved and detected and distinguishes it from the level that can be quantified.",
+        "NIST defines the limit of detection as the lowest amount detectable with a given confidence level and the quantitation limit as the minimum amount quantifiable with acceptable accuracy and precision.",
+        "USGS guidance notes that detection and reporting limits are method- and matrix-dependent and that not detected does not imply not present."
+      ],
+      "published_at": "2026-11-12T04:03:06Z",
+      "instagram_media_id": "17916048867490947",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-12T00:05:44Z"
+  "last_updated": "2026-11-12T04:03:06Z"
 }

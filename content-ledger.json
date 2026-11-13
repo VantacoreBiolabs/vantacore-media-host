@@ -6653,7 +6653,45 @@
       "published_at": "2026-11-12T20:10:20Z",
       "instagram_media_id": "18064690484649127",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "203",
+      "date": "2026-11-12",
+      "subject": "Pramlintide peptide structure: 37-amino-acid amylin analog with proline substitutions at positions 25, 28, and 29, a Cys2-Cys7 disulfide bridge, and C-terminal amidation",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, substitution, disulfide-bridge, and amidation spotlight",
+      "headline": "Pramlintide—37 Amino Acids, Three Proline Swaps",
+      "angle": "A structure-first beginner spotlight explaining pramlintide's 37-residue sequence, its three proline substitutions relative to human amylin, its Cys2-Cys7 bridge, amidated C-terminus, and activity at amylin receptor complexes.",
+      "teaching_points": [
+        "Pramlintide is a synthetic analog of the 37-amino-acid peptide human amylin.",
+        "It replaces the native residues at positions 25, 28, and 29 with proline.",
+        "One disulfide bridge connects Cys2 to Cys7, forming a small loop near the N-terminus.",
+        "Its C-terminus is amidated, and it acts as an agonist at human amylin receptor complexes."
+      ],
+      "limitation": "Pramlintide's sequence, substitutions, disulfide connectivity, amidation, and receptor activity are documented. Receptor pharmacology alone does not predict every experimental or human outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pramlintide",
+        "#AmylinScience",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-12-1600-pramlintide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-12-1600-pramlintide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b15f62f9b1357ac810349bde5e5b866e52c63454/posts/2026-11-12-1600-pramlintide-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes pramlintide as a synthetic 37-amino-acid polypeptide that differs from human amylin by proline replacements at positions 25, 28, and 29.",
+        "DailyMed's structural sequence shows the Cys2-Cys7 disulfide bridge and C-terminal tyrosinamide.",
+        "PubChem independently records the sequence KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY, Cys2-Cys7 bridge, and amidated C-terminus.",
+        "IUPHAR/BPS Guide to Pharmacology identifies pramlintide as a human-amylin analog and documents agonist activity at human AMY1, AMY2, and AMY3 receptor complexes."
+      ],
+      "published_at": "2026-11-13T00:08:16Z",
+      "instagram_media_id": "18133373140770360",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-12T20:10:20Z"
+  "last_updated": "2026-11-13T00:08:16Z"
 }

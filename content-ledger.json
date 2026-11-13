@@ -6767,7 +6767,45 @@
       "published_at": "2026-11-13T16:04:59Z",
       "instagram_media_id": "18349110295282449",
       "instagram_permalink": "https://www.instagram.com/p/DfsBJXfgmoQ/"
+    },
+    {
+      "id": "206",
+      "date": "2026-11-13",
+      "subject": "Hydrophobic versus hydrophilic amino-acid side chains: unfavorable versus favorable interaction with water and how side-chain chemistry can influence peptide folding, solubility, and molecular interactions",
+      "category": "Beginner peptide chemistry concept",
+      "format": "Single-image water-interaction comparison",
+      "headline": "Hydrophobic vs Hydrophilic—How Side Chains Meet Water",
+      "angle": "A phone-readable beginner comparison showing why nonpolar side chains often cluster away from water while polar or charged side chains often face the aqueous environment, with an explicit reminder that these categories are simplified and context-dependent.",
+      "teaching_points": [
+        "Every amino acid has the same basic backbone, but its side chain gives it different chemistry.",
+        "Hydrophobic side chains do not interact favorably with water and often cluster away from aqueous solvent.",
+        "Polar or charged hydrophilic side chains can interact favorably with water and often face outward.",
+        "The distribution of these side chains can influence folding, solubility, and molecular interactions."
+      ],
+      "limitation": "Hydrophobic and hydrophilic are useful categories rather than hard boxes. Some side chains have mixed properties, and behavior depends on the whole sequence, molecular structure, pH, and surrounding environment.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AminoAcids",
+        "#PeptideScience",
+        "#ProteinFolding",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-13-1200-hydrophobic-vs-hydrophilic.jpg"
+      ],
+      "caption_file": "captions/2026-11-13-1200-hydrophobic-vs-hydrophilic.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2b17b67a19d28ad3e57c5a9d3f352ac0ef1af236/posts/2026-11-13-1200-hydrophobic-vs-hydrophilic.jpg",
+      "evidence": [
+        "The IUPAC Gold Book defines hydrophilic groups by their capacity to interact with water or other polar groups and defines hydrophobic interaction as the tendency of hydrocarbon-like groups to aggregate in aqueous media.",
+        "EMBL-EBI explains that hydrophobic nonpolar side chains do not interact favorably with water and tend to cluster away from solvent, while polar and charged side chains can interact favorably with water.",
+        "NCBI Bookshelf describes amino-acid side-chain chemistry as influencing water interaction, solubility, folding, stability, and placement within folded structures.",
+        "EMBL-EBI cautions that side-chain categories are simplifications and that some residues have both hydrophobic and hydrophilic features."
+      ],
+      "published_at": "2026-11-13T20:05:59Z",
+      "instagram_media_id": "18037018562885995",
+      "instagram_permalink": "https://www.instagram.com/p/Dfscw16Fii_/"
     }
   ],
-  "last_updated": "2026-11-13T16:04:59Z"
+  "last_updated": "2026-11-13T20:05:59Z"
 }

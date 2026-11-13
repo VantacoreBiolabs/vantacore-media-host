@@ -6729,7 +6729,45 @@
       "published_at": "2026-11-13T04:08:11Z",
       "instagram_media_id": "17940503487402311",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "205",
+      "date": "2026-11-13",
+      "subject": "Glepaglutide peptide structure: 39 natural L-amino acids, nine substitutions relative to native GLP-2, a C-terminal six-lysine tail, terminal amidation, and GLP-2 receptor agonism",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, C-terminal tail, and receptor-target spotlight",
+      "headline": "Glepaglutide—39 Amino Acids, a Six-Lysine Tail",
+      "angle": "A structure-first beginner spotlight showing glepaglutide as a 39-residue GLP-2 analog whose last six amino acids form a distinctive lysine tail, with the exact sequence and GLP-2 receptor target kept central.",
+      "teaching_points": [
+        "Glepaglutide is a synthetic analog of the 33-amino-acid hormone GLP-2.",
+        "Its complete linear sequence contains 39 natural L-amino acids.",
+        "The final six residues are lysines, forming a distinctive C-terminal tail.",
+        "It acts as an agonist at the GLP-2 receptor."
+      ],
+      "limitation": "Glepaglutide's sequence, C-terminal hexa-lysine addition, and receptor target are documented. Structure and receptor activity alone do not predict every experimental or human outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Glepaglutide",
+        "#GLP2Science",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-13-0800-glepaglutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-13-0800-glepaglutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/271bec03a414db52bc85a8372f55f5a919037c36/posts/2026-11-13-0800-glepaglutide-spotlight.jpg",
+      "evidence": [
+        "PubChem records the 39-residue sequence HGEGTFSSELATILDALAARDFIAWLIATKITDKKKKKK.",
+        "The IUPHAR/BPS Guide to Pharmacology identifies glepaglutide as a long-acting GLP-2 analog with a C-terminal hexa-lysine addition and documents its peptide sequence.",
+        "The American Medical Association USAN document identifies glepaglutide as a mutated human GLP-2 analog with nine substitutions, a C-terminal hexa-lysine addition, and a 39-residue sequence.",
+        "Peer-reviewed structure-development work describes glepaglutide as a GLP-2 receptor agonist analog with a six-lysine tail and improved physicochemical properties."
+      ],
+      "published_at": "2026-11-13T16:04:59Z",
+      "instagram_media_id": "18349110295282449",
+      "instagram_permalink": "https://www.instagram.com/p/DfsBJXfgmoQ/"
     }
   ],
-  "last_updated": "2026-11-13T04:08:11Z"
+  "last_updated": "2026-11-13T16:04:59Z"
 }

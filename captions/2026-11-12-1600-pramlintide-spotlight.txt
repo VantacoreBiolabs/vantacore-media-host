@@ -1,0 +1,12 @@
+PRAMLINTIDE: 37 AMINO ACIDS, THREE PROLINE SWAPS.
+
+• Pramlintide is a synthetic analog of the 37-amino-acid peptide human amylin.
+• It replaces the native residues at positions 25, 28, and 29 with proline.
+• One disulfide bridge connects Cys2 to Cys7, forming a small loop near the N-terminus.
+• Its C-terminus is amidated, and it acts as an agonist at human amylin receptor complexes.
+
+Evidence check: the sequence, substitutions, bridge, amidation, and receptor activity are documented. Receptor pharmacology alone does not predict every experimental or human outcome.
+
+Which peptide structure should we decode next? Follow @vantacorebiolabs for clear research education.
+
+#VantacoreBiolabs #Pramlintide #AmylinScience #PeptideResearch #ResearchLiteracy

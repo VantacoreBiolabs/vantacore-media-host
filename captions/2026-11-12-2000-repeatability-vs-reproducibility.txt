@@ -1,0 +1,12 @@
+REPEATABILITY VS REPRODUCIBILITY: SAME SETUP VS CHANGED SETTINGS.
+
+• Repeatability asks how closely results agree when the method, material, operator, instrument, laboratory, and short time window stay the same.
+• Reproducibility asks how closely results agree when defined conditions change—often including operators, equipment, laboratories, or time.
+• Both describe precision: how closely repeated results agree. They do not, by themselves, show closeness to the true value.
+• Strong repeatability does not automatically guarantee strong reproducibility.
+
+Evidence check: terminology depends on the standard and study design. In analytical validation, changes within one laboratory are often described as intermediate precision, while reproducibility commonly refers to interlaboratory testing. Always state which conditions changed.
+
+Which quality term should we simplify next? Follow @vantacorebiolabs for clear research education.
+
+#VantacoreBiolabs #Repeatability #Reproducibility #LabQuality #ResearchLiteracy

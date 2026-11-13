@@ -6691,7 +6691,45 @@
       "published_at": "2026-11-13T00:08:16Z",
       "instagram_media_id": "18133373140770360",
       "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
+    },
+    {
+      "id": "204",
+      "date": "2026-11-12",
+      "subject": "Repeatability versus reproducibility: precision under the same measurement conditions compared with agreement under explicitly changed operators, equipment, laboratories, times, or other conditions",
+      "category": "Easy A-vs-B research and analytical-quality literacy comparison",
+      "format": "Single-image same-setup versus changed-settings comparison",
+      "headline": "Repeatability vs Reproducibility—Same Setup vs Changed Settings",
+      "angle": "A beginner-friendly distinction between short-term precision under tightly controlled repeatability conditions and precision after defined conditions change, with intermediate precision noted as the common within-laboratory category.",
+      "teaching_points": [
+        "Repeatability describes agreement when the method, material, operator, instrument, laboratory, and short time window remain the same.",
+        "Reproducibility describes agreement when defined conditions change, often including operators, equipment, laboratories, or time.",
+        "Both terms describe precision—the closeness of repeated results—not accuracy or closeness to a true value.",
+        "Strong repeatability does not automatically guarantee strong reproducibility."
+      ],
+      "limitation": "Terminology depends on the standard and study design. In analytical validation, changes within one laboratory are often described as intermediate precision, while reproducibility commonly refers to interlaboratory testing. The changed conditions should always be stated.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Repeatability",
+        "#Reproducibility",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-12-2000-repeatability-vs-reproducibility.jpg"
+      ],
+      "caption_file": "captions/2026-11-12-2000-repeatability-vs-reproducibility.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e7d6b5c8e1445f23b5d638d43c14c3120b2cee90/posts/2026-11-12-2000-repeatability-vs-reproducibility.jpg",
+      "evidence": [
+        "The IUPAC Gold Book defines repeatability as agreement under the same method, material, operator, apparatus, laboratory, and short time interval.",
+        "IUPAC defines reproducibility as agreement under different operators, apparatus, laboratories, and/or time intervals and requires the changed conditions to be specified.",
+        "NIST distinguishes short-term controlled repeatability from variability across instruments, laboratories, and longer-term conditions.",
+        "FDA's final ICH Q2(R2) guidance treats within-laboratory changes in days, environmental conditions, analysts, and equipment as intermediate precision and assesses reproducibility through interlaboratory trials."
+      ],
+      "published_at": "2026-11-13T04:08:11Z",
+      "instagram_media_id": "17940503487402311",
+      "instagram_permalink": "https://www.instagram.com/vantacorebiolabs/"
     }
   ],
-  "last_updated": "2026-11-13T00:08:16Z"
+  "last_updated": "2026-11-13T04:08:11Z"
 }

@@ -6919,7 +6919,45 @@
       "published_at": "2026-11-14T16:05:02Z",
       "instagram_media_id": "17909452725597620",
       "instagram_permalink": "https://www.instagram.com/p/Dful_eYDvpL/"
+    },
+    {
+      "id": "210",
+      "date": "2026-11-14",
+      "subject": "Peptide net charge and pH: how ionizable termini and side chains gain or lose protons, why lower pH usually shifts charge positive, why higher pH shifts it negative, and what the isoelectric point means",
+      "category": "Beginner peptide chemistry and research-literacy concept",
+      "format": "Single-image pH-dependent net-charge explainer",
+      "headline": "Peptide Charge—Why pH Can Flip the Sign",
+      "angle": "A beginner-friendly explanation that peptide charge is the sum of positive and negative ionizable groups, changes with solution pH, and averages to zero at the isoelectric point.",
+      "teaching_points": [
+        "A peptide can carry positive and negative charges at the same time.",
+        "Its N-terminus, C-terminus, and certain side chains can gain or lose protons.",
+        "Lower pH usually shifts net charge in the positive direction, while higher pH usually shifts it in the negative direction.",
+        "The isoelectric point, or pI, is the pH where the peptide's average net charge is zero."
+      ],
+      "limitation": "Charge calculations are estimates. Results depend on the sequence, local pKa values, terminal or side-chain modifications, and the solution environment.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideCharge",
+        "#IsoelectricPoint",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-14-1200-peptide-net-charge.jpg"
+      ],
+      "caption_file": "captions/2026-11-14-1200-peptide-net-charge.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f6ea4013b91cf048fc4c3b7eafea0a9b3d004a67/posts/2026-11-14-1200-peptide-net-charge.jpg",
+      "evidence": [
+        "The IUPAC Gold Book defines the isoelectric point as the pH at which an entity's net electric charge is zero.",
+        "A peer-reviewed peptide and protein pI methods paper explains that net charge is related to solution pH and is calculated from positive and negative ionizable groups, including termini and charged side chains.",
+        "Peer-reviewed work on ionizable protein groups documents that acidic and basic side chains change protonation state across pH and that their pKa values depend on molecular environment.",
+        "The limitation reflects that sequence context, modifications, solvent conditions, and shifted local pKa values affect predicted charge."
+      ],
+      "published_at": "2026-11-14T19:59:29Z",
+      "instagram_media_id": "18115649129142271",
+      "instagram_permalink": "https://www.instagram.com/p/DfvA0AljJSS/"
     }
   ],
-  "last_updated": "2026-11-14T16:05:02Z"
+  "last_updated": "2026-11-14T19:59:29Z"
 }

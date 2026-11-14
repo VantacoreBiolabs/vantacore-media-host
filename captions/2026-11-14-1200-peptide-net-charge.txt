@@ -1,0 +1,12 @@
+PEPTIDE CHARGE: WHY pH CAN FLIP THE SIGN.
+
+• A peptide can carry positive and negative charges at the same time.
+• Its N-terminus, C-terminus, and certain side chains can gain or lose protons.
+• Lower pH usually shifts net charge in the positive direction; higher pH usually shifts it in the negative direction.
+• The isoelectric point, or pI, is the pH where the peptide’s average net charge is zero.
+
+Evidence check: charge calculations are estimates. Results depend on the sequence, local pKa values, terminal or side-chain modifications, and the solution environment.
+
+Which peptide-chemistry term should we simplify next? Follow for more clear, evidence-aware research education.
+
+#VantacoreBiolabs #PeptideCharge #IsoelectricPoint #PeptideScience #ResearchLiteracy

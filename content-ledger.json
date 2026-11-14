@@ -6843,7 +6843,45 @@
       "published_at": "2026-11-14T00:02:59Z",
       "instagram_media_id": "18111329969223894",
       "instagram_permalink": "https://www.instagram.com/p/Dfs34quiJBh/"
+    },
+    {
+      "id": "208",
+      "date": "2026-11-13",
+      "subject": "Method validation versus method verification: building evidence that a procedure is fit for its intended purpose compared with confirming that an established procedure performs as expected in a specific laboratory",
+      "category": "Easy A-vs-B research and analytical-quality literacy comparison",
+      "format": "Single-image fit-for-purpose versus local-performance comparison",
+      "headline": "Method Validation vs Verification—Prove It Fits vs Confirm It Works Here",
+      "angle": "A beginner-friendly quality-literacy comparison separating broad fit-for-purpose evidence from the local confirmation that an established method works under a laboratory's own conditions.",
+      "teaching_points": [
+        "Validation builds objective evidence that a method is fit for its intended purpose.",
+        "Verification confirms that an established method performs as expected in a specific laboratory.",
+        "Both rely on predefined acceptance criteria, documented data, and suitable reference materials.",
+        "Meaningful changes to a validated method may require additional or full revalidation."
+      ],
+      "limitation": "Terminology and required studies vary by field, governing standard, intended use, and the extent of any method changes.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MethodValidation",
+        "#MethodVerification",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-13-2000-validation-vs-verification.jpg"
+      ],
+      "caption_file": "captions/2026-11-13-2000-validation-vs-verification.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4d1afe78d5c12aa418099d763bb846940444653a/posts/2026-11-13-2000-validation-vs-verification.jpg",
+      "evidence": [
+        "FDA's final ICH Q2(R2) guidance describes analytical procedure validation as demonstrating suitability for the intended purpose through relevant performance characteristics, predefined criteria, a protocol, and a report.",
+        "NIST chemical-metrology guidance distinguishes validation of suitability for intended use from verification that a laboratory can obtain expected results with its own equipment, reagents, analysts, and materials.",
+        "NIST's 2026 test-method standards summary states that verification applies to a standard method and that modifications may require revalidation.",
+        "EPA method-validation guidance likewise frames validation as documented evidence that a method is suitable for an intended use; terminology and implementation depend on the governing context."
+      ],
+      "published_at": "2026-11-14T04:01:04Z",
+      "instagram_media_id": "18035941136751720",
+      "instagram_permalink": "https://www.instagram.com/p/DftTIo5iBCs/"
     }
   ],
-  "last_updated": "2026-11-14T00:02:59Z"
+  "last_updated": "2026-11-14T04:01:04Z"
 }

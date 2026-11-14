@@ -6805,7 +6805,45 @@
       "published_at": "2026-11-13T20:05:59Z",
       "instagram_media_id": "18037018562885995",
       "instagram_permalink": "https://www.instagram.com/p/Dfscw16Fii_/"
+    },
+    {
+      "id": "207",
+      "date": "2026-11-13",
+      "subject": "Avexitide peptide structure and pharmacology: a 31-amino-acid amidated exendin-(9–39) analog that antagonizes the GLP-1 receptor rather than activating it",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, origin, amidation, and receptor-antagonism spotlight",
+      "headline": "Avexitide—31 Amino Acids, a GLP-1 Signal Blocker",
+      "angle": "A structure-first beginner spotlight distinguishing avexitide from GLP-1 receptor agonists by showing its 31-residue exendin-(9–39) sequence, amidated C-terminus, and antagonist mechanism.",
+      "teaching_points": [
+        "Avexitide is an amidated analog of exendin-(9–39), a shortened form of exendin-4.",
+        "Its linear sequence contains 31 amino acids.",
+        "Unlike GLP-1 receptor agonists, avexitide acts as a GLP-1 receptor antagonist.",
+        "A receptor antagonist occupies the target without triggering the same activating signal."
+      ],
+      "limitation": "Avexitide's sequence, amidation, and GLP-1 receptor antagonist activity are documented. It remains investigational, and mechanism alone does not establish safety or effectiveness for any use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Avexitide",
+        "#GLP1Science",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-13-1600-avexitide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-13-1600-avexitide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b1a458b5f5ead6dcd063bd87139e21713a7be977/posts/2026-11-13-1600-avexitide-spotlight.jpg",
+      "evidence": [
+        "The IUPHAR/BPS Guide to Pharmacology identifies avexitide as an amidated exendin-(9–39) analog and a GLP-1 receptor antagonist.",
+        "IUPHAR and PubChem record the 31-residue sequence DLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS with C-terminal amidation.",
+        "FDA's orphan-drug database lists avexitide as designated for hyperinsulinemic hypoglycemia and not FDA approved for the orphan indication.",
+        "Published randomized phase 2 research describes avexitide, also called exendin-(9–39), as a GLP-1 antagonist; clinical findings do not remove the need for controlled confirmation and regulatory review."
+      ],
+      "published_at": "2026-11-14T00:02:59Z",
+      "instagram_media_id": "18111329969223894",
+      "instagram_permalink": "https://www.instagram.com/p/Dfs34quiJBh/"
     }
   ],
-  "last_updated": "2026-11-13T20:05:59Z"
+  "last_updated": "2026-11-14T00:02:59Z"
 }

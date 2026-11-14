@@ -6881,7 +6881,45 @@
       "published_at": "2026-11-14T04:01:04Z",
       "instagram_media_id": "18035941136751720",
       "instagram_permalink": "https://www.instagram.com/p/DftTIo5iBCs/"
+    },
+    {
+      "id": "209",
+      "date": "2026-11-14",
+      "subject": "Histrelin peptide structure and time-dependent pharmacology: a synthetic nine-amino-acid GnRH analog with a modified D-histidine and N-ethylamide terminus whose continuous receptor stimulation is followed by desensitization",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image sequence, structural-modification, receptor-agonism, and desensitization spotlight",
+      "headline": "Histrelin—9 Amino Acids, a GnRH Signal That Changes With Time",
+      "angle": "A structure-first beginner spotlight showing that histrelin is a modified nonapeptide GnRH agonist and explaining why continuous agonist exposure can lead from an initial stimulatory phase to receptor down-regulation and desensitization.",
+      "teaching_points": [
+        "Histrelin is a synthetic nine-amino-acid analog of natural gonadotropin-releasing hormone.",
+        "Its structure includes a modified D-histidine and an N-ethylamide end.",
+        "Histrelin acts as a GnRH receptor agonist.",
+        "With continuous exposure, an initial stimulatory phase is followed by receptor down-regulation and desensitization, reducing LH and FSH signaling."
+      ],
+      "limitation": "The sequence and time-dependent receptor response are documented in current FDA labeling. Structure and mechanism alone do not predict every outcome, and the post is not a protocol or direction for use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Histrelin",
+        "#GnRHScience",
+        "#PeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-14-0800-histrelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-14-0800-histrelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/19a6ba1c799a9c214cff0fd495f10bbfccb475e7/posts/2026-11-14-0800-histrelin-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes histrelin acetate as a synthetic nonapeptide analog of GnRH and gives the chemical sequence with pyroglutamyl, benzyl-D-histidyl, and N-ethylprolinamide features.",
+        "PubChem independently records the condensed structure H-Pyr-His-Trp-Ser-Tyr-D-His(1-Bn)-Leu-Arg-Pro-NHEt and the nine-residue sequence representation.",
+        "Current FDA labeling identifies histrelin as a GnRH agonist and states that continuous exposure produces an initial stimulatory phase followed by pituitary GnRH-receptor down-regulation and gonadotrope desensitization.",
+        "The limitation separates documented structure and mechanism from predictions about individual outcomes or directions for use."
+      ],
+      "published_at": "2026-11-14T16:05:02Z",
+      "instagram_media_id": "17909452725597620",
+      "instagram_permalink": "https://www.instagram.com/p/Dful_eYDvpL/"
     }
   ],
-  "last_updated": "2026-11-14T04:01:04Z"
+  "last_updated": "2026-11-14T16:05:02Z"
 }

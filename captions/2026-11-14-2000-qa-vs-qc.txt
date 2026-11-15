@@ -1,0 +1,12 @@
+QA VS QC: BUILD THE SYSTEM VS CHECK THE RESULTS.
+
+• Quality assurance (QA) is the broader framework of planned, systematic activities that provides confidence quality requirements will be met.
+• QA includes processes such as training, documentation, audits, method validation, and continual improvement.
+• Quality control (QC) uses operational checks—such as controls, blanks, duplicates, and acceptance limits—to evaluate performance.
+• QC is part of the larger quality system; a passing check does not prove every part of that system is flawless.
+
+Evidence check: the exact division between QA and QC can vary by standard, field, and organization. Both reduce risk, but neither guarantees zero quality failures.
+
+Which lab-quality term should we simplify next? Follow for more clear, evidence-aware research education.
+
+#VantacoreBiolabs #QualityAssurance #QualityControl #LabQuality #ResearchLiteracy

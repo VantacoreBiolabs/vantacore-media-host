@@ -7032,7 +7032,46 @@
       "published_at": "2026-11-15T04:05:43Z",
       "instagram_media_id": "18113046230627797",
       "instagram_permalink": "https://www.instagram.com/p/Dfv4dNDgsn0/"
+    },
+    {
+      "id": "213",
+      "date": "2026-11-15",
+      "subject": "Apraglutide peptide structure and evidence status: a synthetic 33-amino-acid GLP-2 analog with four substitutions, selective GLP-2 receptor agonism, prolonged persistence, positive STARS Phase 3 findings, and an ongoing confirmatory STARS-2 trial",
+      "category": "Individual investigational peptide compound spotlight",
+      "format": "Single-image 33-residue, four-substitution, receptor, and evidence-status spotlight",
+      "headline": "Apraglutide—33 Amino Acids, Four Key Changes",
+      "angle": "A structure-first beginner spotlight explaining how four changes distinguish apraglutide from native human GLP-2, why it is studied as a long-acting GLP-2 receptor agonist, and why positive Phase 3 findings do not equal regulatory approval.",
+      "teaching_points": [
+        "Apraglutide is a synthetic 33-amino-acid analog of glucagon-like peptide-2.",
+        "Compared with native human GLP-2, four positions are changed: 2, 10, 11, and 16.",
+        "It selectively activates the GLP-2 receptor, a pathway studied for intestinal adaptation and absorption.",
+        "Its sequence changes contribute to slower breakdown, high protein binding, and longer persistence in research studies."
+      ],
+      "limitation": "The STARS Phase 3 trial reported reduced parenteral-support requirements versus placebo. Apraglutide remains investigational, is not FDA-approved, and the confirmatory Phase 3 STARS-2 trial is ongoing as of November 15, 2026.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Apraglutide",
+        "#GLP2Research",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-15-0800-apraglutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-15-0800-apraglutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/dbe0d0a11812b8432311411cc108f57bce0a44ba/posts/2026-11-15-0800-apraglutide-spotlight.jpg",
+      "evidence": [
+        "The NCI Drug Dictionary describes apraglutide as a synthetic 33-amino-acid GLP-2 agonist with substitutions at positions 2, 10, 11, and 16.",
+        "A peer-reviewed pharmacology study reported selective GLP-2 receptor activity, low clearance, prolonged elimination, and high protein binding compared with native GLP-2 and other analogs.",
+        "The 2026 STARS Phase 3 publication reported a statistically significant reduction in weekly parenteral-support volume at week 24 versus placebo, while some secondary endpoints were not statistically significant.",
+        "FDA's current orphan-drug record lists apraglutide as not FDA-approved for the orphan indication.",
+        "Ironwood's November 5, 2026 update states that the confirmatory STARS-2 Phase 3 trial is ongoing and that regulatory filing is planned subject to its results."
+      ],
+      "published_at": "2026-11-15T16:05:59Z",
+      "instagram_media_id": "18083919197357162",
+      "instagram_permalink": "https://www.instagram.com/p/DfxK4ZdgnV-/"
     }
   ],
-  "last_updated": "2026-11-15T04:05:43Z"
+  "last_updated": "2026-11-15T16:05:59Z"
 }

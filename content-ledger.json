@@ -6995,7 +6995,44 @@
       "published_at": "2026-11-15T00:01:13Z",
       "instagram_media_id": "18121600729999578",
       "instagram_permalink": "https://www.instagram.com/p/DfvcejgjbBO/"
+    },
+    {
+      "id": "212",
+      "date": "2026-11-14",
+      "subject": "Quality assurance (QA) versus quality control (QC): the quality-system framework compared with operational technical checks",
+      "category": "Easy A-vs-B research and laboratory-quality literacy comparison",
+      "format": "Single-image quality-system versus operational-check comparison",
+      "headline": "QA vs QC—Build the System vs Check the Results",
+      "angle": "A beginner-friendly comparison separating quality assurance as the planned framework for preventing and managing quality problems from quality control as the operational checks used to detect whether results meet requirements.",
+      "teaching_points": [
+        "Quality assurance is the broader framework of planned, systematic activities used to provide confidence that quality requirements will be met.",
+        "QA includes processes such as training, documentation, audits, method validation, and continual improvement.",
+        "Quality control uses operational checks—such as controls, blanks, duplicates, and acceptance limits—to evaluate performance.",
+        "QC is part of the larger quality system; a passing check does not prove every part of that system is flawless."
+      ],
+      "limitation": "The exact division between QA and QC can vary by standard, field, and organization. Both reduce risk, but neither guarantees zero quality failures.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#QualityAssurance",
+        "#QualityControl",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-14-2000-qa-vs-qc.jpg"
+      ],
+      "caption_file": "captions/2026-11-14-2000-qa-vs-qc.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/cf98966cdd4f08e7f1460a85d7e2f848fe1a0840/posts/2026-11-14-2000-qa-vs-qc.jpg",
+      "evidence": [
+        "FDA CFSAN's Laboratory Quality Assurance Manual defines QA as planned and systematic actions providing confidence that requirements are fulfilled, while QC is the operational techniques and activities used to fulfill quality requirements.",
+        "EPA quality guidance describes QA as an integrated system spanning planning, implementation, assessment, reporting, and improvement, and QC as technical activities used to measure performance against standards.",
+        "NIST describes QA as the overall framework or program and QC as an operational subset that detects nonconforming results; neither guarantees zero failures."
+      ],
+      "published_at": "2026-11-15T04:05:43Z",
+      "instagram_media_id": "18113046230627797",
+      "instagram_permalink": "https://www.instagram.com/p/Dfv4dNDgsn0/"
     }
   ],
-  "last_updated": "2026-11-15T00:01:13Z"
+  "last_updated": "2026-11-15T04:05:43Z"
 }

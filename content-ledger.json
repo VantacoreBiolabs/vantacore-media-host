@@ -6957,7 +6957,45 @@
       "published_at": "2026-11-14T19:59:29Z",
       "instagram_media_id": "18115649129142271",
       "instagram_permalink": "https://www.instagram.com/p/DfvA0AljJSS/"
+    },
+    {
+      "id": "211",
+      "date": "2026-11-14",
+      "subject": "Insulin degludec peptide structure: a 50-amino-acid two-chain human insulin analog with three disulfide bonds, deletion of B30 threonine, and a glutamic-acid-linked C16 fatty diacid at B29 lysine",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image two-chain, disulfide-bridge, residue-deletion, and fatty-diacid-side-chain spotlight",
+      "headline": "Insulin Degludec—Two Chains, Three Bridges, One Fatty-Acid Tail",
+      "angle": "A structure-first beginner spotlight showing how insulin degludec retains insulin's two-chain, three-disulfide framework while removing B30 threonine and adding a C16 fatty-diacid side chain at B29.",
+      "teaching_points": [
+        "Insulin degludec is a 50-amino-acid analog of human insulin with a 21-residue A chain and a 29-residue B chain.",
+        "Three disulfide bonds help hold its two-chain structure together.",
+        "Compared with human insulin, the threonine at position B30 is removed.",
+        "A glutamic-acid spacer connects a C16 fatty diacid to lysine at position B29."
+      ],
+      "limitation": "The structural changes help explain multihexamer formation and albumin binding. Structure alone does not predict an individual response, and the post is education rather than a protocol or direction for use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#InsulinDegludec",
+        "#InsulinScience",
+        "#PeptideStructure",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-14-1600-insulin-degludec-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-14-1600-insulin-degludec-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5020883282677e899d880f34609e92d049a41d51/posts/2026-11-14-1600-insulin-degludec-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling describes insulin degludec as a human insulin analog with B30 threonine omitted and a glutamic-acid/C16 fatty-acid side chain attached at B29 lysine.",
+        "FDA Global Substance Registration records the 29-residue B chain, 21-residue A chain, three disulfide links, and the B29 structural modification.",
+        "A peer-reviewed structural pharmacology review describes the 50-amino-acid architecture, glutamic-acid spacer, C16 fatty-diacid chain, and soluble multihexamer formation.",
+        "FDA review material states that the fatty-acid moiety binds albumin and contributes to a protracted pharmacokinetic profile; this mechanistic evidence does not predict individual response."
+      ],
+      "published_at": "2026-11-15T00:01:13Z",
+      "instagram_media_id": "18121600729999578",
+      "instagram_permalink": "https://www.instagram.com/p/DfvcejgjbBO/"
     }
   ],
-  "last_updated": "2026-11-14T19:59:29Z"
+  "last_updated": "2026-11-15T00:01:13Z"
 }

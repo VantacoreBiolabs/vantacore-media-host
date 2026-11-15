@@ -7071,7 +7071,45 @@
       "published_at": "2026-11-15T16:05:59Z",
       "instagram_media_id": "18083919197357162",
       "instagram_permalink": "https://www.instagram.com/p/DfxK4ZdgnV-/"
+    },
+    {
+      "id": "214",
+      "date": "2026-11-15",
+      "subject": "Sequence identity versus sequence similarity: exact residue matches at aligned positions compared with identical or chemically related amino-acid matches, and why the reported percentage depends on alignment scope, gaps, and scoring settings",
+      "category": "Beginner bioinformatics and peptide research-literacy concept",
+      "format": "Single-image exact-match versus chemically-related-match comparison",
+      "headline": "Sequence Identity vs Similarity—Exact Match vs Chemical Cousin",
+      "angle": "A fast beginner comparison showing that identity requires the same amino acid at an aligned position, while similarity may also include chemically related substitutions scored by an alignment method.",
+      "teaching_points": [
+        "Sequence identity counts aligned positions with exactly the same amino acid.",
+        "Sequence similarity can also count substitutions with related chemical properties.",
+        "Similarity is usually evaluated with a scoring matrix, while both measures begin with an alignment.",
+        "Reported percentages can change with the aligned region, gap handling, and scoring settings."
+      ],
+      "limitation": "High identity or similarity can support a research hypothesis, but it does not by itself prove shared three-dimensional structure, biological function, or common ancestry.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SequenceAlignment",
+        "#BioinformaticsBasics",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-15-1200-sequence-identity-vs-similarity.jpg"
+      ],
+      "caption_file": "captions/2026-11-15-1200-sequence-identity-vs-similarity.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ca213b81159e229ec4fba40b36618db11356aa0a/posts/2026-11-15-1200-sequence-identity-vs-similarity.jpg",
+      "evidence": [
+        "The NCBI BLAST Glossary defines sequence identity as the same residues at the same positions in an alignment and describes similarity using identity and/or positive substitutions.",
+        "EMBL-EBI defines sequence identity as exact amino-acid matches and sequence similarity as identical or chemically similar amino acids at aligned positions.",
+        "NCBI documentation notes that substitution and gap scores contribute to alignment scores, while EMBL-EBI cautions that percent identity can differ across programs because gaps and aligned regions may be treated differently.",
+        "Sequence similarity is evidence of relatedness, not standalone proof of shared three-dimensional structure, biological function, or evolutionary homology."
+      ],
+      "published_at": "2026-11-15T19:59:13Z",
+      "instagram_media_id": "17896670952436604",
+      "instagram_permalink": "https://www.instagram.com/p/DfxllpHDcji/"
     }
   ],
-  "last_updated": "2026-11-15T16:05:59Z"
+  "last_updated": "2026-11-15T19:59:13Z"
 }

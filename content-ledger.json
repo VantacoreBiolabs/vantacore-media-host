@@ -7147,7 +7147,45 @@
       "published_at": "2026-11-16T00:00:22Z",
       "instagram_media_id": "17979022677177691",
       "instagram_permalink": "https://www.instagram.com/p/DfyBK2XCKx_/"
+    },
+    {
+      "id": "216",
+      "date": "2026-11-15",
+      "subject": "Blank-sample basics: how analyte-free reagent, method, and field blanks track different sources of background contamination or interference, and why blank acceptance criteria are method-specific",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image blank-sample workflow and contamination-check explainer",
+      "headline": "Blank Samples—A Blank Isn't Empty Work",
+      "angle": "A beginner-friendly explanation that a blank deliberately omits the target analyte or real sample while retaining selected parts of the test system so researchers can look for background, contamination, or interference.",
+      "teaching_points": [
+        "A blank omits the target analyte or real sample while retaining selected parts of the test system.",
+        "A method blank travels through the preparation and analytical workflow to check for contamination introduced along the way.",
+        "A reagent blank focuses on contamination from reagents, while a field blank checks what may be introduced during collection and handling.",
+        "Unexpected blank signal can reveal background, contamination, or interference that could affect low-level measurements."
+      ],
+      "limitation": "Acceptable blank levels and corrective actions are method-specific. A clean blank reduces one source of doubt, but it does not prove that every sample result is accurate.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#BlankSample",
+        "#LabQuality",
+        "#AnalyticalScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-15-2000-blank-samples.jpg"
+      ],
+      "caption_file": "captions/2026-11-15-2000-blank-samples.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/6300e48b7419efa03c3ec88e9209ed8a8fb0a1dc/posts/2026-11-15-2000-blank-samples.jpg",
+      "evidence": [
+        "FDA's laboratory quality manual states that matrix or reagent blanks are used to determine and measure contamination and interferences, and that high blank results may indicate contamination from solvents, equipment, or the laboratory environment.",
+        "EPA defines a method blank as analyte-free material processed with samples through all preparation and analytical steps to assess laboratory, reagent, glassware, and analytical-system background.",
+        "EPA distinguishes reagent blanks, method blanks, and field blanks according to whether the question concerns reagent contamination, the full laboratory workflow, or contamination introduced during field sampling and handling.",
+        "NIST defines reagent and process blanks as analytical controls used to detect contaminated reagents or interfering products introduced by labware and solvents."
+      ],
+      "published_at": "2026-11-16T04:05:25Z",
+      "instagram_media_id": "18103822898543585",
+      "instagram_permalink": "https://www.instagram.com/p/DfydOQjCEGj/"
     }
   ],
-  "last_updated": "2026-11-16T00:00:22Z"
+  "last_updated": "2026-11-16T04:05:25Z"
 }

@@ -7223,7 +7223,45 @@
       "published_at": "2026-11-16T16:12:58Z",
       "instagram_media_id": "18111640607368366",
       "instagram_permalink": "https://www.instagram.com/p/DfzweyRjjAG/"
+    },
+    {
+      "id": "218",
+      "date": "2026-11-16",
+      "subject": "L-amino acids versus D-amino acids: non-superimposable mirror-image stereochemistry, glycine as the achiral exception, ribosomal preference for L residues, natural bacterial D-amino acids, and position-dependent effects of D substitution",
+      "category": "Easy A-vs-B beginner peptide-stereochemistry comparison",
+      "format": "Single-image mirrored-molecule stereochemistry explainer",
+      "headline": "L vs D Amino Acids—Same Atoms. Mirror-Image Arrangement.",
+      "angle": "A beginner-friendly comparison showing that L and D labels describe different three-dimensional arrangements, not different atom lists, and that biological recognition can distinguish those arrangements.",
+      "teaching_points": [
+        "Most amino acids can exist as L and D forms: non-superimposable mirror images with the same atom connections but different three-dimensional arrangements.",
+        "Glycine is the exception because its central carbon does not have four different groups, so it is not chiral.",
+        "Ribosomes build proteins overwhelmingly from L-amino acids.",
+        "D-amino acids still occur naturally, including D-alanine and D-glutamate in bacterial cell-wall material."
+      ],
+      "limitation": "Changing an L residue to a D residue can reduce recognition by some proteases, but it can also change peptide shape and target binding. The result depends on the residue, position, sequence, and assay—not the letter alone.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AminoAcids",
+        "#Stereochemistry",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-16-1200-l-vs-d-amino-acids.jpg"
+      ],
+      "caption_file": "captions/2026-11-16-1200-l-vs-d-amino-acids.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/12e28b8d1465d5605910f9591785a5fbe26466b5/posts/2026-11-16-1200-l-vs-d-amino-acids.jpg",
+      "evidence": [
+        "IUPAC's stereoisomer teaching resource states that amino acids other than glycine have an asymmetric alpha carbon and can form non-superimposable D and L mirror images; it also notes the biological use of L-amino acids as protein building blocks.",
+        "IUPAC-IUB amino-acid nomenclature specifies that amino-acid symbols denote the L configuration unless D or DL is explicitly indicated.",
+        "A primary study in Vibrio cholerae and Bacillus subtilis showed that bacteria produce diverse D-amino acids and that D-amino acids influence peptidoglycan composition and remodeling.",
+        "Peer-reviewed peptide-stability literature reports that D-amino-acid substitution can reduce protease recognition while also altering peptide conformation and target-binding geometry."
+      ],
+      "published_at": "2026-11-16T20:01:20Z",
+      "instagram_media_id": "18115886252155658",
+      "instagram_permalink": "https://www.instagram.com/p/Df0KnenFosW/"
     }
   ],
-  "last_updated": "2026-11-16T16:12:58Z"
+  "last_updated": "2026-11-16T20:01:20Z"
 }

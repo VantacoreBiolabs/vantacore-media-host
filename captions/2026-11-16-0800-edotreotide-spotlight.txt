@@ -1,0 +1,12 @@
+EDOTREOTIDE: 8 RESIDUES. ONE METAL-CATCHING RING.
+
+• Edotreotide—also called DOTA-TOC—is an eight-residue analog of somatostatin.
+• A disulfide bond connects residues 2 and 7, closing the peptide into a compact loop.
+• The peptide portion binds somatostatin receptors, with strong preference for receptor subtype 2.
+• A DOTA chelator at the peptide's amino end can hold a metal ion; the chosen metal label determines how the conjugate is used in research or imaging.
+
+Evidence check: gallium-68–labeled edotreotide is FDA-approved as a PET imaging agent. Receptor uptake can also appear in other tumors, non-tumor conditions, and normal tissues, so uptake alone is not diagnosis.
+
+Which peptide–chelator conjugate should we explain next? Follow for clear, evidence-aware research education.
+
+#VantacoreBiolabs #Edotreotide #DOTATOC #PeptideScience #ResearchLiteracy

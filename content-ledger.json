@@ -7185,7 +7185,45 @@
       "published_at": "2026-11-16T04:05:25Z",
       "instagram_media_id": "18103822898543585",
       "instagram_permalink": "https://www.instagram.com/p/DfydOQjCEGj/"
+    },
+    {
+      "id": "217",
+      "date": "2026-11-16",
+      "subject": "Edotreotide (DOTA-TOC) spotlight: eight-residue somatostatin analog, 2–7 disulfide loop, somatostatin receptor 2 preference, and the distinct metal-chelating role of N-terminal DOTA",
+      "category": "Individual peptide–chelator compound spotlight",
+      "format": "Single-image peptide structure, receptor, and chelator explainer",
+      "headline": "Edotreotide—8 Residues. One Metal-Catching Ring.",
+      "angle": "A beginner-friendly separation of edotreotide's two functional parts: the cyclic peptide provides somatostatin-receptor recognition, while the attached DOTA ring holds a metal label.",
+      "teaching_points": [
+        "Edotreotide, also called DOTA-TOC, is an eight-residue analog of somatostatin.",
+        "A disulfide bond connects residues 2 and 7, closing the peptide into a compact loop.",
+        "The peptide portion binds somatostatin receptors, with strong preference for receptor subtype 2.",
+        "A DOTA chelator at the peptide's amino end can hold a metal ion; the chosen metal label determines how the conjugate is used in research or imaging."
+      ],
+      "limitation": "Gallium-68–labeled edotreotide is FDA-approved as a PET imaging agent, but receptor uptake can also appear in other tumors, non-tumor conditions, and normal tissues, so uptake alone is not diagnosis.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Edotreotide",
+        "#DOTATOC",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-16-0800-edotreotide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-16-0800-edotreotide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/e18310e4e3b65b2c5ef6b47642049c452607f52e/posts/2026-11-16-0800-edotreotide-spotlight.jpg",
+      "evidence": [
+        "IUPHAR/BPS Guide to Pharmacology lists edotreotide (DOTA-TOC) as a somatostatin-receptor agonist, identifies its eight-residue sequence, the 2–7 disulfide bridge, and N-terminal DOTA capable of chelating gallium.",
+        "The IUPHAR somatostatin-receptor review describes DOTA-TOC as an octapeptide analog with predominant affinity for somatostatin receptor subtype 2.",
+        "The FDA label states that gallium Ga 68 edotreotide is a radioactive diagnostic agent for PET localization of somatostatin-receptor-positive neuroendocrine tumors and warns that uptake may occur in other tumors, pathologic conditions, and normal physiologic states.",
+        "Peer-reviewed radiopharmaceutical literature explains that the DOTA chelator coordinates gallium-68 while the peptide provides receptor targeting."
+      ],
+      "published_at": "2026-11-16T16:12:58Z",
+      "instagram_media_id": "18111640607368366",
+      "instagram_permalink": "https://www.instagram.com/p/DfzweyRjjAG/"
     }
   ],
-  "last_updated": "2026-11-16T04:05:25Z"
+  "last_updated": "2026-11-16T16:12:58Z"
 }

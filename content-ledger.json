@@ -7109,7 +7109,45 @@
       "published_at": "2026-11-15T19:59:13Z",
       "instagram_media_id": "17896670952436604",
       "instagram_permalink": "https://www.instagram.com/p/DfxllpHDcji/"
+    },
+    {
+      "id": "215",
+      "date": "2026-11-15",
+      "subject": "Pemvidutide peptide structure and current research status: an investigational 29-amino-acid peptide with balanced GLP-1 and glucagon receptor agonism, an internal lactam bridge, a glycolipid side chain, and an enrolling PERFORMA Phase 3 program",
+      "category": "Individual investigational peptide compound spotlight",
+      "format": "Single-image 29-residue, dual-receptor, lactam-bridge, and glycolipid-side-chain spotlight",
+      "headline": "Pemvidutide—29 Amino Acids, Two Receptor Targets",
+      "angle": "A structure-first beginner spotlight explaining how one 29-amino-acid peptide is designed to engage both GLP-1 and glucagon receptors, with an internal lactam bridge and glycolipid side chain, while clearly separating research activity from regulatory approval.",
+      "teaching_points": [
+        "Pemvidutide is an investigational 29-amino-acid peptide.",
+        "It is designed as a dual agonist at the GLP-1 and glucagon receptors.",
+        "An internal lactam bridge connects positions 16 and 20 in the peptide chain.",
+        "A glycolipid side chain is designed to prolong its persistence in research studies."
+      ],
+      "limitation": "Pemvidutide remains investigational. The PERFORMA Phase 3 study is enrolling as of November 15, 2026; safety and efficacy are not established, and the compound is not FDA-approved or approved by another regulatory authority.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pemvidutide",
+        "#DualAgonist",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-15-1600-pemvidutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-15-1600-pemvidutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c3d593163df8b91cc70cdd61e9ff76463865067e/posts/2026-11-15-1600-pemvidutide-spotlight.jpg",
+      "evidence": [
+        "The WHO proposed INN record specifies pemvidutide as a 29-amino-acid peptide, identifies glucagon and GLP-1 receptor agonism, and documents its 16–20 lactam bridge and glycolipid-modified lysine.",
+        "A peer-reviewed physiology review describes pemvidutide as a unimolecular 29-amino-acid peptide with activity at both GLP-1 and glucagon receptors and a glycolipid conjugate designed for prolonged persistence.",
+        "Altimmune's current pipeline states that pemvidutide is investigational, not approved by FDA or another regulatory authority, and that safety and efficacy have not been established.",
+        "Altimmune's November 12, 2026 update reports that the global PERFORMA Phase 3 MASH trial is progressing, while the current clinical-trials page lists the study as enrolling."
+      ],
+      "published_at": "2026-11-16T00:00:22Z",
+      "instagram_media_id": "17979022677177691",
+      "instagram_permalink": "https://www.instagram.com/p/DfyBK2XCKx_/"
     }
   ],
-  "last_updated": "2026-11-15T19:59:13Z"
+  "last_updated": "2026-11-16T00:00:22Z"
 }

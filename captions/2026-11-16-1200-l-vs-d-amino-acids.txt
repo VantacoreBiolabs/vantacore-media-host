@@ -1,0 +1,12 @@
+L vs D AMINO ACIDS: SAME ATOMS. MIRROR-IMAGE ARRANGEMENT.
+
+• Most amino acids can exist as L and D forms: non-superimposable mirror images with the same atom connections but different 3D arrangements.
+• Glycine is the exception because its central carbon does not have four different groups, so it is not chiral.
+• Ribosomes build proteins overwhelmingly from L-amino acids.
+• D-amino acids still occur naturally, including D-alanine and D-glutamate in bacterial cell-wall material.
+
+Evidence check: changing an L residue to a D residue can reduce recognition by some proteases, but it can also change peptide shape and target binding. The result depends on the residue, position, sequence, and assay—not the letter alone.
+
+Which peptide-chemistry comparison should we simplify next? Follow for clear, evidence-aware research education.
+
+#VantacoreBiolabs #AminoAcids #Stereochemistry #PeptideScience #ResearchLiteracy

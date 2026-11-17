@@ -1,0 +1,14 @@
+SAME ENZYME. DIFFERENT ROADBLOCK.
+
+Competitive and noncompetitive inhibition both slow an enzyme—but they do it differently:
+
+• Competitive: substrate and inhibitor cannot bind at the same time.
+• In the ideal competitive model, enough substrate can outcompete the inhibitor.
+• Pure noncompetitive: the inhibitor binds away from the substrate's active site.
+• Pure noncompetitive inhibition lowers Vmax while Km stays the same.
+
+Evidence check: pure noncompetitive inhibition is a special case of mixed inhibition. Many real enzyme systems do not fit either ideal model perfectly.
+
+Which enzyme-kinetics term should we simplify next? Follow @vantacorebiolabs for clear research education.
+
+#VantacoreBiolabs #EnzymeKinetics #CompetitiveInhibition #BiochemistryBasics #ResearchLiteracy

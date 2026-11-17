@@ -7375,7 +7375,45 @@
       "published_at": "2026-11-17T16:03:50Z",
       "instagram_media_id": "17936951880143416",
       "instagram_permalink": "https://www.instagram.com/p/Df2UPUIDTzR/"
+    },
+    {
+      "id": "222",
+      "date": "2026-11-17",
+      "subject": "Competitive vs pure noncompetitive enzyme inhibition: mutually exclusive substrate/inhibitor binding versus equal inhibitor binding to free enzyme and enzyme–substrate complex, with their ideal Michaelis–Menten effects on apparent Km and Vmax",
+      "category": "Easy A-vs-B beginner enzyme-kinetics concept",
+      "format": "Single-image side-by-side active-site and separate-site inhibition explainer",
+      "headline": "Same Enzyme. Different Roadblock.",
+      "angle": "A beginner-friendly comparison that distinguishes mutually exclusive competitive binding from the special pure noncompetitive case, while showing how each idealized model changes apparent Km and Vmax.",
+      "teaching_points": [
+        "In competitive inhibition, inhibitor and substrate binding are mutually exclusive; many competitive inhibitors occupy the active site.",
+        "In the ideal competitive model, increasing substrate can outcompete the inhibitor: apparent Km rises while apparent Vmax is unchanged.",
+        "In pure noncompetitive inhibition, inhibitor binds equally well to free enzyme and the enzyme–substrate complex at a site distinct from the substrate's active site.",
+        "Pure noncompetitive inhibition lowers apparent Vmax while leaving apparent Km unchanged; increasing substrate does not restore the maximum rate."
+      ],
+      "limitation": "Pure noncompetitive inhibition is a special case within mixed inhibition. Many real enzyme systems do not fit either ideal model cleanly, so mechanism should be established from experimental kinetic data rather than the diagram alone.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#EnzymeKinetics",
+        "#CompetitiveInhibition",
+        "#BiochemistryBasics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-17-1200-competitive-vs-noncompetitive.jpg"
+      ],
+      "caption_file": "captions/2026-11-17-1200-competitive-vs-noncompetitive.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b21152d89da6e58cc1a591c3a6deafd71542ea0c/posts/2026-11-17-1200-competitive-vs-noncompetitive.jpg",
+      "evidence": [
+        "The NIH Assay Guidance Manual explains that competitive inhibitor and substrate binding are mutually exclusive, with increased apparent Km and unchanged apparent Vmax.",
+        "The NIH Assay Guidance Manual defines noncompetitive inhibition as equal inhibitor binding to free enzyme and enzyme–substrate complex, lowering apparent Vmax without changing apparent Km.",
+        "The same manual identifies unequal inhibitor affinity for free enzyme versus enzyme–substrate complex as mixed inhibition, making pure noncompetitive inhibition the equal-affinity special case.",
+        "Peer-reviewed enzyme-inhibition literature notes that terminology can be ambiguous and recommends accurate curve fitting and mechanistic analysis rather than relying on simplified reciprocal plots alone."
+      ],
+      "published_at": "2026-11-17T20:06:43Z",
+      "instagram_media_id": "18122021614765278",
+      "instagram_permalink": "https://www.instagram.com/p/Df2wCVbjYD-/"
     }
   ],
-  "last_updated": "2026-11-17T16:03:50Z"
+  "last_updated": "2026-11-17T20:06:43Z"
 }

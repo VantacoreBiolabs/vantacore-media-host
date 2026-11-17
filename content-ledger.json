@@ -7337,7 +7337,45 @@
       "published_at": "2026-11-17T04:06:44Z",
       "instagram_media_id": "18113149559184806",
       "instagram_permalink": "https://www.instagram.com/p/Df1CKqTiB5z/"
+    },
+    {
+      "id": "221",
+      "date": "2026-11-17",
+      "subject": "Aprotinin spotlight: a bovine 58-residue single-chain Kunitz-family peptide stabilized by three disulfide bridges whose binding loop reversibly inhibits multiple serine proteases",
+      "category": "Individual peptide compound spotlight",
+      "format": "Single-image folded mini-protein, disulfide-bridge, and protease-cleft explainer",
+      "headline": "Aprotinin—58 Residues. Three Disulfide Bridges. A Multi-Protease Inhibitor.",
+      "angle": "A beginner-friendly structure-to-function spotlight showing how three disulfide bridges stabilize a compact peptide fold and how one binding loop can occupy the active sites of several related serine proteases.",
+      "teaching_points": [
+        "Aprotinin, also called bovine pancreatic trypsin inhibitor, is a single-chain peptide with 58 amino-acid residues.",
+        "Three disulfide bridges stabilize its compact fold.",
+        "It is the classic member of the Kunitz protease-inhibitor family.",
+        "A binding loop occupies enzyme active sites, allowing aprotinin to reversibly inhibit several serine proteases, including trypsin, plasmin, and kallikrein."
+      ],
+      "limitation": "Protease inhibitor is not one-target shorthand. Aprotinin binds different proteases with different strengths, so activity in one assay does not automatically predict equal inhibition of another enzyme.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Aprotinin",
+        "#ProteaseInhibitor",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-17-0800-aprotinin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-17-0800-aprotinin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ca14bdad6523a416b47e895c65777ac38a5c5435/posts/2026-11-17-0800-aprotinin-spotlight.jpg",
+      "evidence": [
+        "IUPHAR/BPS classifies aprotinin as a peptide, identifies it as bovine pancreatic trypsin inhibitor, and describes it as a 58-residue inhibitor of plasmin and other proteolytic enzymes.",
+        "RCSB Protein Data Bank structures identify aprotinin/BPTI chains as 58 residues and show complexes with trypsin-like serine proteases.",
+        "Structural product documentation describes aprotinin as one 58-residue chain cross-linked by three disulfide bridges and as a reversible competitive inhibitor that forms stable complexes with several serine proteases.",
+        "Peer-reviewed Kunitz-family literature describes the family as roughly 60-residue inhibitors stabilized by three disulfide bridges and notes their activity against multiple serine proteases."
+      ],
+      "published_at": "2026-11-17T16:03:50Z",
+      "instagram_media_id": "17936951880143416",
+      "instagram_permalink": "https://www.instagram.com/p/Df2UPUIDTzR/"
     }
   ],
-  "last_updated": "2026-11-17T04:06:44Z"
+  "last_updated": "2026-11-17T16:03:50Z"
 }

@@ -1,0 +1,12 @@
+ANALYTICAL LINEARITY: DOES DOUBLE THE AMOUNT MEAN DOUBLE THE SIGNAL?
+
+• Linearity asks whether an analytical procedure's response changes predictably with known concentration or amount across a stated range.
+• It is assessed using several levels distributed across that range—not a single comparison point.
+• A fitted line summarizes the trend; residuals show how far each observed point sits from the model's prediction.
+• The useful question is whether the model performs acceptably across the intended range, not whether the graph merely looks straight.
+
+Evidence check: a high correlation coefficient or R² alone does not establish linearity. Slope, intercept, residual patterns, range, and predefined performance criteria all matter. Some procedures are legitimately nonlinear and require a justified model instead.
+
+Which laboratory-quality term should we simplify next? Follow for clear, evidence-aware research education.
+
+#VantacoreBiolabs #MethodValidation #AnalyticalScience #DataQuality #ResearchLiteracy

@@ -7261,7 +7261,45 @@
       "published_at": "2026-11-16T20:01:20Z",
       "instagram_media_id": "18115886252155658",
       "instagram_permalink": "https://www.instagram.com/p/Df0KnenFosW/"
+    },
+    {
+      "id": "219",
+      "date": "2026-11-16",
+      "subject": "Plerixafor compound spotlight: a synthetic two-ring bicyclam small molecule—not a peptide—that antagonizes CXCR4, interrupts CXCL12 binding, and mobilizes hematopoietic stem and progenitor cells from bone marrow into circulation",
+      "category": "Individual non-peptide research-compound spotlight",
+      "format": "Single-image bicyclam structure and CXCR4 mechanism explainer",
+      "headline": "Plerixafor—Not a Peptide. A Two-Ring CXCR4 Blocker.",
+      "angle": "A beginner-friendly corrective spotlight that distinguishes plerixafor from peptides, connects its unusual two-cyclam-ring structure to CXCR4 antagonism, and explains the CXCR4–CXCL12 retention signal without implying broad regenerative effects.",
+      "teaching_points": [
+        "Plerixafor is a synthetic bicyclam small molecule, not a peptide.",
+        "Its structure contains two cyclam rings joined by a central linker.",
+        "It antagonizes CXCR4, blocking the receptor's interaction with the signaling protein CXCL12.",
+        "The CXCR4–CXCL12 pair helps retain blood-forming stem and progenitor cells in bone marrow; interrupting that signal increases their movement into circulation."
+      ],
+      "limitation": "Plerixafor is FDA-approved for a specific stem-cell collection setting alongside G-CSF. That regulated use does not establish a general regeneration benefit or support unsupervised use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Plerixafor",
+        "#CXCR4",
+        "#ResearchCompounds",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-16-1600-plerixafor-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-16-1600-plerixafor-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/10e370ca61456ab2d0adc5b1d7a49004e9d35ea9/posts/2026-11-16-1600-plerixafor-spotlight.jpg",
+      "evidence": [
+        "The FDA label describes plerixafor as a hematopoietic stem-cell mobilizer with two tetraazacyclotetradecane ring systems connected through a phenylene-bis(methylene) linker.",
+        "The FDA label states that plerixafor inhibits CXCR4, blocks binding of its ligand SDF-1 alpha/CXCL12, and disrupts a pathway involved in retaining hematopoietic stem cells in the marrow compartment.",
+        "IUPHAR/BPS classifies plerixafor (AMD3100) as a synthetic organic CXCR4 antagonist and approved drug.",
+        "Peer-reviewed pharmacology literature describes plerixafor as a bicyclam comprising two cyclam rings joined by a phenylenebis(methylene) linker and explains its reversible disruption of CXCR4-CXCL12-mediated cell retention."
+      ],
+      "published_at": "2026-11-17T00:01:27Z",
+      "instagram_media_id": "18200932990391518",
+      "instagram_permalink": "https://www.instagram.com/p/Df0mGAPCNIn/"
     }
   ],
-  "last_updated": "2026-11-16T20:01:20Z"
+  "last_updated": "2026-11-17T00:01:27Z"
 }

@@ -7299,7 +7299,45 @@
       "published_at": "2026-11-17T00:01:27Z",
       "instagram_media_id": "18200932990391518",
       "instagram_permalink": "https://www.instagram.com/p/Df0mGAPCNIn/"
+    },
+    {
+      "id": "220",
+      "date": "2026-11-16",
+      "subject": "Analytical linearity basics: whether response changes predictably with known concentration or amount across a stated range, why multiple levels and regression residuals matter, and why a high R-squared alone is insufficient",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image calibration-line and residual-pattern explainer",
+      "headline": "Analytical Linearity—Does Double the Amount Mean Double the Signal?",
+      "angle": "A beginner-friendly explanation that linearity is evidence about model performance across a defined range—not simply a straight-looking graph or one impressive correlation statistic.",
+      "teaching_points": [
+        "Linearity asks whether an analytical procedure's response changes predictably with known concentration or amount across a stated range.",
+        "It is assessed using several levels distributed across that range—not a single comparison point.",
+        "A fitted line summarizes the trend; residuals show how far each observed point sits from the model's prediction.",
+        "The useful question is whether the model performs acceptably across the intended range, not whether the graph merely looks straight."
+      ],
+      "limitation": "A high correlation coefficient or R-squared alone does not establish linearity. Slope, intercept, residual patterns, range, and predefined performance criteria all matter. Some procedures are legitimately nonlinear and require a justified model instead.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MethodValidation",
+        "#AnalyticalScience",
+        "#DataQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-16-2000-analytical-linearity.jpg"
+      ],
+      "caption_file": "captions/2026-11-16-2000-analytical-linearity.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c1d6c9f1a2aa7ac84851997a3284bbdc6cd73ec6/posts/2026-11-16-2000-analytical-linearity.jpg",
+      "evidence": [
+        "FDA's final ICH Q2(R2) guidance recommends assessing linearity with concentrations distributed across the range and reports that regression statistics, slope, intercept, plots, and deviations of actual points from the regression line are relevant evidence.",
+        "ICH Q2(R2) recommends at least five concentrations appropriately distributed across the range when assessing linearity during validation.",
+        "The FDA/ICH guidance notes that nonrandom residual patterns should be assessed and that some analytical procedures legitimately have nonlinear responses requiring a suitable justified model.",
+        "Eurachem's 2025 validation guide recommends plotting response against concentration, examining regression statistics, and evaluating residuals; random residuals around zero support linearity while systematic patterns may indicate nonlinearity or changing variance."
+      ],
+      "published_at": "2026-11-17T04:06:44Z",
+      "instagram_media_id": "18113149559184806",
+      "instagram_permalink": "https://www.instagram.com/p/Df1CKqTiB5z/"
     }
   ],
-  "last_updated": "2026-11-17T00:01:27Z"
+  "last_updated": "2026-11-17T04:06:44Z"
 }

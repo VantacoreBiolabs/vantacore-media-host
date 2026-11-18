@@ -1,0 +1,14 @@
+WHEN MORE LOOKS LIKE LESS: THE HIGH-DOSE HOOK EFFECT.
+
+Some sandwich immunoassays can behave in a counterintuitive way:
+
+• The target normally forms a bridge between capture and detection antibodies.
+• More complete bridges usually create a stronger signal.
+• At an extremely high target concentration, antibodies can become saturated separately.
+• With fewer complete bridges, the signal may fall and the result can appear falsely low.
+
+Evidence check: not every immunoassay shows a hook effect. The risk depends on the assay design, target, and concentration range. When appropriate, validated dilution checks can reveal an unexpectedly suppressed signal.
+
+Which laboratory concept should we simplify next? Follow @vantacorebiolabs for clear research education.
+
+#VantacoreBiolabs #HookEffect #Immunoassay #LabQuality #ResearchLiteracy

@@ -1,0 +1,12 @@
+α-HELIX VS β-SHEET: SAME BACKBONE, TWO LOCAL FOLDS
+
+• Both are recurring local shapes of a peptide backbone, stabilized mainly by hydrogen bonds.
+• An α-helix coils within one continuous chain segment. Its backbone hydrogen bonds typically connect residue i with residue i+4.
+• A β-sheet forms when extended β-strands sit beside one another and hydrogen-bond across neighboring strands.
+• β-strands may run in the same direction (parallel) or opposite directions (antiparallel).
+
+Evidence check: These are local secondary-structure patterns—not a protein's complete 3D structure. Sequence, loops, side-chain packing, solvent, and the surrounding molecular environment help determine the full fold.
+
+Which protein-shape concept should we explain next? Follow @vantacorebiolabs for quick, research-first science.
+
+#VantacoreBiolabs #ProteinStructure #AlphaHelix #BetaSheet #ScienceExplained

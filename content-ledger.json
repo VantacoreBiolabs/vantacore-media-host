@@ -7451,7 +7451,45 @@
       "published_at": "2026-11-18T00:03:34Z",
       "instagram_media_id": "18097665122676955",
       "instagram_permalink": "https://www.instagram.com/p/Df3LIexAqI5/"
+    },
+    {
+      "id": "224",
+      "date": "2026-11-17",
+      "subject": "High-dose hook effect in sandwich immunoassays: extreme target excess can saturate capture and detection antibodies separately, reduce complete antibody–target–antibody bridges, suppress signal, and produce falsely low results",
+      "category": "Research and laboratory-quality literacy",
+      "format": "Single-image normal-sandwich versus antigen-excess signal comparison",
+      "headline": "When More Looks Like Less—The High-Dose Hook Effect",
+      "angle": "A beginner-friendly explanation of the counterintuitive high-dose hook effect: the normal signal-building sandwich is compared with target excess that prevents complete bridges and can make a very high concentration appear low.",
+      "teaching_points": [
+        "A sandwich immunoassay normally measures a target by forming a bridge between capture and detection antibodies.",
+        "As more complete antibody–target–antibody bridges form, the assay signal usually rises.",
+        "At extremely high target concentrations, capture and detection antibodies can become saturated separately instead of forming complete bridges.",
+        "The reduced number of complete bridges can suppress signal and produce a falsely low or false-negative result."
+      ],
+      "limitation": "Not every immunoassay shows a hook effect. Risk depends on assay design, target, and concentration range; when appropriate, laboratories evaluate high-dose behavior and use validated dilution checks to investigate unexpectedly suppressed signals.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#HookEffect",
+        "#Immunoassay",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-17-2000-high-dose-hook-effect.jpg"
+      ],
+      "caption_file": "captions/2026-11-17-2000-high-dose-hook-effect.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/baa5d0ab67a5c180d42341d4fb1d931af8bbd16d/posts/2026-11-17-2000-high-dose-hook-effect.jpg",
+      "evidence": [
+        "An FDA special-controls guidance states that some immunoassays may show a high-dose hook effect in which assay response falls at high concentrations and recommends testing beyond the reportable range when appropriate.",
+        "A primary comparison of six automated hCG assays found a clear high-dose hook effect in four platforms, showing that susceptibility depends on the assay method.",
+        "A primary study of sandwich lateral-flow immunoassays demonstrated that extreme antigen concentrations can reduce test-line intensity and produce false-negative results.",
+        "A primary ferritin-immunoassay study found hook-effect behavior at very high concentrations and showed that validated upfront dilution reduced the risk of falsely low reporting."
+      ],
+      "published_at": "2026-11-18T04:07:58Z",
+      "instagram_media_id": "18655412023032101",
+      "instagram_permalink": "https://www.instagram.com/p/Df3nG01CNnJ/"
     }
   ],
-  "last_updated": "2026-11-18T00:03:34Z"
+  "last_updated": "2026-11-18T04:07:58Z"
 }

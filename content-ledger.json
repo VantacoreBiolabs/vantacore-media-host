@@ -7489,7 +7489,44 @@
       "published_at": "2026-11-18T04:07:58Z",
       "instagram_media_id": "18655412023032101",
       "instagram_permalink": "https://www.instagram.com/p/Df3nG01CNnJ/"
+    },
+    {
+      "id": "225",
+      "date": "2026-11-18",
+      "subject": "Relamorelin (RM-131) spotlight: a synthetic five-residue ghrelin analog and GHSR1a agonist studied for gastrointestinal motility",
+      "category": "Individual investigational peptide compound spotlight",
+      "format": "Single-image five-residue peptide and ghrelin-receptor signaling explainer",
+      "headline": "Relamorelin—Five Residues. One Ghrelin Receptor.",
+      "angle": "A structure-first beginner spotlight explaining how the pentapeptide relamorelin mimics ghrelin-receptor signaling, while clearly separating its experimental mechanism from clinical evidence and development status.",
+      "teaching_points": [
+        "Relamorelin, also called RM-131, is a synthetic pentapeptide.",
+        "It is an analog of ghrelin, a peptide involved in signaling through the ghrelin receptor.",
+        "Relamorelin activates GHSR1a, the ghrelin receptor.",
+        "It was designed as a more stable and potent ghrelin-receptor agonist than native ghrelin and was studied for gastrointestinal motility."
+      ],
+      "limitation": "Relamorelin remains investigational. Multiple Phase 3 studies were terminated after the sponsor ended the development program for business reasons; that development history does not establish clinical benefit.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Relamorelin",
+        "#GhrelinReceptor",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-18-0800-relamorelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-18-0800-relamorelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/9d7bea615f4a5f540f483908290796cdec531e95/posts/2026-11-18-0800-relamorelin-spotlight.jpg",
+      "evidence": [
+        "A peer-reviewed review identifies relamorelin as a synthetic pentapeptide ghrelin analog that activates the GHS-1a/ghrelin receptor and was engineered for greater stability and potency than native ghrelin.",
+        "The FDA Global Substance Registration System lists relamorelin as the official substance name and classifies it as a ghrelin peptide analogue.",
+        "ClinicalTrials.gov records NCT03383146 and NCT03420781 identify Phase 3 relamorelin studies as terminated because the development program was ended solely for a business decision."
+      ],
+      "published_at": "2026-11-18T16:09:54Z",
+      "instagram_media_id": "18379197013244084",
+      "instagram_permalink": "https://www.instagram.com/p/Df45ukejiMC/"
     }
   ],
-  "last_updated": "2026-11-18T04:07:58Z"
+  "last_updated": "2026-11-18T16:09:54Z"
 }

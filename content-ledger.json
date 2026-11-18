@@ -7413,7 +7413,45 @@
       "published_at": "2026-11-17T20:06:43Z",
       "instagram_media_id": "18122021614765278",
       "instagram_permalink": "https://www.instagram.com/p/Df2wCVbjYD-/"
+    },
+    {
+      "id": "223",
+      "date": "2026-11-17",
+      "subject": "Omiganan spotlight: a synthetic 12-residue, C-terminally amidated, tryptophan-rich cationic analog of indolicidin studied for microbial-membrane interactions and antimicrobial activity",
+      "category": "Individual investigational peptide compound spotlight",
+      "format": "Single-image 12-residue peptide and microbial-membrane interaction explainer",
+      "headline": "Omiganan—12 Amino Acids. Four Tryptophans.",
+      "angle": "A structure-first beginner spotlight explaining how a short peptide enriched in tryptophan and positively charged residues is studied for interactions with microbial membranes, while separating laboratory activity from demonstrated clinical benefit.",
+      "teaching_points": [
+        "Omiganan is a synthetic 12-amino-acid peptide with the sequence ILRWPWWPWRRK and an amidated C-terminus.",
+        "It was designed as an analog of indolicidin, an innate-defense peptide originally isolated from bovine neutrophils.",
+        "Its sequence contains four tryptophans plus multiple positively charged arginine and lysine residues.",
+        "Laboratory studies connect its antimicrobial activity with interactions at microbial membranes, although the exact mode of action is not fully settled."
+      ],
+      "limitation": "Laboratory antimicrobial activity does not establish clinical benefit. A Phase 3 catheter-site study missed its primary efficacy endpoint, and later small clinical studies have produced limited or mixed efficacy findings.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Omiganan",
+        "#AntimicrobialPeptides",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-17-1600-omiganan-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-17-1600-omiganan-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/6d58d80ff525b58e3811e2efadb23b691680eba2/posts/2026-11-17-1600-omiganan-spotlight.jpg",
+      "evidence": [
+        "A peer-reviewed antimicrobial study identifies omiganan pentahydrochloride as a synthetic cationic 12-residue peptide with the sequence ILRWPWWPWRRK-amide and as an analog of bovine-neutrophil indolicidin.",
+        "IUPHAR/BPS Guide to Pharmacology classifies omiganan as a peptide, lists the synonyms MBI 226 and CLS001, and describes it as an indolicidin analog in the cathelicidin family.",
+        "Peer-reviewed mechanistic literature states that membrane interaction is fundamental to the activity of indolicidin analogs while noting that omiganan's precise mode and site of action are not fully settled.",
+        "A peer-reviewed review reports that a Phase 3 catheter study missed its primary efficacy endpoint; a later randomized proof-of-concept trial in seborrheic dermatitis found no significant clinical improvement versus placebo."
+      ],
+      "published_at": "2026-11-18T00:03:34Z",
+      "instagram_media_id": "18097665122676955",
+      "instagram_permalink": "https://www.instagram.com/p/Df3LIexAqI5/"
     }
   ],
-  "last_updated": "2026-11-17T20:06:43Z"
+  "last_updated": "2026-11-18T00:03:34Z"
 }

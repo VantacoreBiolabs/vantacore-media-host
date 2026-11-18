@@ -7526,7 +7526,44 @@
       "published_at": "2026-11-18T16:09:54Z",
       "instagram_media_id": "18379197013244084",
       "instagram_permalink": "https://www.instagram.com/p/Df45ukejiMC/"
+    },
+    {
+      "id": "226",
+      "date": "2026-11-18",
+      "subject": "Alpha helix versus beta sheet: two common local peptide-backbone arrangements distinguished by within-helix i-to-i+4 hydrogen bonding versus hydrogen bonding between neighboring extended beta strands",
+      "category": "Easy A-vs-B beginner peptide-structure comparison",
+      "format": "Single-image coiled alpha-helix versus pleated beta-sheet explainer",
+      "headline": "α-Helix vs β-Sheet—Same Backbone. Two Local Folds.",
+      "angle": "A fast visual comparison showing how the same peptide backbone can form a coiled alpha helix or a pleated beta sheet through different repeating hydrogen-bond patterns, while distinguishing local secondary structure from the complete three-dimensional protein fold.",
+      "teaching_points": [
+        "Alpha helices and beta sheets are recurring local arrangements of the peptide backbone stabilized mainly by hydrogen bonds.",
+        "A classic alpha helix is a right-handed coil with backbone hydrogen bonding between residue i and residue i+4.",
+        "A beta sheet forms when two or more extended beta strands align and hydrogen-bond across neighboring strands.",
+        "Beta strands may align in the same N-to-C direction (parallel) or in opposite directions (antiparallel)."
+      ],
+      "limitation": "Alpha helices and beta sheets describe local secondary-structure patterns, not a protein's complete three-dimensional structure or function. Sequence, loops, side-chain packing, solvent, and the surrounding molecular environment help determine the full fold.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ProteinStructure",
+        "#AlphaHelix",
+        "#BetaSheet",
+        "#ScienceExplained"
+      ],
+      "media": [
+        "posts/2026-11-18-1200-alpha-helix-vs-beta-sheet.jpg"
+      ],
+      "caption_file": "captions/2026-11-18-1200-alpha-helix-vs-beta-sheet.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/86ddd84800de1255927ff9b1bba9e92a5a190e91/posts/2026-11-18-1200-alpha-helix-vs-beta-sheet.jpg",
+      "evidence": [
+        "RCSB PDB-101 explains that alpha helices form spring-shaped structures with hydrogen bonds within the helix, whereas extended beta strands hydrogen-bond with neighboring strands to form beta sheets.",
+        "A peer-reviewed protein-structure review describes the classic right-handed alpha helix as using backbone i-to-i+4 hydrogen bonds and beta sheets as hydrogen-bonded assemblies of parallel or antiparallel strands.",
+        "A peer-reviewed structural-biology explainer notes that alpha-helix side chains point outward and that beta strands can run in parallel or antiparallel orientations; these are local secondary structures rather than the full tertiary fold."
+      ],
+      "published_at": "2026-11-18T19:59:14Z",
+      "instagram_media_id": "17895489855684096",
+      "instagram_permalink": "https://www.instagram.com/p/Df5T-Z9Efjf/"
     }
   ],
-  "last_updated": "2026-11-18T16:09:54Z"
+  "last_updated": "2026-11-18T19:59:14Z"
 }

@@ -1,0 +1,12 @@
+CARRYOVER: THE SAMPLE IS GONE, BUT ITS SIGNAL ISN'T
+
+• Carryover happens when residual analyte from one sample remains in an analytical instrument and alters the next measured result.
+• It is especially important when a high-concentration sample is followed by a low sample or blank.
+• Residue may remain along parts of the injection path, producing a small “ghost” signal in the following measurement.
+• A common validation check runs a blank after the highest calibration standard to look for that residual response.
+
+Evidence check: A signal in the next blank is a clue—not automatic proof of carryover. Contamination, sample handling, and other analytical problems must also be investigated, using predefined method-specific acceptance limits.
+
+Which laboratory-quality concept should we simplify next? Follow @vantacorebiolabs for quick, evidence-aware research education.
+
+#VantacoreBiolabs #Carryover #Bioanalysis #LabQuality #ResearchLiteracy

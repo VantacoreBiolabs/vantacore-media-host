@@ -7638,7 +7638,45 @@
       "published_at": "2026-11-19T04:03:33Z",
       "instagram_media_id": "18117927500035600",
       "instagram_permalink": "https://www.instagram.com/p/Df6LZGtisvh/"
+    },
+    {
+      "id": "229",
+      "date": "2026-11-19",
+      "subject": "Elcatonin: a synthetic 31-residue eel-calcitonin analog whose residues 1 and 7 are joined by an α-aminosuberic-acid carbon linkage instead of the usual disulfide bridge",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image engineered peptide-loop spotlight",
+      "headline": "Elcatonin—A Calcitonin Loop, Rebuilt.",
+      "angle": "A beginner-friendly structural spotlight on how elcatonin preserves the compact 1-to-7 loop of an eel-calcitonin analog while replacing the sulfur-containing disulfide bridge with a carbon linkage, paired with a model-system evidence limitation.",
+      "teaching_points": [
+        "Elcatonin is a synthetic 31-residue analog of eel calcitonin.",
+        "Its compact N-terminal loop joins residues 1 and 7.",
+        "An α-aminosuberic-acid carbon linkage replaces the usual Cys1–Cys7 disulfide bridge.",
+        "Its reported molecular target is CALCR, the calcitonin receptor."
+      ],
+      "limitation": "The molecular structure is well defined, but much of the mechanistic evidence comes from cell and animal models. A shared receptor target does not make calcitonin analogs interchangeable, and regulatory status is product- and region-specific.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Elcatonin",
+        "#Calcitonin",
+        "#PeptideStructure",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-19-0800-elcatonin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-19-0800-elcatonin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/9783e8e46d97415a2817220290e7dfa0d0b41c76/posts/2026-11-19-0800-elcatonin-spotlight.jpg",
+      "evidence": [
+        "FDA Global Substance Registration System identifies elcatonin as a protein substance, provides its validated 31-residue sequence, and records the α-aminosuberic-acid structural modification.",
+        "NCBI MeSH and PubChem describe elcatonin as a deamino dicarba analog of eel calcitonin in which the synthetic 1-to-7 S–S bridge is displaced by a C–C bond.",
+        "KEGG DRUG lists elcatonin as a calcitonin analog targeting CALCR, a secretin-family G-protein-coupled receptor.",
+        "Peer-reviewed osteoclast studies report elcatonin-associated calcitonin-receptor signaling and PKA activation in experimental cell and animal models, supporting the stated model-system limitation."
+      ],
+      "published_at": "2026-11-19T16:09:21Z",
+      "instagram_media_id": "17918670774470765",
+      "instagram_permalink": "https://www.instagram.com/p/Df7edA_iEXp/"
     }
   ],
-  "last_updated": "2026-11-19T04:03:33Z"
+  "last_updated": "2026-11-19T16:09:21Z"
 }

@@ -7676,7 +7676,45 @@
       "published_at": "2026-11-19T16:09:21Z",
       "instagram_media_id": "17918670774470765",
       "instagram_permalink": "https://www.instagram.com/p/Df7edA_iEXp/"
+    },
+    {
+      "id": "230",
+      "date": "2026-11-19",
+      "subject": "Agonist versus antagonist: two receptor-binding behaviors that produce different signaling outcomes",
+      "category": "Easy A-vs-B beginner receptor-pharmacology concept",
+      "format": "Single-image side-by-side receptor activation versus blockade comparison",
+      "headline": "Agonist vs Antagonist—Same Receptor. Different Result.",
+      "angle": "A beginner-friendly visual contrasting receptor activation by an agonist with reduction of agonist signaling by an antagonist, plus a nuance box covering partial agonists, inverse agonists, and assay dependence.",
+      "teaching_points": [
+        "An agonist binds to and activates a receptor.",
+        "Receptor activation initiates signaling linked to a biological response.",
+        "An antagonist binds without activating the receptor and attenuates an agonist's effect.",
+        "Antagonism may involve competition at the agonist site or interference through another receptor site or mechanism."
+      ],
+      "limitation": "Receptor pharmacology is not always binary. Partial agonists produce submaximal activation, inverse agonists can suppress constitutive receptor activity, and observed classifications can depend on the receptor, signaling pathway, and assay system.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Agonist",
+        "#Antagonist",
+        "#ReceptorBiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-19-1200-agonist-vs-antagonist.jpg"
+      ],
+      "caption_file": "captions/2026-11-19-1200-agonist-vs-antagonist.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/01f0eaf14666b41bf26a97cd3fa44cb40d0e7063/posts/2026-11-19-1200-agonist-vs-antagonist.jpg",
+      "evidence": [
+        "IUPHAR/British Pharmacological Society defines an agonist as a compound that binds to and activates a receptor.",
+        "IUPHAR/British Pharmacological Society defines an antagonist as a compound that attenuates the effect of an agonist and distinguishes competitive from non-competitive forms.",
+        "IUPHAR receptor education describes partial agonists as receptor activators that cannot produce the same maximal signal as a full agonist even at full occupancy.",
+        "NCBI's GPCR pharmacology chapter explains that inverse agonists can suppress constitutive signaling and that functional behavior may vary by pathway, receptor reserve, and assay."
+      ],
+      "published_at": "2026-11-19T20:03:04Z",
+      "instagram_media_id": "18001871441823648",
+      "instagram_permalink": "https://www.instagram.com/p/Df75NZFlhCt/"
     }
   ],
-  "last_updated": "2026-11-19T16:09:21Z"
+  "last_updated": "2026-11-19T20:03:04Z"
 }

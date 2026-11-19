@@ -7563,7 +7563,44 @@
       "published_at": "2026-11-18T19:59:14Z",
       "instagram_media_id": "17895489855684096",
       "instagram_permalink": "https://www.instagram.com/p/Df5T-Z9Efjf/"
+    },
+    {
+      "id": "227",
+      "date": "2026-11-18",
+      "subject": "Pegcetacoplan spotlight: a symmetric PEGylated complement inhibitor built from two identical 15-residue peptide portions attached to a linear 40-kDa PEG chain, with peptide-mediated binding to C3 and C3b",
+      "category": "Individual engineered peptide compound spotlight",
+      "format": "Single-image two-peptide-arm, PEG-linker, and complement-C3 target explainer",
+      "headline": "Pegcetacoplan—Two Peptides. One Complement Target.",
+      "angle": "A structure-first beginner spotlight showing how two matching peptide portions and one long PEG linker form a symmetric complement inhibitor, while explaining that central complement blockade also carries an important host-defense limitation.",
+      "teaching_points": [
+        "Pegcetacoplan is a symmetrical molecule composed of two identical 15-residue peptide portions.",
+        "The peptide portions are covalently attached to opposite ends of a linear 40-kDa polyethylene glycol chain.",
+        "The peptide portions bind complement protein C3 and its activation fragment C3b.",
+        "Binding regulates C3 cleavage and the generation of downstream complement effectors."
+      ],
+      "limitation": "Complement C3 contributes to host defense as well as inflammatory signaling. Current FDA labeling for pegcetacoplan carries a boxed warning for serious and life-threatening infections caused by encapsulated bacteria.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pegcetacoplan",
+        "#ComplementSystem",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-18-1600-pegcetacoplan-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-18-1600-pegcetacoplan-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/026ac3b3313227257f4435f6f2d60d2b5244ab73/posts/2026-11-18-1600-pegcetacoplan-spotlight.jpg",
+      "evidence": [
+        "The current FDA prescribing information describes pegcetacoplan as a symmetric molecule composed of two identical pentadecapeptides covalently attached to the ends of a linear 40-kDa PEG molecule.",
+        "FDA clinical-pharmacology review materials state that the peptide portions bind complement C3 and C3b, regulating C3 cleavage and downstream complement activation.",
+        "The November 2026 FDA label carries a boxed warning for serious and life-threatening infections caused by encapsulated bacteria in people receiving the complement inhibitor."
+      ],
+      "published_at": "2026-11-19T00:06:05Z",
+      "instagram_media_id": "18112084994256982",
+      "instagram_permalink": "https://www.instagram.com/p/Df5wOC6ijGu/"
     }
   ],
-  "last_updated": "2026-11-18T19:59:14Z"
+  "last_updated": "2026-11-19T00:06:05Z"
 }

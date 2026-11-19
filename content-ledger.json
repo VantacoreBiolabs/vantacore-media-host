@@ -7600,7 +7600,45 @@
       "published_at": "2026-11-19T00:06:05Z",
       "instagram_media_id": "18112084994256982",
       "instagram_permalink": "https://www.instagram.com/p/Df5wOC6ijGu/"
+    },
+    {
+      "id": "228",
+      "date": "2026-11-18",
+      "subject": "Analytical carryover: residual analyte from a preceding sample remains in an instrument and alters the next measured concentration, commonly evaluated by running a blank after the highest calibration standard",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image high-signal sample to ghost-signal blank sequence explainer",
+      "headline": "Carryover—The Sample Is Gone. Its Signal Isn't.",
+      "angle": "A beginner-friendly visual showing how residual analyte can persist in an analytical injection path and produce a small ghost response in the next sample, while distinguishing carryover from contamination and other sample problems.",
+      "teaching_points": [
+        "Carryover is an alteration in a measured concentration caused by residual analyte from the preceding sample remaining in the analytical instrument.",
+        "Its impact can be especially important when a high-concentration sample is followed by a low-concentration sample or blank.",
+        "Residual material in the injection path can create an apparent ghost response in the following measurement.",
+        "A common validation assessment analyzes a blank after the highest calibration standard to check for residual response."
+      ],
+      "limitation": "A response in a following blank is evidence to investigate, not automatic proof that carryover is the only cause. Contamination, sample handling, and other analytical problems must also be considered against predefined, method-specific acceptance limits.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Carryover",
+        "#Bioanalysis",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-18-2000-analytical-carryover.jpg"
+      ],
+      "caption_file": "captions/2026-11-18-2000-analytical-carryover.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b89e6cc34298f7f8b7719d78cbfe4c551a99ec04/posts/2026-11-18-2000-analytical-carryover.jpg",
+      "evidence": [
+        "ICH M10 defines carryover as an alteration in measured concentration due to residual analyte from a preceding sample that remains in the analytical instrument.",
+        "ICH M10 recommends assessing chromatographic carryover during validation by analyzing blank samples after the calibration standard at the upper limit of quantification.",
+        "FDA bioanalytical-method guidance recommends eliminating carryover during method development when possible and assessing its impact on study-sample accuracy when it cannot be eliminated.",
+        "Peer-reviewed best-practice guidance distinguishes carryover originating in the injection path from contamination introduced during sample collection or processing."
+      ],
+      "published_at": "2026-11-19T04:03:33Z",
+      "instagram_media_id": "18117927500035600",
+      "instagram_permalink": "https://www.instagram.com/p/Df6LZGtisvh/"
     }
   ],
-  "last_updated": "2026-11-19T00:06:05Z"
+  "last_updated": "2026-11-19T04:03:33Z"
 }

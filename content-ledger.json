@@ -7790,7 +7790,45 @@
       "published_at": "2026-11-20T04:01:11Z",
       "instagram_media_id": "18221935480357976",
       "instagram_permalink": "https://www.instagram.com/p/Df8v6triMEv/"
+    },
+    {
+      "id": "233",
+      "date": "2026-11-20",
+      "subject": "Dasiglucagon: a synthetic 29-amino-acid glucagon analog with seven substitutions designed to improve physical and chemical stability in aqueous solution",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image 29-bead peptide-chain spotlight with seven highlighted substitutions",
+      "headline": "Dasiglucagon—29 Residues. 7 Designed Substitutions.",
+      "angle": "A beginner-friendly structure-and-function spotlight showing that dasiglucagon keeps glucagon's 29-residue length while changing seven positions, with a clear product-specific evidence boundary.",
+      "teaching_points": [
+        "Dasiglucagon is a synthetic peptide analog of human glucagon.",
+        "It contains 29 amino acids, the same chain length as native glucagon.",
+        "Seven amino-acid positions are substituted to improve physical and chemical stability in aqueous solution.",
+        "It activates hepatic glucagon receptors, supporting glycogen breakdown and glucose release."
+      ],
+      "limitation": "Dasiglucagon is not identical to native glucagon. Its sequence, stability data, receptor activity, and regulatory evidence are specific to this molecule and should not be generalized to every glucagon analog.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Dasiglucagon",
+        "#Glucagon",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-20-0800-dasiglucagon-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-20-0800-dasiglucagon-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/3222eccafff34a3c305f98b0db4f52c76e06c0b9/posts/2026-11-20-0800-dasiglucagon-spotlight.jpg",
+      "evidence": [
+        "FDA's pharmacology review identifies dasiglucagon as a synthetic 29-amino-acid glucagon analog with seven substitutions relative to native glucagon.",
+        "FDA's clinical review states that the substitutions were introduced to increase physical and chemical stability in aqueous solution.",
+        "Current DailyMed labeling identifies dasiglucagon as a 29-amino-acid glucagon analog and glucagon-receptor agonist.",
+        "DailyMed explains that receptor activation in the liver stimulates glycogen breakdown and glucose release, and that hepatic glycogen stores are necessary for the labeled pharmacologic effect."
+      ],
+      "published_at": "2026-11-20T16:00:46Z",
+      "instagram_media_id": "18222225400351066",
+      "instagram_permalink": "https://www.instagram.com/p/Df-CQg9Ao2N/"
     }
   ],
-  "last_updated": "2026-11-20T04:01:11Z"
+  "last_updated": "2026-11-20T16:00:46Z"
 }

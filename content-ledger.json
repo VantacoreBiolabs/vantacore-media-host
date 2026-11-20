@@ -7752,7 +7752,45 @@
       "published_at": "2026-11-20T00:03:07Z",
       "instagram_media_id": "18482647993117196",
       "instagram_permalink": "https://www.instagram.com/p/Df8UrZ1jSDP/"
+    },
+    {
+      "id": "232",
+      "date": "2026-11-19",
+      "subject": "Accuracy vs precision: closeness to a reference value versus agreement among repeated measurements",
+      "category": "Easy A-vs-B research and analytical-quality literacy",
+      "format": "Single-image side-by-side target comparison",
+      "headline": "Accuracy vs Precision—Close to Correct Isn't the Same as Consistent.",
+      "angle": "A beginner-friendly target graphic separating closeness to an accepted reference value from tight agreement among repeated measurements, with a clear reminder that a method needs both qualities.",
+      "teaching_points": [
+        "Accuracy asks how close a result is to an accepted reference value.",
+        "Precision asks how closely repeated measurements agree with one another.",
+        "A method can be precise but consistently off target.",
+        "A method can average near the target while individual results remain widely scattered."
+      ],
+      "limitation": "Accuracy and precision are evaluated against predefined, method-specific criteria. A clean-looking cluster alone does not establish fitness for purpose across the full reportable range.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Accuracy",
+        "#Precision",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-19-2000-accuracy-vs-precision.jpg"
+      ],
+      "caption_file": "captions/2026-11-19-2000-accuracy-vs-precision.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/26248792040caa399e40b96d8c32534890aeac1a/posts/2026-11-19-2000-accuracy-vs-precision.jpg",
+      "evidence": [
+        "NIST defines accuracy as closeness of agreement between a measured quantity value and a true or accepted reference value.",
+        "NIST defines precision as closeness of agreement among a series of measurements of the same or similar homogeneous samples.",
+        "ICH Q2(R2) treats accuracy and precision as distinct analytical procedure performance characteristics.",
+        "ICH Q2(R2) establishes accuracy across the reportable range and distinguishes precision conditions including repeatability and intermediate precision."
+      ],
+      "published_at": "2026-11-20T04:01:11Z",
+      "instagram_media_id": "18221935480357976",
+      "instagram_permalink": "https://www.instagram.com/p/Df8v6triMEv/"
     }
   ],
-  "last_updated": "2026-11-20T00:03:07Z"
+  "last_updated": "2026-11-20T04:01:11Z"
 }

@@ -1,0 +1,14 @@
+ACCURACY vs PRECISION: CLOSE TO CORRECT ISN'T THE SAME AS CONSISTENT.
+
+These two quality terms answer different questions.
+
+• Accuracy asks how close a result is to an accepted reference value.
+• Precision asks how closely repeated measurements agree with one another.
+• A method can be precise but consistently off target.
+• It can also average near the target while individual results are widely scattered.
+
+Evidence check: accuracy and precision are evaluated against predefined, method-specific criteria. A clean-looking cluster alone does not prove a method is fit for purpose across its full reportable range.
+
+Which laboratory-quality concept should we simplify next?
+
+#VantacoreBiolabs #Accuracy #Precision #LabQuality #ResearchLiteracy

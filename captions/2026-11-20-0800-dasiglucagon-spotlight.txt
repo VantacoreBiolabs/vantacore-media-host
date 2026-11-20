@@ -1,0 +1,14 @@
+DASIGLUCAGON: 29 RESIDUES. 7 DESIGNED SUBSTITUTIONS.
+
+Dasiglucagon is a synthetic peptide analog of human glucagon.
+
+• It contains 29 amino acids—the same chain length as native glucagon.
+• Seven amino-acid positions are substituted.
+• Those substitutions were introduced to improve physical and chemical stability in aqueous solution.
+• It activates glucagon receptors in the liver, supporting glycogen breakdown and glucose release.
+
+Evidence boundary: dasiglucagon is not identical to native glucagon. Its sequence, stability data, receptor activity, and regulatory evidence are specific to this molecule and should not be generalized to every glucagon analog.
+
+Which peptide analog should we simplify next?
+
+#VantacoreBiolabs #Dasiglucagon #Glucagon #PeptideScience #ResearchLiteracy

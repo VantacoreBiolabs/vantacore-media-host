@@ -7714,7 +7714,45 @@
       "published_at": "2026-11-19T20:03:04Z",
       "instagram_media_id": "18001871441823648",
       "instagram_permalink": "https://www.instagram.com/p/Df75NZFlhCt/"
+    },
+    {
+      "id": "231",
+      "date": "2026-11-19",
+      "subject": "Mecasermin: recombinant human IGF-1 with a 70-amino-acid single chain and three intramolecular disulfide bridges",
+      "category": "Individual peptide/protein compound spotlight",
+      "format": "Single-image folded-protein spotlight with three highlighted internal bridges",
+      "headline": "Mecasermin—70 Residues. Three Internal Bridges.",
+      "angle": "A beginner-friendly identity and structure spotlight explaining that mecasermin is recombinant human IGF-1 with the same sequence as endogenous IGF-1, while separating that evidence from modified IGF-1 analogs.",
+      "teaching_points": [
+        "Mecasermin is recombinant human insulin-like growth factor-1 (rhIGF-1).",
+        "It consists of one chain containing 70 amino acids.",
+        "Three intramolecular disulfide bridges stabilize its fold.",
+        "Its amino-acid sequence is identical to endogenous human IGF-1 and it is produced in engineered E. coli."
+      ],
+      "limitation": "Mecasermin's defined identity and regulatory evidence should not be generalized to modified IGF-1 analogs. Sequence changes can affect binding, stability, and biological behavior, and regulatory status is specific to the product and indication.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Mecasermin",
+        "#IGF1",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-19-1600-mecasermin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-19-1600-mecasermin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/eafa5d05631500053ed9f6e7bd06243c64ca12ed/posts/2026-11-19-1600-mecasermin-spotlight.jpg",
+      "evidence": [
+        "Current DailyMed labeling identifies mecasermin as recombinant human IGF-1 produced by recombinant DNA technology.",
+        "DailyMed describes IGF-1 as a 70-amino-acid single chain with three intramolecular disulfide bridges and a molecular weight of 7649 Da.",
+        "DailyMed states that mecasermin's amino-acid sequence is identical to endogenous human IGF-1 and that the protein is produced in genetically modified E. coli.",
+        "FDA's original pharmacology review independently records the same 70-residue sequence identity and non-glycosylated recombinant source, supporting the product-specific evidence boundary."
+      ],
+      "published_at": "2026-11-20T00:03:07Z",
+      "instagram_media_id": "18482647993117196",
+      "instagram_permalink": "https://www.instagram.com/p/Df8UrZ1jSDP/"
     }
   ],
-  "last_updated": "2026-11-19T20:03:04Z"
+  "last_updated": "2026-11-20T00:03:07Z"
 }

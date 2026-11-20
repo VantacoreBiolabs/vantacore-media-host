@@ -1,0 +1,14 @@
+AFFINITY vs POTENCY: TIGHT BINDING ISN'T THE WHOLE STORY.
+
+These receptor-pharmacology terms answer different questions.
+
+• Affinity describes how strongly a ligand binds to its target.
+• A lower equilibrium dissociation constant, or Kd, means higher affinity.
+• Potency describes how much of a compound is needed for a defined effect.
+• Potency is often compared using EC50 or ED50 values; a lower value means greater potency in that test.
+
+Evidence boundary: potency is influenced by more than affinity. Efficacy, receptor number, target accessibility, tissue biology, and the assay itself can all shift the measured response. High affinity does not automatically guarantee high potency or a larger maximum effect.
+
+Which receptor concept should we simplify next?
+
+#VantacoreBiolabs #ReceptorScience #Affinity #Potency #ResearchLiteracy

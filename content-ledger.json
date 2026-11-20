@@ -7828,7 +7828,45 @@
       "published_at": "2026-11-20T16:00:46Z",
       "instagram_media_id": "18222225400351066",
       "instagram_permalink": "https://www.instagram.com/p/Df-CQg9Ao2N/"
+    },
+    {
+      "id": "234",
+      "date": "2026-11-20",
+      "subject": "Affinity versus potency: target-binding strength compared with the amount or concentration needed to produce a defined effect",
+      "category": "Easy A-vs-B beginner receptor-pharmacology concept",
+      "format": "Single-image side-by-side receptor pocket and response-gauge comparison",
+      "headline": "Affinity vs Potency—Tight Binding Isn't the Whole Story.",
+      "angle": "A beginner-friendly visual separating ligand–target binding strength from the amount needed for an observed effect, while explaining why affinity alone does not determine potency.",
+      "teaching_points": [
+        "Affinity describes how strongly a ligand binds to its target.",
+        "A lower equilibrium dissociation constant (Kd) means higher affinity.",
+        "Potency describes how much of a compound is needed for a defined effect.",
+        "Potency is often compared using EC50 or ED50 values, where a lower value indicates greater potency in that specific test."
+      ],
+      "limitation": "Potency is influenced by more than affinity. Efficacy, receptor number, target accessibility, tissue biology, and assay conditions can shift the measured response; high affinity does not automatically guarantee high potency or a larger maximum effect.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReceptorScience",
+        "#Affinity",
+        "#Potency",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-20-1200-affinity-vs-potency.jpg"
+      ],
+      "caption_file": "captions/2026-11-20-1200-affinity-vs-potency.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2267ec566c7114261dfdfdbbf6503221267fdb59/posts/2026-11-20-1200-affinity-vs-potency.jpg",
+      "evidence": [
+        "IUPHAR Pharmacology Education Project defines affinity through the equilibrium constant of reversible drug–receptor binding.",
+        "IUPHAR describes potency as the amount of a drug required for a given response and notes that more potent compounds act at lower doses or concentrations.",
+        "The British Pharmacological Society core-concepts initiative states that lower Kd indicates higher affinity and that potency is commonly measured with EC50 or ED50.",
+        "The same initiative explains that potency depends on affinity and efficacy as well as tissue parameters such as receptor number and drug availability."
+      ],
+      "published_at": "2026-11-20T20:03:16Z",
+      "instagram_media_id": "18114506336189958",
+      "instagram_permalink": "https://www.instagram.com/p/Df-eBGeiNw6/"
     }
   ],
-  "last_updated": "2026-11-20T16:00:46Z"
+  "last_updated": "2026-11-20T20:03:16Z"
 }

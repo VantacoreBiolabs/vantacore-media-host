@@ -7943,7 +7943,44 @@
       "published_at": "2026-11-21T04:00:47Z",
       "instagram_media_id": "18084244031422700",
       "instagram_permalink": "https://www.instagram.com/p/Df_UqtFiJI6/"
+    },
+    {
+      "id": "237",
+      "date": "2026-11-21",
+      "subject": "Trofinetide: a 2-methylproline-substituted analog of the IGF-1-derived tripeptide GPE",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome three-residue analog explainer",
+      "headline": "Trofinetide: Three Residues. One Open Question.",
+      "angle": "A beginner-friendly spotlight connecting trofinetide to GPE and IGF-1 while making the unresolved therapeutic mechanism explicit.",
+      "teaching_points": [
+        "Trofinetide is a synthetic analog of glycine-proline-glutamate (GPE).",
+        "GPE is the amino-terminal tripeptide cleavage product of insulin-like growth factor 1 (IGF-1).",
+        "Trofinetide replaces the proline residue with a 2-methylproline residue, creating a related but distinct three-residue molecule.",
+        "FDA approved trofinetide in 2023 for Rett syndrome in adults and pediatric patients 2 years of age and older."
+      ],
+      "limitation": "The current U.S. prescribing information states that the mechanism by which trofinetide exerts therapeutic effects in Rett syndrome is unknown. Approval supports a specific product and indication and does not establish every proposed mechanism.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Trofinetide",
+        "#PeptideScience",
+        "#RettResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-21-0800-trofinetide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-21-0800-trofinetide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c232094c98d5c06e2aba0d6eb8e86166a5fccb8a/posts/2026-11-21-0800-trofinetide-spotlight.jpg",
+      "evidence": [
+        "FDA's 2023 pharmacology review describes trofinetide as a 2-methylproline-substituted analog of GPE, the N-terminal tripeptide cleavage product of IGF-1.",
+        "The current DailyMed U.S. label states that the mechanism by which trofinetide exerts therapeutic effects in Rett syndrome is unknown.",
+        "FDA records marketing approval on March 10, 2023 for treatment of Rett syndrome in adults and pediatric patients 2 years of age and older."
+      ],
+      "published_at": "2026-11-21T16:00:21Z",
+      "instagram_media_id": "18021538361970211",
+      "instagram_permalink": "https://www.instagram.com/p/DgAnAuQiNhp/"
     }
   ],
-  "last_updated": "2026-11-21T04:00:47Z"
+  "last_updated": "2026-11-21T16:00:21Z"
 }

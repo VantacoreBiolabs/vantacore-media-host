@@ -1,0 +1,12 @@
+SIGNAL PEPTIDE vs MATURE CHAIN: one routes; one remains.
+
+• A signal peptide is a short sequence usually found at the N-terminus.
+• It helps direct many newly made proteins into the secretory pathway.
+• The signal peptide is usually removed at a cleavage site.
+• The mature chain is the processed peptide or protein that remains—and it may undergo additional processing first.
+
+Evidence boundary: sequence tools can predict signal peptides and cleavage sites, but a prediction is not the same as direct experimental proof. Rare signal sequences are not cleaved.
+
+Which processing term should we decode next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #SignalPeptide #PeptideScience #ProteinProcessing #ResearchLiteracy

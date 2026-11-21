@@ -7980,7 +7980,51 @@
       "published_at": "2026-11-21T16:00:21Z",
       "instagram_media_id": "18021538361970211",
       "instagram_permalink": "https://www.instagram.com/p/DgAnAuQiNhp/"
+    },
+    {
+      "id": "238",
+      "date": "2026-11-21",
+      "subject": "Signal peptide versus mature peptide or protein chain: a temporary N-terminal routing sequence compared with the processed chain that remains",
+      "category": "Easy A-vs-B beginner peptide-processing concept",
+      "format": "Three-slide black/red/chrome educational carousel",
+      "headline": "Signal Peptide vs Mature Chain: One Routes. One Remains.",
+      "angle": "A beginner-friendly comparison separating an N-terminal secretory-pathway routing sequence from the processed mature chain, with a prediction-versus-proof evidence boundary.",
+      "teaching_points": [
+        "A signal peptide is a short sequence usually found at the N-terminus.",
+        "It helps direct many newly made proteins into the secretory pathway.",
+        "The signal peptide is usually removed at a specific cleavage site.",
+        "The mature chain is the processed peptide or protein that remains and may undergo additional processing."
+      ],
+      "limitation": "Sequence-analysis tools can predict signal peptides and cleavage sites, but prediction is not direct experimental proof. Rare signal sequences are not cleaved.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#SignalPeptide",
+        "#PeptideScience",
+        "#ProteinProcessing",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-21-1200-signal-vs-mature-01.jpg",
+        "posts/2026-11-21-1200-signal-vs-mature-02.jpg",
+        "posts/2026-11-21-1200-signal-vs-mature-03.jpg"
+      ],
+      "caption_file": "captions/2026-11-21-1200-signal-vs-mature.txt",
+      "status": "published",
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/328c89370ce01e8be83bec377186de4d04a6f9ba/posts/2026-11-21-1200-signal-vs-mature-01.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/328c89370ce01e8be83bec377186de4d04a6f9ba/posts/2026-11-21-1200-signal-vs-mature-02.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/328c89370ce01e8be83bec377186de4d04a6f9ba/posts/2026-11-21-1200-signal-vs-mature-03.jpg"
+      ],
+      "evidence": [
+        "UniProt defines a signal peptide as an N-terminal feature targeting proteins to the secretory pathway and notes that it is usually removed in the mature protein.",
+        "UniProt sequence-processing guidance distinguishes a precursor sequence from a mature form and lists signal-peptide and propeptide cleavage among maturation steps.",
+        "The SignalP 6.0 study describes signal peptides as short N-terminal targeting sequences and evaluates computational prediction of signal-peptide types and cleavage sites.",
+        "UniProt distinguishes experimentally proven cleavage sites from predicted annotations and notes rare uncleaved signal sequences."
+      ],
+      "published_at": "2026-11-21T20:01:52Z",
+      "instagram_media_id": "18119421827046695",
+      "instagram_permalink": "https://www.instagram.com/p/DgBCoznDD9B/"
     }
   ],
-  "last_updated": "2026-11-21T16:00:21Z"
+  "last_updated": "2026-11-21T20:01:52Z"
 }

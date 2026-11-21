@@ -7866,7 +7866,46 @@
       "published_at": "2026-11-20T20:03:16Z",
       "instagram_media_id": "18114506336189958",
       "instagram_permalink": "https://www.instagram.com/p/Df-eBGeiNw6/"
+    },
+    {
+      "id": "235",
+      "date": "2026-11-20",
+      "subject": "Survodutide (BI 456906): one investigational peptide designed to activate two receptor pathways",
+      "category": "Individual investigational peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome dual-receptor peptide visual",
+      "headline": "Survodutide—One Peptide. Two Receptor Pathways.",
+      "angle": "A beginner-friendly spotlight on survodutide as a single 29-amino-acid investigational peptide designed to activate both GLP-1 and glucagon receptors, with a clear Phase 3 and approval-status boundary.",
+      "teaching_points": [
+        "Survodutide (BI 456906) is an investigational peptide compound.",
+        "It is designed to activate both the GLP-1 receptor and glucagon receptor.",
+        "The compound uses a modified 29-amino-acid peptide chain.",
+        "A C18 fatty-acid side chain supports albumin binding and extends peptide exposure.",
+        "Survodutide is being evaluated in Phase 3 clinical programs."
+      ],
+      "limitation": "Investigational status and Phase 3 study results do not equal regulatory approval. Safety and effectiveness remain specific to each trial and indication, and population-level results cannot predict an individual's outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Survodutide",
+        "#PeptideScience",
+        "#ClinicalResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-20-1600-survodutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-20-1600-survodutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/da5d020d53d441f2bc7e607ae21231b1aa83a27a/posts/2026-11-20-1600-survodutide-spotlight.jpg",
+      "evidence": [
+        "Boehringer Ingelheim, 1 October 2026: SYNCHRONIZE-2 Phase 3 results; identifies survodutide as an investigational glucagon/GLP-1 receptor dual agonist and states it is not approved.",
+        "Boehringer Ingelheim, November 2026: survodutide activates glucagon and GLP-1 receptors and is being evaluated in SYNCHRONIZE and LIVERAGE Phase 3 programs.",
+        "Molecular Metabolism (2022), DOI 10.1016/j.molmet.2022.101633: BI 456906 is a modified 29-amino-acid peptide with a C18 fatty-acid moiety designed for dual GCGR/GLP-1R agonism.",
+        "New England Journal of Medicine (published 7 June 2026; updated 23 July 2026), DOI 10.1056/NEJMoa2600751: Phase 3 SYNCHRONIZE-1 study of investigational survodutide."
+      ],
+      "published_at": "2026-11-21T00:07:35Z",
+      "instagram_media_id": "18359336461168452",
+      "instagram_permalink": "https://www.instagram.com/p/Df-5-KjgnZL/"
     }
   ],
-  "last_updated": "2026-11-20T20:03:16Z"
+  "last_updated": "2026-11-21T00:07:35Z"
 }

@@ -1,0 +1,13 @@
+TEDUGLUTIDE: one amino-acid change at position 2.
+
+• Teduglutide is a 33-amino-acid analog of human GLP-2.
+• It keeps the same chain length as native GLP-2.
+• Glycine replaces alanine at the second position from the N-terminus.
+• This is why the analog is also written as [Gly²]-GLP-2.
+• The substitution reduces cleavage by the enzyme DPP-4.
+
+Evidence boundary: changing one residue can alter enzyme susceptibility, but it does not make every structural, biological, or clinical property identical to native GLP-2. This post explains molecular identity, not treatment guidance.
+
+Which peptide analog should we simplify next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #Teduglutide #PeptideScience #GLP2 #ResearchLiteracy

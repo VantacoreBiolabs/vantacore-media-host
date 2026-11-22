@@ -8061,7 +8061,50 @@
       "published_at": "2026-11-22T00:00:24Z",
       "instagram_media_id": "18081401837736849",
       "instagram_permalink": "https://www.instagram.com/p/DgBd86_iL-v/"
+    },
+    {
+      "id": "240",
+      "date": "2026-11-21",
+      "subject": "Mass accuracy versus mass resolution: closeness of a measured mass to its reference value compared with the ability to distinguish neighboring m/z peaks",
+      "category": "Easy A-vs-B analytical-quality literacy",
+      "format": "Three-slide black/red/chrome mass-spectrometry peak carousel",
+      "headline": "Mass Accuracy vs Mass Resolution: One Is Closeness. One Is Separation.",
+      "angle": "A beginner-friendly comparison separating closeness to a reference mass from the ability to distinguish nearby m/z peaks.",
+      "teaching_points": [
+        "Mass accuracy compares a measured mass with its reference value.",
+        "Their difference is the mass error, often expressed as a small fractional error.",
+        "Mass resolution describes whether nearby m/z peaks can be distinguished.",
+        "Resolution values depend on how peak width or peak separation is defined and reported."
+      ],
+      "limitation": "High resolution does not guarantee an accurate mass measurement, and high mass accuracy does not guarantee that neighboring peaks are separated. A method may need both.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MassSpectrometry",
+        "#AnalyticalScience",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-21-2000-mass-accuracy-resolution-01.jpg",
+        "posts/2026-11-21-2000-mass-accuracy-resolution-02.jpg",
+        "posts/2026-11-21-2000-mass-accuracy-resolution-03.jpg"
+      ],
+      "caption_file": "captions/2026-11-21-2000-mass-accuracy-resolution.txt",
+      "status": "published",
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/49da0afe8e712dd7578093938b48a84aa01e942c/posts/2026-11-21-2000-mass-accuracy-resolution-01.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/49da0afe8e712dd7578093938b48a84aa01e942c/posts/2026-11-21-2000-mass-accuracy-resolution-02.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/49da0afe8e712dd7578093938b48a84aa01e942c/posts/2026-11-21-2000-mass-accuracy-resolution-03.jpg"
+      ],
+      "evidence": [
+        "IUPAC defines mass accuracy as the difference between a measured mass and its reference value, often expressed as a fractional error.",
+        "IUPAC defines resolving power in mass spectrometry as the ability to distinguish ions differing by a small m/z increment.",
+        "IUPAC mass-resolution guidance uses m/z divided by the corresponding peak-width or peak-separation term and recommends reporting the measurement definition and m/z."
+      ],
+      "published_at": "2026-11-22T04:08:33Z",
+      "instagram_media_id": "17883527172566087",
+      "instagram_permalink": "https://www.instagram.com/p/DgB6WpciMnH/"
     }
   ],
-  "last_updated": "2026-11-22T00:00:24Z"
+  "last_updated": "2026-11-22T04:08:33Z"
 }

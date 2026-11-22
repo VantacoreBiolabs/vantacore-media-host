@@ -8142,7 +8142,50 @@
       "published_at": "2026-11-22T16:01:34Z",
       "instagram_media_id": "18103325378386474",
       "instagram_permalink": "https://www.instagram.com/p/DgDL8p6jVaO/"
+    },
+    {
+      "id": "242",
+      "date": "2026-11-22",
+      "subject": "Identity testing versus purity testing: confirming the intended material compared with evaluating what other material is present",
+      "category": "Easy A-vs-B research and analytical-quality literacy",
+      "format": "Three-slide black/red/chrome identity-versus-purity carousel",
+      "headline": "Identity vs Purity: Same Sample. Different Question.",
+      "angle": "A beginner-friendly comparison separating confirmation of the intended material from evaluation of impurities and related substances.",
+      "teaching_points": [
+        "Identity testing asks whether the intended material is present.",
+        "A useful identity procedure should distinguish the target from closely related lookalikes.",
+        "Purity testing asks what other material is present, such as impurities or related substances.",
+        "A purity result may be reported as a measured amount or checked against a defined limit."
+      ],
+      "limitation": "Passing an identity test does not prove high purity, and a purity result alone may not establish identity. They answer different questions and can require different procedures.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AnalyticalScience",
+        "#QualityControl",
+        "#LabLiteracy",
+        "#ResearchQuality"
+      ],
+      "media": [
+        "posts/2026-11-22-1200-identity-vs-purity-01.jpg",
+        "posts/2026-11-22-1200-identity-vs-purity-02.jpg",
+        "posts/2026-11-22-1200-identity-vs-purity-03.jpg"
+      ],
+      "caption_file": "captions/2026-11-22-1200-identity-vs-purity.txt",
+      "status": "published",
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0243388570c6dce86b5448a66becf694e100c8ac/posts/2026-11-22-1200-identity-vs-purity-01.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0243388570c6dce86b5448a66becf694e100c8ac/posts/2026-11-22-1200-identity-vs-purity-02.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/0243388570c6dce86b5448a66becf694e100c8ac/posts/2026-11-22-1200-identity-vs-purity-03.jpg"
+      ],
+      "evidence": [
+        "ICH Q6A states that identification testing should establish identity and optimally discriminate between compounds of closely related structure likely to be present.",
+        "ICH Q6A treats identification and impurity testing as distinct generally applicable specification elements.",
+        "ICH Q2(R2) distinguishes identity procedures from quantitative or limit procedures for impurity and purity attributes."
+      ],
+      "published_at": "2026-11-22T19:59:57Z",
+      "instagram_media_id": "18022767845952212",
+      "instagram_permalink": "https://www.instagram.com/p/DgDnO4QiFR4/"
     }
   ],
-  "last_updated": "2026-11-22T16:01:34Z"
+  "last_updated": "2026-11-22T19:59:57Z"
 }

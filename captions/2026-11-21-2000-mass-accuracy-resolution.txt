@@ -1,0 +1,12 @@
+MASS ACCURACY vs MASS RESOLUTION: one is closeness; one is separation.
+
+• Mass accuracy compares a measured mass with its reference value.
+• Their difference is the mass error, often expressed as a small fractional error.
+• Mass resolution describes whether nearby m/z peaks can be distinguished.
+• Resolution values depend on how peak width or peak separation is defined and reported.
+
+Evidence boundary: high resolution does not guarantee an accurate mass measurement, and high mass accuracy does not guarantee that neighboring peaks are separated. A method may need both.
+
+Which lab term should we simplify next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #MassSpectrometry #AnalyticalScience #LabQuality #ResearchLiteracy

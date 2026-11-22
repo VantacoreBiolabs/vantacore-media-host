@@ -8104,7 +8104,45 @@
       "published_at": "2026-11-22T04:08:33Z",
       "instagram_media_id": "17883527172566087",
       "instagram_permalink": "https://www.instagram.com/p/DgB6WpciMnH/"
+    },
+    {
+      "id": "241",
+      "date": "2026-11-22",
+      "subject": "Teduglutide: a 33-amino-acid human GLP-2 analog with glycine replacing alanine at position 2",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome position-2 substitution explainer",
+      "headline": "Teduglutide: One Change at Position 2",
+      "angle": "A beginner-friendly molecular-identity spotlight showing how one N-terminal amino-acid substitution distinguishes teduglutide from native human GLP-2.",
+      "teaching_points": [
+        "Teduglutide is a 33-amino-acid analog of human GLP-2.",
+        "It keeps the same chain length as native GLP-2.",
+        "Glycine replaces alanine at the second position from the N-terminus.",
+        "The analog is also written as [Gly²]-GLP-2.",
+        "The position-2 substitution reduces cleavage by DPP-4."
+      ],
+      "limitation": "Changing one residue can alter enzyme susceptibility, but it does not make every structural, biological, or clinical property identical to native GLP-2. This post explains molecular identity, not treatment guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Teduglutide",
+        "#PeptideScience",
+        "#GLP2",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-22-0800-teduglutide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-22-0800-teduglutide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a370405cd4de868a71154733b97600e2ff438dfa/posts/2026-11-22-0800-teduglutide-spotlight.jpg",
+      "evidence": [
+        "The FDA chemistry review describes teduglutide as a 33-amino-acid analog of human GLP-2 with alanine replaced by glycine at the second N-terminal position.",
+        "The FDA review identifies the recombinant peptide as produced in Escherichia coli.",
+        "A primary structure-activity study reported DPP-IV cleavage of native GLP-2 at position-2 alanine and evaluated glycine and other substitutions at that site."
+      ],
+      "published_at": "2026-11-22T16:01:34Z",
+      "instagram_media_id": "18103325378386474",
+      "instagram_permalink": "https://www.instagram.com/p/DgDL8p6jVaO/"
     }
   ],
-  "last_updated": "2026-11-22T04:08:33Z"
+  "last_updated": "2026-11-22T16:01:34Z"
 }

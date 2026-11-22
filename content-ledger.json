@@ -8024,7 +8024,44 @@
       "published_at": "2026-11-21T20:01:52Z",
       "instagram_media_id": "18119421827046695",
       "instagram_permalink": "https://www.instagram.com/p/DgBCoznDD9B/"
+    },
+    {
+      "id": "239",
+      "date": "2026-11-21",
+      "subject": "Urodilatin: a 32-amino-acid natriuretic peptide sharing ANP's 28-residue core with a four-residue N-terminal extension",
+      "category": "Individual endogenous peptide spotlight",
+      "format": "Single-image black/red/chrome N-terminal extension explainer",
+      "headline": "Urodilatin: ANP Core + 4",
+      "angle": "A beginner-friendly identity spotlight showing urodilatin as the ANP core plus four N-terminal residues, while separating sequence similarity from biological equivalence.",
+      "teaching_points": [
+        "Urodilatin is a 32-amino-acid natriuretic peptide.",
+        "It contains the same 28-residue core sequence as atrial natriuretic peptide (ANP).",
+        "Four additional residues extend its N-terminus.",
+        "It was isolated from human urine, and early structural evidence pointed to distinct processing in kidney tubules."
+      ],
+      "limitation": "Sequence overlap does not make urodilatin and circulating ANP biologically identical. Different processing and tissue distribution can change where a peptide is found and how it behaves.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Urodilatin",
+        "#PeptideScience",
+        "#NatriureticPeptides",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-21-1600-urodilatin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-21-1600-urodilatin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/b951bf109ae79ffc93a08a317ebd95ec42ba312c/posts/2026-11-21-1600-urodilatin-spotlight.jpg",
+      "evidence": [
+        "The original 1988 isolation and structural-analysis paper identified the main urinary form as a 32-amino-acid peptide, ANP 95-126, with an N-terminal extension relative to circulating ANP 99-126.",
+        "A 1989 primary study described urodilatin as having the same amino-acid sequence as ANP except for a four-residue N-terminal extension.",
+        "A 1994 NIH-affiliated study likewise described urodilatin as a 32-amino-acid peptide with four additional N-terminal residues relative to ANP."
+      ],
+      "published_at": "2026-11-22T00:00:24Z",
+      "instagram_media_id": "18081401837736849",
+      "instagram_permalink": "https://www.instagram.com/p/DgBd86_iL-v/"
     }
   ],
-  "last_updated": "2026-11-21T20:01:52Z"
+  "last_updated": "2026-11-22T00:00:24Z"
 }

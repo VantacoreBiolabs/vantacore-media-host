@@ -1,0 +1,12 @@
+IDENTITY vs PURITY: same sample, different question.
+
+• Identity testing asks whether the intended material is present.
+• A useful identity procedure should distinguish the target from closely related lookalikes.
+• Purity testing asks what other material is present, such as impurities or related substances.
+• A purity result may be reported as a measured amount or checked against a defined limit.
+
+Evidence boundary: passing an identity test does not prove high purity, and a purity result alone may not establish identity. They answer different questions and can require different procedures.
+
+Which lab term should we simplify next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #AnalyticalScience #QualityControl #LabLiteracy #ResearchQuality

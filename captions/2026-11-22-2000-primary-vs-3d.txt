@@ -1,0 +1,12 @@
+PRIMARY STRUCTURE vs 3D STRUCTURE: order versus spatial arrangement.
+
+• Primary structure is the amino-acid sequence of a peptide or protein chain.
+• Sequences are commonly written from the N-terminus toward the C-terminus.
+• Three-dimensional structure describes how the chain and its atoms are arranged in space.
+• The chain may bend, turn, and pack into different conformations.
+
+Evidence boundary: sequence constrains folding, but it does not by itself prove that a peptide has one rigid shape. Experimental conditions and the measurement method can matter when describing structure.
+
+Which peptide concept should we simplify next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #PeptideScience #ProteinStructure #MolecularBiology #ResearchLiteracy

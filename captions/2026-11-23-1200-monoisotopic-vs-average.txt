@@ -1,0 +1,12 @@
+MONOISOTOPIC MASS vs AVERAGE MASS: same molecule, different isotope calculation.
+
+• Monoisotopic mass uses the mass of the most abundant isotope of each element.
+• It represents one defined isotope composition.
+• Average mass is weighted for the molecule’s isotopic composition.
+• That means the same molecular formula can have different reported mass values depending on the convention used.
+
+Evidence boundary: both are calculated values, not automatically measured results. Software, isotope assumptions, and the reporting convention should be stated before comparing numbers.
+
+Which lab term should we decode next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #MassSpectrometry #PeptideScience #AnalyticalChemistry #ResearchLiteracy

@@ -1,0 +1,13 @@
+VOSORITIDE: a CNP sequence with a two-residue extension.
+
+• Vosoritide is a 39-amino-acid C-type natriuretic peptide analog.
+• Its core contains the 37 C-terminal residues of human CNP53.
+• Pro-Gly adds two residues at the N-terminus.
+• One disulfide bridge links Cys23 and Cys39, closing a peptide ring.
+• The N-terminal extension increases resistance to neutral endopeptidase degradation.
+
+Evidence boundary: a two-residue extension can change enzyme susceptibility, but sequence alone does not establish every biological or clinical property. This is a molecular-identity spotlight, not treatment guidance.
+
+Which peptide should we simplify next? Follow @vantacorebiolabs for plain-English research education.
+
+#VantacoreBiolabs #Vosoritide #PeptideScience #CNP #ResearchLiteracy

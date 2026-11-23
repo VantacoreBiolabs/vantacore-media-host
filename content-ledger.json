@@ -8185,7 +8185,45 @@
       "published_at": "2026-11-22T19:59:57Z",
       "instagram_media_id": "18022767845952212",
       "instagram_permalink": "https://www.instagram.com/p/DgDnO4QiFR4/"
+    },
+    {
+      "id": "243",
+      "date": "2026-11-22",
+      "subject": "Vosoritide: a 39-amino-acid C-type natriuretic peptide analog built from 37 C-terminal residues of human CNP53 plus an N-terminal Pro-Gly extension",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome two-residue-extension and disulfide-ring explainer",
+      "headline": "Vosoritide: CNP Sequence + 2",
+      "angle": "A beginner-friendly molecular-identity spotlight showing a 37-residue human CNP53-derived sequence extended by Pro-Gly at the N-terminus.",
+      "teaching_points": [
+        "Vosoritide is a 39-amino-acid C-type natriuretic peptide analog.",
+        "Its core contains the 37 C-terminal residues of human CNP53.",
+        "Pro-Gly adds two residues at the N-terminus.",
+        "One disulfide bridge links Cys23 and Cys39, closing a peptide ring.",
+        "The N-terminal extension increases resistance to neutral endopeptidase degradation."
+      ],
+      "limitation": "A two-residue extension can change enzyme susceptibility, but sequence alone does not establish every biological or clinical property. This is a molecular-identity spotlight, not treatment guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Vosoritide",
+        "#PeptideScience",
+        "#CNP",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-22-1600-vosoritide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-22-1600-vosoritide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/87aa0711c00de50d16c4ccedcc53adde81010fb5/posts/2026-11-22-1600-vosoritide-spotlight.jpg",
+      "evidence": [
+        "The FDA-approved labeling describes vosoritide as a 39-amino-acid human CNP analog containing the 37 C-terminal residues of human CNP53 plus N-terminal Pro-Gly.",
+        "The FDA chemistry review identifies a disulfide bridge between Cys23 and Cys39 that forms a peptide ring.",
+        "FDA sources state that the N-terminal Pro-Gly extension conveys increased resistance to neutral endopeptidase degradation."
+      ],
+      "published_at": "2026-11-23T00:08:20Z",
+      "instagram_media_id": "18131280751884216",
+      "instagram_permalink": "https://www.instagram.com/p/DgEDpzNgiTE/"
     }
   ],
-  "last_updated": "2026-11-22T19:59:57Z"
+  "last_updated": "2026-11-23T00:08:20Z"
 }

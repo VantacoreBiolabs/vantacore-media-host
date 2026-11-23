@@ -8266,7 +8266,45 @@
       "published_at": "2026-11-23T04:02:54Z",
       "instagram_media_id": "18129740995860700",
       "instagram_permalink": "https://www.instagram.com/p/DgEegEICBgu/"
+    },
+    {
+      "id": "245",
+      "date": "2026-11-23",
+      "subject": "Pralmorelin (GHRP-2/KP-102): a synthetic six-residue peptide growth-hormone secretagogue receptor agonist used in Japan as a diagnostic GH-release stimulus",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome six-residue peptide-to-receptor explainer",
+      "headline": "Pralmorelin: GHRP-2 in Six Residues",
+      "angle": "A beginner-friendly molecular-identity spotlight on pralmorelin's compact hexapeptide structure, alternate names, receptor target, and narrow diagnostic evidence boundary.",
+      "teaching_points": [
+        "Pralmorelin is also known as GHRP-2 or KP-102.",
+        "It is a synthetic hexapeptide—a chain built from six residues.",
+        "Its sequence includes modified D-amino acids and ends in an amidated lysine.",
+        "It activates the growth-hormone secretagogue receptor, also called the ghrelin receptor."
+      ],
+      "limitation": "Pralmorelin is used in Japan as a diagnostic stimulus for evaluating growth-hormone release. Receptor activity and diagnostic use do not establish broad treatment outcomes, and approval status varies by country.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Pralmorelin",
+        "#GHRP2",
+        "#PeptideScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-23-0800-pralmorelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-23-0800-pralmorelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/fb17e9757d1b94dd8b278c30585369406b2b6266/posts/2026-11-23-0800-pralmorelin-spotlight.jpg",
+      "evidence": [
+        "WHO's recommended INN listing identifies pralmorelin as a growth-hormone-release-stimulating peptide and provides its chemical identity.",
+        "PubChem records the compact sequence H-D-Ala-D-2Nal-Ala-Trp-D-Phe-Lys-NH2, corresponding to a six-residue synthetic peptide.",
+        "The IUPHAR/BPS Guide to Pharmacology lists pralmorelin as GHRP-2/KP-102, a peptide that activates the growth-hormone secretagogue (ghrelin) receptor and is approved in Japan.",
+        "The current Japanese PMDA labeling describes pralmorelin hydrochloride as a diagnostic agent for growth-hormone secretion deficiency."
+      ],
+      "published_at": "2026-11-23T16:02:27Z",
+      "instagram_media_id": "18177198994483534",
+      "instagram_permalink": "https://www.instagram.com/p/DgFw1-WCJ0x/"
     }
   ],
-  "last_updated": "2026-11-23T04:02:54Z"
+  "last_updated": "2026-11-23T16:02:27Z"
 }

@@ -8304,7 +8304,50 @@
       "published_at": "2026-11-23T16:02:27Z",
       "instagram_media_id": "18177198994483534",
       "instagram_permalink": "https://www.instagram.com/p/DgFw1-WCJ0x/"
+    },
+    {
+      "id": "246",
+      "date": "2026-11-23",
+      "subject": "Monoisotopic mass versus average mass: one exact most-abundant-isotope composition compared with a value weighted for isotopic composition",
+      "category": "Easy A-vs-B analytical and research-literacy concept",
+      "format": "Three-slide black/red/chrome isotope-peak and weighted-distribution carousel",
+      "headline": "Monoisotopic Mass vs Average Mass: Same Molecule, Different Calculation",
+      "angle": "A beginner-friendly comparison explaining why one molecular formula can produce different reported mass values under different isotope conventions.",
+      "teaching_points": [
+        "Monoisotopic mass uses the mass of the most abundant isotope of each element.",
+        "It represents one defined isotope composition.",
+        "Average mass is weighted for the molecule's isotopic composition.",
+        "The same molecular formula can have different reported mass values depending on the convention used."
+      ],
+      "limitation": "Both are calculated values, not automatically measured results. Software, isotope assumptions, and the reporting convention should be stated before comparing numbers.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#MassSpectrometry",
+        "#PeptideScience",
+        "#AnalyticalChemistry",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-23-1200-monoisotopic-vs-average-01.jpg",
+        "posts/2026-11-23-1200-monoisotopic-vs-average-02.jpg",
+        "posts/2026-11-23-1200-monoisotopic-vs-average-03.jpg"
+      ],
+      "caption_file": "captions/2026-11-23-1200-monoisotopic-vs-average.txt",
+      "status": "published",
+      "public_media_urls": [
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/54a97426b721c65de403106ef9be2bdbf9d3e6f7/posts/2026-11-23-1200-monoisotopic-vs-average-01.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/54a97426b721c65de403106ef9be2bdbf9d3e6f7/posts/2026-11-23-1200-monoisotopic-vs-average-02.jpg",
+        "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/54a97426b721c65de403106ef9be2bdbf9d3e6f7/posts/2026-11-23-1200-monoisotopic-vs-average-03.jpg"
+      ],
+      "evidence": [
+        "IUPAC defines monoisotopic mass as the exact mass calculated using the mass of the most abundant isotope of each element.",
+        "IUPAC defines average mass as the mass of an ion or molecule weighted for its isotopic composition.",
+        "The IUPAC 2013 mass-spectrometry recommendations list monoisotopic mass and average mass as distinct terms with different isotope conventions."
+      ],
+      "published_at": "2026-11-23T20:02:08Z",
+      "instagram_media_id": "18118136063030603",
+      "instagram_permalink": "https://www.instagram.com/p/DgGMRlfjMnW/"
     }
   ],
-  "last_updated": "2026-11-23T16:02:27Z"
+  "last_updated": "2026-11-23T20:02:08Z"
 }

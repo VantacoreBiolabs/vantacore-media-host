@@ -1,0 +1,12 @@
+LINEAR PEPTIDE vs CYCLIC PEPTIDE: WHAT CHANGES?
+
+• A linear peptide has an open main chain.
+• A cyclic peptide contains a covalent connection that creates a ring.
+• Ring closure can use peptide bonds, disulfide bonds, ester bonds, or other linkages.
+• Cyclic peptides are often more conformationally restricted than comparable linear peptides.
+
+Evidence boundary: cyclization can change shape and may improve resistance to proteolysis in some designs, but it does not automatically make a peptide stronger, more stable, more effective, or better. Sequence, ring size, linkage, environment, and the property being measured all matter.
+
+Which peptide concept should we compare next?
+
+#VantacoreBiolabs #PeptideScience #CyclicPeptides #MolecularStructure #ResearchLiteracy

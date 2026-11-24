@@ -8347,7 +8347,46 @@
       "published_at": "2026-11-23T20:02:08Z",
       "instagram_media_id": "18118136063030603",
       "instagram_permalink": "https://www.instagram.com/p/DgGMRlfjMnW/"
+    },
+    {
+      "id": "247",
+      "date": "2026-11-23",
+      "subject": "Teixobactin: an 11-residue cyclic depsipeptide with a four-residue ring that binds bacterial cell-wall precursors lipid II and lipid III",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome ring-and-tail molecular explainer",
+      "headline": "Teixobactin: An 11-Residue Ring + Tail",
+      "angle": "A beginner-friendly molecular-identity spotlight on teixobactin's seven-residue linear tail, four-residue closed ring, unusual enduracididine residue, and cell-wall-precursor targets.",
+      "teaching_points": [
+        "Teixobactin is a natural cyclic depsipeptide built from 11 residues.",
+        "Its final four residues form a closed ring, while the other seven form a linear tail.",
+        "The ring includes enduracididine, an unusual non-proteinogenic amino acid.",
+        "Laboratory studies show binding to lipid II and lipid III, precursors used in bacterial cell-wall pathways."
+      ],
+      "limitation": "The core evidence is laboratory and animal research, and development remains preclinical. Molecular mechanism does not establish human safety or effectiveness, and this post is not treatment guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Teixobactin",
+        "#PeptideScience",
+        "#AntibioticResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-23-1600-teixobactin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-23-1600-teixobactin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/daf2d94ada4e256339ca4815a297e1ad38b89a9d/posts/2026-11-23-1600-teixobactin-spotlight.jpg",
+      "evidence": [
+        "The 2015 discovery paper reports that teixobactin was isolated from an uncultured bacterium and binds the conserved cell-wall precursors lipid II and lipid III.",
+        "A primary structural study describes teixobactin as an 11-residue molecule whose final four residues form a closed ring.",
+        "The first total synthesis identifies a four-amino-acid 13-membered depsicyclic ring containing the non-proteinogenic residue L-allo-enduracididine and a seven-residue linear chain.",
+        "Mechanistic work using solid-state NMR, microscopy, in-vivo assays, and molecular dynamics describes teixobactin-lipid II assemblies that compromise membrane integrity.",
+        "Current developer information states that teixobactin is being advanced toward first-in-human trials, supporting the preclinical evidence boundary."
+      ],
+      "published_at": "2026-11-24T00:09:08Z",
+      "instagram_media_id": "18151520098601824",
+      "instagram_permalink": "https://www.instagram.com/p/DgGoi3hiLxB/"
     }
   ],
-  "last_updated": "2026-11-23T20:02:08Z"
+  "last_updated": "2026-11-24T00:09:08Z"
 }

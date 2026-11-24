@@ -8386,7 +8386,46 @@
       "published_at": "2026-11-24T00:09:08Z",
       "instagram_media_id": "18151520098601824",
       "instagram_permalink": "https://www.instagram.com/p/DgGoi3hiLxB/"
+    },
+    {
+      "id": "248",
+      "date": "2026-11-23",
+      "subject": "Internal standards in chromatographic bioanalysis: a known reference signal added to samples to help track variation during preparation and analysis",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image black/red/chrome paired-signal workflow explainer",
+      "headline": "Internal Standard: A Reference Signal That Travels With the Sample",
+      "angle": "A beginner-friendly explanation of how a known, constant amount of a structurally similar or stable-isotope-labeled compound accompanies the target through the analytical workflow and supports response-ratio quantification.",
+      "teaching_points": [
+        "An internal standard is added at a known, constant amount to calibration standards, quality controls, and study samples.",
+        "It is usually a structurally similar compound or a stable-isotope-labeled version of the target.",
+        "Because it travels through sample preparation and analysis with the target, its response can help reveal workflow variation.",
+        "Quantification commonly compares the target response with the internal-standard response."
+      ],
+      "limitation": "An internal standard can help correct or flag some variability, but it cannot automatically fix interference, poor calibration, matrix effects, or an unsuitable method. Its suitability and performance must be validated for the specific workflow.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#InternalStandard",
+        "#AnalyticalScience",
+        "#LabQuality",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-23-2000-internal-standard-basics.jpg"
+      ],
+      "caption_file": "captions/2026-11-23-2000-internal-standard-basics.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/7b6f2fa87acf85d1f5f15aa5089df19d9890022c/posts/2026-11-23-2000-internal-standard-basics.jpg",
+      "evidence": [
+        "ICH M10 defines an internal standard as a structurally similar analogue or stable-isotope-labeled compound added at a known and constant concentration to calibration standards, quality controls, and study samples.",
+        "FDA guidance states that internal standards are commonly used to correct for variability in sample processing and analysis and are added before extraction.",
+        "FDA identifies sample-preparation errors, instrument issues, and matrix effects as possible sources of internal-standard response variability.",
+        "ICH M10 recommends a suitable internal standard in calibration standards, quality controls, and study samples and recommends stable-isotope-labeled analyte when mass-spectrometric detection is used whenever possible.",
+        "FDA guidance emphasizes evaluating unusual internal-standard responses rather than assuming the internal standard automatically corrects every analytical problem."
+      ],
+      "published_at": "2026-11-24T04:03:53Z",
+      "instagram_media_id": "18112107653116006",
+      "instagram_permalink": "https://www.instagram.com/p/DgHDaJ2iPIC/"
     }
   ],
-  "last_updated": "2026-11-24T00:09:08Z"
+  "last_updated": "2026-11-24T04:03:53Z"
 }

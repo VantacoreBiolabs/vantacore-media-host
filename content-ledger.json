@@ -8425,7 +8425,45 @@
       "published_at": "2026-11-24T04:03:53Z",
       "instagram_media_id": "18112107653116006",
       "instagram_permalink": "https://www.instagram.com/p/DgHDaJ2iPIC/"
+    },
+    {
+      "id": "249",
+      "date": "2026-11-24",
+      "subject": "Davunetide (NAP): an eight-amino-acid ADNP-derived peptide with sequence NAPVSIPQ and an SIP motif studied in microtubule-associated biology",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome eight-residue sequence and microtubule explainer",
+      "headline": "Davunetide: 8 Residues From a Much Larger Protein",
+      "angle": "A beginner-friendly molecular-identity spotlight on davunetide’s eight-residue NAPVSIPQ sequence, origin within ADNP, SIP motif, microtubule-associated research, and negative PSP phase 2/3 result.",
+      "teaching_points": [
+        "Davunetide is also called NAP.",
+        "Its sequence is NAPVSIPQ—a chain of eight amino acids.",
+        "The sequence comes from a small region within activity-dependent neuroprotective protein, or ADNP.",
+        "Laboratory research links its SIP motif with microtubule end-binding proteins and microtubule-associated processes."
+      ],
+      "limitation": "Human trials have been conducted, but a randomized phase 2/3 study in progressive supranuclear palsy found no benefit over placebo on its primary measures. That result does not establish effectiveness for PSP or other conditions.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Davunetide",
+        "#PeptideScience",
+        "#MicrotubuleResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-24-0800-davunetide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-24-0800-davunetide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/a724d2f3952c299722f8babaa5abd50916961423/posts/2026-11-24-0800-davunetide-spotlight.jpg",
+      "evidence": [
+        "The primary ADNP discovery paper identified NAPVSIPQ as a unique peptide sequence within activity-dependent neuroprotective protein.",
+        "Davunetide, also called NAP, is an eight-amino-acid peptide.",
+        "Experimental work identifies the SIP motif as an interaction site for microtubule end-binding proteins EB1 and EB3.",
+        "A randomized double-blind phase 2/3 trial in progressive supranuclear palsy found no benefit versus placebo on its primary PSPRS and SEADL measures."
+      ],
+      "published_at": "2026-11-24T16:05:30Z",
+      "instagram_media_id": "17937730950413346",
+      "instagram_permalink": "https://www.instagram.com/p/DgIV_v9DUYl/"
     }
   ],
-  "last_updated": "2026-11-24T04:03:53Z"
+  "last_updated": "2026-11-24T16:05:30Z"
 }

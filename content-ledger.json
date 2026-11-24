@@ -8463,7 +8463,45 @@
       "published_at": "2026-11-24T16:05:30Z",
       "instagram_media_id": "17937730950413346",
       "instagram_permalink": "https://www.instagram.com/p/DgIV_v9DUYl/"
+    },
+    {
+      "id": "250",
+      "date": "2026-11-24",
+      "subject": "Linear peptide versus cyclic peptide: an open main chain compared with a covalently closed ring",
+      "category": "Easy A-vs-B beginner peptide-structure concept",
+      "format": "Single-image black/red/chrome open-chain versus closed-ring explainer",
+      "headline": "Linear vs Cyclic: Open Chain vs Covalently Closed Ring",
+      "angle": "A beginner-friendly topology comparison explaining open peptide chains, covalent ring closure, common closure linkages, conformational restriction, and the limits of assuming cyclic is automatically better.",
+      "teaching_points": [
+        "A linear peptide has an open main chain.",
+        "A cyclic peptide contains a covalent connection that creates a ring.",
+        "Ring closure can use peptide bonds, disulfide bonds, ester bonds, or other linkages.",
+        "Cyclic peptides are often more conformationally restricted than comparable linear peptides."
+      ],
+      "limitation": "Cyclization can change shape and may improve resistance to proteolysis in some designs, but it does not automatically make a peptide stronger, more stable, more effective, or better. Sequence, ring size, linkage, environment, and the property being measured all matter.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideScience",
+        "#CyclicPeptides",
+        "#MolecularStructure",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-24-1200-linear-vs-cyclic.jpg"
+      ],
+      "caption_file": "captions/2026-11-24-1200-linear-vs-cyclic.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2b30c69224506cefa454d339c55ac61b247b439c/posts/2026-11-24-1200-linear-vs-cyclic.jpg",
+      "evidence": [
+        "IUPAC defines homodetic cyclic peptides as rings formed solely from amino-acid residues in eupeptide linkage.",
+        "IUPAC defines heterodetic cyclic peptides as rings containing at least one isopeptide, disulfide, ester, or other non-eupeptide linkage.",
+        "Reviews report that cyclic peptides often show increased conformational order relative to linear peptides.",
+        "Macrocyclization can improve proteolytic stability in some designs, but the effect depends on the particular sequence, ring, linkage, and property measured."
+      ],
+      "published_at": "2026-11-24T20:03:47Z",
+      "instagram_media_id": "18120401837587395",
+      "instagram_permalink": "https://www.instagram.com/p/DgIxQdZDBZN/"
     }
   ],
-  "last_updated": "2026-11-24T16:05:30Z"
+  "last_updated": "2026-11-24T20:03:47Z"
 }

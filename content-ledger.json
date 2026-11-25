@@ -8540,7 +8540,45 @@
       "published_at": "2026-11-25T00:04:32Z",
       "instagram_media_id": "18121017668081935",
       "instagram_permalink": "https://www.instagram.com/p/DgJMz85CJUn/"
+    },
+    {
+      "id": "252",
+      "date": "2026-11-24",
+      "subject": "Sequence coverage in peptide mapping: the percentage of a target amino-acid sequence represented by identified peptide fragments",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image black/red/chrome identified-segments and coverage-gap explainer",
+      "headline": "Sequence Coverage: Which Parts of the Chain Did the Map Identify?",
+      "angle": "A beginner-friendly peptide-mapping explainer showing how selective fragmentation, separation, and mass-spectrometric identification produce sequence coverage and leave explicit coverage gaps.",
+      "teaching_points": [
+        "In peptide mapping, a protein or long peptide is selectively cut into smaller peptides.",
+        "Those fragments are separated and identified using techniques such as liquid chromatography and mass spectrometry.",
+        "Sequence coverage is the percentage of the target amino-acid sequence represented by identified peptides.",
+        "A coverage gap is a region that was not confirmed by the identified fragments in that run."
+      ],
+      "limitation": "High sequence coverage can support identity and structural characterization, but it does not by itself prove purity, correct higher-order structure, or biological activity. Digestion, fragment detectability, data-search rules, and acceptance criteria all affect the result.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideMapping",
+        "#SequenceCoverage",
+        "#AnalyticalScience",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-24-2000-sequence-coverage.jpg"
+      ],
+      "caption_file": "captions/2026-11-24-2000-sequence-coverage.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f91b8079880a4c4d2eca234731bb7400037c33b4/posts/2026-11-24-2000-sequence-coverage.jpg",
+      "evidence": [
+        "ICH Q6B describes peptide mapping as selective fragmentation into discrete peptides followed by analytical identification and notes its use to confirm desired product structure.",
+        "USP <1055> describes peptide mapping as a comparative identity procedure in which the test protein is contrasted with similarly treated reference material.",
+        "Sequence coverage is the percentage of the target amino-acid sequence represented by identified peptides.",
+        "Coverage alone does not establish purity, higher-order structure, or biological activity; complementary analytical procedures remain necessary."
+      ],
+      "published_at": "2026-11-25T04:03:43Z",
+      "instagram_media_id": "17940803757407032",
+      "instagram_permalink": "https://www.instagram.com/p/DgJoLyNitYg/"
     }
   ],
-  "last_updated": "2026-11-25T00:04:32Z"
+  "last_updated": "2026-11-25T04:03:43Z"
 }

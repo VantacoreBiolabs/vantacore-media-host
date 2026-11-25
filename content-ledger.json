@@ -8616,7 +8616,45 @@
       "published_at": "2026-11-25T16:07:58Z",
       "instagram_media_id": "18148286176502070",
       "instagram_permalink": "https://www.instagram.com/p/DgK6_WoDa-u/"
+    },
+    {
+      "id": "254",
+      "date": "2026-11-25",
+      "subject": "In vitro versus ex vivo research models: controlled cultured systems compared with viable cells, tissues, or organs studied outside the organism",
+      "category": "Easy A-vs-B beginner research concept",
+      "format": "Single-image black/red/chrome cultured-cell versus viable-tissue comparison",
+      "headline": "In Vitro vs Ex Vivo: What’s the Difference?",
+      "angle": "A beginner-friendly model comparison explaining the shared outside-the-body setting, the distinction between cultured systems and freshly removed viable biological material, and the limits of translating either directly to a whole organism.",
+      "teaching_points": [
+        "In vitro means work performed outside the body in a controlled laboratory system.",
+        "Cultured cells or cellular components in a dish or assay plate are common in vitro examples.",
+        "Ex vivo research uses cells, tissues, or organs removed from an organism and studied while still viable.",
+        "Ex vivo models can preserve more native tissue structure and cell-to-cell interactions than simpler cultured systems."
+      ],
+      "limitation": "Neither model alone proves what will happen in a whole living body. The sample source, handling, experimental conditions, endpoints, and independent replication all affect what a result can support. Authors do not always use these labels consistently, so the actual methods should be checked.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#InVitro",
+        "#ExVivo",
+        "#ResearchMethods",
+        "#ScienceLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-25-1200-in-vitro-vs-ex-vivo.jpg"
+      ],
+      "caption_file": "captions/2026-11-25-1200-in-vitro-vs-ex-vivo.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/f254e490f409f781e4083d6bdfccc20b6b051677/posts/2026-11-25-1200-in-vitro-vs-ex-vivo.jpg",
+      "evidence": [
+        "The NCI Dictionary defines in vitro as laboratory work outside the body.",
+        "The NTP/ICCVAM glossary defines ex vivo assays as using tissue removed from a multicellular organism while it remains viable.",
+        "An NCBI glossary describes ex vivo studies as experiments outside a living organism using samples or tissues taken from a living organism.",
+        "Current research-literature commentary notes that in vitro and ex vivo terminology is not always used consistently, making the methods section more informative than the label alone."
+      ],
+      "published_at": "2026-11-25T20:03:52Z",
+      "instagram_media_id": "17965885650255244",
+      "instagram_permalink": "https://www.instagram.com/p/DgLV_w4CAPj/"
     }
   ],
-  "last_updated": "2026-11-25T16:07:58Z"
+  "last_updated": "2026-11-25T20:03:52Z"
 }

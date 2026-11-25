@@ -1,0 +1,12 @@
+SEQUENCE COVERAGE: WHICH PARTS OF THE CHAIN DID THE MAP IDENTIFY?
+
+• In peptide mapping, a protein or long peptide is selectively cut into smaller peptides.
+• Those fragments are separated and identified using techniques such as liquid chromatography and mass spectrometry.
+• Sequence coverage is the percentage of the target amino-acid sequence represented by identified peptides.
+• A coverage gap is a region that was not confirmed by the identified fragments in that run.
+
+Evidence boundary: high sequence coverage can support identity and structural characterization, but it does not by itself prove purity, correct higher-order structure, or biological activity. Digestion, fragment detectability, data-search rules, and acceptance criteria all affect the result.
+
+Which lab term should we decode next?
+
+#VantacoreBiolabs #PeptideMapping #SequenceCoverage #AnalyticalScience #ResearchLiteracy

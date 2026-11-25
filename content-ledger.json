@@ -8501,7 +8501,46 @@
       "published_at": "2026-11-24T20:03:47Z",
       "instagram_media_id": "18120401837587395",
       "instagram_permalink": "https://www.instagram.com/p/DgIxQdZDBZN/"
+    },
+    {
+      "id": "251",
+      "date": "2026-11-24",
+      "subject": "Triptorelin: a synthetic 10-residue GnRH analog with D-tryptophan at position 6, an N-terminal pyroglutamate, and a C-terminal glycinamide",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome ten-residue sequence and position-6 substitution explainer",
+      "headline": "Triptorelin: 10 Residues, One Standout Position",
+      "angle": "A beginner-friendly molecular-identity spotlight showing triptorelin’s full decapeptide sequence, the D-tryptophan-for-glycine substitution at position 6, terminal modifications, GnRH-receptor agonism, and product-specific evidence limits.",
+      "teaching_points": [
+        "Triptorelin is a synthetic 10-residue analog of gonadotropin-releasing hormone, or GnRH.",
+        "Its sequence is pGlu–His–Trp–Ser–Tyr–D-Trp–Leu–Arg–Pro–Gly-NH₂.",
+        "Position 6 contains D-tryptophan instead of the glycine found in native GnRH.",
+        "Its N-terminus is pyroglutamate, and its C-terminus is glycinamide.",
+        "It acts as an agonist at the GnRH receptor."
+      ],
+      "limitation": "Approved medicines contain triptorelin in specific formulations and indications. Molecular identity and receptor activity do not make products interchangeable, establish every outcome, or provide dosing or administration guidance.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Triptorelin",
+        "#PeptideScience",
+        "#GnRH",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-24-1600-triptorelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-24-1600-triptorelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/bea98e8cbadcfcf2cbe731945e6b4785ccf1fb00/posts/2026-11-24-1600-triptorelin-spotlight.jpg",
+      "evidence": [
+        "FDA and DailyMed sources identify triptorelin as a synthetic decapeptide agonist analog of GnRH or LHRH.",
+        "Authoritative chemistry sources give the sequence pGlu-His-Trp-Ser-Tyr-D-Trp-Leu-Arg-Pro-Gly-NH₂.",
+        "FDA review documents identify the main sequence change from native GnRH as glycine-to-D-tryptophan at position 6.",
+        "Current U.S. labeling describes approved triptorelin products in specific formulations and indications."
+      ],
+      "published_at": "2026-11-25T00:04:32Z",
+      "instagram_media_id": "18121017668081935",
+      "instagram_permalink": "https://www.instagram.com/p/DgJMz85CJUn/"
     }
   ],
-  "last_updated": "2026-11-24T20:03:47Z"
+  "last_updated": "2026-11-25T00:04:32Z"
 }

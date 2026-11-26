@@ -8769,7 +8769,45 @@
       "published_at": "2026-11-26T16:00:04Z",
       "instagram_media_id": "18445713985195628",
       "instagram_permalink": "https://www.instagram.com/p/DgNe5BWCDkC/"
+    },
+    {
+      "id": "258",
+      "date": "2026-11-26",
+      "subject": "Monomer versus oligomer in protein structure: one protein chain or subunit compared with a small assembly of multiple subunits",
+      "category": "Easy A-vs-B beginner protein-structure concept",
+      "format": "Single-image black/red/chrome one-subunit versus three-subunit assembly comparison",
+      "headline": "Monomer vs Oligomer: One Unit vs a Small Assembly",
+      "angle": "A beginner-friendly protein-assembly comparison defining monomers and oligomers, counting dimers, trimers, and tetramers, distinguishing homo- from hetero-oligomers, and noting that a crystal image alone may not establish the biologically relevant assembly.",
+      "teaching_points": [
+        "In protein science, a monomer is one protein chain or subunit acting as a single unit.",
+        "An oligomer is a small assembly made from multiple protein subunits.",
+        "Dimer, trimer, and tetramer describe assemblies with two, three, and four subunits.",
+        "Homo-oligomers use matching subunits; hetero-oligomers use different subunits."
+      ],
+      "limitation": "A crystal structure can suggest an assembly, but crystal packing alone may not prove which form is biologically relevant in solution. Researchers compare structural and solution-based evidence.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Monomer",
+        "#Oligomer",
+        "#ProteinStructure",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-26-1200-monomer-vs-oligomer.jpg"
+      ],
+      "caption_file": "captions/2026-11-26-1200-monomer-vs-oligomer.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/5dfb923a773b1c763892ec164049a5407a9b7ba0/posts/2026-11-26-1200-monomer-vs-oligomer.jpg",
+      "evidence": [
+        "EMBL-EBI describes protein oligomers as assemblies of more than one polypeptide chain and names dimers, trimers, and tetramers by subunit count.",
+        "EMBL-EBI distinguishes homomers made from one kind of monomer from heteromers made from different chains.",
+        "RCSB PDB-101 explains that quaternary structure forms when two or more folded chains associate and that subunits may be identical or different.",
+        "RCSB PDB-101 cautions that apparent multimeric crystal packing may lack biological relevance in solution."
+      ],
+      "published_at": "2026-11-26T20:01:31Z",
+      "instagram_media_id": "18419531134083102",
+      "instagram_permalink": "https://www.instagram.com/p/DgN6fznFl48/"
     }
   ],
-  "last_updated": "2026-11-26T16:00:04Z"
+  "last_updated": "2026-11-26T20:01:31Z"
 }

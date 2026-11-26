@@ -1,0 +1,12 @@
+MONOMER vs OLIGOMER: one unit or a small assembly?
+
+• A monomer is one protein chain or subunit acting as a single unit.
+• An oligomer is a small assembly made from multiple subunits.
+• Dimer, trimer, and tetramer mean 2, 3, and 4 subunits.
+• Homo-oligomers use matching subunits; hetero-oligomers use different ones.
+
+Evidence limit: a crystal structure can suggest an assembly, but crystal packing alone may not prove which form is biologically relevant in solution. Researchers compare structural and solution-based evidence.
+
+Which protein-structure term should we decode next?
+
+#VantacoreBiolabs #Monomer #Oligomer #ProteinStructure #ResearchLiteracy

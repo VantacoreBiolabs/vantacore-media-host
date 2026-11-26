@@ -1,0 +1,12 @@
+SINAPULTIDE: 21 RESIDUES, ONLY TWO LETTERS
+
+• Sinapultide, also called KL4, is a synthetic peptide made from 21 amino acids.
+• Its sequence is KLLLLKLLLLKLLLLKLLLLK—using only lysine (K) and leucine (L).
+• The design repeats one lysine followed by four leucines and was created to mimic key features of human surfactant protein B.
+• Laboratory studies find that KL4 forms a largely helical structure in lipid environments and interacts with phospholipid membranes.
+
+Evidence boundary: Clinical studies evaluated lucinactant, a multi-component formulation containing sinapultide plus phospholipids and palmitic acid—not sinapultide by itself. Laboratory studies also show that KL4’s orientation and behavior can depend on the surrounding lipid environment.
+
+Which repeating peptide should we decode next?
+
+#VantacoreBiolabs #Sinapultide #PeptideScience #LipidResearch #ResearchLiteracy

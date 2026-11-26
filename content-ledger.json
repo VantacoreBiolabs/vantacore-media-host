@@ -8654,7 +8654,45 @@
       "published_at": "2026-11-25T20:03:52Z",
       "instagram_media_id": "17965885650255244",
       "instagram_permalink": "https://www.instagram.com/p/DgLV_w4CAPj/"
+    },
+    {
+      "id": "255",
+      "date": "2026-11-25",
+      "subject": "Ularitide: a 32-residue synthetic form of kidney-derived urodilatin with a four-residue N-terminal extension beyond atrial natriuretic peptide and a Cys11–Cys27 disulfide loop",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome kidney-signal, disulfide-loop, and phase-three evidence explainer",
+      "headline": "Ularitide: 32 Residues From a Kidney Signal",
+      "angle": "A beginner-friendly molecular-identity spotlight on ularitide as synthetic urodilatin, its 32-residue length, four-residue N-terminal extension beyond ANP, disulfide loop, NPR-A/cGMP signaling, and negative phase-three clinical boundary.",
+      "teaching_points": [
+        "Ularitide is a chemically synthesized form of human urodilatin, a kidney-derived natriuretic peptide.",
+        "It contains 32 amino acids—four more at the N-terminus than 28-residue atrial natriuretic peptide, or ANP.",
+        "Cysteines at positions 11 and 27 form a disulfide bridge that closes part of the chain into a loop.",
+        "Ularitide activates natriuretic peptide receptor-A signaling and increases the messenger molecule cGMP."
+      ],
+      "limitation": "In the 2,157-participant TRUE-AHF phase-three trial, ularitide produced favorable physiological effects but did not improve the clinical composite outcome or reduce long-term cardiovascular mortality. A biological signal is not the same as proven clinical benefit.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ularitide",
+        "#PeptideScience",
+        "#ClinicalTrials",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-25-1600-ularitide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-25-1600-ularitide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/630247a7e5ad8f7d480ed5a1d21d697a32fe9ac7/posts/2026-11-25-1600-ularitide-spotlight.jpg",
+      "evidence": [
+        "PubChem identifies ularitide as synthetic urodilatin, a 32-amino-acid peptide with a Cys11–Cys27 disulfide bridge.",
+        "FDA GSRS validates ularitide as a 32-residue substance.",
+        "European Heart Journal review literature describes ularitide as synthetic urodilatin with a four-residue N-terminal extension compared with 28-residue atrial natriuretic peptide.",
+        "The 2,157-participant TRUE-AHF randomized trial found favorable physiological effects but no improvement in the hierarchical clinical composite or cardiovascular mortality."
+      ],
+      "published_at": "2026-11-26T00:08:25Z",
+      "instagram_media_id": "17954370135348247",
+      "instagram_permalink": "https://www.instagram.com/p/DgLx-HgAr_d/"
     }
   ],
-  "last_updated": "2026-11-25T20:03:52Z"
+  "last_updated": "2026-11-26T00:08:25Z"
 }

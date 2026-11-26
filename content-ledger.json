@@ -8730,7 +8730,46 @@
       "published_at": "2026-11-26T04:05:58Z",
       "instagram_media_id": "17977881092943251",
       "instagram_permalink": "https://www.instagram.com/p/DgMNKPUiIZo/"
+    },
+    {
+      "id": "257",
+      "date": "2026-11-26",
+      "subject": "Sinapultide (KL4): a 21-residue synthetic lysine/leucine peptide with sequence KLLLLKLLLLKLLLLKLLLLK designed as a surfactant protein B mimic",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome repeating-sequence, helix, and phospholipid-membrane explainer",
+      "headline": "Sinapultide: 21 Residues, Only Two Letters",
+      "angle": "A beginner-friendly molecular-identity spotlight on sinapultide's two-amino-acid repeating sequence, KL4 nickname, helical lipid-environment behavior, role within the multi-component lucinactant formulation, and formulation-specific evidence boundary.",
+      "teaching_points": [
+        "Sinapultide, also called KL4, is a synthetic peptide made from 21 amino acids.",
+        "Its sequence is KLLLLKLLLLKLLLLKLLLLK—using only lysine and leucine.",
+        "The design repeats one lysine followed by four leucines and was created to mimic key features of human surfactant protein B.",
+        "Laboratory studies find that KL4 forms a largely helical structure in lipid environments and interacts with phospholipid membranes."
+      ],
+      "limitation": "Clinical studies evaluated lucinactant, a multi-component formulation containing sinapultide plus phospholipids and palmitic acid—not sinapultide by itself. Laboratory studies also show that KL4's orientation and behavior can depend on the surrounding lipid environment.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Sinapultide",
+        "#PeptideScience",
+        "#LipidResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-26-0800-sinapultide-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-26-0800-sinapultide-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/4fc4634fac5c0186ee93ab1375f9f84336801d4d/posts/2026-11-26-0800-sinapultide-spotlight.jpg",
+      "evidence": [
+        "FDA GSRS validates sinapultide acetate and gives the complete 21-residue lysine/leucine sequence.",
+        "FDA chemistry review identifies sinapultide as a 21-amino-acid synthetic peptide and one of four active components in lucinactant.",
+        "PubChem describes sinapultide as the KL4 peptide with sequence KLLLLKLLLLKLLLLKLLLLK.",
+        "A primary biophysical study reported approximately 80 percent alpha-helical content in micelles and phospholipid bilayers.",
+        "Subsequent membrane studies found that KL4 partitioning, orientation, and dynamics depend on lipid composition and environment."
+      ],
+      "published_at": "2026-11-26T16:00:04Z",
+      "instagram_media_id": "18445713985195628",
+      "instagram_permalink": "https://www.instagram.com/p/DgNe5BWCDkC/"
     }
   ],
-  "last_updated": "2026-11-26T04:05:58Z"
+  "last_updated": "2026-11-26T16:00:04Z"
 }

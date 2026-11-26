@@ -1,0 +1,12 @@
+CERTIFIED REFERENCE MATERIAL: A VALUE WITH A PAPER TRAIL
+
+• A certified reference material, or CRM, has one or more specified properties assigned using a metrologically valid procedure.
+• Its certificate states the assigned value and the uncertainty linked to that value.
+• The documentation also explains metrological traceability—the reference chain behind the measurement result.
+• CRMs can support calibration, quality control, and checks of measurement trueness and precision.
+
+Evidence boundary: Certification applies to the specific property, material, conditions, and intended use described in the documentation. It does not automatically certify every property of the material, prove every laboratory method is valid, or remove measurement uncertainty.
+
+Which lab term should we simplify next?
+
+#VantacoreBiolabs #ReferenceMaterial #LabQuality #Metrology #ResearchLiteracy

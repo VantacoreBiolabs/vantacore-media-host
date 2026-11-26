@@ -1,0 +1,12 @@
+ULARITIDE: 32 RESIDUES FROM A KIDNEY SIGNAL
+
+• Ularitide is a chemically synthesized form of human urodilatin, a kidney-derived natriuretic peptide.
+• It contains 32 amino acids—four more at the N-terminus than 28-residue atrial natriuretic peptide, or ANP.
+• Cysteines at positions 11 and 27 form a disulfide bridge that closes part of the chain into a loop.
+• Ularitide activates natriuretic peptide receptor-A signaling and increases the messenger molecule cGMP.
+
+Evidence boundary: In the 2,157-participant TRUE-AHF phase-three trial, ularitide produced favorable physiological effects but did not improve the clinical composite outcome or reduce long-term cardiovascular mortality. A biological signal is not the same as proven clinical benefit.
+
+Which compound should we decode next?
+
+#VantacoreBiolabs #Ularitide #PeptideScience #ClinicalTrials #ResearchLiteracy

@@ -8692,7 +8692,45 @@
       "published_at": "2026-11-26T00:08:25Z",
       "instagram_media_id": "17954370135348247",
       "instagram_permalink": "https://www.instagram.com/p/DgLx-HgAr_d/"
+    },
+    {
+      "id": "256",
+      "date": "2026-11-25",
+      "subject": "Certified reference material (CRM): a material with specified property values assigned by metrologically valid procedures and documented with uncertainty and traceability",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image black/red/chrome certificate, reference standard, and traceability explainer",
+      "headline": "Certified Reference Material: A Value With a Paper Trail",
+      "angle": "A beginner-friendly explanation of how a CRM pairs a specified property value with uncertainty and metrological traceability, while clarifying that certification is property- and use-specific.",
+      "teaching_points": [
+        "A certified reference material has one or more specified properties assigned using a metrologically valid procedure.",
+        "Its certificate states the assigned value and the uncertainty linked to that value.",
+        "The documentation explains metrological traceability—the reference chain behind the measurement result.",
+        "CRMs can support calibration, quality control, and checks of measurement trueness and precision."
+      ],
+      "limitation": "Certification applies to the specific property, material, conditions, and intended use described in the documentation. It does not automatically certify every property of the material, prove every laboratory method is valid, or remove measurement uncertainty.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#ReferenceMaterial",
+        "#LabQuality",
+        "#Metrology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-25-2000-certified-reference-material.jpg"
+      ],
+      "caption_file": "captions/2026-11-25-2000-certified-reference-material.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2551d866c60f6ff25d6a90aca9bfa28b360fb476/posts/2026-11-25-2000-certified-reference-material.jpg",
+      "evidence": [
+        "NIST defines a certified reference material as material characterized by a metrologically valid procedure and accompanied by a certificate providing the specified property value, associated uncertainty, and metrological traceability.",
+        "NIST describes metrological traceability as a documented unbroken chain of calibrations or comparisons, each contributing to measurement uncertainty.",
+        "ISO 33405:2024 covers homogeneity, stability, characterization, certified-value uncertainty, and traceability in reference-material production.",
+        "ISO 33403:2024 describes uses including calibration, quality control, assessment of precision and trueness, value assignment, and establishing conventional scales."
+      ],
+      "published_at": "2026-11-26T04:05:58Z",
+      "instagram_media_id": "17977881092943251",
+      "instagram_permalink": "https://www.instagram.com/p/DgMNKPUiIZo/"
     }
   ],
-  "last_updated": "2026-11-26T00:08:25Z"
+  "last_updated": "2026-11-26T04:05:58Z"
 }

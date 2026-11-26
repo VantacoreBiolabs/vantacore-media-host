@@ -8807,7 +8807,45 @@
       "published_at": "2026-11-26T20:01:31Z",
       "instagram_media_id": "18419531134083102",
       "instagram_permalink": "https://www.instagram.com/p/DgN6fznFl48/"
+    },
+    {
+      "id": "259",
+      "date": "2026-11-26",
+      "subject": "Nesfatin-1: an 82-amino-acid polypeptide corresponding to the N-terminal region of the nucleobindin-2 (NUCB2) precursor",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome precursor-fragment and 82-residue identity explainer",
+      "headline": "Nesfatin-1: 82 Residues From a Larger Precursor",
+      "angle": "A beginner-friendly molecular-identity spotlight on nesfatin-1 as an 82-residue N-terminal NUCB2 fragment, its 2006 discovery in rat hypothalamus research, early rodent food-intake studies, and the unresolved-receptor/preclinical evidence boundary.",
+      "teaching_points": [
+        "Nesfatin-1 is a polypeptide made from 82 amino acids.",
+        "It corresponds to the N-terminal region of nucleobindin-2, or NUCB2.",
+        "It was first described in 2006 through research involving the rat hypothalamus.",
+        "Early studies examined its role in food-intake signaling in rodents."
+      ],
+      "limitation": "The receptor responsible for nesfatin-1 signaling remains unresolved, and much of the mechanistic evidence is preclinical. Molecular identity and animal findings do not establish a human treatment or outcome.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Nesfatin1",
+        "#PeptideScience",
+        "#MetabolicResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-26-1201-nesfatin-1-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-26-1201-nesfatin-1-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/aa1cf44a8b98424b78f0a2251726e2a31b91b4fa/posts/2026-11-26-1201-nesfatin-1-spotlight.jpg",
+      "evidence": [
+        "UniProtKB's reviewed human NUCB2 entry identifies nesfatin-1 as a cleaved product of nucleobindin-2.",
+        "Peer-reviewed reviews describe nesfatin-1 as an 82-amino-acid peptide corresponding to NUCB2 residues 1–82.",
+        "The peptide was first described in 2006 in rat hypothalamus research, with early studies examining food-intake signaling in rodents.",
+        "Current review literature notes that the receptor and exact signaling cascades remain unresolved, and much of the mechanistic evidence is preclinical."
+      ],
+      "published_at": "2026-11-26T20:04:47Z",
+      "instagram_media_id": "18123254258079996",
+      "instagram_permalink": "https://www.instagram.com/p/DgN66IPDnK-/"
     }
   ],
-  "last_updated": "2026-11-26T20:01:31Z"
+  "last_updated": "2026-11-26T20:04:47Z"
 }

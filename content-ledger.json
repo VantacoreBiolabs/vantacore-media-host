@@ -8845,7 +8845,45 @@
       "published_at": "2026-11-26T20:04:47Z",
       "instagram_media_id": "18123254258079996",
       "instagram_permalink": "https://www.instagram.com/p/DgN66IPDnK-/"
+    },
+    {
+      "id": "260",
+      "date": "2026-11-26",
+      "subject": "Ligand versus receptor: the binding partner in a molecular interaction compared with the target protein that detects binding and can change activity",
+      "category": "Easy A-vs-B beginner pharmacology concept",
+      "format": "Single-image black/red/chrome ligand approaching a membrane receptor comparison",
+      "headline": "Ligand vs Receptor: The Binding Partner vs the Target",
+      "angle": "A beginner-friendly comparison defining ligand and receptor roles, introducing agonists and antagonists, and clarifying that binding alone does not establish activation, selectivity, or a meaningful outcome.",
+      "teaching_points": [
+        "A ligand is a molecule that binds to a biological target.",
+        "A receptor is a target protein that can detect binding and change its activity.",
+        "An agonist is a ligand that binds and activates a receptor response.",
+        "An antagonist reduces the action of an agonist, often by interfering with receptor signaling."
+      ],
+      "limitation": "Binding alone does not prove activation, selectivity, or a meaningful outcome. The receptor, ligand, concentration, pathway, and experimental system all affect what happens next.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Ligand",
+        "#Receptor",
+        "#PharmacologyBasics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-26-1600-ligand-vs-receptor.jpg"
+      ],
+      "caption_file": "captions/2026-11-26-1600-ligand-vs-receptor.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/7f2e4dccbe6044b4897b8b5d9c7e44b72e8b965f/posts/2026-11-26-1600-ligand-vs-receptor.jpg",
+      "evidence": [
+        "EMBL-EBI describes a ligand as a substance that binds specifically and reversibly to a biomacromolecule to form a larger complex and alter activity or function.",
+        "IUPHAR defines an agonist as a ligand that binds to a receptor and alters receptor state to produce a biological response.",
+        "IUPHAR defines an antagonist as a drug that reduces the action of another drug, generally an agonist.",
+        "IUPHAR and NCBI pharmacology references show that binding role, activation, antagonism, and system response are distinct concepts."
+      ],
+      "published_at": "2026-11-27T00:07:18Z",
+      "instagram_media_id": "18000355668103462",
+      "instagram_permalink": "https://www.instagram.com/p/DgOWo3fCie4/"
     }
   ],
-  "last_updated": "2026-11-26T20:04:47Z"
+  "last_updated": "2026-11-27T00:07:18Z"
 }

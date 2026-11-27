@@ -8958,7 +8958,45 @@
       "published_at": "2026-11-27T16:04:18.447Z",
       "instagram_media_id": "18024965486948838",
       "instagram_permalink": "https://www.instagram.com/p/DgQEJidCMLo/"
+    },
+    {
+      "id": "263",
+      "date": "2026-11-27",
+      "subject": "Neurokinin B: a C-terminally amidated 10-amino-acid tachykinin peptide cleaved from the 121-residue TAC3 precursor and a preferred endogenous agonist at the NK3 receptor",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome TAC3 precursor, 10-residue peptide, and NK3 receptor explainer",
+      "headline": "Neurokinin B: 10 Residues From a 121-Residue Precursor",
+      "angle": "A beginner-friendly molecular-identity spotlight on neurokinin B as a compact 10-residue amidated tachykinin cleaved from the TAC3 precursor, its preferred endogenous NK3-receptor signaling role, and the boundary between mechanistic evidence and clinical claims.",
+      "teaching_points": [
+        "The mature human neurokinin B peptide is 10 amino acids long.",
+        "It is cleaved from a 121-residue precursor encoded by TAC3.",
+        "Its C-terminus carries an amide modification characteristic of tachykinin peptides.",
+        "Neurokinin B is the preferred endogenous agonist at the neurokinin-3 receptor, also called NK3R."
+      ],
+      "limitation": "Molecular identity, receptor signaling, and genetic associations help researchers map biology, but they do not by themselves establish clinical safety, effectiveness, or an approved use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#NeurokininB",
+        "#PeptideScience",
+        "#NeuroscienceResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-27-1200-neurokinin-b-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-27-1200-neurokinin-b-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/444ad3ad313144c8ec430ec2f22cf5bcf4ebfc77/posts/2026-11-27-1200-neurokinin-b-spotlight.jpg",
+      "evidence": [
+        "UniProtKB's reviewed human TAC3 entry identifies a 121-amino-acid precursor and the neurokinin B peptide at positions 81–90.",
+        "Peer-reviewed tachykinin literature gives the mature human neurokinin B sequence as DMHDFFVGLM-amide.",
+        "IUPHAR/BPS identifies neurokinin B as the highest-potency endogenous agonist at the human NK3 receptor.",
+        "NCBI Gene describes TAC3 as a tachykinin-family secreted neuropeptide precursor processed to a mature NK3-receptor ligand."
+      ],
+      "published_at": "2026-11-27T20:07:24.121Z",
+      "instagram_media_id": "18658600150051376",
+      "instagram_permalink": "https://www.instagram.com/p/DgQgAAKkean/"
     }
   ],
-  "last_updated": "2026-11-27T16:04:18.447Z"
+  "last_updated": "2026-11-27T20:07:24.121Z"
 }

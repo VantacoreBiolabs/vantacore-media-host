@@ -8883,7 +8883,45 @@
       "published_at": "2026-11-27T00:07:18Z",
       "instagram_media_id": "18000355668103462",
       "instagram_permalink": "https://www.instagram.com/p/DgOWo3fCie4/"
+    },
+    {
+      "id": "261",
+      "date": "2026-11-26",
+      "subject": "Phoenixin: a peptide family derived from SMIM20 with predominant C-terminally amidated 14- and 20-amino-acid forms",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome SMIM20 precursor splitting into phoenixin-14 and phoenixin-20",
+      "headline": "Phoenixin: One Precursor, Two Main Forms",
+      "angle": "A beginner-friendly molecular-identity spotlight on phoenixin-14 and phoenixin-20, their SMIM20 precursor, C-terminal amidation, 2013 discovery method, and the cell/animal evidence boundary.",
+      "teaching_points": [
+        "Phoenixin-14 and phoenixin-20 contain 14 and 20 amino acids.",
+        "Both correspond to sequences within the small integral membrane protein 20, or SMIM20.",
+        "Their main forms carry a C-terminal amide modification.",
+        "Phoenixin was identified in 2013 using bioinformatics followed by peptide purification and analysis."
+      ],
+      "limitation": "Most functional findings come from cell and animal studies. Phoenixin processing, signaling pathways, and relevance in humans remain active research questions and do not establish treatment claims.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Phoenixin",
+        "#PeptideScience",
+        "#NeuropeptideResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-26-2000-phoenixin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-26-2000-phoenixin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/72b2517e8e7564d8dac2e7c1134bbc105df2c0b9/posts/2026-11-26-2000-phoenixin-spotlight.jpg",
+      "evidence": [
+        "UniProtKB's reviewed human SMIM20 entry identifies phoenixin-14 and phoenixin-20 as cleaved products.",
+        "The 2013 discovery report described phoenixin as a novel peptide identified through predictive bioinformatics and peptide analysis.",
+        "Peer-reviewed reviews identify the predominant forms as C-terminally amidated PNX-14 and PNX-20.",
+        "Most functional evidence remains preclinical, while processing, signaling, and human relevance continue to be studied."
+      ],
+      "published_at": "2026-11-27T04:01:55Z",
+      "instagram_media_id": "18086313305339135",
+      "instagram_permalink": "https://www.instagram.com/p/DgOxgCsAhsR/"
     }
   ],
-  "last_updated": "2026-11-27T00:07:18Z"
+  "last_updated": "2026-11-27T04:01:55Z"
 }

@@ -1,0 +1,12 @@
+LIGAND vs RECEPTOR: the binding partner and the target.
+
+• A ligand is a molecule that binds to a biological target.
+• A receptor is a target protein that can detect binding and change its activity.
+• An agonist is a ligand that binds and activates a receptor response.
+• An antagonist reduces the action of an agonist—often by interfering with receptor signaling.
+
+Evidence limit: binding alone does not prove activation, selectivity, or a meaningful outcome. The receptor, ligand, concentration, pathway, and experimental system all affect what happens next.
+
+Which pharmacology term should we decode next?
+
+#VantacoreBiolabs #Ligand #Receptor #PharmacologyBasics #ResearchLiteracy

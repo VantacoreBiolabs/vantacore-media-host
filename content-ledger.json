@@ -8921,7 +8921,44 @@
       "published_at": "2026-11-27T04:01:55Z",
       "instagram_media_id": "18086313305339135",
       "instagram_permalink": "https://www.instagram.com/p/DgOxgCsAhsR/"
+    },
+    {
+      "id": "262",
+      "date": "2026-11-27",
+      "subject": "Endogenous versus exogenous: produced within an organism, cell, or biological system compared with originating outside and being introduced to the system",
+      "category": "Easy A-vs-B beginner biology and research-literacy concept",
+      "format": "Single-image black/red/chrome inside-versus-outside source comparison",
+      "headline": "Endogenous vs Exogenous: Made Inside vs Comes From Outside",
+      "angle": "A beginner-friendly source comparison defining endogenous and exogenous, showing that the same or a similar molecule may be studied in either context, and clarifying that origin alone does not establish effect, safety, effectiveness, or approval.",
+      "teaching_points": [
+        "Endogenous means produced within an organism, cell, or biological system.",
+        "Exogenous means originating outside and being introduced to the system.",
+        "The same or a similar molecule can be studied in either context.",
+        "The label describes source rather than dose, exposure, effect, safety, effectiveness, or approval."
+      ],
+      "limitation": "Origin is only one part of interpretation. Molecular form, concentration or exposure, timing, route, and the experimental system can all change results.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Endogenous",
+        "#Exogenous",
+        "#BiologyBasics",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-27-0800-endogenous-vs-exogenous.jpg"
+      ],
+      "caption_file": "captions/2026-11-27-0800-endogenous-vs-exogenous.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/2751588bf1d50b92734aae8d17cd9282ecec4e40/posts/2026-11-27-0800-endogenous-vs-exogenous.jpg",
+      "evidence": [
+        "NCI defines endogenous as produced inside the organism or cells and contrasts it with exogenous.",
+        "An NCBI Bookshelf glossary defines endogenous material as originating within an organism and exogenous material as originating outside the body or biological system.",
+        "NCBI pharmacology references illustrate that endogenous and exogenous molecules can interact with the same receptor system, while biological response depends on context."
+      ],
+      "published_at": "2026-11-27T16:04:18.447Z",
+      "instagram_media_id": "18024965486948838",
+      "instagram_permalink": "https://www.instagram.com/p/DgQEJidCMLo/"
     }
   ],
-  "last_updated": "2026-11-27T04:01:55Z"
+  "last_updated": "2026-11-27T16:04:18.447Z"
 }

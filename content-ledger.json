@@ -9034,7 +9034,45 @@
       "published_at": "2026-11-28T00:06:38.337Z",
       "instagram_media_id": "18108805942991516",
       "instagram_permalink": "https://www.instagram.com/p/DgQ7TxUCKRG/"
+    },
+    {
+      "id": "265",
+      "date": "2026-11-27",
+      "subject": "Neurotensin: a 13-residue linear peptide cleaved from the 170-residue NTS precursor, which also produces neuromedin N, with a six-residue C-terminal NTS1 binding and activation core",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome 170-residue precursor, 13-residue peptide, and highlighted six-residue receptor-binding core",
+      "headline": "Neurotensin: 13 Residues With a 6-Residue Binding Core",
+      "angle": "A beginner-friendly molecular-identity spotlight on neurotensin as a compact 13-residue peptide, its 170-residue precursor and shared origin with neuromedin N, the six-residue C-terminal NTS1 binding core, and the boundary between receptor-level evidence and clinical claims.",
+      "teaching_points": [
+        "Human neurotensin is a short, linear peptide made from 13 amino acids.",
+        "It is cut from a much larger 170-residue precursor encoded by the NTS gene.",
+        "That same precursor also produces another peptide called neuromedin N.",
+        "The final six residues of neurotensin form the primary high-affinity binding and activation segment at the NTS1 receptor."
+      ],
+      "limitation": "Receptor structures and short-fragment experiments help map molecular interactions, but they do not by themselves establish whole-body effects, clinical safety, effectiveness, or an approved use. Tissue-specific processing can also change which products are present.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Neurotensin",
+        "#PeptideScience",
+        "#NeuroscienceResearch",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-27-2000-neurotensin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-27-2000-neurotensin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/ef72d120b1da6c65bf2542b1adb8940e383f8344/posts/2026-11-27-2000-neurotensin-spotlight.jpg",
+      "evidence": [
+        "UniProtKB's reviewed human NTS entry identifies a 170-amino-acid precursor that yields neurotensin.",
+        "NCBI Gene describes NTS as a common precursor for neurotensin and neuromedin N and notes tissue-specific post-translational processing.",
+        "IUPHAR/BPS describes neurotensin as a 13-amino-acid peptide and identifies NTS1 and NTS2 neurotensin receptors.",
+        "Primary receptor-structure studies identify the C-terminal six residues as the principal high-affinity NTS1 binding and activation segment."
+      ],
+      "published_at": "2026-11-28T04:03:46.383Z",
+      "instagram_media_id": "18088094600705630",
+      "instagram_permalink": "https://www.instagram.com/p/DgRWgWWCqzY/"
     }
   ],
-  "last_updated": "2026-11-28T00:06:38.337Z"
+  "last_updated": "2026-11-28T04:03:46.383Z"
 }

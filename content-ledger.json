@@ -9072,7 +9072,45 @@
       "published_at": "2026-11-28T04:03:46.383Z",
       "instagram_media_id": "18088094600705630",
       "instagram_permalink": "https://www.instagram.com/p/DgRWgWWCqzY/"
+    },
+    {
+      "id": "266",
+      "date": "2026-11-28",
+      "subject": "Orthogonal analytical methods: measurements that use different physical principles to examine the same property of the same sample and reduce method-specific bias or interference",
+      "category": "Research and analytical-quality literacy",
+      "format": "Single-image black/red/chrome one-sample, chromatography-versus-mass-spectrum, converging-evidence explainer",
+      "headline": "Orthogonal Methods: Different Principles, One Stronger Conclusion",
+      "angle": "A beginner-friendly explanation of how different analytical measurement principles can corroborate the same property, why agreement lowers method-specific bias risk, why disagreement warrants investigation, and why multiple agreeing tests still do not establish every quality attribute.",
+      "teaching_points": [
+        "Orthogonal methods examine the same property in the same sample.",
+        "They rely on different physical measurement principles, so they do not fail in exactly the same way.",
+        "When results agree, confidence rises because one method-specific bias or interference is less likely to explain both findings.",
+        "When results disagree, that is a reason to investigate rather than a result to hide."
+      ],
+      "limitation": "Agreement between different methods strengthens a conclusion, but it does not prove every quality attribute. Each procedure still needs to be fit for its intended purpose and well characterized. For peptide testing, identity, purity, quantity, sterility, and biological activity are separate questions.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#AnalyticalScience",
+        "#LabQuality",
+        "#MethodValidation",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-28-0800-orthogonal-methods.jpg"
+      ],
+      "caption_file": "captions/2026-11-28-0800-orthogonal-methods.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/992daaefc40ee73fa12c628314ad6fc23a1546bc/posts/2026-11-28-0800-orthogonal-methods.jpg",
+      "evidence": [
+        "NIST defines orthogonal measurements as measurements using different physical principles to measure the same property of the same sample with the goal of minimizing method-specific biases and interferences.",
+        "ICH Q2(R2) states that specificity or selectivity can be supported by comparison with a second well-characterized orthogonal procedure and recommends combinations when one procedure lacks sufficient discrimination.",
+        "FDA characterization materials recommend orthogonal methods to reduce uncertainty in measurement of physicochemical properties.",
+        "EMA synthetic-peptide guidance describes mass spectrometry, amino acid analysis, and NMR as distinct tools that can support peptide structure characterization."
+      ],
+      "published_at": "2026-11-28T16:07:41.993Z",
+      "instagram_media_id": "18104106227452903",
+      "instagram_permalink": "https://www.instagram.com/p/DgSpXXdjPFB/"
     }
   ],
-  "last_updated": "2026-11-28T04:03:46.383Z"
+  "last_updated": "2026-11-28T16:07:41.993Z"
 }

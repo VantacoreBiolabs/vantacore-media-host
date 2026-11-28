@@ -8996,7 +8996,45 @@
       "published_at": "2026-11-27T20:07:24.121Z",
       "instagram_media_id": "18658600150051376",
       "instagram_permalink": "https://www.instagram.com/p/DgQgAAKkean/"
+    },
+    {
+      "id": "264",
+      "date": "2026-11-27",
+      "subject": "Precursor versus mature peptide: a larger starting protein or peptide chain compared with a shorter product released by proteolytic processing and possible chemical modification",
+      "category": "Easy A-vs-B beginner peptide-processing concept",
+      "format": "Single-image black/red/chrome larger precursor, enzyme-processing gate, and mature-peptide comparison",
+      "headline": "Precursor vs Mature Peptide: Starting Chain vs Finished Signal",
+      "angle": "A beginner-friendly explanation of how larger precursor chains are cut and sometimes chemically modified into mature peptide signals, how one precursor can yield multiple products, and why sequence prediction alone does not prove actual processing or activity.",
+      "teaching_points": [
+        "A precursor is a larger starting protein or peptide chain made by the cell.",
+        "Processing enzymes can cut the chain at specific sites.",
+        "The mature peptide is a released product that may be shorter and chemically modified.",
+        "A single precursor can produce multiple peptide products, sometimes in tissue-specific patterns."
+      ],
+      "limitation": "A predicted sequence or possible cleavage site does not prove which mature products are actually formed, how abundant they are, or whether they are biologically active in a given system.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#PeptideBasics",
+        "#ProteinProcessing",
+        "#MolecularBiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-27-1600-precursor-vs-mature-peptide.jpg"
+      ],
+      "caption_file": "captions/2026-11-27-1600-precursor-vs-mature-peptide.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/c41846b481cfe885e8bb13a21f98ff3ecbf0d76d/posts/2026-11-27-1600-precursor-vs-mature-peptide.jpg",
+      "evidence": [
+        "UniProt explains that precursor sequences can require signal-peptide or propeptide cleavage and other processing to become mature forms.",
+        "UniProt defines a propeptide as a region cleaved during maturation or activation and a peptide feature as an active peptide in the mature protein.",
+        "NCBI Bookshelf describes proteolytic cleavage and chemical modification as post-translational processing steps that can yield shortened or multiple active products.",
+        "A recent peer-reviewed review explains that peptide hormones are commonly synthesized as larger preprohormones, processed by specific enzymes, and can produce tissue-specific mature peptides."
+      ],
+      "published_at": "2026-11-28T00:06:38.337Z",
+      "instagram_media_id": "18108805942991516",
+      "instagram_permalink": "https://www.instagram.com/p/DgQ7TxUCKRG/"
     }
   ],
-  "last_updated": "2026-11-27T20:07:24.121Z"
+  "last_updated": "2026-11-28T00:06:38.337Z"
 }

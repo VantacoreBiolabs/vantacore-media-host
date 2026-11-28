@@ -9110,7 +9110,45 @@
       "published_at": "2026-11-28T16:07:41.993Z",
       "instagram_media_id": "18104106227452903",
       "instagram_permalink": "https://www.instagram.com/p/DgSpXXdjPFB/"
+    },
+    {
+      "id": "267",
+      "date": "2026-11-28",
+      "subject": "Apelin: a family of C-terminal endogenous peptide agonists including apelin-36, apelin-17, apelin-13, and pyroglutamated apelin-13, processed from the 77-residue APLN precursor",
+      "category": "Individual peptide/research-compound spotlight",
+      "format": "Single-image black/red/chrome 77-residue precursor branching into apelin-36, apelin-17, and apelin-13 toward the apelin receptor",
+      "headline": "Apelin: One Precursor, Several Active Forms",
+      "angle": "A beginner-friendly molecular-identity spotlight on the 77-residue APLN precursor, its shorter C-terminal apelin forms, their endogenous agonist activity at APLNR/APJ, and the boundary between receptor-level evidence and clinical claims.",
+      "teaching_points": [
+        "The human APLN gene encodes a 77-amino-acid peptide precursor.",
+        "Proteolytic processing releases shorter peptides from its C-terminal region.",
+        "Well-known endogenous forms include apelin-36, apelin-17, apelin-13, and pyroglutamated apelin-13.",
+        "These forms act as endogenous agonists at the apelin receptor, also called APLNR or APJ."
+      ],
+      "limitation": "The exact processing pathway, form abundance, and measured signaling can vary by tissue and experimental system. Molecular identity and receptor activity do not by themselves establish clinical safety, effectiveness, dosing, or an approved use.",
+      "hashtags": [
+        "#VantacoreBiolabs",
+        "#Apelin",
+        "#PeptideScience",
+        "#ReceptorBiology",
+        "#ResearchLiteracy"
+      ],
+      "media": [
+        "posts/2026-11-28-1200-apelin-spotlight.jpg"
+      ],
+      "caption_file": "captions/2026-11-28-1200-apelin-spotlight.txt",
+      "status": "published",
+      "public_media_url": "https://raw.githubusercontent.com/VantacoreBiolabs/vantacore-media-host/bae109102c8bb4b7634e8d69ed0a66312abd8801/posts/2026-11-28-1200-apelin-spotlight.jpg",
+      "evidence": [
+        "UniProtKB's reviewed human APLN entry identifies a 77-amino-acid apelin precursor.",
+        "NCBI Gene states that the APLN preproprotein is proteolytically processed into biologically active C-terminal peptide fragments that act as endogenous ligands for the apelin receptor.",
+        "IUPHAR/BPS lists apelin-36, apelin-13, and pyroglutamated apelin-13 as predominant endogenous ligands cleaved from the 77-amino-acid precursor and also lists apelin-17.",
+        "IUPHAR/BPS notes that the relative potency and measured behavior of apelin forms vary across experimental systems."
+      ],
+      "published_at": "2026-11-28T20:03:54.399Z",
+      "instagram_media_id": "18396733552235337",
+      "instagram_permalink": "https://www.instagram.com/p/DgTEaMXFuuy/"
     }
   ],
-  "last_updated": "2026-11-28T16:07:41.993Z"
+  "last_updated": "2026-11-28T20:03:54.399Z"
 }
